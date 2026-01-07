@@ -17,8 +17,9 @@
     <div id="header">
       <nav>
         <ul style="list-style:none; margin:0; padding:0; display:flex; gap:12px;">
-          <li><a href="#" id="aboutTab" style="cursor:pointer;">About Me</a></li>
-          <li><a href="#" id="servicesTab" style="cursor:pointer;">My Services</a></li>
+          <li><a href="#aboutSection" id="aboutTab" style="cursor:pointer;">About Me</a></li>
+          <li><a href="#servicesSection" id="servicesTab" style="cursor:pointer;">My Services</a></li>
+          <li><a href="https://ghanemzadeh.com/founder-diagnostic.html">Founder Strategy Diagnostic</a></li>
         </ul>
       </nav>
     </div>
@@ -103,22 +104,26 @@
       const servicesTab = document.getElementById('servicesTab');
       const aboutSection = document.getElementById('aboutSection');
       const servicesSection = document.getElementById('servicesSection');
-      aboutTab.addEventListener('click', function(e) {
-        e.preventDefault();
-        aboutSection.style.display = '';
-        servicesSection.style.display = 'none';
-        aboutTab.style.fontWeight = 'bold';
-        servicesTab.style.fontWeight = 'normal';
-      });
-      servicesTab.addEventListener('click', function(e) {
-        e.preventDefault();
-        aboutSection.style.display = 'none';
-        servicesSection.style.display = '';
-        aboutTab.style.fontWeight = 'normal';
-        servicesTab.style.fontWeight = 'bold';
-      });
-      // Set default tab
-      aboutTab.style.fontWeight = 'bold';
+      const sections = {
+        '#aboutSection': { tab: aboutTab, section: aboutSection },
+        '#servicesSection': { tab: servicesTab, section: servicesSection }
+      };
+
+      function showSection(hash) {
+        const target = sections[hash] || sections['#aboutSection'];
+        Object.values(sections).forEach(({ tab, section }) => {
+          section.style.display = section === target.section ? '' : 'none';
+          tab.style.fontWeight = tab === target.tab ? 'bold' : 'normal';
+        });
+      }
+
+      function handleHashChange() {
+        showSection(window.location.hash);
+      }
+
+      window.addEventListener('hashchange', handleHashChange);
+      // Initialize based on URL hash so each section has a shareable URL.
+      handleHashChange();
     </script>
   </body>
 </html>
