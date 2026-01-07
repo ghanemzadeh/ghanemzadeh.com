@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Founder Strategy Diagnostic | Nasser Ghanemzadeh</title>
+    <meta name="description" content="A private diagnostic for tech founders to identify the real bottleneck in strategy, product, GTM, or AI leverage. Includes a Loom walkthrough and written summary within 72 hours.">
+    <meta property="og:title" content="Founder Strategy Diagnostic | Nasser Ghanemzadeh">
+    <meta property="og:description" content="A private diagnostic for tech founders to identify the real bottleneck in strategy, product, GTM, or AI leverage. Includes a Loom walkthrough and written summary within 72 hours.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://ghanemzadeh.com/founder-diagnostic.html">
+    <link rel="canonical" href="https://ghanemzadeh.com/founder-diagnostic.html">
+    <link rel="stylesheet" href="main.css">
+    <style>
+      :root {
+        --bg: #252525;
+        --text: #f0e7d5;
+        --muted: #d7cfbe;
+        --border: #434343;
+        --cta: #fc0;
+        --cta-text: #252525;
+        --max-width: 720px;
+      }
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        font-family: "OpenSansRegular", "Helvetica Neue", Arial, sans-serif;
+        background: var(--bg);
+        color: var(--text);
+        -webkit-font-smoothing: antialiased;
+      }
+      main {
+        max-width: var(--max-width);
+        margin: 0 auto;
+        padding: 52px 22px 64px;
+      }
+      section {
+        padding: 0;
+        margin: 0 0 34px 0;
+      }
+      h1, h2 {
+        margin: 0 0 10px 0;
+        font-weight: 700;
+        letter-spacing: -0.01em;
+        color: #e8e8e8;
+      }
+      h1 { font-size: 2.4rem; line-height: 1.15; }
+      h2 { font-size: 1.35rem; }
+      p, li {
+        margin: 0 0 10px 0;
+        line-height: 1.65;
+        color: var(--muted);
+        font-size: 1rem;
+      }
+      ul, ol { padding-left: 20px; margin: 10px 0 0 0; }
+      .stack { display: flex; flex-direction: column; gap: 12px; }
+      .hero { margin-bottom: 36px; }
+      .cta-btn {
+        display: inline-block;
+        padding: 14px 20px;
+        background: var(--cta);
+        color: var(--cta-text);
+        text-decoration: none;
+        border-radius: 10px;
+        font-weight: 600;
+        letter-spacing: 0.01em;
+        outline: none;
+        border: 1px solid #5d5d5d;
+        box-shadow: inset 0px 1px 0px rgba(255, 255, 255, .3), 0px 3px 7px rgba(0, 0, 0, .7);
+      }
+      .cta-btn:focus-visible {
+        outline: 3px solid #ffeb9b;
+        outline-offset: 3px;
+      }
+      .cta-card {
+        background: #2f2f2f;
+        border: 1px solid var(--border);
+        border-radius: 12px;
+        padding: 18px 18px 22px;
+      }
+      .helper {
+        font-size: 0.95rem;
+        color: var(--muted);
+        margin-top: 8px;
+      }
+      .small {
+        font-size: 0.96rem;
+        color: var(--muted);
+      }
+      .form-container {
+        width: 100%;
+        max-width: 720px;
+        margin: 48px auto 0;
+      }
+      .confirmation-header {
+        width: 100%;
+        max-width: 720px;
+        margin: 0 auto;
+        text-align: left;
+        padding-bottom: 28px;
+      }
+      .confirmation-header h3 {
+        font-size: 1.1rem;
+        color: #e8e8e8;
+        margin: 0 0 8px 0;
+        font-weight: 600;
+      }
+      .confirmation-header p {
+        margin: 0;
+        color: var(--muted);
+      }
+      @media (max-width: 560px) {
+        main { padding: 40px 18px 52px; }
+        h1 { font-size: 2rem; }
+        h2 { font-size: 1.25rem; }
+      }
+    </style>
+    <script>
+      // Easy to update payment link.
+      const STRIPE_LINK = "https://buy.stripe.com/5kQeVf8Sv90oeGhaEBbbG00";
+      document.addEventListener('DOMContentLoaded', () => {
+        const btn = document.getElementById('cta-button');
+        if (btn) btn.setAttribute('href', STRIPE_LINK);
+      });
+    </script>
+  </head>
+  <body>
+    <main>
+      <section class="hero stack">
+        <h1>Founder Strategy Diagnostic</h1>
+        <p style="font-size:1.1rem; color: var(--text);">Identify the real bottleneck in your startup</p>
+        <p>This diagnostic is for founders and co-founders of software and technology startups who are making high-stakes decisions under uncertainty.</p>
+        <p>If you’re juggling strategy, product, GTM, and AI decisions and something feels off but you can’t quite name it, this will help.</p>
+        <p>This is not a quiz.<br>It’s a structured way to surface what’s actually blocking progress.</p>
+      </section>
+
+      <section class="stack">
+        <h2>What this is (and isn’t)</h2>
+        <div>
+          <p style="color: var(--text); font-weight: 600;">This is:</p>
+          <ul>
+            <li>A focused diagnostic for founders who have built something real</li>
+            <li>A way to clarify what to stop, what to focus on, and what risk you’re underestimating</li>
+            <li>Private, thoughtful, and grounded in real-world tradeoffs</li>
+          </ul>
+        </div>
+        <div>
+          <p style="color: var(--text); font-weight: 600;">This is not:</p>
+          <ul>
+            <li>Coaching</li>
+            <li>Motivation</li>
+            <li>AI hype</li>
+            <li>A sales call disguised as “free value”</li>
+          </ul>
+        </div>
+      </section>
+
+      <section class="stack">
+        <h2>How it works</h2>
+        <ol>
+          <li>You complete the diagnostic (10–15 minutes)</li>
+          <li>I review your responses</li>
+          <li>Within 72 hours, you receive:
+            <ul>
+              <li>A private Loom walkthrough (10–15 minutes)</li>
+              <li>A short written summary covering:
+                <ul>
+                  <li>The real bottleneck</li>
+                  <li>What to stop doing</li>
+                  <li>What to focus on next</li>
+                  <li>One risk most founders miss at this stage</li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ol>
+        <p>No calls required.<br>No upsell during delivery.</p>
+      </section>
+
+      <section class="stack">
+        <h2>Who this is for</h2>
+        <div>
+          <p style="color: var(--text); font-weight: 600;">This is a good fit if you:</p>
+          <ul>
+            <li>Are a founder or co-founder of a tech or software startup</li>
+            <li>Are pre-PMF, near-PMF, or early post-PMF</li>
+            <li>Feel the cost of every wrong decision</li>
+            <li>Want clarity, not more advice</li>
+          </ul>
+        </div>
+        <div>
+          <p style="color: var(--text); font-weight: 600;">This is not a good fit if you:</p>
+          <ul>
+            <li>Are at the idea stage</li>
+            <li>Want validation more than truth</li>
+            <li>Expect certainty where none exists</li>
+          </ul>
+        </div>
+      </section>
+
+      <section class="stack">
+        <h2>What you’ll get</h2>
+        <ul>
+          <li>Clear identification of your primary constraint</li>
+          <li>Fewer open loops</li>
+          <li>Better decisions, made with more confidence</li>
+          <li>A grounded perspective on where AI helps and where it distracts</li>
+        </ul>
+        <p>Most founders don’t need to move faster.<br>They need to move with fewer wrong bets.</p>
+      </section>
+
+      <section class="stack">
+        <h2>Price &amp; delivery</h2>
+        <p>Price: $79 (one-time)<br>Time required: 10–15 minutes<br>Delivery: Within 72 hours of submission</p>
+        <p>This is private, asynchronous work designed to respect your time.</p>
+      </section>
+
+      <div id="paywall">
+        <section class="stack cta-card">
+          <h2>Start here</h2>
+          <a id="cta-button" class="cta-btn" href="https://buy.stripe.com/5kQeVf8Sv90oeGhaEBbbG00">Start the Diagnostic</a>
+          <div class="helper">10–15 minutes · Private · No call required</div>
+        </section>
+      </div>
+
+      <div id="tally-gated" style="display:none;">
+        <div class="confirmation-header">
+          <h3>Founder Strategy Diagnostic</h3>
+          <p>You're all set.<br>Please complete the diagnostic below. It takes about 10–15 minutes.</p>
+        </div>
+        <section class="stack">
+          <div class="form-container">
+            <iframe data-tally-src="https://tally.so/embed/ZjEgV0?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" height="170" frameborder="0" marginheight="0" marginwidth="0" title="Founder Strategy Diagnostic"></iframe>
+            <script>
+            var d=document,w="https://tally.so/widgets/embed.js",v=function(){
+              if(typeof Tally!=="undefined"){Tally.loadEmbeds();}
+              else{
+                d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach(function(e){
+                  e.src=e.dataset.tallySrc;
+                });
+              }
+            };
+            if(typeof Tally!=="undefined"){v();}
+            else if(d.querySelector('script[src="'+w+'"]')==null){
+              var s=d.createElement("script");
+              s.src=w;
+              s.onload=v;
+              s.onerror=v;
+              d.body.appendChild(s);
+            }
+            </script>
+          </div>
+        </section>
+      </div>
+
+      <section class="stack" aria-label="Final note">
+        <h2 style="font-size: 1.05rem;">A final note</h2>
+        <p class="small">If deeper work makes sense after the diagnostic, I’ll mention it at the end.<br>If it doesn’t, you’ll still leave with clarity you can act on.<br>That’s the point.</p>
+      </section>
+    </main>
+    <script>
+    (function () {
+      const params = new URLSearchParams(window.location.search);
+      const paidParam = params.get("paid") === "true";
+
+      if (paidParam) localStorage.setItem("founderDiagnosticPaid", "true");
+      const isPaid = paidParam || localStorage.getItem("founderDiagnosticPaid") === "true";
+
+      const gated = document.getElementById("tally-gated");
+      const paywall = document.getElementById("paywall");
+      if (!gated || !paywall) return;
+
+      if (isPaid) {
+        paywall.style.display = "none";
+        gated.style.display = "block";
+        setTimeout(() => gated.scrollIntoView({ behavior: "smooth", block: "start" }), 300);
+      } else {
+        gated.style.display = "none";
+        paywall.style.display = "block";
+      }
+    })();
+    </script>
+  </body>
+</html>
+
