@@ -71,6 +71,10 @@ img {
   margin-bottom: 20px;
 }
 
+.hero-body {
+  text-align: left;
+}
+
 /* Social Links */
 .social-links {
   display: flex;
