@@ -44,8 +44,12 @@ img {
 
 /* Hero */
 .hero {
-  text-align: left;
+  text-align: center;
   padding: 64px 0 44px;
+}
+
+.hero-body {
+  text-align: left;
 }
 
 .avatar {
@@ -53,7 +57,7 @@ img {
   height: 140px;
   border-radius: 50%;
   object-fit: cover;
-  margin: 0 0 24px;
+  margin: 0 auto 24px;
   border: 3px solid #333;
 }
 
@@ -74,7 +78,7 @@ img {
 /* Social Links */
 .social-links {
   display: flex;
-  justify-content: flex-start;
+  justify-content: center;
   gap: 16px;
   margin-top: 4px;
 }
