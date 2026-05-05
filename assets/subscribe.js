@@ -1,6 +1,5 @@
 (function () {
-  var forms = document.querySelectorAll('.subscribe-pill');
-  forms.forEach(function (form) {
+  document.querySelectorAll('form[data-substack-redirect]').forEach(function (form) {
     form.addEventListener('submit', function (e) {
       e.preventDefault();
       var input = form.querySelector('input[type=email]');
@@ -10,7 +9,8 @@
       window.location.href =
         'https://ghanemzadeh.substack.com/subscribe?email=' +
         encodeURIComponent(email) +
-        '&utm_source=site&utm_medium=' + encodeURIComponent(medium);
+        '&utm_source=ghanemzadeh.com&utm_medium=' +
+        encodeURIComponent(medium);
     });
   });
 })();
