@@ -227,18 +227,18 @@ img {
   padding: 72px 0 32px;
 }
 
-.afs-eyebrow {
+.eyebrow, .afs-eyebrow {
   font-size: 14px;
   color: var(--text-soft);
   margin-bottom: 24px;
   letter-spacing: 0.02em;
 }
 
-.afs-eyebrow a {
+.eyebrow a, .afs-eyebrow a {
   color: var(--text-soft);
 }
 
-.afs-eyebrow a:hover {
+.eyebrow a:hover, .afs-eyebrow a:hover {
   color: var(--text);
 }
 
@@ -263,14 +263,14 @@ img {
   margin-bottom: 28px;
 }
 
-.afs-cta-row {
+.cta-row, .afs-cta-row {
   display: flex;
   flex-wrap: wrap;
   gap: 12px;
   margin-top: 8px;
 }
 
-.afs-cta {
+.cta, .afs-cta {
   display: inline-block;
   padding: 12px 20px;
   border-radius: 6px;
@@ -280,26 +280,26 @@ img {
   transition: background 0.2s, color 0.2s, border-color 0.2s, transform 0.2s;
 }
 
-.afs-cta-primary {
+.cta--primary, .afs-cta-primary {
   background: var(--accent);
   color: var(--on-accent);
   border: 1px solid var(--accent);
 }
 
-.afs-cta-primary:hover {
+.cta--primary:hover, .afs-cta-primary:hover {
   background: var(--accent-hover);
   color: var(--on-accent);
   border-color: var(--accent-hover);
   transform: translateY(-1px);
 }
 
-.afs-cta-secondary {
+.cta--secondary, .afs-cta-secondary {
   background: transparent;
   color: var(--text);
   border: 1px solid var(--border);
 }
 
-.afs-cta-secondary:hover {
+.cta--secondary:hover, .afs-cta-secondary:hover {
   color: var(--text-strong);
   border-color: var(--text-soft);
   transform: translateY(-1px);
@@ -371,38 +371,38 @@ img {
   margin-bottom: 12px;
 }
 
-.afs-timeline {
+.timeline, .afs-timeline {
   border-left: 2px solid var(--border);
   padding-left: 20px;
   margin-bottom: 16px;
 }
 
-.afs-timeline dt {
+.timeline dt, .afs-timeline dt {
   font-weight: 600;
   color: var(--text-strong);
   margin-top: 14px;
   margin-bottom: 4px;
 }
 
-.afs-timeline dt:first-child {
+.timeline dt:first-child, .afs-timeline dt:first-child {
   margin-top: 0;
 }
 
-.afs-timeline dd {
+.timeline dd, .afs-timeline dd {
   color: var(--text-muted);
   margin-bottom: 4px;
 }
 
-.afs-faq details {
+.faq details, .afs-faq details {
   border-top: 1px solid var(--border);
   padding: 14px 0;
 }
 
-.afs-faq details:last-of-type {
+.faq details:last-of-type, .afs-faq details:last-of-type {
   border-bottom: 1px solid var(--border);
 }
 
-.afs-faq summary {
+.faq summary, .afs-faq summary {
   cursor: pointer;
   font-weight: 500;
   color: var(--text-strong);
@@ -411,11 +411,11 @@ img {
   padding-right: 28px;
 }
 
-.afs-faq summary::-webkit-details-marker {
+.faq summary::-webkit-details-marker, .afs-faq summary::-webkit-details-marker {
   display: none;
 }
 
-.afs-faq summary::after {
+.faq summary::after, .afs-faq summary::after {
   content: "+";
   position: absolute;
   right: 0;
@@ -425,15 +425,15 @@ img {
   line-height: 1;
 }
 
-.afs-faq details[open] summary::after {
+.faq details[open] summary::after, .afs-faq details[open] summary::after {
   content: "\2013";
 }
 
-.afs-faq summary:hover {
+.faq summary:hover, .afs-faq summary:hover {
   color: var(--text-strong);
 }
 
-.afs-faq details p {
+.faq details p, .afs-faq details p {
   color: var(--text-muted);
   margin-top: 10px;
   margin-bottom: 8px;
@@ -462,7 +462,7 @@ img {
     font-size: 19px;
   }
 
-  .afs-cta {
+  .cta, .afs-cta {
     width: 100%;
     text-align: center;
   }
