@@ -205,13 +205,114 @@ img {
   color: var(--text);
 }
 
-/* Footer */
+/* Rich site footer */
 .site-footer {
   margin-top: auto;
-  padding: 40px 0;
-  text-align: center;
-  color: var(--text-dim);
+  border-top: 1px solid var(--border);
+  padding-top: 48px;
   font-size: 14px;
+  color: var(--text-muted);
+  text-align: left;
+}
+
+.site-footer .container {
+  max-width: var(--container-wide);
+}
+
+.site-footer__inner {
+  display: grid;
+  grid-template-columns: 1.4fr 1fr 1.5fr;
+  gap: 48px;
+}
+
+.site-footer__col {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+}
+
+.site-footer__brand {
+  font-family: var(--font-display);
+  font-size: 17px;
+  font-weight: 600;
+  color: var(--text-strong);
+}
+
+.site-footer__tagline {
+  color: var(--text-soft);
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.site-footer__heading {
+  font-family: var(--font-sans);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-soft);
+  margin-bottom: 4px;
+}
+
+.site-footer__col a {
+  color: var(--text-muted);
+  font-size: 14px;
+}
+
+.site-footer__col a:hover {
+  color: var(--text-strong);
+}
+
+.site-footer__bottom {
+  margin-top: 40px;
+  padding: 16px 0 28px;
+  border-top: 1px solid var(--border);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+  font-size: 13px;
+  color: var(--text-soft);
+}
+
+.site-footer__social {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
+.site-footer__social a {
+  color: var(--text-soft);
+  display: flex;
+  align-items: center;
+  transition: color 0.2s;
+}
+
+.site-footer__social a:hover {
+  color: var(--text-strong);
+}
+
+@media (max-width: 768px) {
+  .site-footer__inner {
+    grid-template-columns: 1fr 1fr;
+    gap: 32px;
+  }
+  .site-footer__col--brand {
+    grid-column: 1 / -1;
+  }
+}
+
+@media (max-width: 480px) {
+  .site-footer__inner {
+    grid-template-columns: 1fr;
+    gap: 28px;
+  }
+  .site-footer__bottom {
+    flex-direction: column;
+    align-items: flex-start;
+  }
 }
 
 /* Responsive — tablet tier (must precede the 480 block in source order) */
