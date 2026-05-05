@@ -808,6 +808,49 @@ img {
   .post-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
 }
 
+/* /book/ topical announcement banner. Subtle: small gold dot + muted text. */
+.book-banner {
+  border-bottom: 1px solid var(--border);
+  padding: 14px 0;
+  font-size: 14px;
+  color: var(--text-muted);
+}
+
+.book-banner__inner {
+  max-width: var(--container-wide);
+  margin: 0 auto;
+  padding: 0 24px;
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+}
+
+.book-banner__dot {
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--accent);
+  margin-top: 9px;
+  flex-shrink: 0;
+}
+
+.book-banner__text {
+  margin: 0;
+  line-height: 1.5;
+}
+
+.book-banner__text strong {
+  color: var(--text-strong);
+  font-weight: 600;
+}
+
+@media (max-width: 480px) {
+  .book-banner { padding: 12px 0; font-size: 13px; }
+  .book-banner__inner { padding: 0 20px; gap: 10px; }
+  .book-banner__dot { margin-top: 8px; }
+}
+
 /* /book/ page (editorial; body.book-page flips the palette) */
 .book-hero {
   padding: 56px 0 40px;
@@ -835,6 +878,14 @@ img {
 .book-hero__cover img {
   width: 100%;
   height: auto;
+}
+
+.book-hero__tagline {
+  font-size: 14px;
+  color: var(--text-muted);
+  letter-spacing: 0.005em;
+  line-height: 1.5;
+  margin-bottom: 18px;
 }
 
 .book-title {
@@ -886,6 +937,20 @@ img {
 
 .book-author__body p {
   margin-bottom: 8px;
+}
+/* Independence disclaimer near the footer. Quiet, low-weight. */
+.book-disclaimer {
+  margin-top: 56px;
+  padding-top: 24px;
+  border-top: 1px solid var(--border);
+  font-size: 12px;
+  color: var(--text-dim);
+  line-height: 1.6;
+}
+
+.book-disclaimer p {
+  margin: 0;
+  max-width: 60ch;
 }
 
 @media (min-width: 768px) {
