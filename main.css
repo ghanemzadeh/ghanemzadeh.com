@@ -824,10 +824,13 @@ img {
   align-items: center;
 }
 
+/* Cover floats directly on the navy bg; no background, border, or padding. */
 .book-hero__cover {
-  max-width: 360px;
+  max-width: 280px;
   margin: 0 auto;
-  filter: drop-shadow(0 30px 80px rgba(0, 0, 0, 0.6));
+  filter: drop-shadow(0 20px 30px rgba(0, 0, 0, 0.5));
+  /* TODO(rim-light): brief asks for a 1-2px gold rim on the right edge at ~15% opacity.
+     Skipping for now — needs the proper alpha export to know the book's right edge precisely. */
 }
 
 .book-hero__cover img {
@@ -888,11 +891,17 @@ img {
 
 @media (min-width: 768px) {
   .book-hero__grid {
-    grid-template-columns: 360px minmax(0, 1fr);
+    grid-template-columns: 380px minmax(0, 1fr);
     gap: 56px;
     align-items: center;
   }
-  .book-hero__cover { margin: 0; max-width: 360px; }
+  .book-hero__cover {
+    margin: 0;
+    max-width: 380px;
+    transform: translateX(-8px);
+    filter: drop-shadow(0 40px 60px rgba(0, 0, 0, 0.55))
+            drop-shadow(0 8px 16px rgba(0, 0, 0, 0.4));
+  }
 }
 
 @media (max-width: 480px) {
