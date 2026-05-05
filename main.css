@@ -504,13 +504,13 @@ img {
 }
 
 /* Substack subscribe pill (reusable) */
-.subscribe-section {
-  margin-bottom: 44px;
-}
-
 .subscribe-intro {
   color: #b0b0b0;
   margin-bottom: 14px;
+}
+
+.afs-hero .subscribe-pill {
+  margin-top: 18px;
 }
 
 .subscribe-pill {
@@ -645,12 +645,6 @@ img {
 
 .book-anchors li strong {
   color: #d4d4d4;
-}
-
-.book-final-cta {
-  border-top: 1px solid #2a2a2a;
-  padding-top: 36px;
-  margin-top: 12px;
 }
 
 .book-author {
