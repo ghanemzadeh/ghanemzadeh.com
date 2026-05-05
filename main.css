@@ -829,8 +829,7 @@ img {
   max-width: 280px;
   margin: 0 auto;
   filter: drop-shadow(0 20px 30px rgba(0, 0, 0, 0.5));
-  /* TODO(rim-light): brief asks for a 1-2px gold rim on the right edge at ~15% opacity.
-     Skipping for now — needs the proper alpha export to know the book's right edge precisely. */
+  /* TODO(rim-light): brief asks for a 1-2px gold rim on the right edge at ~15% opacity. */
 }
 
 .book-hero__cover img {
