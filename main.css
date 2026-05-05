@@ -559,18 +559,24 @@ img {
   .site-header__nav a { font-size: 13px; }
 }
 
-/* Social link with text label (e.g. YouTube FA/EN) */
-.social-link--with-label {
-  gap: 5px;
+/* YouTube channel link with FA/EN corner badge */
+.social-links__yt {
+  position: relative;
 }
 
-.social-link__label {
-  font-size: 10px;
-  font-weight: 600;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  color: inherit;
+.social-links__label {
+  position: absolute;
+  bottom: -3px;
+  right: -8px;
+  font-family: var(--font-sans);
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 0.05em;
   line-height: 1;
+  color: var(--accent);
+  background: var(--bg);
+  padding: 2px 4px;
+  border-radius: 3px;
 }
 
 /* Substack subscribe pill (reusable) */
