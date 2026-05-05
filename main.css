@@ -753,15 +753,59 @@ img {
   outline: none;
 }
 
-.form-note {
-  font-size: 13px;
-  color: var(--text-soft);
-  margin-top: 10px;
-}
-
 @media (max-width: 480px) {
   .email-pill input[type="email"] { padding: 10px 14px; font-size: 15px; }
   .email-pill button { padding: 10px 16px; font-size: 14px; }
+}
+
+/* Card used for newsletter featured posts and book anchor chapters */
+.post-card {
+  display: block;
+  padding: 20px 24px;
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  transition: border-color 0.2s, transform 0.2s;
+}
+
+.post-card:hover {
+  border-color: var(--accent);
+  transform: translateY(-2px);
+}
+
+.post-card__date {
+  font-size: 12px;
+  color: var(--text-soft);
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  margin-bottom: 6px;
+}
+
+.post-card__title {
+  font-family: var(--font-display);
+  font-size: 22px;
+  font-weight: 600;
+  color: var(--text-strong);
+  line-height: 1.2;
+  margin-bottom: 6px;
+}
+
+.post-card__dek {
+  font-size: 14px;
+  color: var(--text-muted);
+}
+
+.post-grid {
+  display: grid;
+  gap: 16px;
+}
+
+@media (min-width: 480px) {
+  .post-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+
+@media (min-width: 768px) {
+  .post-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
 }
 
 /* /book/ page */
