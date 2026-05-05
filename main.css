@@ -197,7 +197,18 @@ img {
   font-size: 14px;
 }
 
-/* Responsive */
+/* Responsive — tablet tier (must precede the 480 block in source order) */
+@media (max-width: 768px) {
+  .hero { padding: 52px 0 36px; }
+  .hero h1 { font-size: 28px; }
+  .afs-hero { padding: 60px 0 28px; }
+  .afs-hero h1 { font-size: 30px; }
+  .afs-page .section h2 { font-size: 20px; }
+  .site-header .container { padding-top: 14px; padding-bottom: 14px; }
+  .site-header__nav { gap: 16px; }
+}
+
+/* Responsive — phone tier */
 @media (max-width: 480px) {
   .hero {
     padding: 40px 0 28px;
