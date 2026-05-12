@@ -607,6 +607,34 @@ img {
   margin-top: 16px;
 }
 
+.afs-status-bar {
+  font-family: var(--font-sans);
+  font-size: 13px;
+  color: var(--text-soft);
+  margin: 0 0 18px;
+  letter-spacing: 0.01em;
+}
+
+.afs-press {
+  text-align: center;
+  padding: 24px 0 12px;
+  border-bottom: 1px solid var(--border);
+}
+.afs-press__label {
+  font-family: var(--font-sans);
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--text-soft);
+  margin: 0 0 10px;
+}
+.afs-press__logos {
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 14px;
+  color: var(--text-muted);
+  margin: 0;
+}
+
 /* Shared site header (sticky, blurred) */
 .site-header {
   position: sticky;
