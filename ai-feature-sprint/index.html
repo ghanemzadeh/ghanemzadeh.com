@@ -44,8 +44,80 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Person",
-    "@id": "https://ghanemzadeh.com/#nasser"
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://ghanemzadeh.com/#nasser"
+      },
+      {
+        "@type": "Service",
+        "@id": "https://ghanemzadeh.com/ai-feature-sprint/#service",
+        "name": "AI Feature Sprint",
+        "alternateName": "Forward Deployed AI Engineering for B2B SaaS",
+        "serviceType": "Forward Deployed AI Engineering",
+        "provider": { "@id": "https://ghanemzadeh.com/#nasser" },
+        "description": "A 10-business-day engagement to ship one narrow AI workflow into a B2B SaaS product. Fixed scope, fixed price, end-to-end delivery: scoping, architecture, prompt design, data integration, implementation, evaluation rubric, and handoff.",
+        "url": "https://ghanemzadeh.com/ai-feature-sprint/",
+        "areaServed": ["Europe", "Middle East", "North America"],
+        "audience": {
+          "@type": "BusinessAudience",
+          "audienceType": "Founder-led B2B SaaS companies, 5 to 50 employees, post-product-market-fit"
+        },
+        "hasOfferCatalog": {
+          "@type": "OfferCatalog",
+          "name": "AI Feature Sprint offerings",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "name": "Discovery Day",
+              "description": "A 2-hour paid working session to assess whether a Sprint makes sense. Output: a go/no-go memo within 24 hours.",
+              "price": "500",
+              "priceCurrency": "USD",
+              "availability": "https://schema.org/InStock",
+              "url": "https://cal.com/ghanemzadeh/30min"
+            },
+            {
+              "@type": "Offer",
+              "name": "AI Feature Sprint (Beta)",
+              "description": "10 business days. One narrow AI workflow shipped to staging, production, or as a production-ready pull request. Beta pricing for first 3 customers.",
+              "price": "5000",
+              "priceCurrency": "USD",
+              "availability": "https://schema.org/LimitedAvailability",
+              "eligibleQuantity": { "@type": "QuantitativeValue", "value": 3 },
+              "url": "https://tally.so/r/ja5pD6"
+            },
+            {
+              "@type": "Offer",
+              "name": "AI Feature Sprint (Standard)",
+              "description": "10 business days. One narrow AI workflow shipped to staging, production, or as a production-ready pull request.",
+              "priceSpecification": {
+                "@type": "PriceSpecification",
+                "minPrice": "7500",
+                "maxPrice": "10000",
+                "priceCurrency": "USD"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://ghanemzadeh.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "AI Feature Sprint",
+            "item": "https://ghanemzadeh.com/ai-feature-sprint/"
+          }
+        ]
+      }
+    ]
   }
   </script>
 </head>
