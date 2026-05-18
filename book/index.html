@@ -46,18 +46,45 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Book",
-    "name": "Founder Mode: How the Great Companies Are Actually Built",
-    "author": {
-      "@type": "Person",
-      "name": "Nasser Ghanemzadeh",
-      "url": "https://ghanemzadeh.com"
-    },
-    "numberOfPages": 254,
-    "inLanguage": "en",
-    "image": "https://ghanemzadeh.com/assets/book/og-cover.jpg",
-    "url": "https://ghanemzadeh.com/book/",
-    "description": "A study of Founder Mode: the practice Paul Graham named in 2024 and that great founders had been quietly running for a century. Calibrated involvement, traced through HP, Disney, PayPal, Apple, Pixar, Amazon, NVIDIA, and Costco. Honest about the costs."
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://ghanemzadeh.com/#nasser"
+      },
+      {
+        "@type": "Book",
+        "@id": "https://ghanemzadeh.com/book/#book",
+        "name": "Founder Mode: How the Great Companies Are Actually Built",
+        "author": { "@id": "https://ghanemzadeh.com/#nasser" },
+        "publisher": { "@id": "https://ghanemzadeh.com/#nasser" },
+        "numberOfPages": 254,
+        "inLanguage": "en",
+        "image": "https://ghanemzadeh.com/assets/book/og-cover.jpg",
+        "url": "https://ghanemzadeh.com/book/",
+        "bookFormat": "https://schema.org/EBook",
+        "about": [
+          "Founder Mode",
+          "Startup founders",
+          "Company building",
+          "Paul Graham",
+          "Brian Chesky",
+          "Y Combinator"
+        ],
+        "audience": {
+          "@type": "Audience",
+          "audienceType": "Founders, CEOs, operators, and product leaders studying how great companies are actually built"
+        },
+        "description": "A study of Founder Mode: the practice Paul Graham named in 2024 and that great founders had been quietly running for a century. Calibrated involvement, traced through HP, Disney, PayPal, Apple, Pixar, Amazon, NVIDIA, and Costco. Honest about the costs."
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://ghanemzadeh.com/" },
+          { "@type": "ListItem", "position": 2, "name": "Books", "item": "https://ghanemzadeh.com/books/" },
+          { "@type": "ListItem", "position": 3, "name": "Founder Mode", "item": "https://ghanemzadeh.com/book/" }
+        ]
+      }
+    ]
   }
   </script>
 </head>
