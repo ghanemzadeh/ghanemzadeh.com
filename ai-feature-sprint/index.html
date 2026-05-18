@@ -116,6 +116,108 @@
             "item": "https://ghanemzadeh.com/ai-feature-sprint/"
           }
         ]
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://ghanemzadeh.com/ai-feature-sprint/#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is a 10-day AI Feature Sprint?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A 10-business-day engagement to ship one narrow AI workflow into a B2B SaaS product. Scoping on Day 1, design on Days 2 to 3, prototype by Day 5, implementation on Days 6 to 9, handoff on Day 10. Fixed scope, fixed price. Deliverables include the workflow code committed to your repo, an output quality rubric, a workflow playbook, a Loom walkthrough, and a 30-day post-Sprint roadmap."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Who is this for?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Founder-led B2B SaaS companies with 5 to 50 employees, post-product-market-fit, with paying customers, real data inside their product, and pressure to ship AI features. Not for indie hackers, solopreneurs, or enterprises with formal procurement."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What does it cost?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "$500 for a Discovery Day (credited toward the Sprint if you continue within 14 days). $5,000 for the Sprint at beta pricing (first 3 customers). $7,500 to $10,000 after beta."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What happens if you can't deliver?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "If by Day 5 there's no working prototype demonstrating the core workflow, you can stop the Sprint and receive 50% back. No subjective judgment, no fine print. Either the prototype runs or it doesn't."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Why pay you instead of using your own engineers?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Three reasons: speed (10 days, not 6 weeks of internal roadmap displacement), judgment (knowing which workflow to ship first is harder than building it), and a fixed-price/fixed-timeline commitment that internal work can't match. Pulling two engineers off your roadmap for six weeks costs roughly $30K in salary plus the opportunity cost of the slipped roadmap."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How is this different from an AI consulting firm?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "AI consulting firms deliver decks and roadmaps. This Sprint delivers a working AI workflow in your codebase by Day 10. The category is Forward Deployed AI Engineering. The same shape of work OpenAI's Deployment Company and Anthropic's deployment arm sell to Fortune 500 customers, at a different price point."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What kinds of AI workflows do you build?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Investor update assistants. Runway scenario explainers. Customer summary generators. Support ticket summarizers. Report generators. Onboarding assistants. The common shape: narrow input, narrow output, single user, measurable improvement, human-in-the-loop review."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What if our data isn't ready?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Then a Sprint isn't the right starting point. The Discovery Day will say so explicitly and recommend what to do first. About half of Discovery Days end with 'this isn't a Sprint yet, here's what to do instead.'"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Do you handle compliance, security, GDPR, SOC 2?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. Those are explicitly out of scope. The Sprint can produce a workflow that's ready to deploy through your existing compliance posture, but the compliance review itself is your team's work."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What stack do you work in?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Whatever you already use. The Sprint integrates with your existing product, your existing data sources (Stripe, HubSpot, Linear, Slack, Notion, Intercom, Zendesk, your CRM, your admin), and your existing AI provider (Anthropic, OpenAI, AWS Bedrock, Google Vertex AI). The Sprint is too short to introduce new infrastructure."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can you guarantee production deployment?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. Production deployment depends on access, infrastructure, and third-party dependencies that aren't fully under our control. If production release is blocked, the deliverable is a staging deployment or a production-ready pull request your team can merge."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What happens after Day 10?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Three paths. Most teams take the workflow and run with it. The rubric and playbook are designed for self-service maintenance. Some come back for a second Sprint with a different workflow. Some sign an ongoing engagement for governance and iteration. All three are explicit options at handoff."
+            }
+          }
+        ]
       }
     ]
   }
@@ -167,6 +269,12 @@
       </section>
 
       <section class="section">
+        <h2>What is Forward Deployed AI Engineering?</h2>
+        <p>Forward Deployed AI Engineering is a delivery model where an engineer embeds inside a customer's team and ships AI capabilities directly into the customer's product and codebase. Not a dashboard. Not a report. Not a Loom. The term comes from Palantir, where it has been the dominant model for two decades. On May 4, 2026, OpenAI launched a $10 billion deployment subsidiary using exactly this title, and Anthropic launched a $1.5 billion deployment subsidiary the same day. Both are aimed at the Fortune 500. The <strong>AI Feature Sprint is the same playbook, sized for founder-led B2B SaaS teams of 5 to 50 people</strong> who can't run a quarter-million-dollar procurement process.</p>
+        <p class="afs-aside">More on the role in the book: <a href="/books/forward-deployed-ai-engineering/"><em>Forward Deployed AI Engineering: A Working Guide to the Hottest Job in Software</em></a>.</p>
+      </section>
+
+      <section class="section">
         <h2>Examples of narrow AI workflows</h2>
         <ul class="afs-examples">
           <li><strong>Investor update assistant.</strong> Turn monthly metrics, asks, risks, and progress into a clear investor update draft.</li>
@@ -182,6 +290,7 @@
         <h2>A concrete example: Investor Update Assistant</h2>
         <p>Here's a workflow I've built into Vectig, the AI-native startup finance product I'm developing in parallel. The Investor Update Assistant pulls structured monthly metrics (MRR, burn, runway, hires, churn, key wins), takes 3–5 sentences of founder-written context, and generates a clean investor update draft. The founder edits, approves, and sends. Average time from open to send: 8 minutes vs. the typical 90+ minutes of blank-page writing.</p>
         <p>What you'd get in a Sprint: the workflow scoped to your data sources (Stripe, your spreadsheet, your CRM, whatever you use), a working prompt with output quality rubric, integration into your existing product or admin tool, and the handoff document so your team can maintain and iterate. Two weeks. Live by Day 10.</p>
+        <p class="afs-measured"><strong>Measured outcome from the live Vectig implementation:</strong> average draft-to-send time 8 minutes, vs. 90+ minutes for blank-page writing. Output quality rubric: 4-of-5 average across accuracy, clarity, honesty, and ask-coverage dimensions in the first 30 sample runs.</p>
       </section>
 
       <section class="section">
@@ -321,6 +430,52 @@
       </section>
 
       <section class="section">
+        <h2>How a Sprint gets scoped on Day 1</h2>
+        <p>Every Sprint Brief is written around a single sentence:</p>
+        <blockquote class="afs-template">
+          <p><em>For <span class="afs-slot">[user]</span>, when <span class="afs-slot">[trigger or input]</span> happens, the workflow will <span class="afs-slot">[process or action]</span> and produce <span class="afs-slot">[output]</span>, so that <span class="afs-slot">[business value]</span>.</em></p>
+        </blockquote>
+        <p><strong>Worked example.</strong> "For the founder, when monthly metrics and 3 to 5 sentences of context are added, the workflow will draft a clean investor update covering metrics, risks, and asks, so that the founder can send consistent updates in 8 minutes instead of 90."</p>
+        <p>If we can't agree on the words that fill those five brackets on Day 1, the Sprint isn't ready to start.</p>
+      </section>
+
+      <section class="section">
+        <h2>The output quality rubric</h2>
+        <p>Every Sprint ships with a 1 to 5 rubric tuned to its specific dimensions. The scale is fixed; the dimensions change per workflow.</p>
+        <table class="afs-rubric">
+          <thead>
+            <tr><th scope="col">Score</th><th scope="col">Meaning</th></tr>
+          </thead>
+          <tbody>
+            <tr><th scope="row">1</th><td><strong>Unusable.</strong> Output is wrong, incoherent, or unsafe.</td></tr>
+            <tr><th scope="row">2</th><td><strong>Needs major rewrite.</strong> Shape is right; substance requires substantial editing.</td></tr>
+            <tr><th scope="row">3</th><td><strong>Usable with significant edits.</strong> Team starts from this draft but invests real time refining.</td></tr>
+            <tr><th scope="row">4</th><td><strong>Good with minor edits.</strong> Small adjustments only. Usable in roughly the time it takes to read.</td></tr>
+            <tr><th scope="row">5</th><td><strong>Ready to use.</strong> No edits needed. Ships as-is.</td></tr>
+          </tbody>
+        </table>
+        <p class="afs-rubric-note">Each workflow's rubric specifies its own dimensions: accuracy, clarity, tone, format, completeness. Each comes with worked examples at every score level.</p>
+      </section>
+
+      <section class="section">
+        <h2>What we'll take on as a first Sprint</h2>
+        <ul class="afs-risk">
+          <li class="afs-risk__tier afs-risk__tier--low">
+            <p class="afs-risk__label">Low risk</p>
+            <p>Internal-only workflows. Drafts and summaries reviewed by a human before anything leaves the company. Most first Sprints sit here, and they should.</p>
+          </li>
+          <li class="afs-risk__tier afs-risk__tier--med">
+            <p class="afs-risk__label">Medium risk</p>
+            <p>Workflows touching customer-facing data (support tickets, CRM notes, sales transcripts, internal financial data) with explicit human review.</p>
+          </li>
+          <li class="afs-risk__tier afs-risk__tier--high">
+            <p class="afs-risk__label">High risk</p>
+            <p>Legal, medical, compliance, payments, or anything that takes customer-facing actions autonomously. Declined as a first Sprint. We'll help redefine to a lower-risk scope, or wait until trust and tooling are mature.</p>
+          </li>
+        </ul>
+      </section>
+
+      <section class="section">
         <h2>Clear scope. Clear expectations.</h2>
         <p>The sprint timeline begins on the agreed kickoff date, scheduled after contract signing and upfront payment.</p>
         <p>I take one active sprint at a time. Kickoff dates are scheduled on a first-available basis.</p>
@@ -358,8 +513,8 @@
           <li>Exited Nivo (200K+ users, 450% revenue growth, acquired). Press coverage in Forbes, TechCrunch, Al Jazeera, HuffPost.</li>
           <li>Founding Head of Product at Pangouan. Co-founder of Iran Startups. Former accelerator lead at Finnova.</li>
           <li>Currently building Vectig (AI-native startup finance) and Sengi (financial OS for solopreneurs), both shipped daily with Claude Code and MCP.</li>
-          <li>Speaks at OMR Festival, re:publica, GITEX EUROPE on AI-native product development.</li>
         </ul>
+        <p class="afs-speaking"><strong>Speaking on AI-native product development:</strong> OMR Festival, re:publica, GITEX EUROPE.</p>
         <p>This sprint runs on production-grade AI engineering experience from my own products, not generic AI consulting theory. Based in Turkey, available across European, Middle Eastern, and North American business hours.</p>
         <p><a href="https://www.linkedin.com/in/ghanemzadeh/" target="_blank" rel="noopener noreferrer">LinkedIn</a> &middot; <a href="mailto:ghanemzadeh@gmail.com">Email</a> &middot; <a href="https://vectig.com" target="_blank" rel="noopener noreferrer">Vectig</a></p>
       </section>
@@ -367,34 +522,71 @@
       <section class="section afs-faq">
         <h2>FAQ</h2>
         <details>
-          <summary>Can you guarantee production deployment in 10 business days?</summary>
-          <p>No. Production deployment depends on access, infrastructure, team availability, and third-party dependencies. If production release is blocked, the deliverable becomes a staging deployment, production-ready pull request, or implementation handoff.</p>
+          <summary>What is a 10-day AI Feature Sprint?</summary>
+          <p>A 10-business-day engagement to ship one narrow AI workflow into a B2B SaaS product. Scoping on Day 1, design on Days 2 to 3, prototype by Day 5, implementation on Days 6 to 9, handoff on Day 10. Fixed scope, fixed price. Deliverables include the workflow code committed to your repo, an output quality rubric, a workflow playbook, a Loom walkthrough, and a 30-day post-Sprint roadmap.</p>
         </details>
         <details>
-          <summary>Do we need to know exactly what AI feature we want?</summary>
-          <p>No. If you are unsure, start with the Discovery Day. The Discovery Day helps clarify the best use case and whether it is worth building.</p>
+          <summary>Who is this for?</summary>
+          <p>Founder-led B2B SaaS companies with 5 to 50 employees, post-product-market-fit, with paying customers, real data inside their product, and pressure to ship AI features. Not for indie hackers, solopreneurs, or enterprises with formal procurement.</p>
         </details>
         <details>
-          <summary>Do you replace our engineering team?</summary>
-          <p>No. I help scope, design, and implement one narrow AI workflow. The sprint works best when your team can provide access, context, and feedback.</p>
+          <summary>What does it cost?</summary>
+          <p>$500 for a Discovery Day (credited toward the Sprint if you continue within 14 days). $5,000 for the Sprint at beta pricing (first 3 customers). $7,500 to $10,000 after beta.</p>
         </details>
         <details>
-          <summary>What kind of AI features work best?</summary>
-          <p>Narrow workflows with clear inputs and outputs work best. Examples include summaries, report generation, support workflows, onboarding assistants, sales analysis, finance scenarios, and document extraction.</p>
+          <summary>What happens if you can't deliver?</summary>
+          <p>If by Day 5 there's no working prototype demonstrating the core workflow, you can stop the Sprint and receive 50% back. No subjective judgment, no fine print. Either the prototype runs or it doesn't.</p>
         </details>
         <details>
-          <summary>Can this work with our AI provider or cloud setup?</summary>
-          <p>Yes. The sprint can support common AI implementation paths, including Anthropic API, AWS Bedrock, Google Vertex AI, OpenAI, or your existing provider setup, depending on your infrastructure and requirements.</p>
+          <summary>Why pay you instead of using your own engineers?</summary>
+          <p>Three reasons: speed (10 days, not 6 weeks of internal roadmap displacement), judgment (knowing which workflow to ship first is harder than building it), and a fixed-price/fixed-timeline commitment that internal work can't match. Pulling two engineers off your roadmap for six weeks costs roughly $30K in salary plus the opportunity cost of the slipped roadmap.</p>
         </details>
         <details>
-          <summary>Do you offer team training?</summary>
-          <p>Every sprint includes a team handoff and enablement session. Standalone workshops may be available for teams that want help adopting AI-assisted product and engineering workflows, but the core offer is focused on shipping one useful AI workflow.</p>
+          <summary>How is this different from an AI consulting firm?</summary>
+          <p>AI consulting firms deliver decks and roadmaps. This Sprint delivers a working AI workflow in your codebase by Day 10. The category is "Forward Deployed AI Engineering". The same shape of work OpenAI's Deployment Company and Anthropic's deployment arm sell to Fortune 500 customers, at a different price point.</p>
         </details>
         <details>
-          <summary>What is the refund policy?</summary>
-          <p>Discovery Day fees are non-refundable once booked, but can be rescheduled once with at least 24 hours' notice.</p>
-          <p>Sprint deposits are non-refundable after kickoff. If by Day 5 there is no working prototype demonstrating the core workflow, you can stop the sprint and receive 50% back. No subjective judgment, no fine print. Either the prototype runs or it doesn't.</p>
+          <summary>What kinds of AI workflows do you build?</summary>
+          <p>Investor update assistants. Runway scenario explainers. Customer summary generators. Support ticket summarizers. Report generators. Onboarding assistants. The common shape: narrow input, narrow output, single user, measurable improvement, human-in-the-loop review.</p>
         </details>
+        <details>
+          <summary>What if our data isn't ready?</summary>
+          <p>Then a Sprint isn't the right starting point. The Discovery Day will say so explicitly and recommend what to do first. About half of Discovery Days end with "this isn't a Sprint yet, here's what to do instead."</p>
+        </details>
+        <details>
+          <summary>Do you handle compliance, security, GDPR, SOC 2?</summary>
+          <p>No. Those are explicitly out of scope. The Sprint can produce a workflow that's ready to deploy through your existing compliance posture, but the compliance review itself is your team's work.</p>
+        </details>
+        <details>
+          <summary>What stack do you work in?</summary>
+          <p>Whatever you already use. The Sprint integrates with your existing product, your existing data sources (Stripe, HubSpot, Linear, Slack, Notion, Intercom, Zendesk, your CRM, your admin), and your existing AI provider (Anthropic, OpenAI, AWS Bedrock, Google Vertex AI). The Sprint is too short to introduce new infrastructure.</p>
+        </details>
+        <details>
+          <summary>Can you guarantee production deployment?</summary>
+          <p>No. Production deployment depends on access, infrastructure, and third-party dependencies that aren't fully under our control. If production release is blocked, the deliverable is a staging deployment or a production-ready pull request your team can merge.</p>
+        </details>
+        <details>
+          <summary>What happens after Day 10?</summary>
+          <p>Three paths. Most teams take the workflow and run with it. The rubric and playbook are designed for self-service maintenance. Some come back for a second Sprint with a different workflow. Some sign an ongoing engagement for governance and iteration. All three are explicit options at handoff.</p>
+        </details>
+      </section>
+
+      <section class="section afs-glossary-section">
+        <h2>Terms used on this page</h2>
+        <dl class="afs-glossary">
+          <dt>Forward Deployed Engineer</dt>
+          <dd>An engineer who embeds inside a customer's team and ships inside their codebase, rather than delivering an external dashboard or report. Originally Palantir's model; adopted by OpenAI and Anthropic in May 2026.</dd>
+          <dt>AI Feature Sprint</dt>
+          <dd>This offer. 10 business days, one narrow AI workflow, fixed scope, fixed price.</dd>
+          <dt>Workflow</dt>
+          <dd>A specific process a user runs with clear inputs and outputs, producing a measurable improvement. The unit of work shipped in a Sprint. Not a "feature."</dd>
+          <dt>Sprint Brief</dt>
+          <dd>The one-to-two-page document written on Day 1 of a Sprint that defines scope, success criteria, deliverables, and explicit out-of-scope items. Part of the contract.</dd>
+          <dt>Output Quality Rubric</dt>
+          <dd>A 1 to 5 scoring checklist tuned to a specific workflow, used to evaluate generated outputs consistently after handoff.</dd>
+          <dt>MCP</dt>
+          <dd>Model Context Protocol, the standard for letting AI models talk to external systems. Many Sprint workflows integrate with customer systems via MCP servers.</dd>
+        </dl>
       </section>
 
       <section class="section afs-final-cta">
