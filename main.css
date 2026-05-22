@@ -19,6 +19,7 @@
 
   --container: 620px;
   --container-wide: 980px;
+  --container-books: 1080px;
   --radius: 6px;
   --radius-pill: 999px;
 }
@@ -1424,6 +1425,11 @@ input:focus-visible {
   }
 }
 
+/* /books/ index — wider container for the card grid */
+main.books-index {
+  max-width: var(--container-books);
+}
+
 /* /books/ index — card grid */
 .books-grid {
   display: grid;
@@ -1431,7 +1437,7 @@ input:focus-visible {
   margin: 12px 0;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 960px) {
   .books-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 36px; }
 }
 
@@ -1447,7 +1453,7 @@ input:focus-visible {
 
 .book-card__link {
   display: grid;
-  grid-template-columns: 130px minmax(0, 1fr);
+  grid-template-columns: 160px minmax(0, 1fr);
   gap: 22px;
   padding: 20px 22px;
   color: inherit;
