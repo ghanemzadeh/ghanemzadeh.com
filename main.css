@@ -409,6 +409,17 @@ img {
   margin-bottom: 28px;
 }
 
+.afs-hero-cred {
+  font-size: 14px;
+  color: var(--text-soft);
+  margin-bottom: 14px;
+  line-height: 1.5;
+}
+
+.afs-hero-cred strong {
+  color: var(--text-strong);
+}
+
 .cta-row, .afs-cta-row {
   display: flex;
   flex-wrap: wrap;
@@ -634,7 +645,7 @@ img {
 
 .afs-press {
   text-align: center;
-  padding: 24px 0 12px;
+  padding: 28px 0 16px;
   border-bottom: 1px solid var(--border);
 }
 .afs-press__label {
@@ -647,8 +658,9 @@ img {
 }
 .afs-press__logos {
   font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
-  font-size: 14px;
-  color: var(--text-muted);
+  font-size: 18px;
+  color: var(--text-strong);
+  letter-spacing: 0.02em;
   margin: 0;
 }
 
