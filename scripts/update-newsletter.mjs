@@ -14,7 +14,17 @@ import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 
 const FEED_URL = 'https://ghanemzadeh.substack.com/feed';
+const ARCHIVE_URL = 'https://ghanemzadeh.substack.com/api/v1/archive?sort=new&limit=12';
 const MAX_ITEMS = 12;
+
+// Substack/Cloudflare returns 403 to non-browser User-Agents from datacenter
+// IPs (e.g. GitHub Actions runners). Present as a real browser.
+const BROWSER_HEADERS = {
+  'User-Agent':
+    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+  Accept: 'text/html,application/xhtml+xml,application/xml,application/json;q=0.9,*/*;q=0.8',
+  'Accept-Language': 'en-US,en;q=0.9',
+};
 const UTM = 'utm_source=ghanemzadeh.com&utm_medium=newsletter_page';
 const START_MARKER = '<!-- newsletter:articles:start -->';
 const END_MARKER = '<!-- newsletter:articles:end -->';
@@ -65,19 +75,16 @@ async function loadCategories() {
   }
 }
 
-async function main() {
-  const res = await fetch(FEED_URL, {
-    headers: { 'User-Agent': 'ghanemzadeh.com newsletter list builder' },
-  });
+// Primary source: the RSS feed. Returns items as { title, dek, link, pubDate }.
+async function fetchFromRss() {
+  const res = await fetch(FEED_URL, { headers: BROWSER_HEADERS });
   if (!res.ok) throw new Error(`Feed fetch failed: ${res.status} ${res.statusText}`);
   const xml = await res.text();
 
   const blocks = [...xml.matchAll(/<item>([\s\S]*?)<\/item>/g)].map((m) => m[1]);
   if (blocks.length === 0) throw new Error('No <item> blocks parsed from feed');
 
-  const categories = await loadCategories();
-
-  const items = blocks.slice(0, MAX_ITEMS).map((block) => {
+  return blocks.slice(0, MAX_ITEMS).map((block) => {
     const title = getCDATA(block, 'title');
     const dek = getCDATA(block, 'description');
     const link = getCDATA(block, 'link');
@@ -87,6 +94,43 @@ async function main() {
     }
     return { title, dek, link, pubDate };
   });
+}
+
+// Fallback source: the JSON archive API. Same return shape as fetchFromRss().
+// Used when the RSS feed is blocked (403) or otherwise unavailable.
+async function fetchFromArchiveJson() {
+  const res = await fetch(ARCHIVE_URL, { headers: BROWSER_HEADERS });
+  if (!res.ok) throw new Error(`Archive fetch failed: ${res.status} ${res.statusText}`);
+  const posts = await res.json();
+  if (!Array.isArray(posts) || posts.length === 0) {
+    throw new Error('No posts parsed from archive API');
+  }
+
+  return posts.slice(0, MAX_ITEMS).map((post) => {
+    const title = post.title;
+    const dek = post.subtitle || post.description || '';
+    const link = post.canonical_url;
+    const pubDate = post.post_date;
+    if (!title || !link || !pubDate) {
+      throw new Error(`Malformed post. title=${JSON.stringify(title)} link=${JSON.stringify(link)} pubDate=${JSON.stringify(pubDate)}`);
+    }
+    return { title, dek, link, pubDate };
+  });
+}
+
+async function fetchItems() {
+  try {
+    return await fetchFromRss();
+  } catch (rssErr) {
+    console.warn(`RSS feed unavailable (${rssErr.message}). Falling back to archive API.`);
+    return await fetchFromArchiveJson();
+  }
+}
+
+async function main() {
+  const items = await fetchItems();
+
+  const categories = await loadCategories();
 
   const rows = items.map((item) => {
     const { long, iso } = formatDate(item.pubDate);
