@@ -17,8 +17,15 @@ const FEED_URL = 'https://ghanemzadeh.substack.com/feed';
 const ARCHIVE_URL = 'https://ghanemzadeh.substack.com/api/v1/archive?sort=new&limit=12';
 const MAX_ITEMS = 12;
 
-// Substack/Cloudflare returns 403 to non-browser User-Agents from datacenter
-// IPs (e.g. GitHub Actions runners). Present as a real browser.
+// Substack sits behind Cloudflare, which blocks GitHub Actions' datacenter
+// (Azure) IPs at the ASN level with a 403 regardless of headers. When the
+// direct fetches below are blocked, the script falls back to a Cloudflare
+// Worker proxy that egresses from Cloudflare's edge (not datacenter-blocked).
+// The Worker returns the same archive JSON shape as ARCHIVE_URL. Set its URL
+// via the NEWSLETTER_PROXY_URL env var (see workers/substack-proxy/README.md).
+const PROXY_URL = process.env.NEWSLETTER_PROXY_URL || '';
+
+// A realistic browser UA still helps for IPs that are only UA-gated.
 const BROWSER_HEADERS = {
   'User-Agent':
     'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
@@ -97,9 +104,10 @@ async function fetchFromRss() {
 }
 
 // Fallback source: the JSON archive API. Same return shape as fetchFromRss().
-// Used when the RSS feed is blocked (403) or otherwise unavailable.
-async function fetchFromArchiveJson() {
-  const res = await fetch(ARCHIVE_URL, { headers: BROWSER_HEADERS });
+// `url` is the direct archive endpoint by default, or the Worker proxy URL
+// (which returns the identical archive JSON) when fetching via the proxy.
+async function fetchFromArchiveJson(url = ARCHIVE_URL) {
+  const res = await fetch(url, { headers: BROWSER_HEADERS });
   if (!res.ok) throw new Error(`Archive fetch failed: ${res.status} ${res.statusText}`);
   const posts = await res.json();
   if (!Array.isArray(posts) || posts.length === 0) {
@@ -122,9 +130,19 @@ async function fetchItems() {
   try {
     return await fetchFromRss();
   } catch (rssErr) {
-    console.warn(`RSS feed unavailable (${rssErr.message}). Falling back to archive API.`);
-    return await fetchFromArchiveJson();
+    console.warn(`RSS feed unavailable (${rssErr.message}). Trying archive API.`);
   }
+  try {
+    return await fetchFromArchiveJson();
+  } catch (archiveErr) {
+    console.warn(`Archive API unavailable (${archiveErr.message}).`);
+    if (!PROXY_URL) {
+      throw new Error('Both direct sources failed and NEWSLETTER_PROXY_URL is not set. ' +
+        'See workers/substack-proxy/README.md to deploy the Cloudflare Worker proxy.');
+    }
+  }
+  console.warn(`Falling back to proxy: ${PROXY_URL}`);
+  return await fetchFromArchiveJson(PROXY_URL);
 }
 
 async function main() {

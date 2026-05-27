@@ -21,6 +21,10 @@ jobs:
 
       - name: Regenerate article rows
         run: node scripts/update-newsletter.mjs
+        env:
+          # Cloudflare Worker proxy used when Substack blocks the runner's
+          # datacenter IP. See workers/substack-proxy/README.md.
+          NEWSLETTER_PROXY_URL: ${{ vars.NEWSLETTER_PROXY_URL }}
 
       - name: Commit and push if changed
         run: |

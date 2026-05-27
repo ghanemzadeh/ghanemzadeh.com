@@ -1,0 +1,6 @@
+name = "substack-feed-proxy"
+main = "worker.js"
+compatibility_date = "2026-05-27"
+
+# Free Workers plan covers this comfortably: one daily cron call (plus a few
+# manual runs) is far under the 100k requests/day free tier.
