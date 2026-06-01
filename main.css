@@ -469,6 +469,18 @@ img {
   transform: translateY(-1px);
 }
 
+.cta.is-disabled, .afs-cta.is-disabled {
+  opacity: 0.45;
+  cursor: default;
+  pointer-events: none;
+}
+
+.cta.is-disabled:hover, .afs-cta.is-disabled:hover {
+  transform: none;
+  color: var(--text);
+  border-color: var(--border);
+}
+
 .afs-page .section h2 {
   font-size: 22px;
   color: var(--text-strong);
