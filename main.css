@@ -1311,6 +1311,85 @@ input:focus-visible {
   color: var(--text-muted);
 }
 
+/* Comparison tables + article lead/meta (cluster and definitional pages) */
+.cmp-table-wrap {
+  overflow-x: auto;
+  margin: 18px 0 8px;
+}
+
+.cmp-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 15px;
+}
+
+.cmp-table th,
+.cmp-table td {
+  text-align: left;
+  padding: 12px 14px;
+  border-bottom: 1px solid var(--border);
+  vertical-align: top;
+}
+
+.cmp-table thead th {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--text-soft);
+  font-weight: 600;
+}
+
+.cmp-table tbody th {
+  font-weight: 600;
+  color: var(--text-strong);
+  width: 26%;
+}
+
+.cmp-table td {
+  color: var(--text-muted);
+}
+
+/* Definitional lead answer, used directly under a question heading */
+.lede {
+  font-size: 19px;
+  line-height: 1.55;
+  color: var(--text-strong);
+  margin-bottom: 18px;
+}
+
+/* "Last updated" line under a hero or H1 */
+.page-meta {
+  font-size: 13px;
+  color: var(--text-soft);
+  margin-top: 10px;
+}
+
+/* Glossary definition list */
+.glossary {
+  margin-top: 8px;
+}
+
+.glossary dt {
+  font-weight: 600;
+  color: var(--text-strong);
+  font-size: 17px;
+  margin-top: 26px;
+  padding-top: 26px;
+  border-top: 1px solid var(--border);
+  scroll-margin-top: 24px;
+}
+
+.glossary dt:first-of-type {
+  margin-top: 0;
+  padding-top: 0;
+  border-top: 0;
+}
+
+.glossary dd {
+  margin: 8px 0 0;
+  color: var(--text-muted);
+}
+
 .afs-rubric td strong {
   color: var(--text-strong);
   display: block;
