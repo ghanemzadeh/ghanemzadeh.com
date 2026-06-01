@@ -26,14 +26,17 @@ jobs:
           # datacenter IP. See workers/substack-proxy/README.md.
           NEWSLETTER_PROXY_URL: ${{ vars.NEWSLETTER_PROXY_URL }}
 
+      - name: Regenerate sitemap
+        run: node scripts/update-sitemap.mjs
+
       - name: Commit and push if changed
         run: |
-          if git diff --quiet -- newsletter/index.html; then
+          if git diff --quiet -- newsletter/index.html sitemap.xml; then
             echo "No changes to commit."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add newsletter/index.html
-          git commit -m "newsletter: refresh article list from Substack [skip ci]"
+          git add newsletter/index.html sitemap.xml
+          git commit -m "chore: refresh newsletter + sitemap [skip ci]"
           git push
