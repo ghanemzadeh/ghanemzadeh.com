@@ -1,8 +1,14 @@
-/* Design tokens */
+/* Design tokens.
+   Breakpoints are fixed at 480 / 768 / 1024 (media queries cannot read
+   custom properties without a build step, so this is a convention). */
 :root {
+  color-scheme: dark;
+
+  /* Color */
   --bg: #181818;
   --bg-elevated: #1f1f1f;
   --border: #2a2a2a;
+  --hairline: rgba(255, 255, 255, 0.07);
   --text: #d4d4d4;
   --text-strong: #f5f5f5;
   --text-muted: #b0b0b0;
@@ -12,15 +18,42 @@
   --accent: #c89a3e;
   --accent-hover: #e0b558;
   --accent-soft: rgba(200, 154, 62, 0.12);
+  --accent-dim: rgba(200, 154, 62, 0.4);   /* gold hairlines: rules, featured borders */
+  --accent-glow: rgba(200, 154, 62, 0.16); /* radial glow behind book covers */
   --on-accent: #181818;
 
-  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  /* Type */
+  --font-sans: "Alegreya Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   --font-display: "Cormorant Garamond", Georgia, "Times New Roman", serif;
 
+  /* Type scale. Serif display sizes run a step larger than sans for equal optical weight. */
+  --fs-micro: 11px;
+  --fs-caption: 13px;
+  --fs-small: 15px;
+  --fs-body: 17px;
+  --fs-lede: 19px;
+  --fs-h3: 20px;
+  --fs-h2: clamp(26px, 3.2vw, 30px);
+  --fs-h1: clamp(34px, 5vw, 44px);
+  --fs-hero: clamp(38px, 5.5vw, 48px);
+
+  /* Spacing scale */
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+  --space-7: 48px;
+  --space-8: 64px;
+  --space-9: 96px;
+  --flow-section: var(--space-8);
+
+  /* Layout */
   --container: 620px;
+  --container-prose: 720px;
   --container-wide: 980px;
   --container-books: 1080px;
-  --radius: 6px;
+  --radius: 8px;
   --radius-pill: 999px;
 }
 
@@ -35,6 +68,10 @@
   --text-soft: #8a8270;
   --text-dim: #5e5847;
   --accent-soft: rgba(200, 154, 62, 0.16);
+}
+
+@media (max-width: 768px) {
+  :root { --flow-section: var(--space-7); }
 }
 
 /* Reset & Base */
@@ -59,14 +96,14 @@
 
 body {
   font-family: var(--font-sans);
-  font-size: 17px;
-  line-height: 1.8;
+  font-size: var(--fs-body);
+  line-height: 1.7;
   color: var(--text);
   background: var(--bg);
   -webkit-font-smoothing: antialiased;
 }
 
-/* Display type utility — apply to h1/h2 that should render in the serif. */
+/* Display type utility: apply to h1/h2 that should render in the serif. */
 .t-display {
   font-family: var(--font-display);
   font-weight: 600;
@@ -122,35 +159,61 @@ img {
 /* Hero */
 .hero {
   text-align: center;
-  padding: 64px 0 44px;
+  padding: var(--space-8) 0 var(--space-7);
 }
 
 .avatar {
-  width: 140px;
-  height: 140px;
+  width: 120px;
+  height: 120px;
   border-radius: 50%;
   object-fit: cover;
   margin: 0 auto 24px;
-  border: 3px solid var(--border);
+  border: 2px solid var(--accent-dim);
 }
 
+/* All page-level hero h1s read in the display serif: one voice site-wide. */
 .hero h1 {
-  font-size: 32px;
+  font-family: var(--font-display);
+  font-size: var(--fs-h1);
   font-weight: 600;
   color: var(--text-strong);
   margin-bottom: 6px;
   letter-spacing: -0.015em;
-  line-height: 1.1;
+  line-height: 1.08;
 }
-
-/* Landing hero h1 reads in the display serif. AFS hero overrides back to sans. */
-.hero h1.t-display { font-family: var(--font-display); }
-.afs-hero h1 { font-family: var(--font-sans); }
 
 .tagline {
   font-size: 17px;
   color: var(--text-soft);
   margin-bottom: 20px;
+}
+
+/* Homepage hero hierarchy: kicker, name, lede, CTAs, then supporting lines. */
+.hero-kicker {
+  color: var(--accent);
+  font-size: 12px;
+  letter-spacing: 0.16em;
+  margin-bottom: 10px;
+}
+
+.hero-kicker + h1 {
+  font-size: var(--fs-hero);
+  margin-bottom: 12px;
+}
+
+.hero .hero-lede {
+  font-size: var(--fs-h3);
+  line-height: 1.5;
+  color: var(--text-strong);
+  max-width: 30em;
+  margin: 0 auto 24px;
+}
+
+.hero-meta {
+  font-size: var(--fs-small);
+  color: var(--text-muted);
+  margin: 0 auto 6px;
+  max-width: 580px;
 }
 
 .hero-supporting {
@@ -162,51 +225,71 @@ img {
 
 .hero-proof {
   font-size: 13px;
-  color: var(--text-muted);
-  margin: 0 auto 24px;
+  color: var(--text-soft);
+  margin: 0 auto 20px;
   max-width: 580px;
   letter-spacing: 0.005em;
 }
 
 .hero-cta-row {
   justify-content: center;
-  margin: 8px 0 18px;
+  margin: 8px 0 28px;
 }
 
 /* Social Links */
 .social-links {
   display: flex;
   justify-content: center;
-  gap: 16px;
-  margin-top: 4px;
-  margin-bottom: 28px;
+  gap: 20px;
+  margin-top: 12px;
+  margin-bottom: 0;
 }
 
 .social-links a {
-  color: var(--text-soft);
+  color: var(--text-muted);
   transition: color 0.2s, transform 0.2s;
   display: flex;
   align-items: center;
 }
 
 .social-links a:hover {
-  color: var(--text-strong);
+  color: var(--accent-hover);
   transform: translateY(-2px);
 }
 
 /* Sections */
 .section {
-  margin-bottom: 44px;
+  margin-bottom: var(--flow-section);
 }
 
 .section h2 {
-  font-size: 20px;
+  font-family: var(--font-display);
+  font-size: var(--fs-h2);
   font-weight: 600;
   color: var(--text-strong);
   letter-spacing: -0.01em;
+  line-height: 1.2;
   margin-bottom: 18px;
   padding-bottom: 0;
   border-bottom: none;
+}
+
+/* Quiet gold tick above section headings; sections that already carry an
+   .eyebrow-num label, and card-style h2s, suppress it. */
+.section h2::before {
+  content: "";
+  display: block;
+  width: 28px;
+  height: 2px;
+  background: var(--accent-dim);
+  margin-bottom: 14px;
+}
+
+.eyebrow-num + h2::before,
+.afs-pricing-card h2::before,
+.afs-fit-grid > .section h2::before,
+.book-card h2::before {
+  display: none;
 }
 
 .section p {
@@ -220,6 +303,26 @@ img {
 
 .section p strong {
   color: var(--text);
+}
+
+/* Homepage newsletter band: elevated so it reads as the primary subscribe
+   moment, distinct from the utilitarian footer form. */
+.subscribe-band {
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  border-top: 2px solid var(--accent-dim);
+  border-radius: var(--radius);
+  padding: var(--space-6) var(--space-6) var(--space-5);
+}
+
+.subscribe-band h2::before {
+  display: none;
+}
+
+@media (max-width: 480px) {
+  .subscribe-band {
+    padding: var(--space-5) var(--space-4) var(--space-4);
+  }
 }
 
 /* Rich site footer */
@@ -251,8 +354,8 @@ img {
 
 .site-footer__brand {
   font-family: var(--font-display);
-  font-size: 17px;
-  font-weight: 600;
+  font-size: 18px;
+  font-weight: 700;
   color: var(--text-strong);
 }
 
@@ -318,6 +421,7 @@ img {
   color: var(--text-strong);
 }
 
+/* Responsive: tablet tier (must precede the 480 block in source order) */
 @media (max-width: 768px) {
   .site-footer__inner {
     grid-template-columns: 1fr 1fr;
@@ -326,8 +430,13 @@ img {
   .site-footer__col--brand {
     grid-column: 1 / -1;
   }
+  .hero { padding: 52px 0 36px; }
+  .afs-hero { padding: 60px 0 28px; }
+  .site-header .container { padding-top: 14px; padding-bottom: 14px; }
+  .site-header__nav { gap: 16px; }
 }
 
+/* Responsive: phone tier. Heading sizes are handled by the clamp() tokens. */
 @media (max-width: 480px) {
   .site-footer__inner {
     grid-template-columns: 1fr;
@@ -337,21 +446,7 @@ img {
     flex-direction: column;
     align-items: flex-start;
   }
-}
 
-/* Responsive — tablet tier (must precede the 480 block in source order) */
-@media (max-width: 768px) {
-  .hero { padding: 52px 0 36px; }
-  .hero h1 { font-size: 28px; }
-  .afs-hero { padding: 60px 0 28px; }
-  .afs-hero h1 { font-size: 30px; }
-  .afs-page .section h2 { font-size: 20px; }
-  .site-header .container { padding-top: 14px; padding-bottom: 14px; }
-  .site-header__nav { gap: 16px; }
-}
-
-/* Responsive — phone tier */
-@media (max-width: 480px) {
   .hero {
     padding: 40px 0 28px;
   }
@@ -359,14 +454,6 @@ img {
   .avatar {
     width: 110px;
     height: 110px;
-  }
-
-  .hero h1 {
-    font-size: 24px;
-  }
-
-  .section h2 {
-    font-size: 18px;
   }
 
   body {
@@ -396,11 +483,11 @@ img {
 }
 
 .afs-hero h1 {
-  font-size: 34px;
+  font-size: var(--fs-h1);
   font-weight: 600;
   color: var(--text-strong);
   letter-spacing: -0.015em;
-  line-height: 1.25;
+  line-height: 1.12;
   margin-bottom: 18px;
 }
 
@@ -434,10 +521,11 @@ img {
   margin-top: 8px;
 }
 
+/* One control language: buttons are pills, matching the email forms. */
 .cta, .afs-cta {
   display: inline-block;
-  padding: 12px 20px;
-  border-radius: 6px;
+  padding: 12px 24px;
+  border-radius: var(--radius-pill);
   font-size: 16px;
   font-weight: 500;
   line-height: 1.3;
@@ -482,10 +570,10 @@ img {
 }
 
 .afs-page .section h2 {
-  font-size: 22px;
+  font-size: var(--fs-h2);
   color: var(--text-strong);
   margin-bottom: 14px;
-  line-height: 1.35;
+  line-height: 1.25;
 }
 
 .afs-page ul,
@@ -544,7 +632,7 @@ img {
   .afs-examples-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }
 
-@media (min-width: 1000px) {
+@media (min-width: 1024px) {
   .afs-examples-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
 }
 
@@ -553,7 +641,7 @@ img {
   padding: 18px 20px;
   background: var(--bg-elevated);
   border: 1px solid var(--border);
-  border-radius: 6px;
+  border-radius: var(--radius);
   font-size: 15px;
   line-height: 1.55;
   color: var(--text-muted);
@@ -651,16 +739,8 @@ img {
     padding: 48px 0 24px;
   }
 
-  .afs-hero h1 {
-    font-size: 26px;
-  }
-
   .afs-subhead {
     font-size: 16px;
-  }
-
-  .afs-page .section h2 {
-    font-size: 19px;
   }
 
   .cta, .afs-cta {
@@ -736,8 +816,8 @@ img {
 
 .site-header__brand {
   font-family: var(--font-display);
-  font-size: 18px;
-  font-weight: 600;
+  font-size: 19px;
+  font-weight: 700;
   color: var(--text-strong);
   letter-spacing: -0.005em;
 }
@@ -848,10 +928,14 @@ img {
   transition: background 0.2s, color 0.2s;
 }
 
-.email-pill button:hover,
-.email-pill button:focus {
+.email-pill button:hover {
   background: var(--accent-hover);
-  outline: none;
+}
+
+.email-pill button:focus-visible {
+  background: var(--accent-hover);
+  outline: 2px solid var(--text-strong);
+  outline-offset: -3px;
 }
 
 @media (max-width: 480px) {
@@ -1014,11 +1098,22 @@ img {
   align-items: center;
 }
 
-/* Cover floats directly on the navy bg; no background, border, or padding. */
+/* Cover floats directly on the navy bg; no background, border, or padding.
+   The radial glow separates the dark cover from the dark page. */
 .book-hero__cover {
+  position: relative;
   max-width: 280px;
   margin: 0 auto;
   filter: drop-shadow(0 20px 30px rgba(0, 0, 0, 0.5));
+}
+
+.book-hero__cover::before {
+  content: "";
+  position: absolute;
+  inset: -14% -20%;
+  background: radial-gradient(closest-side, var(--accent-glow), rgba(200, 154, 62, 0.05) 55%, transparent 78%);
+  z-index: -1;
+  pointer-events: none;
 }
 
 .book-hero__cover img {
@@ -1047,6 +1142,7 @@ img {
 .book-subtitle {
   font-family: var(--font-display);
   font-style: italic;
+  font-weight: 500;
   font-size: clamp(20px, 2.5vw, 26px);
   color: var(--text-muted);
   line-height: 1.3;
@@ -1110,7 +1206,8 @@ img {
     max-width: 380px;
     transform: translateX(-8px);
     filter: drop-shadow(0 40px 60px rgba(0, 0, 0, 0.55))
-            drop-shadow(0 8px 16px rgba(0, 0, 0, 0.4));
+            drop-shadow(0 8px 16px rgba(0, 0, 0, 0.4))
+            drop-shadow(0 0 32px rgba(200, 154, 62, 0.14));
   }
 }
 
@@ -1203,24 +1300,25 @@ img {
   margin: 10px auto 0;
   max-width: 720px;
 }
-@media (max-width: 600px) {
+@media (max-width: 480px) {
   .diag-body { padding: 14px 16px; font-size: 13px; }
   .diag-row { gap: 6px; margin: 6px 0; }
   .diag-row dt, .diag-row dd { font-size: 13px; }
 }
 
 /* ============================================================
-   AEO/GEO refresh additions — components introduced 2026-05-18
+   AEO/GEO refresh additions: components introduced 2026-05-18
    ============================================================ */
 
 /* Focus ring across all interactive elements */
 a:focus-visible,
 button:focus-visible,
 summary:focus-visible,
-input:focus-visible {
+input:focus-visible,
+textarea:focus-visible,
+select:focus-visible {
   outline: 2px solid var(--accent-hover);
   outline-offset: 2px;
-  border-radius: 4px;
 }
 
 /* Sprint page: aside link under the definition block */
@@ -1413,7 +1511,7 @@ input:focus-visible {
 .afs-risk__tier {
   padding: 16px 18px;
   border: 1px solid var(--border);
-  border-radius: 6px;
+  border-radius: var(--radius);
   background: var(--bg-elevated);
   border-left-width: 3px;
 }
@@ -1479,11 +1577,11 @@ input:focus-visible {
   line-height: 1.55;
 }
 
-/* Pricing card pair — side-by-side Discovery / Sprint */
+/* Pricing card pair: side-by-side Discovery / Sprint */
 .afs-pricing-grid {
   display: grid;
   gap: 16px;
-  margin-bottom: 44px;
+  margin-bottom: var(--flow-section);
 }
 
 @media (min-width: 768px) {
@@ -1505,7 +1603,7 @@ input:focus-visible {
 }
 
 .afs-pricing-card--feature {
-  border-color: rgba(200, 154, 62, 0.4);
+  border-color: var(--accent-dim);
   background: linear-gradient(180deg, rgba(200, 154, 62, 0.04), transparent 60%), var(--bg-elevated);
 }
 
@@ -1515,6 +1613,9 @@ input:focus-visible {
 }
 
 .afs-pricing-card h2 {
+  font-family: var(--font-sans);
+  font-size: var(--fs-h3);
+  line-height: 1.3;
   margin-top: 0;
 }
 
@@ -1536,7 +1637,7 @@ input:focus-visible {
 .afs-fit-grid {
   display: grid;
   gap: 16px;
-  margin-bottom: 44px;
+  margin-bottom: var(--flow-section);
 }
 
 @media (min-width: 768px) {
@@ -1551,11 +1652,13 @@ input:focus-visible {
   padding: 22px 24px;
   background: var(--bg-elevated);
   border: 1px solid var(--border);
-  border-radius: 6px;
+  border-radius: var(--radius);
 }
 
 .afs-fit-grid > .section h2 {
+  font-family: var(--font-sans);
   font-size: 17px;
+  line-height: 1.3;
   margin-bottom: 12px;
 }
 
@@ -1578,7 +1681,7 @@ input:focus-visible {
   background: var(--bg-elevated);
   border: 1px solid var(--border);
   border-top: 3px solid var(--accent);
-  border-radius: 6px;
+  border-radius: var(--radius);
   padding: 14px 16px;
   position: relative;
 }
@@ -1606,19 +1709,19 @@ input:focus-visible {
   }
 }
 
-/* /books/ index — wider container for the card grid */
+/* /books/ index: wider container for the card grid */
 main.books-index {
   max-width: var(--container-books);
 }
 
-/* AI Sprint / Discovery — wide page (peer of /books/), readable prose column */
+/* AI Sprint / Discovery: wide page (peer of /books/), readable prose column */
 main.afs-page {
   max-width: var(--container-books); /* 1080px */
 }
 
 /* Cap text-heavy sections to a readable measure, centered in the wide page */
 .afs-page > .section {
-  max-width: 720px;
+  max-width: var(--container-prose);
   margin-left: auto;
   margin-right: auto;
 }
@@ -1630,7 +1733,7 @@ main.afs-page {
 
 /* Keep the hero text column aligned with the body prose measure */
 .afs-hero .container {
-  max-width: 720px;
+  max-width: var(--container-prose);
 }
 
 /* "Why work with me" headshot */
@@ -1663,14 +1766,14 @@ main.afs-page {
   .afs-bio-photo { width: 120px; height: 120px; }
 }
 
-/* /books/ index — card grid */
+/* /books/ index: card grid */
 .books-grid {
   display: grid;
   gap: 32px;
   margin: 12px 0;
 }
 
-@media (min-width: 960px) {
+@media (min-width: 1024px) {
   .books-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 36px; }
 }
 
@@ -1722,6 +1825,7 @@ main.afs-page {
 .book-card__subtitle {
   font-family: var(--font-display);
   font-style: italic;
+  font-weight: 500;
   font-size: 16px;
   color: var(--text-muted);
   margin: 0 0 10px;
@@ -1814,8 +1918,9 @@ main.afs-page {
   border-left: 3px solid var(--accent);
   padding: 22px 26px;
   margin: 14px 0;
-  border-radius: 0 6px 6px 0;
+  border-radius: 0 var(--radius) var(--radius) 0;
   font-family: var(--font-display);
+  font-weight: 500;
   font-size: 19px;
   line-height: 1.55;
   color: var(--text);
@@ -1846,4 +1951,22 @@ main.afs-page {
   .afs-rubric th, .afs-rubric td { padding: 10px; }
   .afs-rubric tbody th { font-size: 20px; width: 50px; }
   .afs-template { padding: 14px 16px; font-size: 15px; }
+}
+
+/* Respect reduced-motion preferences: no transitions, no hover lifts. */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+  }
+
+  .post-card:hover,
+  .book-card:hover,
+  .cta:hover, .afs-cta:hover,
+  .cta--primary:hover, .afs-cta-primary:hover,
+  .cta--secondary:hover, .afs-cta-secondary:hover,
+  .social-links a:hover {
+    transform: none;
+  }
 }
