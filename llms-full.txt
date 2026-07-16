@@ -1235,6 +1235,8 @@ Free. No spam. Unsubscribe in one click.
 
 ### Latest articles
 
+- [July 15, 2026 #### What Exactly Is a Forward Deployed AI Engineer? It is not a sales engineer, a consultant, or a CSM with a GitHub account. Every word in the title is doing work.](https://ghanemzadeh.substack.com/p/what-exactly-is-a-forward-deployed?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
+
 - [July 8, 2026 #### Why 95% of Enterprise AI Pilots Fail (And It's Not the Models) The most important number in enterprise AI is not a benchmark score. It is the gap between pilot and production.](https://ghanemzadeh.substack.com/p/why-95-of-enterprise-ai-pilots-fail?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
 - [July 1, 2026 #### Forward Deployed Engineering at $200/Hour The brutal math of fixed-price AI work, and why every operator who underprices this work goes broke profitably.](https://ghanemzadeh.substack.com/p/forward-deployed-engineering-at-200hour?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
@@ -1256,8 +1258,6 @@ Free. No spam. Unsubscribe in one click.
 - [May 25, 2026 #### Narrow Is the Moat Why we won't sell you a bigger package, even if you ask.](https://ghanemzadeh.substack.com/p/narrow-is-the-moat?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
 - [May 21, 2026 · Founder Operations #### The Day-4 Trap What we learned about integrity, refunds, and reputation from running fixed-price AI sprints.](https://ghanemzadeh.substack.com/p/the-day-4-trap?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
-
-- [May 19, 2026 · Forward Deployed AI #### The Model Is No Longer the Product What OpenAI's and Anthropic's twin deployment bets mean for every B2B SaaS shipping AI features this year.](https://ghanemzadeh.substack.com/p/the-model-is-no-longer-the-product?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
 [All posts on Substack →](https://ghanemzadeh.substack.com/archive?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
