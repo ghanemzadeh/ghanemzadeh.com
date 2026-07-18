@@ -1235,6 +1235,8 @@ Free. No spam. Unsubscribe in one click.
 
 ### Latest articles
 
+- [July 17, 2026 #### The great software rewrite AI coding agents are making it cheaper to rebuild software in Rust, Go, C, and C++. But faster code is only part of the story.](https://ghanemzadeh.substack.com/p/the-great-software-rewrite?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
+
 - [July 15, 2026 #### What Exactly Is a Forward Deployed AI Engineer? It is not a sales engineer, a consultant, or a CSM with a GitHub account. Every word in the title is doing work.](https://ghanemzadeh.substack.com/p/what-exactly-is-a-forward-deployed?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
 - [July 8, 2026 #### Why 95% of Enterprise AI Pilots Fail (And It's Not the Models) The most important number in enterprise AI is not a benchmark score. It is the gap between pilot and production.](https://ghanemzadeh.substack.com/p/why-95-of-enterprise-ai-pilots-fail?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
@@ -1256,8 +1258,6 @@ Free. No spam. Unsubscribe in one click.
 - [May 27, 2026 #### How a Forward Deployed Engineer Runs a 10-Day AI Sprint Day by day inside a fixed-scope, fixed-price AI engagement, including the day that quietly decides whether the sprint ends well.](https://ghanemzadeh.substack.com/p/how-a-forward-deployed-engineer-runs?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
 - [May 25, 2026 #### Narrow Is the Moat Why we won't sell you a bigger package, even if you ask.](https://ghanemzadeh.substack.com/p/narrow-is-the-moat?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
-
-- [May 21, 2026 · Founder Operations #### The Day-4 Trap What we learned about integrity, refunds, and reputation from running fixed-price AI sprints.](https://ghanemzadeh.substack.com/p/the-day-4-trap?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
 [All posts on Substack →](https://ghanemzadeh.substack.com/archive?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
