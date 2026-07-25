@@ -1235,6 +1235,8 @@ Free. No spam. Unsubscribe in one click.
 
 ### Latest articles
 
+- [July 23, 2026 #### Gravel Roads and Paved Highways: The Palantir Pattern That Runs the AI Industry For twenty years the industry dismissed Palantir's operating model as a curiosity. Then it became the consensus in about eighteen months.](https://ghanemzadeh.substack.com/p/gravel-roads-and-paved-highways-the?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
+
 - [July 17, 2026 #### The great software rewrite AI coding agents are making it cheaper to rebuild software in Rust, Go, C, and C++. But faster code is only part of the story.](https://ghanemzadeh.substack.com/p/the-great-software-rewrite?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
 - [July 15, 2026 #### What Exactly Is a Forward Deployed AI Engineer? It is not a sales engineer, a consultant, or a CSM with a GitHub account. Every word in the title is doing work.](https://ghanemzadeh.substack.com/p/what-exactly-is-a-forward-deployed?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
@@ -1256,8 +1258,6 @@ Free. No spam. Unsubscribe in one click.
 - [May 29, 2026 #### The Painkiller Test A 30-second test for any AI workflow idea, and why most “AI features” fail it.](https://ghanemzadeh.substack.com/p/the-painkiller-test?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
 - [May 27, 2026 #### How a Forward Deployed Engineer Runs a 10-Day AI Sprint Day by day inside a fixed-scope, fixed-price AI engagement, including the day that quietly decides whether the sprint ends well.](https://ghanemzadeh.substack.com/p/how-a-forward-deployed-engineer-runs?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
-
-- [May 25, 2026 #### Narrow Is the Moat Why we won't sell you a bigger package, even if you ask.](https://ghanemzadeh.substack.com/p/narrow-is-the-moat?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
 [All posts on Substack →](https://ghanemzadeh.substack.com/archive?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
