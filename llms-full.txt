@@ -1403,6 +1403,18 @@ Free. No spam. Unsubscribe in one click.
 
 ### Latest articles
 
+- [August 5, 2026 #### Echo and Delta: The Two Modes of One Craft Palantir split the role in two for a reason. Most AI startups compress it into one person, and the discipline is knowing which mode you're in at any given moment.](https://ghanemzadeh.substack.com/p/echo-and-delta-the-two-modes-of-one?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
+
+- [July 31, 2026 #### The $29 question Pieter Levels, Fireship, and the end of the micro-SaaS playbook.](https://ghanemzadeh.substack.com/p/the-29-question?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
+
+- [July 29, 2026 #### The FDE Arbitrage: Why Failed Founders Are the Most Undervalued Talent in AI The labor market discounts failed founders heavily. FDE hiring managers who know better are quietly capturing the spread.](https://ghanemzadeh.substack.com/p/the-fde-arbitrage-why-failed-founders?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
+
+- [July 23, 2026 #### Gravel Roads and Paved Highways: The Palantir Pattern That Runs the AI Industry For twenty years the industry dismissed Palantir's operating model as a curiosity. Then it became the consensus in about eighteen months.](https://ghanemzadeh.substack.com/p/gravel-roads-and-paved-highways-the?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
+
+- [July 17, 2026 #### The great software rewrite AI coding agents are making it cheaper to rebuild software in Rust, Go, C, and C++. But faster code is only part of the story.](https://ghanemzadeh.substack.com/p/the-great-software-rewrite?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
+
+- [July 15, 2026 #### What Exactly Is a Forward Deployed AI Engineer? It is not a sales engineer, a consultant, or a CSM with a GitHub account. Every word in the title is doing work.](https://ghanemzadeh.substack.com/p/what-exactly-is-a-forward-deployed?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
+
 - [July 8, 2026 #### Why 95% of Enterprise AI Pilots Fail (And It's Not the Models) The most important number in enterprise AI is not a benchmark score. It is the gap between pilot and production.](https://ghanemzadeh.substack.com/p/why-95-of-enterprise-ai-pilots-fail?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
 - [July 1, 2026 #### Forward Deployed Engineering at $200/Hour The brutal math of fixed-price AI work, and why every operator who underprices this work goes broke profitably.](https://ghanemzadeh.substack.com/p/forward-deployed-engineering-at-200hour?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
@@ -1414,18 +1426,6 @@ Free. No spam. Unsubscribe in one click.
 - [June 10, 2026 #### Forward Deployed Engineering Without the $250K Floor Why the hottest role in tech needs to exist in two sizes, and why most founder-led B2B SaaS companies are quietly being priced out of the one they actually need.](https://ghanemzadeh.substack.com/p/forward-deployed-engineering-without?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
 - [June 5, 2026 #### The Three Risk Tiers of AI Deployment Every AI workflow lives in one of three risk tiers. Most teams don’t know which one they’re shipping until something goes wrong. Here is the taxonomy.](https://ghanemzadeh.substack.com/p/the-three-risk-tiers-of-ai-deployment?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
-
-- [June 3, 2026 #### How a Forward Deployed Engineer Scopes an AI Workflow in 2 Hours Why most internal AI projects fail at scoping, not implementation, and the single 2-hour session that decides whether the next 10 days produce a shipped workflow or a refund conversation.](https://ghanemzadeh.substack.com/p/how-a-forward-deployed-engineer-scopes?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
-
-- [May 29, 2026 #### The Painkiller Test A 30-second test for any AI workflow idea, and why most “AI features” fail it.](https://ghanemzadeh.substack.com/p/the-painkiller-test?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
-
-- [May 27, 2026 #### How a Forward Deployed Engineer Runs a 10-Day AI Sprint Day by day inside a fixed-scope, fixed-price AI engagement, including the day that quietly decides whether the sprint ends well.](https://ghanemzadeh.substack.com/p/how-a-forward-deployed-engineer-runs?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
-
-- [May 25, 2026 #### Narrow Is the Moat Why we won't sell you a bigger package, even if you ask.](https://ghanemzadeh.substack.com/p/narrow-is-the-moat?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
-
-- [May 21, 2026 · Founder Operations #### The Day-4 Trap What we learned about integrity, refunds, and reputation from running fixed-price AI sprints.](https://ghanemzadeh.substack.com/p/the-day-4-trap?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
-
-- [May 19, 2026 · Forward Deployed AI #### The Model Is No Longer the Product What OpenAI's and Anthropic's twin deployment bets mean for every B2B SaaS shipping AI features this year.](https://ghanemzadeh.substack.com/p/the-model-is-no-longer-the-product?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
 [All posts on Substack →](https://ghanemzadeh.substack.com/archive?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
