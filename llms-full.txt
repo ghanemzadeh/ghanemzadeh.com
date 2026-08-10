@@ -21,7 +21,7 @@ The AI Feature Sprint is a 10-business-day engagement that ships one narrow AI w
 
 ---
 
-# Nasser Ghanemzadeh | Forward Deployed AI Engineer for founder-led B2B SaaS
+# Nasser Ghanemzadeh: Forward Deployed AI Engineer and Author
 
 URL: https://ghanemzadeh.com/
 
@@ -541,7 +541,7 @@ The odd one out, deliberately. Johnstone's book on improvisational theatre appea
 
 - [Forward Deployed Engineering 101](https://www.youtube.com/watch?v=KwhgfwOSToQ). Kevin Bai at the AI Engineer World's Fair, June 2026. A 17-minute framework for when FDE is necessary and how to structure it, from someone who did the work at Palantir, Rippling, and Anthropic.
 
-- [Software Is Changing (Again)](https://www.youtube.com/watch?v=LCEmiRjPEtQ). Andrej Karpathy at YC's AI Startup School, June 2025. The wider shift the FDE role sits inside: LLMs as a new kind of computer, programmed in English.
+- [Software Is Changing (Again)](https://www.ycombinator.com/library/MW-andrej-karpathy-software-is-changing-again). Andrej Karpathy at YC's AI Startup School, June 2025. The wider shift the FDE role sits inside: LLMs as a new kind of computer, programmed in English.
 
 ### Where to start
 
@@ -838,7 +838,7 @@ Independent publication. Not affiliated with Anthropic, OpenAI, Google, Palantir
 
 ---
 
-# Discovery Day · 2-Hour Scoping Session for AI Feature Sprints | Nasser Ghanemzadeh
+# AI Discovery Day: 2-Hour Use-Case Scoping Session ($500)
 
 URL: https://ghanemzadeh.com/discovery-day/
 
@@ -1014,7 +1014,7 @@ The two roles look similar from the outside because both put a technical person 
 | Where the code lives | The customer's product and repository | The vendor's platform and demo environments |
 | Measured on | A shipped workflow the customer's team can run and maintain | Pipeline, deals closed, and successful onboarding |
 | AI focus | Prompt and context design, data integration, evaluation rubrics | Showing how the vendor's AI features fit the customer's stack |
-| Compensation | Median package $238,000; senior frontier-lab packages above $500,000 (public data, 2026) | Varies by vendor; often salary plus variable pay tied to the sales cycle |
+| Compensation | Median base $174,000; median package $238,000; senior frontier packages above $500,000 (public data, 2026) | Varies by vendor; typically base plus commission (OTE), tied to sales and onboarding outcomes. |
 
 ### Where they overlap
 
@@ -1209,7 +1209,7 @@ No. The role applies existing models rather than training them. The core skills 
 
 #### How much travel does the role involve?
 
-It varies by employer and customer. The role is defined by embedding in the customer's environment, which is what forward deployed means; at Palantir that meant engineers at the customer's site. Many engagements today run remotely, inside the customer's repositories and tools rather than their building.
+More than most software roles. Anthropic's listing puts travel at 25 percent. OpenAI expects its FDEs on customer sites a few days a week during an engagement. At Palantir, Nabeel Qureshi describes four to five days a week at the customer's office as the high end; two to three is more typical.
 
 #### Is a Forward Deployed Engineer the same as an applied AI engineer?
 
@@ -1226,6 +1226,10 @@ Functionally, yes. Applied AI is Anthropic's title for the FDE-shaped role, the 
 - MIT study on enterprise AI pilot outcomes, as cited in *Forward Deployed AI Engineering*.
 
 - Bob McGrew on the Forward Deployed Engineer role. McGrew spent 11 years at Palantir and later led research at OpenAI.
+
+- Anthropic and OpenAI job listings for the role (travel expectations).
+
+- Nabeel Qureshi on Palantir's forward deployed model, Lenny's Newsletter, May 2025. [lennysnewsletter.com](https://www.lennysnewsletter.com/p/inside-palantir-nabeel-qureshi)
 
 Newsletter
 
@@ -1255,11 +1259,11 @@ An engineer who embeds inside a customer's team and ships AI capabilities direct
 
 **Echo (Palantir)**
 
-One of Palantir's two titles for forward deployed engineers, and one half of the FDE craft: the deployment that is working now, running inside the customer's environment. The split is a core chapter of [the book](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/).
+At Palantir, the embedded analyst with deep domain expertise who owns the customer relationship, one half of its two-role FDE model. In [Forward Deployed AI Engineering](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/), Echo also names one half of the craft: the deployment that is working now.
 
 **Delta (Palantir)**
 
-The other half of the Echo and Delta split: the change that makes the next deployment work better. Delta work feeds what was learned inside the customer's environment back into the product, so each engagement compounds.
+At Palantir, the deployed engineer who ships code inside the customer's environment; the company describes the responsibilities as similar to a startup CTO's. In *Forward Deployed AI Engineering*, Delta also names the other half of the craft: the change that makes the next deployment work better.
 
 **AI Feature Sprint**
 
