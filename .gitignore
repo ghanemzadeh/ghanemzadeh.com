@@ -10,3 +10,8 @@ mockuphone/
 # Private working docs (strategy, not for the public site)
 GEO-OFFSITE-PLAYBOOK.md
 GEO-BASELINE-*.md
+
+# Internal working docs (kept locally, not for the public site)
+ai-feature-sprint-prd-final.md
+claude-code-ai-feature-sprint-page-improvements.md
+sprint_page_polish_prompt.md
