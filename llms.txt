@@ -28,6 +28,7 @@ The AI Feature Sprint is a 10-business-day engagement that ships one narrow AI w
 - [Forward Deployed AI Engineer vs Solutions Engineer](https://ghanemzadeh.com/forward-deployed-ai-engineer-vs-solutions-engineer/): The same technical instinct, different employer, different deliverable. One ships AI into the customer's product; the other sells and integrates a vendor's.
 - [How to Become a Forward Deployed AI Engineer](https://ghanemzadeh.com/how-to-become-a-forward-deployed-ai-engineer/): The backgrounds people come from, the skills to build, and a step-by-step path that ends in one shipped AI workflow you can defend.
 - [Forward Deployed AI Engineering Glossary](https://ghanemzadeh.com/glossary/): Plain-language definitions of the terms used in Forward Deployed AI Engineering: the role, the AI Feature Sprint, workflows, MCP, Claude Code, and more.
+- [The Best Forward Deployed Engineer Books & Resources](https://ghanemzadeh.com/best-forward-deployed-engineer-books/): Five books worth reading to learn the FDE role, plus the essential free essays and talks.
 - [Books](https://ghanemzadeh.com/books/): Two books by Nasser Ghanemzadeh: Founder Mode and Forward Deployed AI Engineering.
 - [Forward Deployed AI Engineering (book)](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/): A working guide to the Forward Deployed AI Engineer role. 304 pages. Version 1.5, August 2026.
 - [Founder Mode (book)](https://ghanemzadeh.com/book/): A practical book on how great founders stay close to product, people, judgment, and execution as companies scale.
