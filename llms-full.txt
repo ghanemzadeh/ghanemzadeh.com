@@ -1403,6 +1403,8 @@ Free. No spam. Unsubscribe in one click.
 
 ### Latest articles
 
+- [August 6, 2026 #### I Fact-Checked My Own Book. It Did Not Go Perfectly. What re-verifying every number in FDE revealed, what the $9 billion summer of forward deployment means, and what version 1.5 adds.](https://ghanemzadeh.substack.com/p/i-fact-checked-my-own-book-it-did?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
+
 - [August 5, 2026 #### Echo and Delta: The Two Modes of One Craft Palantir split the role in two for a reason. Most AI startups compress it into one person, and the discipline is knowing which mode you're in at any given moment.](https://ghanemzadeh.substack.com/p/echo-and-delta-the-two-modes-of-one?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
 - [July 31, 2026 #### The $29 question Pieter Levels, Fireship, and the end of the micro-SaaS playbook.](https://ghanemzadeh.substack.com/p/the-29-question?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
@@ -1424,8 +1426,6 @@ Free. No spam. Unsubscribe in one click.
 - [June 17, 2026 #### The Five Mistakes Every Forward Deployed AI Engagement Makes Operational wisdom from running engagements yourself, watching other operators run theirs, and seeing in-house teams attempt them. These five mistakes show up over and over.](https://ghanemzadeh.substack.com/p/the-five-mistakes-every-forward-deployed?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
 - [June 10, 2026 #### Forward Deployed Engineering Without the $250K Floor Why the hottest role in tech needs to exist in two sizes, and why most founder-led B2B SaaS companies are quietly being priced out of the one they actually need.](https://ghanemzadeh.substack.com/p/forward-deployed-engineering-without?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
-
-- [June 5, 2026 #### The Three Risk Tiers of AI Deployment Every AI workflow lives in one of three risk tiers. Most teams don’t know which one they’re shipping until something goes wrong. Here is the taxonomy.](https://ghanemzadeh.substack.com/p/the-three-risk-tiers-of-ai-deployment?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
 [All posts on Substack →](https://ghanemzadeh.substack.com/archive?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
