@@ -1403,6 +1403,8 @@ Free. No spam. Unsubscribe in one click.
 
 ### Latest articles
 
+- [August 19, 2026 #### Evals Are the New Spec In AI engineering, the evaluation set is the specification, and building the right one is the highest-leverage activity in any engagement.](https://ghanemzadeh.substack.com/p/evals-are-the-new-spec?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
+
 - [August 12, 2026 #### Validation Is Not Optional: The Three-Phase Engagement Scope, validate, deliver. The middle phase is the one everyone wants to skip, and the one that decides whether the engagement is worth attempting at all.](https://ghanemzadeh.substack.com/p/validation-is-not-optional-the-three?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
 - [August 6, 2026 #### I Fact-Checked My Own Book. It Did Not Go Perfectly. What re-verifying every number in FDE revealed, what the $9 billion summer of forward deployment means, and what version 1.5 adds.](https://ghanemzadeh.substack.com/p/i-fact-checked-my-own-book-it-did?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
@@ -1424,8 +1426,6 @@ Free. No spam. Unsubscribe in one click.
 - [July 1, 2026 #### Forward Deployed Engineering at $200/Hour The brutal math of fixed-price AI work, and why every operator who underprices this work goes broke profitably.](https://ghanemzadeh.substack.com/p/forward-deployed-engineering-at-200hour?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
 - [June 24, 2026 #### What Forward Deployed AI Engineering Actually Is The most important new role in B2B software is the one almost nobody can define correctly. By the end of this article, you will.](https://ghanemzadeh.substack.com/p/what-forward-deployed-ai-engineering?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
-
-- [June 17, 2026 #### The Five Mistakes Every Forward Deployed AI Engagement Makes Operational wisdom from running engagements yourself, watching other operators run theirs, and seeing in-house teams attempt them. These five mistakes show up over and over.](https://ghanemzadeh.substack.com/p/the-five-mistakes-every-forward-deployed?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
 [All posts on Substack →](https://ghanemzadeh.substack.com/archive?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
