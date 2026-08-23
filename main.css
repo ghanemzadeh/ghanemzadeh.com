@@ -2007,29 +2007,26 @@ main.afs-page {
   pointer-events: none;
 }
 
+/* Both renders are tight-cropped to the book, so equal img heights make the
+   two books read as the same size, bases aligned by the flex-end container. */
 .nl-hero__cover {
   position: relative;
   z-index: 1;
-  flex: 0 1 300px;
-  min-width: 0;
+  flex: 0 0 auto;
 }
 
-/* The FDE 3D render ships on its own near-black backdrop: fade its edges out
-   (nested masks, horizontal on the wrapper + vertical on the img) so the
-   backdrop melts into the page and the glow shows around the book. */
+/* The FDE 3D render ships on its own near-black backdrop: fade the slim
+   background margin out (nested masks, horizontal on the wrapper + vertical
+   on the img) so the backdrop melts into the page and the glow shows around
+   the book. Fade widths match the crop margin in cover-3d-tight.jpg. */
 .nl-hero__cover--fde {
-  flex-basis: 320px;
-  -webkit-mask-image: linear-gradient(to right, transparent, #000 8%, #000 94%, transparent);
-  mask-image: linear-gradient(to right, transparent, #000 8%, #000 94%, transparent);
+  -webkit-mask-image: linear-gradient(to right, transparent, #000 5%, #000 95%, transparent);
+  mask-image: linear-gradient(to right, transparent, #000 5%, #000 95%, transparent);
 }
 
 .nl-hero__cover--fde img {
-  -webkit-mask-image: linear-gradient(to bottom, transparent, #000 3%, #000 93%, transparent);
-  mask-image: linear-gradient(to bottom, transparent, #000 3%, #000 93%, transparent);
-}
-
-.nl-hero__cover--fm {
-  flex-basis: 286px;
+  -webkit-mask-image: linear-gradient(to bottom, transparent, #000 4%, #000 96%, transparent);
+  mask-image: linear-gradient(to bottom, transparent, #000 4%, #000 96%, transparent);
 }
 
 .nl-hero__cover--fm img {
@@ -2037,8 +2034,8 @@ main.afs-page {
 }
 
 .nl-hero__cover img {
-  width: 100%;
-  height: auto;
+  height: 460px;
+  width: auto;
   display: block;
 }
 
@@ -2250,8 +2247,12 @@ main.afs-page {
   }
 
   .nl-hero__covers {
-    gap: 22px;
+    gap: 20px;
     max-width: 340px;
+  }
+
+  .nl-hero__cover img {
+    height: 235px;
   }
 
   .nl-cards {
