@@ -105,7 +105,8 @@ for (const file of pages) {
   // 5. Internal links resolve.
   const bodyOnly = html.replace(/<script[\s\S]*?<\/script>/g, ' ');
   for (const m of bodyOnly.matchAll(/href="(\/[^"#]*)(#[^"]*)?"/g)) {
-    const [, path, fragment] = m;
+    const [, rawPath, fragment] = m;
+    const path = rawPath.split('?')[0]; // cache-busting query strings (e.g. /main.css?v=...) resolve to the bare file
     const target = urlToFile.get(path);
     if (!target) {
       // Non-page assets (favicons, stylesheets) resolve straight from disk.

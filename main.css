@@ -1,6 +1,10 @@
 /* Design tokens.
    Breakpoints are fixed at 480 / 768 / 1024 (media queries cannot read
-   custom properties without a build step, so this is a convention). */
+   custom properties without a build step, so this is a convention).
+
+   Cache busting: Cloudflare edge-caches this file for hours while HTML stays
+   fresh, so every page links it as /main.css?v=<date>. After editing this
+   file, bump that version on every page: grep -rl 'main.css?v=' --include='*.html' . */
 :root {
   color-scheme: dark;
 
