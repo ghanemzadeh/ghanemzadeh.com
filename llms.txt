@@ -32,7 +32,7 @@ The AI Feature Sprint is a 10-business-day engagement that ships one narrow AI w
 - [Books](https://ghanemzadeh.com/books/): Two books by Nasser Ghanemzadeh: Founder Mode and Forward Deployed AI Engineering.
 - [Forward Deployed AI Engineering (book)](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/): A working guide to the Forward Deployed AI Engineer role. 304 pages. Version 1.5, August 2026.
 - [Founder Mode (book)](https://ghanemzadeh.com/book/): A practical book on how great founders stay close to product, people, judgment, and execution as companies scale.
-- [Newsletter: Notes from the edge of building](https://ghanemzadeh.com/newsletter/): Weekly notes on Forward Deployed AI Engineering, building AI-native SaaS solo with Claude Code, and distribution without paid ads.
+- [Newsletter: Notes from the edge of building](https://ghanemzadeh.com/newsletter/): Subscribe and get the first two chapters of both books, Forward Deployed AI Engineering and Founder Mode, in your first email. Then weekly notes on Forward Deployed AI Engineering, building AI-native SaaS solo with Claude Code, and distribution without paid ads.
 
 ## Full content
 

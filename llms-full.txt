@@ -1387,21 +1387,51 @@ Build one narrow workflow with a named user, a clear input, and a clear output, 
 
 ---
 
-# Forward Deployed AI Engineering Newsletter | Nasser Ghanemzadeh
+# Free Chapters: Two Books in Your First Email | Nasser Ghanemzadeh
 
 URL: https://ghanemzadeh.com/newsletter/
 
-01 · The Newsletter
+01 · Free chapters
 
-## Notes from the edge of building
+## Read the first two chapters of both my books. Free.
 
-Weekly notes on building AI-native SaaS solo. Product, distribution, founder ops, and the unglamorous middle.
+Subscribe to Notes from the edge of building, my weekly newsletter, and I'll send you the opening chapters of *Forward Deployed AI Engineering* and *Founder Mode* in your first email. After that, one short note a week on building AI-native SaaS solo.
 
-Free. No spam. Unsubscribe in one click.
+Free. The chapters arrive in your first email. Unsubscribe in one click.
 
-02 · Latest
+02 · What's inside
 
-### Latest articles
+### Your first email
+
+Two books, four opening chapters, one email. This is what lands in your inbox the moment you subscribe:
+
+- **From [Forward Deployed AI Engineering](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/).** The first two chapters of the 304-page working guide to the role OpenAI and Anthropic put on the map.
+
+- **From [Founder Mode](https://ghanemzadeh.com/book/).** The first two chapters on how the great companies are actually built.
+
+There's no checkout and no download page to dig through. The chapters are just there, in the first email.
+
+03 · Then, every week
+
+### One email a week
+
+The newsletter is called Notes from the edge of building. The edge is where I work: building AI-native SaaS solo with Claude Code. No frameworks borrowed from Twitter threads. No promises of overnight scale. Just what is working, what is not, and what I am trying next, across five topics:
+
+- **Forward Deployed AI Engineering in practice.** What works in the field, what the labs are getting right and wrong.
+
+- **Building AI-native products solo.** Vectig as the live case study, including the failures, plus lessons from Sengi, an earlier build I paused.
+
+- **Distribution without paid ads.** LinkedIn, warm outreach, the referrer network.
+
+- **Founder operations.** Cash flow, hiring, scope, the unglamorous middle.
+
+- **Claude Code workflows.** The specific patterns that make a one-person shop ship like a small team.
+
+Get the free chapters
+
+04 · The receipts
+
+### I publish every week
 
 - [August 19, 2026 #### Evals Are the New Spec In AI engineering, the evaluation set is the specification, and building the right one is the highest-leverage activity in any engagement.](https://ghanemzadeh.substack.com/p/evals-are-the-new-spec?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
@@ -1429,46 +1459,16 @@ Free. No spam. Unsubscribe in one click.
 
 [All posts on Substack →](https://ghanemzadeh.substack.com/archive?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
-03 · What you'll get
-
-### What you'll get
-
-A short, weekly email from someone in the trenches building AI-native SaaS solo with Claude Code. No frameworks borrowed from Twitter threads. No promises of overnight scale. Just what is working, what is not, and what I am trying next.
-
-04 · What I write about
-
-### Five topics
-
-- **Forward Deployed AI Engineering in practice.** What works in the field, what the labs are getting right and wrong.
-
-- **Building AI-native products solo.** Vectig as the live case study, including the failures, plus lessons from Sengi, an earlier build I paused.
-
-- **Distribution without paid ads.** LinkedIn, warm outreach, the referrer network.
-
-- **Founder operations.** Cash flow, hiring, scope, the unglamorous middle.
-
-- **Claude Code workflows.** The specific patterns that make a one-person shop ship like a small team.
-
-05 · A taste
-
-### A taste of the voice
-
-> One narrow workflow. Not a platform, not an AI strategy, not a copilot, not a chatbot the marketing team thought of. One specific use case with a clear input, a clear output, and a person on the customer's team who will actually use it. Examples we'll come back to: an investor update assistant, a customer summary generator, a support ticket summarizer.
-
-> The workflow lives inside the customer's existing software. A feature in their app, an internal admin tool, or a production-ready pull request their team can merge. Not a standalone tool we host. Not a demo on a Loom. Code in their repo. End-to-end.
-
-> From the Forward Deployed AI Onboarding Handbook. Representative of this newsletter's voice.
-
-06 · About
+05 · Who's writing this
 
 ### About
 
-I'm Nasser Ghanemzadeh. 17+ years building products and companies across AI, SaaS, and fintech. Previously CEO/CPO at Nivo (acquired). Currently building Vectig solo with Claude Code, and running a 10-business-day [AI Feature Sprint](https://ghanemzadeh.com/ai-feature-sprint/) for B2B SaaS teams. Also wrote [Forward Deployed AI Engineering](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/) and [Founder Mode](https://ghanemzadeh.com/book/).
+I'm Nasser Ghanemzadeh. 17+ years building products and companies across AI, SaaS, and fintech. As CEO and later CPO at Nivo, I shipped AI-powered applications that grew to 200K+ users and 450% revenue growth before the company was acquired. My work has been covered in Forbes, TechCrunch, Al Jazeera, and HuffPost.
 
-More on the [home page](https://ghanemzadeh.com/).
+These days I build Vectig solo with Claude Code and run a 10-business-day [AI Feature Sprint](https://ghanemzadeh.com/ai-feature-sprint/) for B2B SaaS teams. The two books came out of that work. More on the [home page](https://ghanemzadeh.com/).
 
-07 · Get the next one
+06 · Get the chapters
 
 ### Subscribe
 
-One email a week. Built for founders and operators shipping AI-native products in small teams.
+Your first email has the chapters in it. Then one email a week, built for founders and operators shipping AI-native products in small teams.

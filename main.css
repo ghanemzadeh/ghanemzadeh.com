@@ -1908,45 +1908,70 @@ main.afs-page {
   margin-bottom: 8px;
 }
 
-/* Newsletter topic list and excerpt block */
+/* Newsletter topic list */
 .nl-topics {
   margin: 8px 0 0;
 }
 
-.nl-excerpt {
-  background: var(--bg-elevated);
-  border-left: 3px solid var(--accent);
-  padding: 22px 26px;
-  margin: 14px 0;
-  border-radius: 0 var(--radius) var(--radius) 0;
-  font-family: var(--font-display);
-  font-weight: 500;
-  font-size: 19px;
-  line-height: 1.55;
-  color: var(--text);
+/* Newsletter landing hero: offer headline + two book covers */
+.nl-hero .container {
+  max-width: var(--container-wide);
 }
 
-.nl-excerpt p {
-  margin: 0 0 14px;
-  color: var(--text);
+.nl-hero__grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 36px;
+  align-items: center;
 }
 
-.nl-excerpt p:last-of-type { margin-bottom: 18px; }
-
-.nl-excerpt__attr {
-  font-family: var(--font-sans);
-  font-size: 13px;
-  color: var(--text-soft);
-  letter-spacing: 0.01em;
+.nl-hero__covers {
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 18px;
+  max-width: 340px;
+  margin: 0 auto;
 }
 
-.nl-excerpt__attr cite {
-  font-style: normal;
-  color: var(--text);
+.nl-hero__covers::before {
+  content: "";
+  position: absolute;
+  inset: -12% -16%;
+  background: radial-gradient(closest-side, var(--accent-glow), rgba(200, 154, 62, 0.05) 55%, transparent 78%);
+  z-index: -1;
+  pointer-events: none;
+}
+
+.nl-hero__cover {
+  flex: 1 1 0;
+  min-width: 0;
+  filter: drop-shadow(0 16px 24px rgba(0, 0, 0, 0.5));
+}
+
+.nl-hero__cover img {
+  width: 100%;
+  height: auto;
+}
+
+.nl-hero .email-pill {
+  max-width: 520px;
+}
+
+@media (min-width: 768px) {
+  .nl-hero__grid {
+    grid-template-columns: 400px minmax(0, 1fr);
+    gap: 56px;
+  }
+
+  .nl-hero__covers {
+    max-width: 400px;
+    margin: 0;
+  }
 }
 
 @media (max-width: 480px) {
-  .nl-excerpt { padding: 16px 18px; font-size: 17px; }
   .afs-rubric { font-size: 14px; }
   .afs-rubric th, .afs-rubric td { padding: 10px; }
   .afs-rubric tbody th { font-size: 20px; width: 50px; }
