@@ -1391,7 +1391,7 @@ Build one narrow workflow with a named user, a clear input, and a clear output, 
 
 URL: https://ghanemzadeh.com/newsletter/
 
-01 · Free chapters
+Two books · Four chapters · Free
 
 ## Read the first two chapters of both my books. Free.
 
@@ -1405,9 +1405,8 @@ Free. The chapters arrive in your first email. Unsubscribe in one click.
 
 Two books, four opening chapters, one email. This is what lands in your inbox the moment you subscribe:
 
-- **From [Forward Deployed AI Engineering](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/).** The first two chapters of the 304-page working guide to the role OpenAI and Anthropic put on the map.
-
-- **From [Founder Mode](https://ghanemzadeh.com/book/).** The first two chapters on how the great companies are actually built.
+[Chapters 1 and 2 #### Forward Deployed AI Engineering The first two chapters of the 304-page working guide to the role OpenAI and Anthropic put on the map.](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/)
+[Chapters 1 and 2 #### Founder Mode The first two chapters on how the great companies are actually built.](https://ghanemzadeh.com/book/)
 
 There's no checkout and no download page to dig through. The chapters are just there, in the first email.
 
@@ -1415,23 +1414,25 @@ There's no checkout and no download page to dig through. The chapters are just t
 
 ### One email a week
 
-The newsletter is called Notes from the edge of building. The edge is where I work: building AI-native SaaS solo with Claude Code. No frameworks borrowed from Twitter threads. No promises of overnight scale. Just what is working, what is not, and what I am trying next, across five topics:
-
-- **Forward Deployed AI Engineering in practice.** What works in the field, what the labs are getting right and wrong.
-
-- **Building AI-native products solo.** Vectig as the live case study, including the failures, plus lessons from Sengi, an earlier build I paused.
-
-- **Distribution without paid ads.** LinkedIn, warm outreach, the referrer network.
-
-- **Founder operations.** Cash flow, hiring, scope, the unglamorous middle.
-
-- **Claude Code workflows.** The specific patterns that make a one-person shop ship like a small team.
+The newsletter is called Notes from the edge of building. The edge is where I work: building AI-native SaaS solo with Claude Code. No frameworks borrowed from Twitter threads. No promises of overnight scale. Just what is working, what is not, and what I am trying next.
 
 Get the free chapters
+
+- 01 **Forward Deployed AI Engineering in practice.** What works in the field, what the labs are getting right and wrong.
+
+- 02 **Building AI-native products solo.** Vectig as the live case study, including the failures, plus lessons from Sengi, an earlier build I paused.
+
+- 03 **Distribution without paid ads.** LinkedIn, warm outreach, the referrer network.
+
+- 04 **Founder operations.** Cash flow, hiring, scope, the unglamorous middle.
+
+- 05 **Claude Code workflows.** The specific patterns that make a one-person shop ship like a small team.
 
 04 · The receipts
 
 ### I publish every week
+
+[All posts on Substack →](https://ghanemzadeh.substack.com/archive?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
 - [August 19, 2026 #### Evals Are the New Spec In AI engineering, the evaluation set is the specification, and building the right one is the highest-leverage activity in any engagement.](https://ghanemzadeh.substack.com/p/evals-are-the-new-spec?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
@@ -1457,18 +1458,18 @@ Get the free chapters
 
 - [June 24, 2026 #### What Forward Deployed AI Engineering Actually Is The most important new role in B2B software is the one almost nobody can define correctly. By the end of this article, you will.](https://ghanemzadeh.substack.com/p/what-forward-deployed-ai-engineering?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
-[All posts on Substack →](https://ghanemzadeh.substack.com/archive?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
-
 05 · Who's writing this
 
 ### About
 
-I'm Nasser Ghanemzadeh. 17+ years building products and companies across AI, SaaS, and fintech. As CEO and later CPO at Nivo, I shipped AI-powered applications that grew to 200K+ users and 450% revenue growth before the company was acquired. My work has been covered in Forbes, TechCrunch, Al Jazeera, and HuffPost.
+I'm Nasser Ghanemzadeh. 17+ years building products and companies across AI, SaaS, and fintech. As CEO and later CPO at Nivo, I shipped AI-powered applications that grew to 200K+ users and 450% revenue growth before the company was acquired.
 
 These days I build Vectig solo with Claude Code and run a 10-business-day [AI Feature Sprint](https://ghanemzadeh.com/ai-feature-sprint/) for B2B SaaS teams. The two books came out of that work. More on the [home page](https://ghanemzadeh.com/).
 
+Forbes · TechCrunch · Al Jazeera · HuffPost
+
 06 · Get the chapters
 
-### Subscribe
+### Your first email has the chapters in it.
 
-Your first email has the chapters in it. Then one email a week, built for founders and operators shipping AI-native products in small teams.
+Then one email a week, built for founders and operators shipping AI-native products in small teams.

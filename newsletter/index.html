@@ -105,7 +105,7 @@
   }
   </script>
 </head>
-<body>
+<body class="nl-page">
   <!-- Google Tag Manager (noscript) -->
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5K8NKTCG"
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -126,67 +126,92 @@
 
     <header class="hero afs-hero nl-hero">
       <div class="container">
-        <div class="nl-hero__grid">
-          <div class="nl-hero__covers">
-            <div class="nl-hero__cover">
-              <picture>
-                <source type="image/jpeg" srcset="/assets/book/fde/cover.jpg">
-                <img src="/assets/book/fde/cover.png" alt="Forward Deployed AI Engineering book cover" width="640" height="960" fetchpriority="high" decoding="async" loading="eager">
-              </picture>
-            </div>
-            <div class="nl-hero__cover">
-              <picture>
-                <source type="image/webp" srcset="/assets/book/cover-transparent-tight.webp">
-                <img src="/assets/book/cover-transparent-tight.png" alt="Founder Mode book cover" width="427" height="687" fetchpriority="high" decoding="async" loading="eager">
-              </picture>
-            </div>
+        <p class="eyebrow-num">Two books · Four chapters · Free</p>
+        <h1 class="t-display">Read the first two chapters of both my books. <em>Free.</em></h1>
+        <p class="afs-subhead">Subscribe to Notes from the edge of building, my weekly newsletter, and I'll send you the opening chapters of <em>Forward Deployed AI Engineering</em> and <em>Founder Mode</em> in your first email. After that, one short note a week on building AI-native SaaS solo.</p>
+        <div class="nl-hero__covers">
+          <div class="nl-hero__cover nl-hero__cover--fde">
+            <picture>
+              <source type="image/jpeg" srcset="/assets/book/fde/cover.jpg">
+              <img src="/assets/book/fde/cover.png" alt="Forward Deployed AI Engineering book cover" width="640" height="960" fetchpriority="high" decoding="async" loading="eager">
+            </picture>
           </div>
-          <div>
-            <p class="eyebrow-num">01 · Free chapters</p>
-            <h1 class="t-display">Read the first two chapters of both my books. Free.</h1>
-            <p class="afs-subhead">Subscribe to Notes from the edge of building, my weekly newsletter, and I'll send you the opening chapters of <em>Forward Deployed AI Engineering</em> and <em>Founder Mode</em> in your first email. After that, one short note a week on building AI-native SaaS solo.</p>
-            <form class="email-pill" data-substack-redirect data-utm-medium="newsletter_hero">
-              <label class="visually-hidden" for="sub-email-newsletter">Email address</label>
-              <input id="sub-email-newsletter" type="email" name="email" placeholder="Your email..." required autocomplete="email">
-              <button type="submit">Send me the chapters</button>
-            </form>
-            <p class="form-note">Free. The chapters arrive in your first email. Unsubscribe in one click.</p>
+          <div class="nl-hero__cover nl-hero__cover--fm">
+            <picture>
+              <source type="image/webp" srcset="/assets/book/cover-transparent-tight.webp">
+              <img src="/assets/book/cover-transparent-tight.png" alt="Founder Mode book cover" width="427" height="687" fetchpriority="high" decoding="async" loading="eager">
+            </picture>
           </div>
         </div>
+        <form class="email-pill" data-substack-redirect data-utm-medium="newsletter_hero">
+          <label class="visually-hidden" for="sub-email-newsletter">Email address</label>
+          <input id="sub-email-newsletter" type="email" name="email" placeholder="Your email..." required autocomplete="email">
+          <button type="submit">Send me the chapters</button>
+        </form>
+        <p class="form-note">Free. The chapters arrive in your first email. Unsubscribe in one click.</p>
       </div>
     </header>
 
     <main class="container afs-page">
-      <section class="section">
+      <section class="section afs-section--wide">
         <p class="eyebrow-num">02 · What's inside</p>
         <h2 class="t-display">Your first email</h2>
         <p>Two books, four opening chapters, one email. This is what lands in your inbox the moment you subscribe:</p>
-        <ul class="afs-list-tight afs-checklist nl-topics">
-          <li><strong>From <a href="/books/forward-deployed-ai-engineering/"><em>Forward Deployed AI Engineering</em></a>.</strong> The first two chapters of the 304-page working guide to the role OpenAI and Anthropic put on the map.</li>
-          <li><strong>From <a href="/book/"><em>Founder Mode</em></a>.</strong> The first two chapters on how the great companies are actually built.</li>
-        </ul>
-        <p>There's no checkout and no download page to dig through. The chapters are just there, in the first email.</p>
-      </section>
-
-      <section class="section">
-        <p class="eyebrow-num">03 · Then, every week</p>
-        <h2 class="t-display">One email a week</h2>
-        <p>The newsletter is called Notes from the edge of building. The edge is where I work: building AI-native SaaS solo with Claude Code. No frameworks borrowed from Twitter threads. No promises of overnight scale. Just what is working, what is not, and what I am trying next, across five topics:</p>
-        <ul class="afs-list-tight afs-checklist nl-topics">
-          <li><strong>Forward Deployed AI Engineering in practice.</strong> What works in the field, what the labs are getting right and wrong.</li>
-          <li><strong>Building AI-native products solo.</strong> Vectig as the live case study, including the failures, plus lessons from Sengi, an earlier build I paused.</li>
-          <li><strong>Distribution without paid ads.</strong> LinkedIn, warm outreach, the referrer network.</li>
-          <li><strong>Founder operations.</strong> Cash flow, hiring, scope, the unglamorous middle.</li>
-          <li><strong>Claude Code workflows.</strong> The specific patterns that make a one-person shop ship like a small team.</li>
-        </ul>
-        <div class="cta-row">
-          <a class="cta cta--primary" href="#subscribe">Get the free chapters</a>
+        <div class="nl-cards">
+          <a class="nl-card" href="/books/forward-deployed-ai-engineering/">
+            <picture>
+              <source type="image/jpeg" srcset="/assets/book/fde/cover.jpg">
+              <img src="/assets/book/fde/cover.png" alt="Forward Deployed AI Engineering book cover" width="76" height="114" decoding="async" loading="lazy">
+            </picture>
+            <div>
+              <p class="nl-card__kicker">Chapters 1 and 2</p>
+              <h3>Forward Deployed AI Engineering</h3>
+              <p>The first two chapters of the 304-page working guide to the role OpenAI and Anthropic put on the map.</p>
+            </div>
+          </a>
+          <a class="nl-card" href="/book/">
+            <picture>
+              <source type="image/webp" srcset="/assets/book/cover-transparent-tight.webp">
+              <img src="/assets/book/cover-transparent-tight.png" alt="Founder Mode book cover" width="72" height="116" decoding="async" loading="lazy">
+            </picture>
+            <div>
+              <p class="nl-card__kicker">Chapters 1 and 2</p>
+              <h3>Founder Mode</h3>
+              <p>The first two chapters on how the great companies are actually built.</p>
+            </div>
+          </a>
         </div>
+        <p class="nl-aside">There's no checkout and no download page to dig through. The chapters are just there, in the first email.</p>
       </section>
 
-      <section class="section">
-        <p class="eyebrow-num">04 · The receipts</p>
-        <h2 class="t-display">I publish every week</h2>
+      <section class="section afs-section--wide nl-band">
+        <div class="nl-band__intro">
+          <p class="eyebrow-num">03 · Then, every week</p>
+          <h2 class="t-display">One email a week</h2>
+          <p>The newsletter is called Notes from the edge of building. The edge is where I work: building AI-native SaaS solo with Claude Code. No frameworks borrowed from Twitter threads. No promises of overnight scale. Just what is working, what is not, and what I am trying next.</p>
+          <div class="cta-row">
+            <a class="cta cta--primary" href="#subscribe">Get the free chapters</a>
+          </div>
+        </div>
+        <ol class="nl-topics-list">
+          <li><span class="nl-num" aria-hidden="true">01</span><p><strong>Forward Deployed AI Engineering in practice.</strong> What works in the field, what the labs are getting right and wrong.</p></li>
+          <li><span class="nl-num" aria-hidden="true">02</span><p><strong>Building AI-native products solo.</strong> Vectig as the live case study, including the failures, plus lessons from Sengi, an earlier build I paused.</p></li>
+          <li><span class="nl-num" aria-hidden="true">03</span><p><strong>Distribution without paid ads.</strong> LinkedIn, warm outreach, the referrer network.</p></li>
+          <li><span class="nl-num" aria-hidden="true">04</span><p><strong>Founder operations.</strong> Cash flow, hiring, scope, the unglamorous middle.</p></li>
+          <li><span class="nl-num" aria-hidden="true">05</span><p><strong>Claude Code workflows.</strong> The specific patterns that make a one-person shop ship like a small team.</p></li>
+        </ol>
+      </section>
+
+      <section class="section afs-section--wide">
+        <div class="nl-articles__head">
+          <div>
+            <p class="eyebrow-num">04 · The receipts</p>
+            <h2 class="t-display">I publish every week</h2>
+          </div>
+          <p class="nl-articles__more">
+            <a href="https://ghanemzadeh.substack.com/archive?utm_source=ghanemzadeh.com&amp;utm_medium=newsletter_page" target="_blank" rel="noopener">All posts on Substack <span aria-hidden="true">→</span></a>
+          </p>
+        </div>
         <ol class="nl-articles">
           <!-- newsletter:articles:start -->
           <!-- Generated by scripts/update-newsletter.mjs from Substack RSS. Do not edit by hand. -->
@@ -300,27 +325,31 @@
           </li>
           <!-- newsletter:articles:end -->
         </ol>
-        <p class="nl-articles__more">
-          <a href="https://ghanemzadeh.substack.com/archive?utm_source=ghanemzadeh.com&amp;utm_medium=newsletter_page" target="_blank" rel="noopener">All posts on Substack <span aria-hidden="true">→</span></a>
-        </p>
       </section>
 
-      <section class="section">
-        <p class="eyebrow-num">05 · Who's writing this</p>
-        <h2 class="t-display">About</h2>
-        <p>I'm Nasser Ghanemzadeh. 17+ years building products and companies across AI, SaaS, and fintech. As CEO and later CPO at Nivo, I shipped AI-powered applications that grew to 200K+ users and 450% revenue growth before the company was acquired. My work has been covered in Forbes, TechCrunch, Al Jazeera, and HuffPost.</p>
-        <p>These days I build Vectig solo with Claude Code and run a 10-business-day <a href="/ai-feature-sprint/">AI Feature Sprint</a> for B2B SaaS teams. The two books came out of that work. More on the <a href="/">home page</a>.</p>
+      <section class="section afs-section--wide nl-band">
+        <div class="nl-band__intro">
+          <p class="eyebrow-num">05 · Who's writing this</p>
+          <h2 class="t-display">About</h2>
+        </div>
+        <div>
+          <p>I'm Nasser Ghanemzadeh. 17+ years building products and companies across AI, SaaS, and fintech. As CEO and later CPO at Nivo, I shipped AI-powered applications that grew to 200K+ users and 450% revenue growth before the company was acquired.</p>
+          <p>These days I build Vectig solo with Claude Code and run a 10-business-day <a href="/ai-feature-sprint/">AI Feature Sprint</a> for B2B SaaS teams. The two books came out of that work. More on the <a href="/">home page</a>.</p>
+          <p class="nl-press"><span>Forbes</span><span aria-hidden="true">·</span><span>TechCrunch</span><span aria-hidden="true">·</span><span>Al Jazeera</span><span aria-hidden="true">·</span><span>HuffPost</span></p>
+        </div>
       </section>
 
-      <section class="section afs-final-cta" id="subscribe">
-        <p class="eyebrow-num">06 · Get the chapters</p>
-        <h2 class="t-display">Subscribe</h2>
-        <p>Your first email has the chapters in it. Then one email a week, built for founders and operators shipping AI-native products in small teams.</p>
-        <form class="email-pill" data-substack-redirect data-utm-medium="newsletter_final">
-          <label class="visually-hidden" for="sub-email-newsletter-final">Email address</label>
-          <input id="sub-email-newsletter-final" type="email" name="email" placeholder="Your email..." required autocomplete="email">
-          <button type="submit">Send me the chapters</button>
-        </form>
+      <section class="section afs-section--wide afs-final-cta nl-final" id="subscribe">
+        <div class="nl-final__panel">
+          <p class="eyebrow-num">06 · Get the chapters</p>
+          <h2 class="t-display">Your first email has the chapters in it.</h2>
+          <p>Then one email a week, built for founders and operators shipping AI-native products in small teams.</p>
+          <form class="email-pill" data-substack-redirect data-utm-medium="newsletter_final">
+            <label class="visually-hidden" for="sub-email-newsletter-final">Email address</label>
+            <input id="sub-email-newsletter-final" type="email" name="email" placeholder="Your email..." required autocomplete="email">
+            <button type="submit">Send me the chapters</button>
+          </form>
+        </div>
       </section>
     </main>
 
