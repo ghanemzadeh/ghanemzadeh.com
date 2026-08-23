@@ -2010,9 +2010,18 @@ main.afs-page {
   min-width: 0;
 }
 
+/* The FDE 3D render ships on its own near-black backdrop: fade its edges out
+   (nested masks, horizontal on the wrapper + vertical on the img) so the
+   backdrop melts into the page and the glow shows around the book. */
+.nl-hero__cover--fde {
+  flex-basis: 320px;
+  -webkit-mask-image: linear-gradient(to right, transparent, #000 8%, #000 94%, transparent);
+  mask-image: linear-gradient(to right, transparent, #000 8%, #000 94%, transparent);
+}
+
 .nl-hero__cover--fde img {
-  border-radius: 4px;
-  box-shadow: 0 24px 40px rgba(0, 0, 0, 0.55);
+  -webkit-mask-image: linear-gradient(to bottom, transparent, #000 3%, #000 93%, transparent);
+  mask-image: linear-gradient(to bottom, transparent, #000 3%, #000 93%, transparent);
 }
 
 .nl-hero__cover--fm {
