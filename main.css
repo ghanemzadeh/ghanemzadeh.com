@@ -61,19 +61,6 @@
   --radius-pill: 999px;
 }
 
-/* Book page palette flip via <body class="book-page"> */
-.book-page {
-  --bg: #0e1729;
-  --bg-elevated: #142039;
-  --border: rgba(200, 154, 62, 0.18);
-  --text: #d8cfba;
-  --text-strong: #f4ede0;
-  --text-muted: #b8ad94;
-  --text-soft: #8a8270;
-  --text-dim: #5e5847;
-  --accent-soft: rgba(200, 154, 62, 0.16);
-}
-
 @media (max-width: 768px) {
   :root { --flow-section: var(--space-7); }
 }
@@ -115,15 +102,29 @@ body {
   line-height: 1.1;
 }
 
+/* Italic accent word inside any hero headline */
+.hero h1 em {
+  font-style: italic;
+  color: var(--accent);
+}
+
 /* Numbered or single-segment section labels (eyebrow above a serif headline) */
 .eyebrow-num {
   font-family: var(--font-sans);
   font-size: 13px;
-  font-weight: 600;
-  letter-spacing: 0.12em;
+  font-weight: 500;
+  letter-spacing: 0.2em;
   text-transform: uppercase;
-  color: var(--text-soft);
+  color: var(--accent);
   margin-bottom: 12px;
+}
+
+.eyebrow-num a {
+  color: inherit;
+}
+
+.eyebrow-num a:hover {
+  color: var(--accent-hover);
 }
 
 .form-note {
@@ -276,24 +277,6 @@ img {
   margin-bottom: 18px;
   padding-bottom: 0;
   border-bottom: none;
-}
-
-/* Quiet gold tick above section headings; sections that already carry an
-   .eyebrow-num label, and card-style h2s, suppress it. */
-.section h2::before {
-  content: "";
-  display: block;
-  width: 28px;
-  height: 2px;
-  background: var(--accent-dim);
-  margin-bottom: 14px;
-}
-
-.eyebrow-num + h2::before,
-.afs-pricing-card h2::before,
-.afs-fit-grid > .section h2::before,
-.book-card h2::before {
-  display: none;
 }
 
 .section p {
@@ -644,8 +627,8 @@ img {
   margin: 0;
   padding: 18px 20px;
   background: var(--bg-elevated);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 12px;
   font-size: 15px;
   line-height: 1.55;
   color: var(--text-muted);
@@ -785,10 +768,12 @@ img {
   margin: 0 0 10px;
 }
 .afs-press__logos {
-  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
-  font-size: 18px;
-  color: var(--text-strong);
-  letter-spacing: 0.02em;
+  font-family: var(--font-sans);
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--text-dim);
   margin: 0;
 }
 
@@ -801,10 +786,6 @@ img {
   -webkit-backdrop-filter: blur(8px);
   backdrop-filter: blur(8px);
   border-bottom: 1px solid var(--border);
-}
-
-.book-page .site-header {
-  background-color: rgba(14, 23, 41, 0.85);
 }
 
 .site-header .container {
@@ -891,9 +872,9 @@ img {
   display: flex;
   align-items: stretch;
   width: 100%;
-  border: 1px solid var(--accent);
+  border: 1px solid rgba(255, 255, 255, 0.14);
   border-radius: 999px;
-  background: #fafafa;
+  background: var(--bg-elevated);
   overflow: hidden;
   transition: border-color 0.2s, box-shadow 0.2s;
 }
@@ -913,11 +894,11 @@ img {
   padding: 12px 18px;
   font: inherit;
   font-size: 16px;
-  color: #1a1a1a;
+  color: var(--text-strong);
 }
 
 .email-pill input[type="email"]::placeholder {
-  color: var(--text-soft);
+  color: var(--text-dim);
 }
 
 .email-pill button {
@@ -926,8 +907,9 @@ img {
   color: var(--on-accent);
   font: inherit;
   font-size: 15px;
-  font-weight: 600;
+  font-weight: 700;
   letter-spacing: 0.01em;
+  white-space: nowrap;
   padding: 12px 22px;
   cursor: pointer;
   transition: background 0.2s, color 0.2s;
@@ -953,14 +935,13 @@ img {
   display: block;
   padding: 20px 24px;
   background: var(--bg-elevated);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  transition: border-color 0.2s, transform 0.2s;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 12px;
+  transition: border-color 0.2s;
 }
 
 .post-card:hover {
-  border-color: var(--accent);
-  transform: translateY(-2px);
+  border-color: var(--accent-dim);
 }
 
 .post-card__date {
@@ -1246,9 +1227,9 @@ img {
 .diag {
   max-width: 720px;
   margin: 24px auto 12px;
-  background: #0d1117;
+  background: #141414;
   border: 1px solid rgba(255, 255, 255, 0.08);
-  border-radius: 10px;
+  border-radius: 12px;
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
   overflow: hidden;
   font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
@@ -1259,7 +1240,7 @@ img {
   align-items: center;
   gap: 8px;
   padding: 10px 14px;
-  background: #161b22;
+  background: var(--bg-elevated);
   border-bottom: 1px solid rgba(255, 255, 255, 0.06);
 }
 .diag-dot {
@@ -1624,8 +1605,8 @@ select:focus-visible {
   flex-direction: column;
   padding: 24px 26px;
   background: var(--bg-elevated);
-  border: 1px solid var(--border);
-  border-radius: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 12px;
   margin-bottom: 0;
 }
 
@@ -1678,8 +1659,8 @@ select:focus-visible {
   margin-bottom: 0;
   padding: 22px 24px;
   background: var(--bg-elevated);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 12px;
 }
 
 .afs-fit-grid > .section h2 {
@@ -1805,14 +1786,14 @@ main.afs-page {
 }
 
 .book-card {
-  border: 1px solid var(--border);
-  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 12px;
   overflow: hidden;
   background: var(--bg-elevated);
-  transition: border-color 0.2s, transform 0.2s;
+  transition: border-color 0.2s;
 }
 
-.book-card:hover { border-color: var(--accent); transform: translateY(-2px); }
+.book-card:hover { border-color: var(--accent-dim); }
 
 .book-card__link {
   display: grid;
@@ -1935,31 +1916,10 @@ main.afs-page {
   margin-bottom: 8px;
 }
 
-/* Newsletter landing, "gilded editorial": centered hero, gold eyebrows, dark pill forms */
-.nl-page .eyebrow-num {
-  color: var(--accent);
-  letter-spacing: 0.2em;
-  font-weight: 500;
-}
-
-.nl-page .email-pill {
-  background: var(--bg-elevated);
-  border-color: rgba(255, 255, 255, 0.14);
-}
-
-.nl-page .email-pill input[type="email"] {
-  color: var(--text-strong);
-}
-
-.nl-page .email-pill input[type="email"]::placeholder {
-  color: var(--text-dim);
-}
-
-.nl-page .email-pill button {
-  font-weight: 700;
-  white-space: nowrap;
-}
-
+/* Gilded editorial components (nl-*): the site-wide component set.
+   First shipped on /newsletter/, now the default vocabulary. The gold
+   eyebrow and dark pill live in the base rules above. Never rename
+   nl-article* classes; scripts/update-newsletter.mjs generates them. */
 .nl-hero {
   text-align: center;
   padding: 72px 0 96px;
@@ -1968,6 +1928,11 @@ main.afs-page {
 
 .nl-hero .container {
   max-width: 900px;
+}
+
+/* Homepage variant: no book covers in the hero, so less bottom air. */
+.nl-hero--compact {
+  padding: 64px 0;
 }
 
 .nl-hero h1 {
@@ -2290,8 +2255,6 @@ main.afs-page {
     animation-iteration-count: 1 !important;
   }
 
-  .post-card:hover,
-  .book-card:hover,
   .cta:hover, .afs-cta:hover,
   .cta--primary:hover, .afs-cta-primary:hover,
   .cta--secondary:hover, .afs-cta-secondary:hover,
