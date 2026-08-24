@@ -193,13 +193,6 @@ img {
   margin-bottom: 20px;
 }
 
-.hero-supporting {
-  font-size: 15px;
-  color: var(--text-soft);
-  margin: 0 auto 14px;
-  max-width: 580px;
-}
-
 .hero-proof {
   font-size: 13px;
   color: var(--text-soft);
