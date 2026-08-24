@@ -193,34 +193,6 @@ img {
   margin-bottom: 20px;
 }
 
-/* Homepage hero hierarchy: kicker, name, lede, CTAs, then supporting lines. */
-.hero-kicker {
-  color: var(--accent);
-  font-size: 12px;
-  letter-spacing: 0.16em;
-  margin-bottom: 10px;
-}
-
-.hero-kicker + h1 {
-  font-size: var(--fs-hero);
-  margin-bottom: 12px;
-}
-
-.hero .hero-lede {
-  font-size: var(--fs-h3);
-  line-height: 1.5;
-  color: var(--text-strong);
-  max-width: 30em;
-  margin: 0 auto 24px;
-}
-
-.hero-meta {
-  font-size: var(--fs-small);
-  color: var(--text-muted);
-  margin: 0 auto 6px;
-  max-width: 580px;
-}
-
 .hero-supporting {
   font-size: 15px;
   color: var(--text-soft);
@@ -290,26 +262,6 @@ img {
 
 .section p strong {
   color: var(--text);
-}
-
-/* Homepage newsletter band: elevated so it reads as the primary subscribe
-   moment, distinct from the utilitarian footer form. */
-.subscribe-band {
-  background: var(--bg-elevated);
-  border: 1px solid var(--border);
-  border-top: 2px solid var(--accent-dim);
-  border-radius: var(--radius);
-  padding: var(--space-6) var(--space-6) var(--space-5);
-}
-
-.subscribe-band h2::before {
-  display: none;
-}
-
-@media (max-width: 480px) {
-  .subscribe-band {
-    padding: var(--space-5) var(--space-4) var(--space-4);
-  }
 }
 
 /* Rich site footer */
