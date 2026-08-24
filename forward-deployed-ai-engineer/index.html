@@ -95,7 +95,7 @@
         "author": { "@id": "https://ghanemzadeh.com/#nasser" },
         "publisher": { "@id": "https://ghanemzadeh.com/#nasser" },
         "datePublished": "2026-06-01T00:00:00+00:00",
-        "dateModified": "2026-08-10T00:00:00+00:00",
+        "dateModified": "2026-08-24T00:00:00+00:00",
         "inLanguage": "en",
         "about": { "@id": "https://ghanemzadeh.com/forward-deployed-ai-engineer/#term" },
         "mainEntityOfPage": "https://ghanemzadeh.com/forward-deployed-ai-engineer/"
@@ -178,7 +178,7 @@
 
     <header class="hero afs-hero">
       <div class="container">
-        <p class="eyebrow">The role</p>
+        <p class="eyebrow-num">The role</p>
         <h1>What Is a Forward Deployed Engineer?</h1>
         <p class="lede"><strong>A Forward Deployed Engineer (FDE) is a software engineer who sits at the customer's site and fills the gap between what the product does and what the customer needs, shipping working software, today usually an AI workflow, directly into the customer's systems.</strong></p>
         <p>That definition comes from Bob McGrew, who spent 11 years at Palantir, where the role was invented, and later led research at OpenAI. This page covers what the work looks like, what it pays, who hires for it under which titles, and how to get in.</p>
@@ -190,10 +190,10 @@
       </div>
     </header>
 
-    <main class="container">
+    <main class="container afs-page">
       <section class="section">
         <h2>What does a Forward Deployed Engineer do?</h2>
-        <p class="lede">An FDE takes one narrow use case from a vague idea to a working AI feature inside the customer's product, end to end, and owns every step in between. The work is concrete, not advisory, and the deliverable is code in the customer's repository.</p>
+        <p class="lede">An FDE takes one narrow use case from a vague idea to a working AI feature inside the customer's product, end to end, and owns every step in between. The deliverable is code in the customer's repository.</p>
         <p>A typical engagement runs through:</p>
         <ol>
           <li><strong>Scoping.</strong> Turn "we should add AI" into one workflow with a named user, a clear input, and a clear output.</li>
@@ -210,7 +210,7 @@
       <section class="section">
         <h2>Why is it called "forward deployed"?</h2>
         <p class="lede">The phrase is military language. Forward deployed units are stationed at the edge, close to the situation, with the autonomy to act without calling headquarters first. Applied to engineers, it means the same thing: you work inside the customer's organization, and you decide on the spot.</p>
-        <p>Palantir made the term a job. It built its business on engineers who deploy into a customer's organization and deliver outcomes inside that customer's systems, not from a vendor booth. The model spread because it solved a specific failure: software that works in a demo and dies in the customer's real environment.</p>
+        <p>Palantir made the term a job. It built its business on engineers who deploy into a customer's organization and deliver outcomes inside that customer's systems. The model spread because it solved a specific failure: software that works in a demo and dies in the customer's real environment.</p>
         <p>In May 2026 the term went mainstream. OpenAI and Anthropic each launched a deployment subsidiary within a day of each other, both using the title Forward Deployed Engineer, both aimed at getting frontier models into enterprise products rather than selling API access and hoping. The AI in some job titles marks the shift: the capability being deployed is no longer just software, it is an AI workflow.</p>
       </section>
 
@@ -286,7 +286,7 @@
         <p>Echo and Delta are defined in the <a href="/glossary/">glossary</a>, and the split between them is a core chapter of <a href="/books/forward-deployed-ai-engineering/">the book</a>.</p>
       </section>
 
-      <section class="section">
+      <section class="section afs-section--wide">
         <h2>How is an FDE different from a solutions engineer?</h2>
         <p class="lede">A solutions engineer works for the vendor and is measured on the sale; an FDE works on the customer's outcome and is measured on what ships. Both are technical and customer-facing, which is why the two roles are so often confused.</p>
         <div class="cmp-table-wrap">
@@ -363,7 +363,7 @@
       <section class="section">
         <h2>Forward Deployed AI Engineering for founder-led B2B SaaS</h2>
         <p class="lede">The enterprise version of this role is built for Fortune 500 procurement. The same work, sized for a 5-to-50-person founder-led SaaS team, is the AI Feature Sprint: one narrow AI workflow shipped into the product in 10 business days, fixed scope and fixed price.</p>
-        <p>That is the work I do. Every pattern I ship into a customer's codebase has already shipped in <a href="https://vectig.com" target="_blank" rel="noopener noreferrer">Vectig</a>, my own AI-native product and live R&amp;D lab. If you want to see the engagement, start with the <a href="/ai-feature-sprint/">AI Feature Sprint</a> or a <a href="/discovery-day/">Discovery Day</a>.</p>
+        <p>That's the work I do. Most patterns I ship into a customer's codebase have already run in <a href="https://vectig.com" target="_blank" rel="noopener noreferrer">Vectig</a>, my own AI-native product and live R&amp;D lab. If you want to see the engagement, start with the <a href="/ai-feature-sprint/">AI Feature Sprint</a> or a <a href="/discovery-day/">Discovery Day</a>.</p>
       </section>
 
       <section class="section">
@@ -420,16 +420,18 @@
         </ul>
       </section>
 
-      <section class="section">
-        <p class="eyebrow-num">Newsletter</p>
-        <h2 class="t-display">Notes from the edge of building</h2>
-        <p>One email a week on Forward Deployed AI Engineering, building AI-native SaaS solo with Claude Code, and the unglamorous middle of shipping.</p>
-        <form class="email-pill" data-substack-redirect data-utm-medium="fde_pillar">
-          <label class="visually-hidden" for="sub-email-fde-role">Email address</label>
-          <input id="sub-email-fde-role" type="email" name="email" placeholder="Your email..." required autocomplete="email">
-          <button type="submit">Subscribe</button>
-        </form>
-        <p class="form-note">No spam. Unsubscribe in one click.</p>
+      <section class="section afs-section--wide afs-final-cta nl-final">
+        <div class="nl-final__panel">
+          <p class="eyebrow-num">Newsletter</p>
+          <h2 class="t-display">Notes from the edge of building</h2>
+          <p>One email a week on Forward Deployed AI Engineering, building AI-native SaaS solo with Claude Code, and the slow weeks in between. Subscribing also gets you the first two chapters of both my books.</p>
+          <form class="email-pill" data-substack-redirect data-utm-medium="fde_pillar">
+            <label class="visually-hidden" for="sub-email-fde-role">Email address</label>
+            <input id="sub-email-fde-role" type="email" name="email" placeholder="Your email..." required autocomplete="email">
+            <button type="submit">Send me the chapters</button>
+          </form>
+          <p class="form-note">Free. Unsubscribe in one click.</p>
+        </div>
       </section>
     </main>
 

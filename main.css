@@ -399,21 +399,6 @@ img {
   padding: 72px 0 32px;
 }
 
-.eyebrow, .afs-eyebrow {
-  font-size: 14px;
-  color: var(--text-soft);
-  margin-bottom: 24px;
-  letter-spacing: 0.02em;
-}
-
-.eyebrow a, .afs-eyebrow a {
-  color: var(--text-soft);
-}
-
-.eyebrow a:hover, .afs-eyebrow a:hover {
-  color: var(--text);
-}
-
 .afs-hero h1 {
   font-size: var(--fs-h1);
   font-weight: 600;
