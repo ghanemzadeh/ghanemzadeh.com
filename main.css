@@ -1020,7 +1020,7 @@ img {
   .book-banner__dot { margin-top: 8px; }
 }
 
-/* /book/ page (editorial; body.book-page flips the palette) */
+/* /book/ page (editorial book hero and chapter grid) */
 .book-hero {
   padding: 56px 0 40px;
 }
