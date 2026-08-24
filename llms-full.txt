@@ -4,7 +4,7 @@
 
 Nasser Ghanemzadeh has spent 17+ years building products and companies across AI, SaaS, and fintech. As CEO and later CPO at Nivo he built the product organization and shipped AI-powered applications that grew to 200K+ users and 450% revenue growth before the company was acquired. His current commercial focus is the AI Feature Sprint: a 10-business-day engagement for founder-led B2B SaaS teams of 5 to 50 that ships one narrow AI workflow into their product, with fixed scope, fixed price, and a Day-5 prototype guarantee. A focused 2-hour Discovery Day scoping session assesses whether an AI use case is useful, buildable, and worth a Sprint.
 
-His live R&D lab is Vectig, an AI-native cash flow forecasting product for pre-seed-to-Series-A founders, built solo with Claude Code, in public. Every workflow pattern he ships into a client codebase has already shipped in Vectig first.
+His live R&D lab is Vectig, an AI-native cash flow forecasting product for pre-seed-to-Series-A founders, built solo with Claude Code, in public. Most workflow patterns he ships into a client codebase have already run in Vectig first.
 
 He is the author of two books: Forward Deployed AI Engineering (a working guide to the Forward Deployed AI Engineer role: what it is, where it came from, how it is practiced, and how to do it well; 304 pages, first edition May 2026, Version 1.5 August 2026) and Founder Mode (how great founders stay close to product, people, judgment, and execution as companies scale). He writes a weekly newsletter, Notes from the edge of building, and his work has been covered in Forbes, TechCrunch, Al Jazeera, and HuffPost.
 
@@ -32,73 +32,87 @@ Forward Deployed AI Engineer for founder-led B2B SaaS
 I embed for 10 business days and ship the AI feature your roadmap keeps deferring.
 
 [Book a Sprint →](https://ghanemzadeh.com/ai-feature-sprint/)
-[Subscribe to the newsletter](https://ghanemzadeh.com/newsletter/)
+[Get the free chapters](https://ghanemzadeh.com/newsletter/)
 
-Building Vectig in public. Former CEO/CPO at Nivo (acquired).
+Built Nivo to 200K users and an acquisition as CEO and CPO. Covered in Forbes, TechCrunch, Al Jazeera, and HuffPost.
 
-Built Nivo to 200K users and an acquisition as CEO/CPO. Work covered in Forbes, TechCrunch, Al Jazeera, and HuffPost.
-
-**[Vectig](https://vectig.com)**, my own AI-native SaaS, is the live R&D lab. Every pattern I ship into your codebase has already shipped in mine.
+02 · Now
 
 ### What I'm doing now
 
-One commercial focus, one live R&D lab, two books, one newsletter. The hierarchy matters.
+Everything I do feeds the same operation. Here it is, in priority order.
 
-**Commercial focus:** [10-business-day AI Feature Sprint](https://ghanemzadeh.com/ai-feature-sprint/) for founder-led B2B SaaS teams. One narrow AI workflow shipped into their product. Fixed scope, fixed price, Day-5 prototype guarantee.
+- 01 **[The AI Feature Sprint.](https://ghanemzadeh.com/ai-feature-sprint/)** Ten business days embedded with a founder-led B2B SaaS team, shipping one narrow AI workflow into the product. Fixed scope, fixed price, a working prototype by Day 5.
 
-**Live R&D lab:** [Vectig](https://vectig.com), AI-native cash flow forecasting for pre-seed-to-Series-A founders. Built solo with Claude Code, in public. Every workflow pattern I sell to a Sprint client has shipped in Vectig first.
+- 02 **[Vectig.](https://vectig.com)** AI-native cash flow forecasting for early-stage founders, built solo with Claude Code, in public. It's also my test bench: most Sprint patterns run here before a client sees them.
 
-**Authority and method:** two books, [Forward Deployed AI Engineering](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/) and [Founder Mode](https://ghanemzadeh.com/book/). The first explains the role; for the short version, see [what a Forward Deployed AI Engineer is](https://ghanemzadeh.com/forward-deployed-ai-engineer/), and for the reading list around it, [the best FDE books](https://ghanemzadeh.com/best-forward-deployed-engineer-books/). The second explains the operating practice underneath it.
+- 03 **The books.** [Forward Deployed AI Engineering](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/) explains the role. [Founder Mode](https://ghanemzadeh.com/book/) explains the operating practice underneath it. For the quick version of the first, read [what a Forward Deployed AI Engineer is](https://ghanemzadeh.com/forward-deployed-ai-engineer/), or browse [the best FDE books](https://ghanemzadeh.com/best-forward-deployed-engineer-books/).
 
-**Trust and capture:** [weekly newsletter](https://ghanemzadeh.com/newsletter/) covering AI-native product building, Claude Code workflows, and the unglamorous middle of solo SaaS.
+- 04 **[The newsletter.](https://ghanemzadeh.com/newsletter/)** One email a week: Claude Code workflows, AI product distribution, and the weeks where nothing works.
 
-**Earlier projects:** [Sengi](https://sengi.co), a financial OS for freelancers, built solo as a learning vehicle for AI-native financial tooling. Paused to focus on Vectig and the Sprint.
+- 05 **Earlier projects.** [Sengi](https://sengi.co), a financial OS for freelancers, built solo as a learning vehicle for AI-native financial tooling. Paused to focus on Vectig and the Sprint.
 
-### Selected work
+03 · The books
 
-**Nivo**. CEO, then CPO. Built the product organization and shipped AI-powered applications that grew to 200K+ users and 450% revenue growth. Acquired.
+### Both books came out of the same work.
 
-**Pangouan**. Founding Head of Product (to 2026). Zero to one: no product, no team, no users. Built it from the ground up.
+One explains the role, the other the operating practice underneath it. The first two chapters of each are free.
 
-**Finnova**. Co-founder. Coworking Space and Accelerator backing early-stage startups. Got to see the ecosystem from the investor side, which changes how you think about everything.
+[304 pages · Version 1.5 #### Forward Deployed AI Engineering The working guide to the FDE role: what the job is, how the work is done, how to break in.](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/)
+[From HP to NVIDIA #### Founder Mode The history of calibrated founder involvement, and what the great companies paid for it.](https://ghanemzadeh.com/book/)
 
-**Iran Startups**. Co-founder of a founder community. Earlier, ran [Techly](https://techly.me/), an English-language publication covering the Iranian startup ecosystem (2014 to 2016), and wrote about The Lean Startup methodology in Persian through the [Business of Software](https://businessofsoftware.ir/) blog when almost no one in Iran was talking about it.
+04 · Selected work
 
-### Speaking & media
+### Before all this
+
+- 01 **Nivo.** CEO, then CPO. Built the product organization and shipped AI-powered applications that grew to 200K+ users and 450% revenue growth before the acquisition.
+
+- 02 **Pangouan.** Founding Head of Product until 2026. Joined before there was a product, a team, or a user, and built all three.
+
+- 03 **Finnova.** Co-founder. A coworking space and accelerator backing early-stage startups. Seeing the ecosystem from the investor side changes how you think about everything.
+
+- 04 **Iran Startups.** Co-founder of a founder community. Earlier, ran [Techly](https://techly.me/), an English-language publication covering the Iranian startup ecosystem from 2014 to 2016, and wrote about The Lean Startup in Persian on the [Business of Software](https://businessofsoftware.ir/) blog when almost no one in Iran was talking about it.
+
+05 · Speaking & media
+
+### Coverage and the podcast
 
 Featured in [Forbes](https://www.forbes.com/sites/elizabethmacbride/2016/04/30/seven-reasons-iran-is-likely-to-be-an-entrepreneurial-powerhouse/), [TechCrunch](https://techcrunch.com/2014/09/02/the-next-tech-startup-ecosystem-to-emerge-iran/), [HuffPost](https://www.huffpost.com/entry/ibridges-the-iranian-runa_b_7627470), and [Al Jazeera](https://www.aljazeera.com/gallery/2016/12/1/inside-irans-silicon-valley). Host of [The Great CEO Podcast](https://www.youtube.com/@ghanemzadeh).
 
-### Get in touch
-
-Email: [ghanemzadeh@gmail.com](mailto:ghanemzadeh@gmail.com). For a Sprint, the application form is on [the AI Feature Sprint page](https://ghanemzadeh.com/ai-feature-sprint/).
-
-Newsletter
-
-### Notes from the edge of building
-
-One email a week. Building solo with Claude Code, AI product distribution, and the unglamorous middle of solopreneurship.
-
-No spam. Unsubscribe in one click.
+06 · FAQ
 
 ### Quick answers
 
 #### What is Nasser Ghanemzadeh working on?
 
-Running a 10-business-day AI Feature Sprint for founder-led B2B SaaS teams (one narrow AI workflow shipped into their product, fixed scope, $5K beta). Building Vectig, an AI-native cash flow forecasting product for founders, as a public R&D lab. Previously CEO/CPO at Nivo (acquired, 200K+ users, 450% revenue growth). Earlier work: Sengi (financial OS for freelancers, paused), Pangouan (Founding Head of Product, language learning), Iran Startups ecosystem.
+The AI Feature Sprint takes most of my week: a 10-business-day engagement that ships one narrow AI workflow into a founder-led B2B SaaS product. The rest goes to [Vectig](https://vectig.com), an AI-native cash flow forecasting tool I build solo with Claude Code, and to the books and the newsletter. Before this I was CEO and then CPO at Nivo, which grew to 200K+ users and was acquired.
 
-#### Where can I work with him?
+#### How do I work with you?
 
-Through the [AI Feature Sprint](https://ghanemzadeh.com/ai-feature-sprint/), the [newsletter](https://ghanemzadeh.com/newsletter/), or by [email](mailto:ghanemzadeh@gmail.com).
+Through the [AI Feature Sprint](https://ghanemzadeh.com/ai-feature-sprint/) if you have a workflow in mind, through the [newsletter](https://ghanemzadeh.com/newsletter/) if you want to follow the work, or by [email](mailto:ghanemzadeh@gmail.com).
 
-### Elsewhere
+07 · Get in touch
 
-[GitHub](https://github.com/ghanemzadeh) ·
-[LinkedIn](https://www.linkedin.com/in/ghanemzadeh/) ·
-[Goodreads](https://www.goodreads.com/ghanemzadeh) ·
-[AngelList](https://wellfound.com/u/ghanemzadeh) ·
-[Crunchbase](https://www.crunchbase.com/person/nasser-ghanemzadeh) ·
-[SlideShare](https://www.slideshare.net/Ghanemzadeh/presentations) ·
-[F6S](https://www.f6s.com/member/ghanemzadeh)
+### Email works best.
+
+[ghanemzadeh@gmail.com](mailto:ghanemzadeh@gmail.com). For a Sprint, start with the application form on [the AI Feature Sprint page](https://ghanemzadeh.com/ai-feature-sprint/).
+
+I'm also on
+[GitHub](https://github.com/ghanemzadeh),
+[LinkedIn](https://www.linkedin.com/in/ghanemzadeh/),
+[Goodreads](https://www.goodreads.com/ghanemzadeh),
+[AngelList](https://wellfound.com/u/ghanemzadeh),
+[Crunchbase](https://www.crunchbase.com/person/nasser-ghanemzadeh),
+[SlideShare](https://www.slideshare.net/Ghanemzadeh/presentations), and
+[F6S](https://www.f6s.com/member/ghanemzadeh).
+
+08 · The newsletter
+
+### Notes from the edge of building
+
+One email a week on building AI-native SaaS solo. Subscribe and the first two chapters of both books land in your first email.
+
+Free. Unsubscribe in one click.
 
 ---
 
@@ -106,13 +120,15 @@ Through the [AI Feature Sprint](https://ghanemzadeh.com/ai-feature-sprint/), the
 
 URL: https://ghanemzadeh.com/ai-feature-sprint/
 
+The AI Feature Sprint
+
 ## Forward Deployed AI engineering for founder-led B2B SaaS.
 
 OpenAI and Anthropic each launched deployment subsidiaries in May 2026 to embed engineers inside Fortune 500 companies. The AI Feature Sprint is how you hire a Forward Deployed AI Engineer without a $250K procurement process: fixed-price AI development, sized for founder-led SaaS teams. I scope, build, and ship an AI feature, one narrow workflow, into staging, production, or a production-ready pull request in 10 business days.
 
 Built by **Nasser Ghanemzadeh**, ex-CEO/CPO of Nivo (acquired, 200K+ users) · building Vectig in public · featured in Forbes, TechCrunch, Al Jazeera
 
-⚡ Now booking the next Sprint slot · beta capped at 3 teams
+Now booking the next Sprint slot · beta capped at 3 teams
 
 [Book a $500 Discovery Day](https://ghanemzadeh.com/discovery-day/)
 [Apply for the $5,000 Sprint](https://tally.so/r/ja5pD6)
@@ -125,19 +141,23 @@ As covered in
 
 Forbes · TechCrunch · Al Jazeera · HuffPost
 
+02 · The problem
+
 ### Your team knows AI matters. The hard part is shipping the right thing.
 
-Most SaaS teams are already experimenting with AI. Someone has tried Claude Code. Someone has built a prototype. Someone has suggested adding a chatbot.
+Most SaaS teams are already experimenting: someone has tried Claude Code, built a prototype, or floated a chatbot. The experiments stall because a useful AI feature needs more than a demo. It needs a clear workflow, the right data, a narrow scope, and an implementation path the team can actually ship.
 
-But useful AI features do not come from vague experimentation. They need a clear workflow, the right data, a narrow scope, product judgment, and an implementation path the team can actually ship.
+That's what the Sprint produces: one managed AI workflow with a clear use case, a review process, and a handoff your team can run with.
 
-That is what the AI Feature Sprint is designed to create: one managed AI workflow with a clear use case, implementation path, review process, and handoff.
+03 · The model
 
 ### What is Forward Deployed AI Engineering?
 
-Forward Deployed AI Engineering is a delivery model where an engineer embeds inside a customer's team and ships AI capabilities directly into the customer's product and codebase. Not a dashboard. Not a report. Not a Loom. The term comes from Palantir, where it has been the dominant model for two decades. In May 2026, OpenAI launched a $10 billion deployment subsidiary using exactly this title, and Anthropic launched a $1.5 billion deployment subsidiary the same day. Both are aimed at the Fortune 500. The **AI Feature Sprint is the same playbook, sized for founder-led B2B SaaS teams of 5 to 50 people** who can't run a quarter-million-dollar procurement process.
+Forward Deployed AI Engineering is a delivery model where an engineer embeds inside a customer's team and ships AI capabilities directly into the customer's product and codebase. The deliverable is working code in the customer's repo, not a deck about it. The term comes from Palantir, where it has been the dominant model for two decades. In May 2026, OpenAI launched a $10 billion deployment subsidiary using exactly this title, and Anthropic launched a $1.5 billion deployment subsidiary the same day. Both are aimed at the Fortune 500. The **AI Feature Sprint is the same playbook, sized for founder-led B2B SaaS teams of 5 to 50 people** who can't run a quarter-million-dollar procurement process.
 
 More on the role: [what a Forward Deployed AI Engineer is](https://ghanemzadeh.com/forward-deployed-ai-engineer/), and the full guide in the book, [Forward Deployed AI Engineering: A Working Guide to the Hottest Job in Software](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/).
+
+04 · Example workflows
 
 ### Examples of narrow AI workflows
 
@@ -153,15 +173,17 @@ More on the role: [what a Forward Deployed AI Engineer is](https://ghanemzadeh.c
 
 - **Onboarding assistant.** Guide new users or customers through the first important workflow in your product.
 
+05 · Proof
+
 ### A concrete example: Investor Update Assistant
 
 Here's a workflow I've built into Vectig, the AI-native startup finance product I'm developing in parallel. The Investor Update Assistant pulls structured monthly metrics (MRR, burn, runway, hires, churn, key wins), takes 3–5 sentences of founder-written context, and generates a clean investor update draft. The founder edits, approves, and sends. Average time from open to send: 8 minutes vs. the typical 90+ minutes of blank-page writing.
 
 What you'd get in a Sprint: the workflow scoped to your data sources (Stripe, your spreadsheet, your CRM, whatever you use), a working prompt with output quality rubric, integration into your existing product or admin tool, and the handoff document so your team can maintain and iterate. Two weeks. Live by Day 10.
 
-### Measured outcomes
+### The numbers I can show you today
 
-Every Sprint workflow ships with an output quality rubric, so results are measured rather than asserted. These are the measured results from the live Vectig implementation of the Investor Update Assistant.
+Every Sprint workflow ships with an output quality rubric, so each engagement produces its own before-and-after numbers. No Sprint has closed yet, so the two rows below come from the one live implementation that exists: the Investor Update Assistant running in Vectig, my own product.
 
 | Metric | Before | After | Sample |
 | --- | --- | --- | --- |
@@ -170,7 +192,7 @@ Every Sprint workflow ships with an output quality rubric, so results are measur
 
 The draft-time number measures the founder's full loop: open the workflow, review the generated draft, edit, and send. The rubric score is the average across the four dimensions the workflow is graded on, scored run by run.
 
-As new Sprint engagements complete, measured before/after results are added here.
+As Sprints complete, their numbers land here.
 
 ### This is not an AI science project.
 
@@ -191,6 +213,8 @@ This is not:
 - A compliance-heavy enterprise AI transformation
 
 The sprint is intentionally narrow: one workflow, one clear user problem, one useful shipped outcome.
+
+06 · Day 0
 
 ### Day 0: The readiness check
 
@@ -302,6 +326,8 @@ Later: $7,500 to $10,000 after the beta slots.
 
 [Apply for the $5,000 Sprint](https://tally.so/r/ja5pD6)
 
+07 · How it works
+
 ### How the 10-business-day sprint works
 
 **Day 1: Scope**
@@ -392,6 +418,8 @@ Client access, decision-maker availability, and timely feedback are required for
 
 - You need guaranteed production deployment regardless of infrastructure constraints
 
+08 · Who's behind it
+
 ### Why work with me
 
 I'm Nasser Ghanemzadeh, a former CEO/CPO and product leader with 17+ years building and scaling technology products.
@@ -402,7 +430,7 @@ I'm Nasser Ghanemzadeh, a former CEO/CPO and product leader with 17+ years build
 
 - Currently building Vectig (AI-native startup finance), shipped daily with Claude Code and MCP.
 
-This sprint runs on production-grade AI engineering experience from my own products, not generic AI consulting theory. Based in Turkey, available across European, Middle Eastern, and North American business hours.
+The Sprint method comes out of shipping these workflows in my own products first. Based in Turkey, available across European, Middle Eastern, and North American business hours.
 
 [LinkedIn](https://www.linkedin.com/in/ghanemzadeh/) · [Email](mailto:ghanemzadeh@gmail.com) · [Vectig](https://vectig.com)
 
@@ -426,7 +454,7 @@ If by Day 5 there's no working prototype demonstrating the core workflow, you ca
 
 #### Why pay you instead of using your own engineers?
 
-Three reasons: speed (10 days, not 6 weeks of internal roadmap displacement), judgment (knowing which workflow to ship first is harder than building it), and a fixed-price/fixed-timeline commitment that internal work can't match. Pulling two engineers off your roadmap for six weeks costs roughly $30K in salary plus the opportunity cost of the slipped roadmap.
+Speed, mostly: 10 days instead of six weeks of internal roadmap displacement, when pulling two engineers off the roadmap costs roughly $30K in salary before the opportunity cost. The rest is judgment. Knowing which workflow to ship first is harder than building it, and a fixed price on a fixed timeline keeps the scope honest.
 
 #### How is this different from an AI consulting firm?
 
@@ -484,11 +512,11 @@ Model Context Protocol, the standard for letting AI models talk to external syst
 
 Full definitions for these and more terms are in the [Forward Deployed AI Engineering glossary](https://ghanemzadeh.com/glossary/).
 
+09 · Get started
+
 ### Want to ship one useful AI feature?
 
-Start with a Discovery Day if you need help choosing the right use case.
-
-Apply for the Sprint if you already know what you want to build and need help getting it shipped.
+Start with a Discovery Day if you need help choosing the use case. Apply for the Sprint if you already know what to build and need it shipped.
 
 [Book a $500 Discovery Day](https://ghanemzadeh.com/discovery-day/)
 [Apply for the $5,000 Sprint](https://tally.so/r/ja5pD6)
@@ -571,11 +599,11 @@ You'll also get the newsletter. One email a week, easy unsubscribe.
 
 Founder Mode is back in the conversation because Brian Chesky is again explaining how great founders operate differently. But the idea is still easy to misunderstand. Founder Mode is not micromanagement. It is not founder ego. It is calibrated involvement: staying close to the decisions, standards, customers, products, and people that shape the company.
 
-01 · What's inside
+02 · What's inside
 
 ### Four parts
 
-**Foundations** lays out what Founder Mode actually is, separating the practice from the personality around it. It is not micromanagement, and it is not charisma. It is calibrated involvement.
+**Foundations** lays out what Founder Mode actually is, separating the practice from the personality around it.
 
 **Practices** is the operating manual. The small group of trusted operators. The meetings the founder still runs personally. The decisions the founder still owns. The handoffs that have to happen anyway.
 
@@ -583,7 +611,7 @@ Founder Mode is back in the conversation because Brian Chesky is again explainin
 
 **Returns, Costs, Coda** is the part most books skip. Founder Mode works, and it costs the founder things. The book is honest about both.
 
-02 · Anchor chapters
+03 · Anchor chapters
 
 ### Eight companies, eight chapters
 
@@ -619,7 +647,7 @@ Jensen Huang at Denny's, then thirty years of the same direct-report meetings.
 
 The buying-club discipline that survived Sinegal's retirement.
 
-03 · About
+04 · About
 
 ### About the author
 
@@ -629,7 +657,7 @@ Also by Nasser: [Forward Deployed AI Engineering: A Working Guide to the Hottest
 
 More on the [home page](https://ghanemzadeh.com/).
 
-04 · Start reading
+05 · Start reading
 
 ### Read the first two chapters
 
@@ -649,21 +677,25 @@ Books
 
 ## Two books, one author
 
-Different topics, same operating lens. Founder Mode is about how great companies are actually built. Forward Deployed AI Engineering is about a specific job that has become the default way to ship AI into the real world. Both are written for people who actually do the work.
+Different topics, same operating lens. Founder Mode is about how great companies are actually built. Forward Deployed AI Engineering is about the job that has become the default way to ship AI into the real world.
 
 [2026 · New ### Forward Deployed AI Engineering A Working Guide to the Hottest Job in Software 304 pages. First edition, May 2026. Version 1.5, August 2026. On May 4, 2026, OpenAI and Anthropic each launched deployment subsidiaries on the same day, both built around the title Forward Deployed Engineer. This book is for the person who wants to do that work. Five parts: the landscape, the mindset and the method, the craft, becoming an FDE, and the economy and future. Read the first chapters →](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/)
 
 [2026 ### Founder Mode How the Great Companies Are Actually Built 254 pages. First edition. In 2024, Paul Graham named "Founder Mode" after Brian Chesky's talk at a YC alumni dinner. The practice is older than the name. HP, Disney, Apple, Pixar, Amazon, NVIDIA, and Costco built their best work this way. This book traces how, and is honest about the costs. Read the first two chapters →](https://ghanemzadeh.com/book/)
 
+02 · Why two books
+
 ### Why two books
 
-The two books are about the same thing seen from different angles. Founder Mode is about the people who choose to stay close to the work that matters as their companies scale. Forward Deployed AI Engineering is about the work itself, in a specific form, in a specific moment. Read either one first. The connection becomes obvious by the end.
+The two books are about the same thing seen from different angles. Founder Mode is about the people who choose to stay close to the work that matters as their companies scale. Forward Deployed AI Engineering is about the work itself, in a specific form, in a specific moment. Start with whichever is closer to the problem on your desk.
+
+03 · About the author
 
 ### About the author
 
-Nasser Ghanemzadeh is a [Forward Deployed AI Engineer](https://ghanemzadeh.com/forward-deployed-ai-engineer/) for founder-led B2B SaaS. 17+ years building products and companies across AI, SaaS, and fintech. Former CEO and CPO at Nivo (acquired, 200K+ users, 450% revenue growth), Founding Head of Product at Pangouan, and co-founder of Finnova and the Iran Startups community. Work covered in Forbes, TechCrunch, Al Jazeera, and HuffPost.
+I'm Nasser Ghanemzadeh, a [Forward Deployed AI Engineer](https://ghanemzadeh.com/forward-deployed-ai-engineer/) for founder-led B2B SaaS. 17+ years building products and companies across AI, SaaS, and fintech. Former CEO and CPO at Nivo (acquired, 200K+ users, 450% revenue growth), Founding Head of Product at Pangouan, and co-founder of Finnova and the Iran Startups community. My work has been covered in Forbes, TechCrunch, Al Jazeera, and HuffPost.
 
-Today he runs the [AI Feature Sprint](https://ghanemzadeh.com/ai-feature-sprint/) and builds [Vectig](https://vectig.com) in public with Claude Code. More on the [home page](https://ghanemzadeh.com/).
+Today I run the [AI Feature Sprint](https://ghanemzadeh.com/ai-feature-sprint/) and build [Vectig](https://vectig.com) in public with Claude Code. More on the [home page](https://ghanemzadeh.com/).
 
 ---
 
@@ -692,7 +724,7 @@ Or read the sample chapters (PDF) now. Sign up and they land in your inbox.
 
 You'll also get the newsletter. One email a week, easy unsubscribe.
 
-01 · Who this is for
+02 · Who this is for
 
 ### Three readers
 
@@ -704,7 +736,7 @@ The book is written for three people specifically. The chapters are ordered for 
 
 - **The founder or hiring manager.** Building an FDE function for the first time. Needs a primer before going to market.
 
-02 · What you'll be able to do
+03 · What you'll be able to do
 
 ### By the last chapter
 
@@ -718,7 +750,7 @@ The book is the FDE playbook, engineered around four working outcomes. Finish it
 
 - Plan a credible path from your current role to a first offer, with a portfolio you can defend and an interview loop you can prepare for.
 
-03 · Structure
+04 · Structure
 
 ### Five parts
 
@@ -732,7 +764,7 @@ The book is the FDE playbook, engineered around four working outcomes. Finish it
 
 **Part V. Economy and Future.** Pricing, outcomes, contracts. Cargo cults and failure modes. The FDE diaspora the labs are producing whether they want to or not. A closing note for the buyer.
 
-04 · Anchor chapters
+05 · Anchor chapters
 
 ### Selected chapters
 
@@ -768,7 +800,7 @@ Day rates, project rates, outcome rates, and equity. When each works. The contra
 
 The five ways FDE engagements fail. Each one is recoverable if you catch it by the second week.
 
-05 · Why now
+06 · Why now
 
 ### A snapshot in motion
 
@@ -776,7 +808,7 @@ Most of the canonical literature on the role was written between September 2025 
 
 One principle is most likely to outlast the specific organizations and titles around it. **The artifact is the truth. The code shipping is the substance. The document is the imitation.** Everything else in the book is an unpacking of that.
 
-06 · About the author
+07 · About the author
 
 ### About the author
 
@@ -788,7 +820,7 @@ I also run a 10-business-day [AI Feature Sprint](https://ghanemzadeh.com/ai-feat
 
 More on the [home page](https://ghanemzadeh.com/). Also by Nasser: [Founder Mode](https://ghanemzadeh.com/book/).
 
-07 · Read it
+08 · Read it
 
 ### Read the first chapters
 
@@ -842,6 +874,8 @@ Independent publication. Not affiliated with Anthropic, OpenAI, Google, Palantir
 
 URL: https://ghanemzadeh.com/discovery-day/
 
+Discovery Day
+
 ## Before we scope a Sprint, we scope the problem.
 
 A 2-hour working session with Nasser Ghanemzadeh. We look at your use case, your data, your codebase, and your team. By the end you have either a clean Sprint Brief or an honest "this isn't a Sprint yet, here's what to do first" memo.
@@ -856,9 +890,11 @@ As covered in
 
 Forbes · TechCrunch · Al Jazeera · HuffPost
 
+02 · The document
+
 ### What you walk away with
 
-By the end of the 2 hours, you have a working document with all of the following. Not a deck. Not a follow-up email two days later. The document, on the call, ready to forward to your team.
+By the end of the 2 hours you have a working document with all of the following, written on the call and ready to forward to your team.
 
 - Use-case clarification, written in a single sentence using the Sprint Brief template.
 
@@ -871,6 +907,8 @@ By the end of the 2 hours, you have a working document with all of the following
 - A Sprint Brief draft if there's a strong fit, including success criteria and out-of-scope items.
 
 - Honest answers about what fits in 10 business days and what doesn't.
+
+03 · Fit
 
 ### Who this is for
 
@@ -892,6 +930,8 @@ By the end of the 2 hours, you have a working document with all of the following
 
 - Anyone looking for a free 30-minute consultation. This is a paid scoping session, not a sales call.
 
+04 · The two hours
+
 ### How a Discovery Day works
 
 The 2 hours are structured but not rigid. Rough shape:
@@ -906,6 +946,8 @@ The 2 hours are structured but not rigid. Rough shape:
 
 About half of Discovery Days end with a Sprint recommendation. The other half end with "here's what to do first, come back when X is in place." Both are valid outcomes. The point of a Discovery Day is to find out which one you are, not to convince you to buy a Sprint.
 
+05 · The credit
+
 ### The credit toward Sprint
 
 If you continue to a full Sprint within 14 days of your Discovery Day, the $500 is credited against the Sprint price.
@@ -913,6 +955,8 @@ If you continue to a full Sprint within 14 days of your Discovery Day, the $500 
 So a Discovery Day → Sprint path costs $5,000 total at beta pricing, not $5,500.
 
 If we agree the Sprint isn't the right next step, the $500 covers the working document and the 2 hours. No upsell, no follow-up sequence, no retainer pitch.
+
+06 · Before the call
 
 ### What I need from you before the call
 
@@ -926,19 +970,15 @@ A short pre-call form, sent after booking. Three things:
 
 That's it. No data dumps, no NDAs to sign before the call. We sign a mutual NDA on the call itself if either side wants one.
 
+07 · Who's behind it
+
 ### Why work with me
 
-I'm Nasser Ghanemzadeh, a former CEO/CPO and product leader with 17+ years building and scaling technology products.
-
-- Exited Nivo (200K+ users, 450% revenue growth, acquired). Press coverage in Forbes, TechCrunch, Al Jazeera, HuffPost.
-
-- Founding Head of Product at Pangouan. Co-founder of Iran Startups. Former accelerator lead at Finnova.
-
-- Currently building Vectig (AI-native startup finance), shipped daily with Claude Code and MCP.
+I'm Nasser Ghanemzadeh. I've spent 17+ years on the customer side of software, as CEO, CPO, and product lead. I built and exited Nivo (200K+ users, 450% revenue growth, acquired), led product at Pangouan, co-founded Iran Startups, and ran the Finnova accelerator. These days I build Vectig, an AI-native startup finance product, shipped daily with Claude Code and MCP.
 
 **Speaking on AI-native product development:** OMR Festival, re:publica, GITEX EUROPE.
 
-This sprint runs on production-grade AI engineering experience from my own products, not generic AI consulting theory. Based in Turkey, available across European, Middle Eastern, and North American business hours.
+A Discovery Day points that experience at your roadmap for two hours. Based in Turkey, available across European, Middle Eastern, and North American business hours.
 
 [LinkedIn](https://www.linkedin.com/in/ghanemzadeh/) · [Email](mailto:ghanemzadeh@gmail.com) · [Vectig](https://vectig.com)
 
@@ -976,11 +1016,11 @@ The Discovery Day still works, but the Sprint recommendation will likely be "not
 
 Mostly no. The methodology, examples, and Sprint structure are built around founder-led B2B SaaS at 5 to 50 people, post-product-market-fit. If you're outside that, the Discovery Day may still be useful but the Sprint may not be the right vehicle.
 
+08 · Book it
+
 ### Two hours, one document, a clear next step.
 
-Book a Discovery Day if you want a focused outside perspective on whether the AI feature you're considering is ready to ship in 10 business days.
-
-If you'd rather start with the Sprint details, read the full breakdown of the [10-day AI Feature Sprint](https://ghanemzadeh.com/ai-feature-sprint/).
+Book a Discovery Day for a focused outside read on whether the AI feature you're considering is ready to ship in 10 business days. Or start with the full breakdown of the [10-day AI Feature Sprint](https://ghanemzadeh.com/ai-feature-sprint/).
 
 [Book a Discovery Day →](https://cal.com/ghanemzadeh/discovery)
 [Read the Sprint details](https://ghanemzadeh.com/ai-feature-sprint/)
@@ -1073,7 +1113,7 @@ By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated August 2026.
 
 ### What does a Forward Deployed Engineer do?
 
-An FDE takes one narrow use case from a vague idea to a working AI feature inside the customer's product, end to end, and owns every step in between. The work is concrete, not advisory, and the deliverable is code in the customer's repository.
+An FDE takes one narrow use case from a vague idea to a working AI feature inside the customer's product, end to end, and owns every step in between. The deliverable is code in the customer's repository.
 
 A typical engagement runs through:
 
@@ -1097,7 +1137,7 @@ The output is code in the customer's repo. Not a dashboard. Not a report. Not a 
 
 The phrase is military language. Forward deployed units are stationed at the edge, close to the situation, with the autonomy to act without calling headquarters first. Applied to engineers, it means the same thing: you work inside the customer's organization, and you decide on the spot.
 
-Palantir made the term a job. It built its business on engineers who deploy into a customer's organization and deliver outcomes inside that customer's systems, not from a vendor booth. The model spread because it solved a specific failure: software that works in a demo and dies in the customer's real environment.
+Palantir made the term a job. It built its business on engineers who deploy into a customer's organization and deliver outcomes inside that customer's systems. The model spread because it solved a specific failure: software that works in a demo and dies in the customer's real environment.
 
 In May 2026 the term went mainstream. OpenAI and Anthropic each launched a deployment subsidiary within a day of each other, both using the title Forward Deployed Engineer, both aimed at getting frontier models into enterprise products rather than selling API access and hoping. The AI in some job titles marks the shift: the capability being deployed is no longer just software, it is an AI workflow.
 
@@ -1179,7 +1219,7 @@ The fastest credible path is to build and ship a real workflow, write the evalua
 
 The enterprise version of this role is built for Fortune 500 procurement. The same work, sized for a 5-to-50-person founder-led SaaS team, is the AI Feature Sprint: one narrow AI workflow shipped into the product in 10 business days, fixed scope and fixed price.
 
-That is the work I do. Every pattern I ship into a customer's codebase has already shipped in [Vectig](https://vectig.com), my own AI-native product and live R&D lab. If you want to see the engagement, start with the [AI Feature Sprint](https://ghanemzadeh.com/ai-feature-sprint/) or a [Discovery Day](https://ghanemzadeh.com/discovery-day/).
+That's the work I do. Most patterns I ship into a customer's codebase have already run in [Vectig](https://vectig.com), my own AI-native product and live R&D lab. If you want to see the engagement, start with the [AI Feature Sprint](https://ghanemzadeh.com/ai-feature-sprint/) or a [Discovery Day](https://ghanemzadeh.com/discovery-day/).
 
 The book
 
@@ -1235,9 +1275,9 @@ Newsletter
 
 ### Notes from the edge of building
 
-One email a week on Forward Deployed AI Engineering, building AI-native SaaS solo with Claude Code, and the unglamorous middle of shipping.
+One email a week on Forward Deployed AI Engineering, building AI-native SaaS solo with Claude Code, and the slow weeks in between. Subscribing also gets you the first two chapters of both my books.
 
-No spam. Unsubscribe in one click.
+Free. Unsubscribe in one click.
 
 ---
 
@@ -1271,7 +1311,7 @@ A ten-business-day engagement that ships one narrow AI workflow into a customer'
 
 **Discovery Day**
 
-A two-hour paid working session, priced at $500, to assess whether an AI use case is useful, buildable, and worth a Sprint. The output is a go/no-go memo within 24 hours, credited toward a Sprint if the customer continues. See [Discovery Day](https://ghanemzadeh.com/discovery-day/).
+A two-hour paid working session, priced at $500, to assess whether an AI use case is useful, buildable, and worth a Sprint. The output is a go/no-go memo written on the call, credited toward a Sprint if the customer continues. See [Discovery Day](https://ghanemzadeh.com/discovery-day/).
 
 **Workflow**
 

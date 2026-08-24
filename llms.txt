@@ -4,7 +4,7 @@
 
 Nasser Ghanemzadeh has spent 17+ years building products and companies across AI, SaaS, and fintech. As CEO and later CPO at Nivo he built the product organization and shipped AI-powered applications that grew to 200K+ users and 450% revenue growth before the company was acquired. His current commercial focus is the AI Feature Sprint: a 10-business-day engagement for founder-led B2B SaaS teams of 5 to 50 that ships one narrow AI workflow into their product, with fixed scope, fixed price, and a Day-5 prototype guarantee. A focused 2-hour Discovery Day scoping session assesses whether an AI use case is useful, buildable, and worth a Sprint.
 
-His live R&D lab is Vectig, an AI-native cash flow forecasting product for pre-seed-to-Series-A founders, built solo with Claude Code, in public. Every workflow pattern he ships into a client codebase has already shipped in Vectig first.
+His live R&D lab is Vectig, an AI-native cash flow forecasting product for pre-seed-to-Series-A founders, built solo with Claude Code, in public. Most workflow patterns he ships into a client codebase have already run in Vectig first.
 
 He is the author of two books: Forward Deployed AI Engineering (a working guide to the Forward Deployed AI Engineer role: what it is, where it came from, how it is practiced, and how to do it well; 304 pages, first edition May 2026, Version 1.5 August 2026) and Founder Mode (how great founders stay close to product, people, judgment, and execution as companies scale). He writes a weekly newsletter, Notes from the edge of building, and his work has been covered in Forbes, TechCrunch, Al Jazeera, and HuffPost.
 
