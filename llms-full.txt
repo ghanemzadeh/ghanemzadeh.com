@@ -1474,6 +1474,8 @@ Get the free chapters
 
 [All posts on Substack →](https://ghanemzadeh.substack.com/archive?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
+- [September 2, 2026 #### Breaking Into the Hottest Job in Software Four paths in, a three-project portfolio, and the interview stage everyone underestimates.](https://ghanemzadeh.substack.com/p/breaking-into-the-hottest-job-in?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
+
 - [August 26, 2026 #### Ship the First Slice The smallest end-to-end system, on real data, with the customer holding the keyboard. And why your first version should be three Python files, not an agent framework.](https://ghanemzadeh.substack.com/p/ship-the-first-slice?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
 - [August 19, 2026 #### Evals Are the New Spec In AI engineering, the evaluation set is the specification, and building the right one is the highest-leverage activity in any engagement.](https://ghanemzadeh.substack.com/p/evals-are-the-new-spec?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
@@ -1495,8 +1497,6 @@ Get the free chapters
 - [July 15, 2026 #### What Exactly Is a Forward Deployed AI Engineer? It is not a sales engineer, a consultant, or a CSM with a GitHub account. Every word in the title is doing work.](https://ghanemzadeh.substack.com/p/what-exactly-is-a-forward-deployed?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
 - [July 8, 2026 #### Why 95% of Enterprise AI Pilots Fail (And It's Not the Models) The most important number in enterprise AI is not a benchmark score. It is the gap between pilot and production.](https://ghanemzadeh.substack.com/p/why-95-of-enterprise-ai-pilots-fail?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
-
-- [July 1, 2026 #### Forward Deployed Engineering at $200/Hour The brutal math of fixed-price AI work, and why every operator who underprices this work goes broke profitably.](https://ghanemzadeh.substack.com/p/forward-deployed-engineering-at-200hour?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
 05 · Who's writing this
 
