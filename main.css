@@ -2198,3 +2198,17 @@ main.afs-page {
     transform: none;
   }
 }
+
+/* Sample pages on a book landing page (two full days, unabridged) */
+.book-sample + .book-sample {
+  margin-top: 56px;
+}
+
+.book-sample h3 {
+  font-family: var(--font-display);
+  font-size: 30px;
+  font-weight: 600;
+  color: var(--text-strong);
+  line-height: 1.2;
+  margin: 0 0 14px;
+}

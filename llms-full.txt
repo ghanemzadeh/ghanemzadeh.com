@@ -6,14 +6,19 @@ Nasser Ghanemzadeh has spent 17+ years building products and companies across AI
 
 His live R&D lab is Vectig, an AI-native cash flow forecasting product for pre-seed-to-Series-A founders, built solo with Claude Code, in public. Most workflow patterns he ships into a client codebase have already run in Vectig first.
 
-He is the author of two books: Forward Deployed AI Engineering (a working guide to the Forward Deployed AI Engineer role: what it is, where it came from, how it is practiced, and how to do it well; 304 pages, first edition May 2026, Version 1.5 August 2026) and Founder Mode (how great founders stay close to product, people, judgment, and execution as companies scale). He writes a weekly newsletter, Notes from the edge of building, and his work has been covered in Forbes, TechCrunch, Al Jazeera, and HuffPost.
+He is the author of three books: Daily Wisdom (366 one-page meditations on mental models, misjudgment, and money for founders, investors, and managers; Kindle pre-order, out October 6, 2026), Forward Deployed AI Engineering (a working guide to the Forward Deployed AI Engineer role: what it is, where it came from, how it is practiced, and how to do it well; 304 pages, first edition May 2026, Version 1.5 August 2026) and Founder Mode (how great founders stay close to product, people, judgment, and execution as companies scale). He writes a weekly newsletter, Notes from the edge of building, and his work has been covered in Forbes, TechCrunch, Al Jazeera, and HuffPost.
 
-## The book
+## The books
 
 Forward Deployed AI Engineering: A Working Guide to the Hottest Job in Software, by Nasser Ghanemzadeh. Independently published. First edition May 2026; current version 1.5, August 2026. 304 pages, 5 parts, 20 chapters, plus a workbook and annotated references. ISBN 979-8199517683.
 
 - Paperback: $19.99 at https://www.amazon.com/Forward-Deployed-AI-Engineering-Software/dp/B0H3VKKG38/
 - Kindle: $9.99 (also on Kindle Unlimited) at https://www.amazon.com/dp/B0H3KP9CVH/
+
+Daily Wisdom for Founders, Investors, and Managers: 366 Meditations on Mental Models, Misjudgment, and Money, by Nasser Ghanemzadeh. Independently published. First edition; Kindle release October 6, 2026. 366 one-page meditations in twelve themed months: the latticework, the machinery of misjudgment, guarding the mind, the mathematics of wisdom, lessons from Darwin, systems and second-order effects, the psychology of money, the investor's temperament, the manager's craft, the founder's path, the not-to-do list, and the good life. Each day holds a quotation verified against a primary source, an essay of about 250 words, and one closing question or action. 399 pages in print, about 104,000 words.
+
+- Kindle: $11.99, pre-order at https://www.amazon.com/dp/B0HHNNFY6M/ (delivered October 6, 2026)
+- Paperback and hardcover: follow the Kindle release
 
 ## The service
 
@@ -46,7 +51,7 @@ Everything I do feeds the same operation. Here it is, in priority order.
 
 - 02 **[Vectig.](https://vectig.com)** AI-native cash flow forecasting for early-stage founders, built solo with Claude Code, in public. It's also my test bench: most Sprint patterns run here before a client sees them.
 
-- 03 **The books.** [Forward Deployed AI Engineering](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/) explains the role. [Founder Mode](https://ghanemzadeh.com/book/) explains the operating practice underneath it. For the quick version of the first, read [what a Forward Deployed AI Engineer is](https://ghanemzadeh.com/forward-deployed-ai-engineer/), or browse [the best FDE books](https://ghanemzadeh.com/best-forward-deployed-engineer-books/).
+- 03 **The books.** [Daily Wisdom](https://ghanemzadeh.com/books/daily-wisdom/) is a year of one-page meditations on judgment and money, on Kindle pre-order now. [Forward Deployed AI Engineering](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/) explains the role. [Founder Mode](https://ghanemzadeh.com/book/) explains the operating practice underneath it. For the quick version of the FDE book, read [what a Forward Deployed AI Engineer is](https://ghanemzadeh.com/forward-deployed-ai-engineer/), or browse [the best FDE books](https://ghanemzadeh.com/best-forward-deployed-engineer-books/).
 
 - 04 **[The newsletter.](https://ghanemzadeh.com/newsletter/)** One email a week: Claude Code workflows, AI product distribution, and the weeks where nothing works.
 
@@ -54,10 +59,11 @@ Everything I do feeds the same operation. Here it is, in priority order.
 
 03 · The books
 
-### Both books came out of the same work.
+### Three books from the same desk.
 
-One explains the role, the other the operating practice underneath it. The first two chapters of each are free.
+One is about judgment, one about the role, one about the operating practice underneath it. The first two chapters of Founder Mode and Forward Deployed AI Engineering are free, and so is a month of Daily Wisdom.
 
+[366 meditations · Pre-order #### Daily Wisdom One page a day on mental models, misjudgment, and money, for founders, investors, and managers.](https://ghanemzadeh.com/books/daily-wisdom/)
 [304 pages · Version 1.5 #### Forward Deployed AI Engineering The working guide to the FDE role: what the job is, how the work is done, how to break in.](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/)
 [From HP to NVIDIA #### Founder Mode The history of calibrated founder involvement, and what the great companies paid for it.](https://ghanemzadeh.com/book/)
 
@@ -653,7 +659,7 @@ The buying-club discipline that survived Sinegal's retirement.
 
 I'm Nasser Ghanemzadeh. 17+ years building products and companies across AI, SaaS, and fintech. Previously CEO/CPO at Nivo (acquired). Currently building Vectig solo with Claude Code, and running a 10-business-day [AI Feature Sprint](https://ghanemzadeh.com/ai-feature-sprint/) for B2B SaaS teams.
 
-Also by Nasser: [Forward Deployed AI Engineering: A Working Guide to the Hottest Job in Software](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/).
+Also by Nasser: [Forward Deployed AI Engineering: A Working Guide to the Hottest Job in Software](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/) and [Daily Wisdom](https://ghanemzadeh.com/books/daily-wisdom/).
 
 More on the [home page](https://ghanemzadeh.com/).
 
@@ -675,19 +681,21 @@ URL: https://ghanemzadeh.com/books/
 
 Books
 
-## Two books, one author
+## Three books, one author
 
-Different topics, same operating lens. Founder Mode is about how great companies are actually built. Forward Deployed AI Engineering is about the job that has become the default way to ship AI into the real world.
+Different topics, same operating lens. Daily Wisdom is a year of one-page meditations on judgment, misjudgment, and money. Founder Mode is about how great companies are actually built. Forward Deployed AI Engineering is about the job that has become the default way to ship AI into the real world.
 
-[2026 · New ### Forward Deployed AI Engineering A Working Guide to the Hottest Job in Software 304 pages. First edition, May 2026. Version 1.5, August 2026. On May 4, 2026, OpenAI and Anthropic each launched deployment subsidiaries on the same day, both built around the title Forward Deployed Engineer. This book is for the person who wants to do that work. Five parts: the landscape, the mindset and the method, the craft, becoming an FDE, and the economy and future. Read the first chapters →](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/)
+[2026 · Pre-order ### Daily Wisdom 366 Meditations on Mental Models, Misjudgment, and Money 366 meditations. 399 pages in print. Kindle pre-order, out October 6, 2026. One bad hire costs a year. One bad acquisition costs a decade. One bad partner can cost you the company. A year-long course in not fooling yourself, for founders, investors, and managers: a verified quotation, a short essay, and one question for every day of the year. Read a month free →](https://ghanemzadeh.com/books/daily-wisdom/)
+
+[2026 ### Forward Deployed AI Engineering A Working Guide to the Hottest Job in Software 304 pages. First edition, May 2026. Version 1.5, August 2026. On May 4, 2026, OpenAI and Anthropic each launched deployment subsidiaries on the same day, both built around the title Forward Deployed Engineer. This book is for the person who wants to do that work. Five parts: the landscape, the mindset and the method, the craft, becoming an FDE, and the economy and future. Read the first chapters →](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/)
 
 [2026 ### Founder Mode How the Great Companies Are Actually Built 254 pages. First edition. In 2024, Paul Graham named "Founder Mode" after Brian Chesky's talk at a YC alumni dinner. The practice is older than the name. HP, Disney, Apple, Pixar, Amazon, NVIDIA, and Costco built their best work this way. This book traces how, and is honest about the costs. Read the first two chapters →](https://ghanemzadeh.com/book/)
 
-02 · Why two books
+02 · Why three books
 
-### Why two books
+### Why three books
 
-The two books are about the same thing seen from different angles. Founder Mode is about the people who choose to stay close to the work that matters as their companies scale. Forward Deployed AI Engineering is about the work itself, in a specific form, in a specific moment. Start with whichever is closer to the problem on your desk.
+The three books are about the same thing seen from different angles. Daily Wisdom is about judgment: the models, the misjudgments, and the money, one page a day. Founder Mode is about the people who choose to stay close to the work that matters as their companies scale. Forward Deployed AI Engineering is about the work itself, in a specific form, in a specific moment. Start with whichever is closer to the problem on your desk.
 
 03 · About the author
 
@@ -696,6 +704,248 @@ The two books are about the same thing seen from different angles. Founder Mode 
 I'm Nasser Ghanemzadeh, a [Forward Deployed AI Engineer](https://ghanemzadeh.com/forward-deployed-ai-engineer/) for founder-led B2B SaaS. 17+ years building products and companies across AI, SaaS, and fintech. Former CEO and CPO at Nivo (acquired, 200K+ users, 450% revenue growth), Founding Head of Product at Pangouan, and co-founder of Finnova and the Iran Startups community. My work has been covered in Forbes, TechCrunch, Al Jazeera, and HuffPost.
 
 Today I run the [AI Feature Sprint](https://ghanemzadeh.com/ai-feature-sprint/) and build [Vectig](https://vectig.com) in public with Claude Code. More on the [home page](https://ghanemzadeh.com/).
+
+---
+
+# Daily Wisdom: 366 Meditations on Mental Models | Nasser Ghanemzadeh
+
+URL: https://ghanemzadeh.com/books/daily-wisdom/
+
+**Kindle edition open for pre-order.** It lands on your Kindle on October 6, 2026. Paperback and hardcover follow.
+
+A year-long course in not fooling yourself: a verified quotation, a three-minute essay, and one question, for every day of the year.
+
+## Daily Wisdom
+
+*for Founders, Investors, and Managers: 366 Meditations on Mental Models, Misjudgment, and Money*
+
+First edition · Kindle pre-order, out October 6, 2026 · 366 meditations · 399 pages in print
+
+One bad hire costs a year. One bad acquisition costs a decade. One bad partner can cost you the company. Avoided mistakes compound like invested money, and almost nobody studies avoidance. The standard stupidities never go out of style: people overpaid for glamour stocks in 1720, in 1999, and in 2021, and founders ran out of cash in every decade on record. The names change. The errors are reruns. This book studies the reruns, one page a day, until you recognize them from the opening scene.
+
+[Pre-order on Kindle](https://www.amazon.com/dp/B0HHNNFY6M/)
+
+Paperback and hardcover editions follow the Kindle release. Or read a whole month now: sign up and the October sample, 54 pages, lands in your inbox.
+
+You'll also get the newsletter. One email a week, easy unsubscribe.
+
+02 · What it is
+
+### One page a day
+
+Start on today's date, or on January 1, or anywhere. The year is a circle; you will pass every page eventually.
+
+Each page has three parts: a quotation, verified and attributed; a short essay; and a closing prompt, a question to sit with or a small action to take. The prompt is the point. Reading the page takes three minutes; the page only pays if the prompt survives into your day.
+
+The months are themed, and later pages assume earlier ones the way a course assumes its prerequisites. Cross-references like "February 14" point back to the day where an idea was built. Ignore them on a first pass; they are for the second. At the back, Sources by Day lists where every quotation comes from, and Further Reading lists the books behind each month, in the order I would hand them to a friend.
+
+Two habits multiply the book's value. Keep a notebook; many prompts ask you to write, and the writing is where the thinking happens. And reread. The same page reads differently in a bull market and a bear market, before a decision and after one.
+
+03 · Who it's for
+
+### Three readers
+
+The pages rotate among three readers, because the three jobs share one underlying craft: making decisions under uncertainty, with other people's trust at stake. Most days speak to all three. All days speak to the person underneath the job.
+
+- **The founder** watching runway. October is your month, but the base rates, the cash arithmetic, and the partner problems are spread across the year.
+
+- **The investor** watching yourself. Temperament, not IQ, is the scarce input, and the barriers were never intellectual.
+
+- **The manager** building a machine that runs without you. Design the incentives, deserve the trust, tell the truth fast, delegate to the edge, protect the standards.
+
+And anyone who suspects the expensive mistakes are more avoidable than the successes are copyable.
+
+04 · The year
+
+### Twelve months, one argument
+
+The content follows Peter Bevelin's map and the thinkers he drew on. The first half builds the frame and studies how the mind fails. The second half turns outward: money, investing, management, founding, and what all of it is for.
+
+#### January · The Latticework
+
+Knowledge only works when it hangs together. A fact you cannot connect is a fact you will forget. This month builds the frame the other eleven hang on.
+
+#### February · The Machinery of Misjudgment
+
+Your brain is legacy hardware. Bevelin, following Munger, cataloged twenty-eight psychological reasons we misjudge. One per day, with the leap day for what happens when several fire at once.
+
+#### March · Guarding the Mind
+
+February cataloged the bugs. March installs the patches: procedures, questions, and habits that catch the error before it ships. None of them are clever. All of them work because they don't depend on you being at your best.
+
+#### April · The Mathematics of Wisdom
+
+About ten ideas, held firmly: compounding, probability, expected value, regression, ruin. Most expensive errors are not calculation failures. They are failures to see that a calculation applies.
+
+#### May · Lessons from Darwin
+
+Markets are ecosystems with quarterly reporting. Variation and selection, niches and predators, signals and mimicry, extinction and adaptation. Where the analogy breaks, the book says so.
+
+#### June · Systems and Second-Order Effects
+
+A company is not a machine with levers. It is a system, and it answers every intervention with consequences you did not order. The fix is almost never "try harder."
+
+#### July · The Psychology of Money
+
+Money decisions are made in minds, by people with histories, fears, and neighbors. Morgan Housel's territory: why keeping wealth is a different skill from making it. Less math than April. More mirrors.
+
+#### August · The Investor's Temperament
+
+Everything you need to know about investing fits in a pamphlet, and the pamphlet has been public for ninety years. Almost nobody can follow it. The barriers are temperamental, not intellectual.
+
+#### September · The Manager's Craft
+
+Design the incentives, deserve the trust, tell the truth fast, delegate to the edge, protect the standards, build a machine that runs without you. None of it requires charisma. All of it requires spine.
+
+#### October · The Founder's Path
+
+Survival, focus, customers, cash, partners, pricing, and the long game, with the base rates in view and the romance left at the door. The failures cluster around a short list of preventable causes. This month is that list.
+
+#### November · The Not-To-Do List
+
+Munger's 1986 commencement trick: prescribe guaranteed misery and let the audience invert. The reliable roads to failure, then a week in Sherlock Holmes's company. Wisdom, this month insists, is mostly subtraction.
+
+#### December · The Good Life
+
+What is all this optimization for? The Stoics, whom Munger read and quoted; the virtues that outlast portfolios; the arithmetic of enough. Wisdom's last application is not a better decision. It is a life you would re-choose.
+
+05 · Two pages from the book
+
+### Two pages, unabridged
+
+Every page in the book looks like these two. The first opens the year. The second opens November.
+
+#### January 1 · Why Wisdom
+
+> *"When you have faults, do not fear to abandon them."*
+
+> CONFUCIUS, *Analects* (trans. James Legge)
+
+Start with uncomfortable arithmetic. One bad hire costs a year. One bad acquisition costs a decade. One bad partner can cost you the company. Avoided mistakes compound like invested money. Almost nobody studies avoidance.
+
+We study success stories instead. They flatter us. Failures instruct us, and we skip them.
+
+Wisdom, as this book uses the word, is not brilliance. It is a working knowledge of how things fail, held firmly enough that you fail less often than the people around you. That is a real competitive advantage, because the standard stupidities never go out of style. People overpaid for glamour stocks in 1720, in 1999, and in 2021. Founders ran out of cash in every decade on record. The names change. The errors are reruns.
+
+Confucius stated the entry fee twenty-five centuries ago. You will commit faults. The question is what happens next. Most people defend the fault, because admitting it stings. So they pay for the same lesson twice, then a third time, at rising prices. The second bill is rarely denominated in money alone. It comes in years, in partners, in the chance that does not come back.
+
+This year, one page a day, we study the reruns until you recognize them from the opening scene.
+
+**Ask yourself:** What mistake have I already paid for more than once? What would it take to actually abandon it?
+
+#### November 1 · Consistently Not Stupid
+
+> *"It is remarkable how much long-term advantage people like us have gotten by trying to be consistently not stupid, instead of trying to be very intelligent."*
+
+> CHARLIE MUNGER
+
+Munger is *not* claiming that brilliance is worthless, or that Berkshire won by accident. He is observing where the returns actually came from, and his answer is avoidance. Not the genius trades made, but the standard stupidities not committed: the leverage not taken, the manias not joined, the reputations not gambled. Buffett put it the same way in the 1989 letter, after twenty-five years of buying businesses. He and Munger had not learned to solve difficult business problems. They had learned to avoid them, by looking for one-foot hurdles to step over rather than seven-foot ones they might clear.
+
+The arithmetic runs through this book. Errors are asymmetric. Losses require outsized gains to repair (April 20), and some end the game entirely; no accumulated brilliance survives one act of terminal stupidity. Errors are also more *predictable* than successes. Nobody can list next decade's winning ideas, but February's twenty-eight failure modes have been constant for centuries. Avoiding the known and recurring beats predicting the unknown, on reliability alone.
+
+And the competition is thinner. The pursuit of brilliance is crowded with ambitious people bidding up the price of cleverness. The pursuit of non-stupidity is nearly deserted, because it is unglamorous, invisible when it works (January 29), and pays in disasters that never happened. Munger's folk saying completes the thought: it's the strong swimmers who drown. The confident, the brilliant, the credentialed swim out too far.
+
+**Ask yourself:** Will this year's results improve more from one brilliant addition, or from deleting my two most repeatable stupidities? Name the two.
+
+06 · The quotations
+
+### Checked, not copied
+
+Every epigraph in the book was checked against a primary source before inclusion: the original text, the original letter or speech, the shareholder letter on the company's own site, or a scholarly edition. Where a beloved quotation could not be verified, it was left out rather than hedged. Proverbs and sayings are labeled as what they are, the property of nobody in particular.
+
+Five famous lines you may expect to find are corrected instead of repeated.
+
+- The line about the survival of "the most adaptable to change," universally attributed to Darwin, appears nowhere in Darwin. It is a 1963 paraphrase by management professor Leon Megginson.
+
+- "It is not enough to be busy; so are the ants" is a misquotation. Thoreau's 1857 sentence to H. G. O. Blake reads "It is not enough to be industrious; so are the ants. What are you industrious about?"
+
+- "It is better to be vaguely right than exactly wrong" belongs to Carveth Read (1898), not Keynes.
+
+- "Price is what you pay; value is what you get" is credited to Ben Graham, because that is how Buffett presents it in his 2008 shareholder letter.
+
+- "Lies, damned lies, and statistics" is given as what it is: a line Mark Twain attributed to Disraeli, with no Disraeli source ever found.
+
+Charlie Munger is quoted twenty times and Warren Buffett fifteen, both at a deliberate cap. Benjamin Franklin, Charles Darwin, Francis Bacon, Seneca, Marcus Aurelius, and Aesop follow. Howard Marks, Ben Graham, and Morgan Housel appear a few times each. Almost everything else is public domain, quoted from public-domain translations, and Sources by Day at the back lists where all 366 come from.
+
+07 · Where it came from
+
+### A daily dose
+
+In 2003, a Swedish businessman named Peter Bevelin published a strange and wonderful book called *Seeking Wisdom: From Darwin to Munger*. He wrote it, he said, to learn: collecting in one place what Darwin, Munger, Buffett, and a hundred scientists and philosophers had figured out about why we misjudge, and how to do better. It became an underground classic among investors and founders, passed hand to hand like a map.
+
+I have read many books on this subject and will read more. This one was born when I asked myself whether there was a book that would provide a daily dose of wisdom, the way a supplement provides a daily dose of vitamins. I could not find one, and in February 2024 I started writing it.
+
+The daily format is old. Tolstoy spent his last years assembling *A Calendar of Wisdom*; a century later, Ryan Holiday's *The Daily Stoic* and Robert Greene's *The Daily Laws* proved the form still works. It works because wisdom is not a download. It is a practice, and practices run on repetition. You cannot read your way into better judgment in a weekend. You might, page by page, over a year, train your way into it.
+
+Three promises. Every quotation was verified against a primary source before it went in. The ideas are credited: where a framing belongs to Munger, Buffett, Housel, Bevelin, or anyone else, their name is on it, and the connective tissue and the mistakes are mine. And nothing here is theory I haven't needed. I have spent my working life building software and companies, and every page is something I learned the expensive way or watched someone else pay for.
+
+08 · About the author
+
+### About the author
+
+I'm Nasser Ghanemzadeh. 17+ years building products and companies across AI, SaaS, and fintech. Former CEO and CPO at Nivo (acquired, 200K+ users), Founding Head of Product at Pangouan, and co-founder of Finnova and the Iran Startups community. Currently building [Vectig](https://vectig.com) solo with Claude Code and running the [AI Feature Sprint](https://ghanemzadeh.com/ai-feature-sprint/) for founder-led B2B SaaS teams.
+
+I have been the founder watching runway and the manager building the machine. Finnova, a coworking space and accelerator, showed me the ecosystem from the investor side. The three readers in this book are three jobs I have held or sat across the table from.
+
+More on the [home page](https://ghanemzadeh.com/). Also by Nasser: [Forward Deployed AI Engineering](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/) and [Founder Mode](https://ghanemzadeh.com/book/).
+
+09 · Read it
+
+### Read October free
+
+Join the newsletter and the October sample lands in your inbox: the introduction, all thirty-one days of The Founder's Path, and the sources at the back. The Kindle edition is on pre-order and arrives October 6, 2026.
+
+You'll also get the newsletter. One email a week, easy unsubscribe.
+
+### FAQ
+
+#### What is Daily Wisdom?
+
+A year-long course in not fooling yourself. 366 one-page meditations for founders, investors, and managers, in the mental-model tradition of Charlie Munger and Peter Bevelin. Each page holds a verified quotation, a short essay, and one question or action to carry into the day.
+
+#### Who is it for?
+
+Operators who decide for a living: founders watching runway, investors watching themselves, managers building machines that run without them. The three jobs share one craft, making decisions under uncertainty with other people's trust at stake, and the pages rotate among them.
+
+#### How is each day structured?
+
+Three parts on one page. A quotation, checked against its primary source. An essay of about 250 words. A closing prompt, either a question to sit with (Ask yourself) or a small action to take (Try this). Reading the page takes three minutes.
+
+#### What do the twelve months cover?
+
+January builds the latticework of mental models. February and March cover the psychology of misjudgment and its antidotes. April is the mathematics of wisdom. May reads business through Darwin. June is systems and second-order effects. July is the psychology of money, August the investor's temperament, September the manager's craft, October the founder's path. November is the not-to-do list. December asks what all of it is for.
+
+#### When is it out, and in what formats?
+
+The Kindle edition is on pre-order now and is delivered on October 6, 2026. Paperback and hardcover editions follow the Kindle release. A free sample, the whole month of October, goes to anyone who joins the newsletter.
+
+#### How long is it?
+
+366 meditations, one per page, about 104,000 words. The print edition runs 399 pages at 6 by 9 inches. Read one page a day, or raid it before a decision.
+
+#### Are the quotations real?
+
+Yes. Every epigraph was checked against a primary source: the original text, letter, or speech, or the shareholder letter on the company's own site. Where a beloved quotation could not be verified, it was left out. Five famous misattributions are corrected in the book rather than repeated.
+
+#### Do I have to start on January 1?
+
+No. Start on today's date, or anywhere. The year is a circle and you will pass every page eventually. Cross-references point back to the day where an idea was built; ignore them on a first pass.
+
+#### Is this investment advice?
+
+No. The book is for general education. It is not investment, legal, tax, or medical advice, and no reader should act on it without consulting qualified professionals.
+
+### Keep reading
+
+- [All three books](https://ghanemzadeh.com/books/). Daily Wisdom, Forward Deployed AI Engineering, and Founder Mode on one page.
+
+- [Forward Deployed AI Engineering](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/). The working guide to the FDE role.
+
+- [Founder Mode](https://ghanemzadeh.com/book/). How the great companies are actually built.
+
+- [The newsletter](https://ghanemzadeh.com/newsletter/). One email a week from the same desk.
+
+Independent publication. This book is for general education and entertainment. It is not investment, legal, tax, or medical advice, and no reader should act on its contents without consulting qualified professionals. It is inspired by, but not affiliated with or endorsed by, any of the authors discussed in it. Book titles and company names are the property of their respective owners. Views are the author's alone.
 
 ---
 
@@ -818,7 +1068,7 @@ I'm not a Palantir alumnus. I did not invent the FDE motion and I make no claim 
 
 I also run a 10-business-day [AI Feature Sprint](https://ghanemzadeh.com/ai-feature-sprint/) for founder-led B2B SaaS teams: ship one narrow AI workflow into their product. Same playbook, sized for teams that don't have a $250K procurement process.
 
-More on the [home page](https://ghanemzadeh.com/). Also by Nasser: [Founder Mode](https://ghanemzadeh.com/book/).
+More on the [home page](https://ghanemzadeh.com/). Also by Nasser: [Founder Mode](https://ghanemzadeh.com/book/) and [Daily Wisdom](https://ghanemzadeh.com/books/daily-wisdom/).
 
 08 · Read it
 
@@ -1504,7 +1754,7 @@ Get the free chapters
 
 I'm Nasser Ghanemzadeh. 17+ years building products and companies across AI, SaaS, and fintech. As CEO and later CPO at Nivo, I shipped AI-powered applications that grew to 200K+ users and 450% revenue growth before the company was acquired.
 
-These days I build Vectig solo with Claude Code and run a 10-business-day [AI Feature Sprint](https://ghanemzadeh.com/ai-feature-sprint/) for B2B SaaS teams. The two books came out of that work. More on the [home page](https://ghanemzadeh.com/).
+These days I build Vectig solo with Claude Code and run a 10-business-day [AI Feature Sprint](https://ghanemzadeh.com/ai-feature-sprint/) for B2B SaaS teams. The books came out of that work. More on the [home page](https://ghanemzadeh.com/).
 
 Forbes · TechCrunch · Al Jazeera · HuffPost
 

@@ -26,7 +26,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@400;500;700&family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="/main.css?v=20260824">
+  <link rel="stylesheet" href="/main.css?v=20260908">
 
   <!-- Open Graph -->
   <meta property="og:type" content="website">
@@ -106,7 +106,8 @@
       "https://www.instagram.com/ghanemzadeh",
       "https://www.crunchbase.com/person/nasser-ghanemzadeh",
       "https://wellfound.com/u/ghanemzadeh",
-      "https://www.amazon.com/dp/B0H3VKKG38"
+      "https://www.amazon.com/dp/B0H3VKKG38",
+      "https://www.amazon.com/dp/B0HHNNFY6M"
     ],
     "subjectOf": [
       { "@type": "NewsArticle", "headline": "Coverage in Forbes", "url": "https://www.forbes.com/sites/elizabethmacbride/2016/04/30/seven-reasons-iran-is-likely-to-be-an-entrepreneurial-powerhouse/" },
@@ -169,6 +170,13 @@
       },
       {
         "@type": "Book",
+        "@id": "https://ghanemzadeh.com/books/daily-wisdom/#book",
+        "name": "Daily Wisdom for Founders, Investors, and Managers: 366 Meditations on Mental Models, Misjudgment, and Money",
+        "author": { "@id": "https://ghanemzadeh.com/#nasser" },
+        "url": "https://ghanemzadeh.com/books/daily-wisdom/"
+      },
+      {
+        "@type": "Book",
         "@id": "https://ghanemzadeh.com/books/forward-deployed-ai-engineering/#book",
         "name": "Forward Deployed AI Engineering: A Working Guide to the Hottest Job in Software",
         "author": { "@id": "https://ghanemzadeh.com/#nasser" },
@@ -192,7 +200,7 @@
   <!-- End Google Tag Manager (noscript) -->
 
   <div class="site">
-    <!-- Shared site header. Keep markup in sync with /, /newsletter/, /book/, /ai-feature-sprint/. -->
+    <!-- Shared site header. Keep markup in sync with /, /newsletter/, /book/, /books/daily-wisdom/, /ai-feature-sprint/. -->
     <header class="site-header">
       <div class="container">
         <a href="/" class="site-header__brand">Nasser Ghanemzadeh</a>
@@ -250,7 +258,7 @@
         <ol class="nl-topics-list">
           <li><span class="nl-num" aria-hidden="true">01</span><p><strong><a href="/ai-feature-sprint/">The AI Feature Sprint.</a></strong> Ten business days embedded with a founder-led B2B SaaS team, shipping one narrow AI workflow into the product. Fixed scope, fixed price, a working prototype by Day 5.</p></li>
           <li><span class="nl-num" aria-hidden="true">02</span><p><strong><a href="https://vectig.com" target="_blank" rel="noopener noreferrer">Vectig.</a></strong> AI-native cash flow forecasting for early-stage founders, built solo with Claude Code, in public. It's also my test bench: most Sprint patterns run here before a client sees them.</p></li>
-          <li><span class="nl-num" aria-hidden="true">03</span><p><strong>The books.</strong> <a href="/books/forward-deployed-ai-engineering/">Forward Deployed AI Engineering</a> explains the role. <a href="/book/">Founder Mode</a> explains the operating practice underneath it. For the quick version of the first, read <a href="/forward-deployed-ai-engineer/">what a Forward Deployed AI Engineer is</a>, or browse <a href="/best-forward-deployed-engineer-books/">the best FDE books</a>.</p></li>
+          <li><span class="nl-num" aria-hidden="true">03</span><p><strong>The books.</strong> <a href="/books/daily-wisdom/">Daily Wisdom</a> is a year of one-page meditations on judgment and money, on Kindle pre-order now. <a href="/books/forward-deployed-ai-engineering/">Forward Deployed AI Engineering</a> explains the role. <a href="/book/">Founder Mode</a> explains the operating practice underneath it. For the quick version of the FDE book, read <a href="/forward-deployed-ai-engineer/">what a Forward Deployed AI Engineer is</a>, or browse <a href="/best-forward-deployed-engineer-books/">the best FDE books</a>.</p></li>
           <li><span class="nl-num" aria-hidden="true">04</span><p><strong><a href="/newsletter/">The newsletter.</a></strong> One email a week: Claude Code workflows, AI product distribution, and the weeks where nothing works.</p></li>
           <li><span class="nl-num" aria-hidden="true">05</span><p><strong>Earlier projects.</strong> <a href="https://sengi.co" target="_blank" rel="noopener noreferrer">Sengi</a>, a financial OS for freelancers, built solo as a learning vehicle for AI-native financial tooling. Paused to focus on Vectig and the Sprint.</p></li>
         </ol>
@@ -258,9 +266,20 @@
 
       <section class="section afs-section--wide">
         <p class="eyebrow-num">03 · The books</p>
-        <h2 class="t-display">Both books came out of the same work.</h2>
-        <p>One explains the role, the other the operating practice underneath it. The first two chapters of each are free.</p>
+        <h2 class="t-display">Three books from the same desk.</h2>
+        <p>One is about judgment, one about the role, one about the operating practice underneath it. The first two chapters of Founder Mode and Forward Deployed AI Engineering are free, and so is a month of Daily Wisdom.</p>
         <div class="nl-cards">
+          <a class="nl-card" href="/books/daily-wisdom/">
+            <picture>
+              <source type="image/webp" srcset="/assets/book/daily-wisdom/cover.webp">
+              <img src="/assets/book/daily-wisdom/cover.jpg" alt="Daily Wisdom book cover" width="76" height="114" decoding="async" loading="lazy">
+            </picture>
+            <div>
+              <p class="nl-card__kicker">366 meditations · Pre-order</p>
+              <h3>Daily Wisdom</h3>
+              <p>One page a day on mental models, misjudgment, and money, for founders, investors, and managers.</p>
+            </div>
+          </a>
           <a class="nl-card" href="/books/forward-deployed-ai-engineering/">
             <picture>
               <source type="image/jpeg" srcset="/assets/book/fde/cover.jpg">
