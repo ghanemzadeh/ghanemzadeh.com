@@ -6,7 +6,7 @@ Nasser Ghanemzadeh has spent 17+ years building products and companies across AI
 
 His live R&D lab is Vectig, an AI-native cash flow forecasting product for pre-seed-to-Series-A founders, built solo with Claude Code, in public. Most workflow patterns he ships into a client codebase have already run in Vectig first.
 
-He is the author of three books: Daily Wisdom (366 one-page meditations on mental models, misjudgment, and money for founders, investors, and managers; Kindle pre-order, out October 6, 2026), Forward Deployed AI Engineering (a working guide to the Forward Deployed AI Engineer role: what it is, where it came from, how it is practiced, and how to do it well; 304 pages, first edition May 2026, Version 1.5 August 2026) and Founder Mode (how great founders stay close to product, people, judgment, and execution as companies scale). He writes a weekly newsletter, Notes from the edge of building, and his work has been covered in Forbes, TechCrunch, Al Jazeera, and HuffPost.
+He is the author of three books: Daily Wisdom (366 one-page meditations on mental models, misjudgment, and money for founders, investors, and managers; Kindle pre-order, out October 6, 2026), Forward Deployed AI Engineering (a working guide to the Forward Deployed AI Engineer role: what it is, where it came from, how it is practiced, and how to do it well; 304 pages, first edition May 2026, Version 1.5 August 2026) and Founder Mode (how great founders stay close to product, people, judgment, and execution as companies scale). He writes a weekly newsletter, Nasser Ghanemzadeh’s Newsletter, which runs one real decision through one mental model for founders who invest and investors who build, and his work has been covered in Forbes, TechCrunch, Al Jazeera, and HuffPost.
 
 ## The books
 
@@ -53,7 +53,7 @@ Everything I do feeds the same operation. Here it is, in priority order.
 
 - 03 **The books.** [Daily Wisdom](https://ghanemzadeh.com/books/daily-wisdom/) is a year of one-page meditations on judgment and money, on Kindle pre-order now. [Forward Deployed AI Engineering](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/) explains the role. [Founder Mode](https://ghanemzadeh.com/book/) explains the operating practice underneath it. For the quick version of the FDE book, read [what a Forward Deployed AI Engineer is](https://ghanemzadeh.com/forward-deployed-ai-engineer/), or browse [the best FDE books](https://ghanemzadeh.com/best-forward-deployed-engineer-books/).
 
-- 04 **[The newsletter.](https://ghanemzadeh.com/newsletter/)** One email a week: Claude Code workflows, AI product distribution, and the weeks where nothing works.
+- 04 **[The newsletter.](https://ghanemzadeh.com/newsletter/)** One letter a week that runs one real decision through one mental model. Better judgment for founders who invest and investors who build.
 
 - 05 **Earlier projects.** [Sengi](https://sengi.co), a financial OS for freelancers, built solo as a learning vehicle for AI-native financial tooling. Paused to focus on Vectig and the Sprint.
 
@@ -114,9 +114,9 @@ I'm also on
 
 08 · The newsletter
 
-### Notes from the edge of building
+### Better judgment for founders who invest and investors who build.
 
-One email a week on building AI-native SaaS solo. Subscribe and the first two chapters of both books land in your first email.
+One real decision through one mental model, every week. Subscribe and the first two chapters of both books land in your first email.
 
 Free. Unsubscribe in one click.
 
@@ -1523,9 +1523,9 @@ Functionally, yes. Applied AI is Anthropic's title for the FDE-shaped role, the 
 
 Newsletter
 
-### Notes from the edge of building
+### Better judgment for founders who invest and investors who build.
 
-One email a week on Forward Deployed AI Engineering, building AI-native SaaS solo with Claude Code, and the slow weeks in between. Subscribing also gets you the first two chapters of both my books.
+One letter a week that runs one real decision through one mental model. Subscribing also gets you the first two chapters of both my books.
 
 Free. Unsubscribe in one click.
 
@@ -1685,7 +1685,7 @@ Two books · Four chapters · Free
 
 ## Read the first two chapters of both my books. Free.
 
-Subscribe to Notes from the edge of building, my weekly newsletter, and I'll send you the opening chapters of *Forward Deployed AI Engineering* and *Founder Mode* in your first email. After that, one short note a week on building AI-native SaaS solo.
+Subscribe to my weekly newsletter and I'll send you the opening chapters of *Forward Deployed AI Engineering* and *Founder Mode* in your first email. After that, one short letter a week: one real decision, run through one mental model.
 
 Free. The chapters arrive in your first email. Unsubscribe in one click.
 
@@ -1702,21 +1702,19 @@ There's no checkout and no download page to dig through. The chapters are just t
 
 03 · Then, every week
 
-### One email a week
+### One decision, one mental model
 
-The newsletter is called Notes from the edge of building. The edge is where I work: building AI-native SaaS solo with Claude Code. No frameworks borrowed from Twitter threads. No promises of overnight scale. Just what is working, what is not, and what I am trying next.
+The letter is written for founders who invest and investors who build, and it has one job: better judgment. Each week takes one real decision and runs it through one mental model, the same tools *Daily Wisdom* works through a page at a time. No frameworks borrowed from Twitter threads. No promises of overnight scale. Just the decision, the model, and what the model says to do.
 
 Get the free chapters
 
-- 01 **Forward Deployed AI Engineering in practice.** What works in the field, what the labs are getting right and wrong.
+- 01 **One real decision.** A hire, a raise, a price, a term sheet, a pivot. Something with money or trust on the line, not a hypothetical.
 
-- 02 **Building AI-native products solo.** Vectig as the live case study, including the failures, plus lessons from Sengi, an earlier build I paused.
+- 02 **One mental model.** Base rates, incentives, inversion, margin of safety. One per letter, in plain words, from the latticework *Daily Wisdom* builds over a year.
 
-- 03 **Distribution without paid ads.** LinkedIn, warm outreach, the referrer network.
+- 03 **Where the judgment slips.** The misjudgment the model catches, and why it is so easy to miss in the moment.
 
-- 04 **Founder operations.** Cash flow, hiring, scope, the unglamorous middle.
-
-- 05 **Claude Code workflows.** The specific patterns that make a one-person shop ship like a small team.
+- 04 **What to do on Monday.** The same decision, re-run with the model in hand. Short enough to read in one sitting.
 
 04 · The receipts
 
@@ -1762,4 +1760,4 @@ Forbes · TechCrunch · Al Jazeera · HuffPost
 
 ### Your first email has the chapters in it.
 
-Then one email a week, built for founders and operators shipping AI-native products in small teams.
+Then one letter a week: one real decision through one mental model, for founders who invest and investors who build.

@@ -7,8 +7,11 @@
   Source template for assets/og-newsletter.jpg, the link-preview image used by
   /newsletter/ on X, LinkedIn, Slack and messaging apps. Render with:
     python3 scripts/og/render.py scripts/og/newsletter-card.html assets/og-newsletter.jpg
+  Then bump the ?v= date on the og:image / twitter:image URLs in newsletter/index.html,
+  because Cloudflare edge-caches the JPEG for hours and X caches whatever it first fetched.
   Self-contained on purpose: no /main.css link, so a CSS edit here never needs a
   cache-bust bump. Colors mirror the :root tokens in main.css.
+  Bottom 88px stay clear: X draws its title pill over that strip.
 -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -24,7 +27,7 @@
   .text { max-width: 800px; }
   .eyebrow { font-size: 20px; font-weight: 500; letter-spacing: .12em; text-transform: uppercase; color: #c89a3e; }
   .title { margin: 10px 0 0; font-family: "Cormorant Garamond", Georgia, serif; font-weight: 600; font-size: 76px; line-height: 1.02; letter-spacing: -.01em; color: #f5f5f5; }
-  .hook { margin: 18px 0 0; font-size: 26px; line-height: 1.35; color: #b0b0b0; }
+  .hook { margin: 18px 0 0; font-size: 28px; line-height: 1.35; color: #d4d4d4; }
   .row { margin-top: 30px; display: flex; align-items: center; gap: 20px; }
   .pill { display: inline-block; padding: 14px 36px; border-radius: 999px; background: #c89a3e; color: #181818; font-size: 24px; font-weight: 700; line-height: 1; }
   .cadence { font-size: 20px; color: #888; }
@@ -37,10 +40,10 @@
   <div class="body">
     <img class="photo" src="../../assets/profile.jpg" alt="">
     <div class="text">
-      <div class="eyebrow">Two books · Four chapters · Free</div>
-      <h1 class="title">Notes from the edge of building</h1>
-      <p class="hook">By Nasser Ghanemzadeh. Your first email brings the opening chapters of both my books, free.</p>
-      <div class="row"><span class="pill">Subscribe</span><span class="cadence">One short note a week.</span></div>
+      <div class="eyebrow">From the author of Daily Wisdom</div>
+      <h1 class="title">Nasser Ghanemzadeh’s Newsletter</h1>
+      <p class="hook">Better judgment for founders who invest and investors who build.</p>
+      <div class="row"><span class="pill">Subscribe</span><span class="cadence">One real decision through one mental model, every week.</span></div>
     </div>
   </div>
 </div>
