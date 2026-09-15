@@ -1722,6 +1722,8 @@ Get the free chapters
 
 [All posts on Substack →](https://ghanemzadeh.substack.com/archive?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
+- [September 15, 2026 #### The book I wished someone else had written Three books in last several years, and why the first one I started is the last one out.](https://ghanemzadeh.substack.com/p/the-book-i-wished-someone-else-had?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
+
 - [September 9, 2026 #### Cargo Cults: How to Spot a Fake FDE Motion Before You Join It (or Buy It) Anyone can adopt the title and redraw the org chart. The substance is harder to fake, and one test separates the two.](https://ghanemzadeh.substack.com/p/cargo-cults-how-to-spot-a-fake-fde?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
 - [September 2, 2026 #### Breaking Into the Hottest Job in Software Four paths in, a three-project portfolio, and the interview stage everyone underestimates.](https://ghanemzadeh.substack.com/p/breaking-into-the-hottest-job-in?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
@@ -1743,8 +1745,6 @@ Get the free chapters
 - [July 23, 2026 #### Gravel Roads and Paved Highways: The Palantir Pattern That Runs the AI Industry For twenty years the industry dismissed Palantir's operating model as a curiosity. Then it became the consensus in about eighteen months.](https://ghanemzadeh.substack.com/p/gravel-roads-and-paved-highways-the?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
 - [July 17, 2026 #### The great software rewrite AI coding agents are making it cheaper to rebuild software in Rust, Go, C, and C++. But faster code is only part of the story.](https://ghanemzadeh.substack.com/p/the-great-software-rewrite?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
-
-- [July 15, 2026 #### What Exactly Is a Forward Deployed AI Engineer? It is not a sales engineer, a consultant, or a CSM with a GitHub account. Every word in the title is doing work.](https://ghanemzadeh.substack.com/p/what-exactly-is-a-forward-deployed?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
 05 · Who's writing this
 
