@@ -141,7 +141,7 @@ Now booking the next Sprint slot · beta capped at 3 teams
 
 Beta pricing: $5,000, capped at 3 teams. After beta: $7,500–$10,000.
 
-By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated August 2026.
+By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated September 2026.
 
 As covered in
 
@@ -258,17 +258,21 @@ undefined
 
 Output simulated. Real diagnostics are generated live during your Discovery Day.
 
-Entry offer
+07 · The offers
 
-### Discovery Day
+### Two ways to start
 
-A 2-hour working session designed to assess whether your AI use case is actually useful, buildable, and worth turning into a sprint.
+Discovery Day is Day 0, and it is optional. If the readiness check above looks like your team, start with the entry offer: it scopes the workflow and tells you whether a Sprint is the right next step. If the workflow is already scoped and the data is in place, start the main offer on Day 1.
 
-$500
+Day 0
 
-**Includes**
+#### Discovery Day
 
-- 2-hour working session
+Start here if you need help choosing the workflow.
+
+$500 for 2 hours
+
+##### What happens
 
 - Use-case clarification
 
@@ -278,61 +282,43 @@ $500
 
 - Risk assessment
 
+##### You leave with
+
 - Recommended feature scope
 
 - Go / no-go memo
 
 - Sprint recommendation if there is a strong fit
 
-If you continue to the full Sprint within 14 days, the $500 Discovery Day fee is credited toward the Sprint price.
+[Book a Discovery Day](https://ghanemzadeh.com/discovery-day/)
 
-[See Discovery Day details →](https://ghanemzadeh.com/discovery-day/)
+Continue within 14 days and the **$500 is credited** toward the Sprint.
 
-Main offer
+Days 1 to 10
 
-### AI Feature Sprint
+#### AI Feature Sprint
 
-10 business days. One narrow AI workflow shipped into staging, production, or a production-ready pull request.
+Start here if you already know what to build. No Discovery Day required.
 
-$5,000 for the first 3 teams.
+$5,000 for the first 3 teams, then $7,500 to $10,000
 
-Later: $7,500 to $10,000 after the beta slots.
+10 business days. One narrow AI workflow shipped into staging, production, or a production-ready pull request. Working prototype by Day 5, or 50% back.
 
-**What is included**
+**Scope and design**
 
-- AI use-case selection
+AI use-case selection, feature scope, UX flow, product and technical architecture, prompt and data design.
 
-- Feature scope
+**Build**
 
-- UX flow
+Claude Code workflow, hands-on implementation of the selected workflow, working prototype by Day 5, staging deployment, production-ready PR, or handoff by Day 10.
 
-- Product and technical architecture
+**Handoff**
 
-- Prompt and data design
-
-- Claude Code workflow
-
-- Hands-on implementation of the selected workflow
-
-- Working prototype by Day 5
-
-- Staging deployment, production-ready PR, or handoff by Day 10
-
-- Team handoff and enablement session
-
-- Loom walkthrough
-
-- Handoff notes
-
-- 30-day roadmap
-
-- Output quality rubric
-
-- Reusable workflow playbook
+Team handoff and enablement session, Loom walkthrough, handoff notes, 30-day roadmap, output quality rubric, reusable workflow playbook.
 
 [Apply for the $5,000 Sprint](https://tally.so/r/ja5pD6)
 
-07 · How it works
+08 · How it works
 
 ### How the 10-business-day sprint works
 
@@ -424,7 +410,7 @@ Client access, decision-maker availability, and timely feedback are required for
 
 - You need guaranteed production deployment regardless of infrastructure constraints
 
-08 · Who's behind it
+09 · Who's behind it
 
 ### Why work with me
 
@@ -518,7 +504,7 @@ Model Context Protocol, the standard for letting AI models talk to external syst
 
 Full definitions for these and more terms are in the [Forward Deployed AI Engineering glossary](https://ghanemzadeh.com/glossary/).
 
-09 · Get started
+10 · Get started
 
 ### Want to ship one useful AI feature?
 
