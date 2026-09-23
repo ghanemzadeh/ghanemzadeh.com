@@ -26,9 +26,10 @@
   --accent-glow: rgba(200, 154, 62, 0.16); /* radial glow behind book covers */
   --on-accent: #181818;
 
-  /* Type */
-  --font-sans: "Alegreya Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-  --font-display: "Cormorant Garamond", Georgia, "Times New Roman", serif;
+  /* Type. The "Fallback" faces are local fonts resized to the web fonts'
+     metrics (see the @font-face rules below), so the swap causes no layout shift. */
+  --font-sans: "Alegreya Sans", "Alegreya Sans Fallback", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --font-display: "Cormorant Garamond", "Cormorant Garamond Fallback", Georgia, "Times New Roman", serif;
 
   /* Type scale. Serif display sizes run a step larger than sans for equal optical weight. */
   --fs-micro: 11px;
@@ -63,6 +64,41 @@
 
 @media (max-width: 768px) {
   :root { --flow-section: var(--space-7); }
+}
+
+/* Metric-matched fallbacks: while Google Fonts load (display=swap), text sets
+   in Arial/Georgia scaled to the web fonts' width and vertical metrics, so the
+   swap barely moves anything (it was the page's main layout shift).
+   Computed with fontTools from the latin woff2 files: size-adjust from the
+   advance width of sample copy, overrides from hhea ascent/descent. Recompute
+   if the families or weights change. */
+@font-face {
+  font-family: "Alegreya Sans Fallback";
+  src: local("Arial"), local("ArialMT");
+  font-weight: 400 600;
+  size-adjust: 86.18%;
+  ascent-override: 104.43%;
+  descent-override: 34.81%;
+  line-gap-override: 0%;
+}
+
+@font-face {
+  font-family: "Alegreya Sans Fallback";
+  src: local("Arial Bold"), local("Arial-BoldMT");
+  font-weight: 700;
+  size-adjust: 82.08%;
+  ascent-override: 109.65%;
+  descent-override: 36.55%;
+  line-gap-override: 0%;
+}
+
+@font-face {
+  font-family: "Cormorant Garamond Fallback";
+  src: local("Georgia");
+  size-adjust: 89.92%;
+  ascent-override: 102.76%;
+  descent-override: 31.92%;
+  line-gap-override: 0%;
 }
 
 /* Reset & Base */
@@ -141,6 +177,28 @@ a {
 
 a:hover {
   color: var(--accent-hover);
+}
+
+/* Links inside running text are underlined, so they don't rely on color alone
+   (Lighthouse link-in-text-block). Classed links (buttons, cards, nav) keep
+   their own styling. */
+p a:not([class]),
+li a:not([class]),
+dd a:not([class]) {
+  text-decoration: underline;
+  text-decoration-color: var(--accent-dim);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+p a:not([class]):hover,
+li a:not([class]):hover,
+dd a:not([class]):hover {
+  text-decoration-color: var(--accent-hover);
+}
+
+.eyebrow-num a {
+  text-decoration: none;
 }
 
 img {
@@ -1022,6 +1080,7 @@ img {
 
 /* /book/ page (editorial book hero and chapter grid) */
 .book-hero {
+  overflow-x: clip; /* the cover glow (::before) ran 16px past a 360px viewport */
   padding: 56px 0 40px;
 }
 
@@ -1124,7 +1183,7 @@ img {
   padding-top: 24px;
   border-top: 1px solid var(--border);
   font-size: 12px;
-  color: var(--text-dim);
+  color: var(--text-soft); /* --text-dim failed contrast (2.4:1) */
   line-height: 1.6;
 }
 

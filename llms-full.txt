@@ -1,8 +1,8 @@
 # Nasser Ghanemzadeh
 
-> Forward Deployed AI Engineer for founder-led B2B SaaS. Ships one narrow AI workflow into your product in 10 business days. Building Vectig in public with Claude Code. Former CEO/CPO at Nivo (acquired, 200K+ users).
+> Forward Deployed AI Engineer for founder-led B2B SaaS. Sells the AI Feature Sprint: one working AI workflow shipped into your product in ten business days, fixed price, full refund if it doesn't ship. Building Vectig in public with Claude Code. Former CEO/CPO at Nivo (acquired, 200K+ users).
 
-Nasser Ghanemzadeh has spent 17+ years building products and companies across AI, SaaS, and fintech. As CEO and later CPO at Nivo he built the product organization and shipped AI-powered applications that grew to 200K+ users and 450% revenue growth before the company was acquired. His current commercial focus is the AI Feature Sprint: a 10-business-day engagement for founder-led B2B SaaS teams of 5 to 50 that ships one narrow AI workflow into their product, with fixed scope, fixed price, and a Day-5 prototype guarantee. A focused 2-hour Discovery Day scoping session assesses whether an AI use case is useful, buildable, and worth a Sprint.
+Nasser Ghanemzadeh has spent 17+ years building products and companies across AI, SaaS, and fintech. As CEO and later CPO at Nivo he built the product organization and shipped AI-powered applications that grew to 200K+ users and 450% revenue growth before the company was acquired. His current commercial focus is the AI Feature Sprint: a 10-business-day engagement for founder-led B2B SaaS teams of 5 to 50 that ships one narrow AI workflow into their product, with fixed scope, fixed price, and a full refund if there is no working prototype by Day 5 or no working workflow by Day 10. Founders start with the free two-minute AI Workflow Scorecard and a free 15-minute Scoping Call.
 
 His live R&D lab is Vectig, an AI-native cash flow forecasting product for pre-seed-to-Series-A founders, built solo with Claude Code, in public. Most workflow patterns he ships into a client codebase have already run in Vectig first.
 
@@ -22,7 +22,7 @@ Daily Wisdom for Founders, Investors, and Managers: 366 Meditations on Mental Mo
 
 ## The service
 
-The AI Feature Sprint is a 10-business-day engagement that ships one narrow AI workflow into a founder-led B2B SaaS product. Fixed scope, fixed price: $5,000 at beta pricing, $7,500 to $10,000 standard. Working prototype by Day 5, guaranteed. A $500 Discovery Day scoping session assesses whether an AI use case is useful, buildable, and worth a Sprint, credited toward the Sprint if you continue within 14 days.
+The AI Feature Sprint is a 10-business-day engagement that ships one narrow AI workflow into a founder-led B2B SaaS product. Fixed scope, fixed price; the current price and the next kickoff dates are on the one-page offer at https://ghanemzadeh.com/offer/. Full refund if there is no working prototype on your data by Day 5, or if the workflow in the signed Sprint Brief isn't running to its acceptance criteria by Day 10. Start with the two-minute Workflow Scorecard (https://ghanemzadeh.com/scorecard/) and a free 15-minute Scoping Call (https://ghanemzadeh.com/call/). An optional paid Discovery Day offers a full two-hour scoping session, credited to the Sprint.
 
 ---
 
@@ -101,7 +101,7 @@ Through the [AI Feature Sprint](https://ghanemzadeh.com/ai-feature-sprint/) if y
 
 ### Email works best.
 
-[ghanemzadeh@gmail.com](mailto:ghanemzadeh@gmail.com). For a Sprint, start with the application form on [the AI Feature Sprint page](https://ghanemzadeh.com/ai-feature-sprint/).
+[ghanemzadeh@gmail.com](mailto:ghanemzadeh@gmail.com). For a Sprint, start on [the AI Feature Sprint page](https://ghanemzadeh.com/ai-feature-sprint/): score your workflow, then book a 15-minute Scoping Call.
 
 I'm also on
 [GitHub](https://github.com/ghanemzadeh),
@@ -122,26 +122,34 @@ Free. Unsubscribe in one click.
 
 ---
 
-# Hire a Forward Deployed AI Engineer: 10-Day AI Feature Sprint
+# Hire a Forward Deployed AI Engineer: AI Feature Sprint
 
 URL: https://ghanemzadeh.com/ai-feature-sprint/
 
-The AI Feature Sprint
+Forward Deployed AI Engineering for founder-led B2B SaaS
 
-## Forward Deployed AI engineering for founder-led B2B SaaS.
+## Your first working AI workflow, in your product, in ten business days.
 
-OpenAI and Anthropic each launched deployment subsidiaries in May 2026 to embed engineers inside Fortune 500 companies. The AI Feature Sprint is how you hire a Forward Deployed AI Engineer without a $250K procurement process: fixed-price AI development, sized for founder-led SaaS teams. I scope, build, and ship an AI feature, one narrow workflow, into staging, production, or a production-ready pull request in 10 business days.
+OpenAI and Anthropic launched deployment subsidiaries this year to embed engineers inside enterprises. This is the same work, sized for a founder-led team that can't run a $250,000 procurement. One narrow workflow, scoped on Day 1, running on your data by Day 5, in your repo by Day 10.
 
 Built by **Nasser Ghanemzadeh**, ex-CEO/CPO of Nivo (acquired, 200K+ users) · building Vectig in public · featured in Forbes, TechCrunch, Al Jazeera
 
-Now booking the next Sprint slot · beta capped at 3 teams
+Next kickoff s: Tuesday October 20 (deposit by Thursday October 15 ) · Tuesday November 3 (deposit by Thursday October 29 ) · One Sprint at a time · $5,000 through the Tuesday November 17 kickoff, $7,500 from Tuesday December 1
 
-[Book a $500 Discovery Day](https://ghanemzadeh.com/discovery-day/)
-[Apply for the $5,000 Sprint](https://tally.so/r/ja5pD6)
+[Score your workflow (2 min)](https://ghanemzadeh.com/scorecard/)
+[Book a 15-minute Scoping Call](https://ghanemzadeh.com/call/)
 
-Beta pricing: $5,000, capped at 3 teams. After beta: $7,500–$10,000.
+By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated Wednesday September 23.
 
-By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated September 2026.
+An AI workflow running in my own product, end to end, and how one gets built into yours. 16 minutes.
+
+### What is an AI Feature Sprint?
+
+An AI Feature Sprint is a fixed-price engagement for founder-led B2B SaaS teams of 5 to 50 people. In ten business days, a forward deployed AI engineer ships one working AI workflow into your product, on your data. It costs $5,000, refunded in full if there's no working prototype by Day 5 or no working workflow by Day 10.
+
+### What is a forward deployed AI engineer?
+
+A forward deployed AI engineer works inside the customer's codebase and ships AI features into their product, instead of advising from outside. The term comes from Palantir. In 2026, OpenAI and Anthropic adopted it for the teams that deploy their models inside enterprises. The AI Feature Sprint is the founder-tier version of that work.
 
 As covered in
 
@@ -222,9 +230,9 @@ The sprint is intentionally narrow: one workflow, one clear user problem, one us
 
 06 · Day 0
 
-### Day 0: The readiness check
+### Day 0: the readiness check
 
-Before we scope a Sprint, we run a 2-hour readiness check on your use case, data, codebase, and team. Below is what a typical founder-led SaaS team looks like at the start. The Sprint begins on Day 1 with these gaps already mapped.
+Before a Sprint starts, we check your use case, data, codebase, and team. Below is what a typical founder-led SaaS team looks like at the start. The scorecard and the Scoping Call map these gaps, so the Sprint begins on Day 1 with them already known.
 
 ~/sprint-readiness/check.md
 
@@ -254,55 +262,23 @@ partial
 
 undefined
 
-→ recommended path: 2-hour Discovery Day to scope use case and define success criteria.
+→ recommended path: 15-minute Scoping Call to pick the workflow and define success criteria.
 
-Output simulated. Real diagnostics are generated live during your Discovery Day.
+Run yours: [Score your workflow](https://ghanemzadeh.com/scorecard/), two minutes.
 
-07 · The offers
+Output simulated for a typical founder-led team.
 
-### Two ways to start
+07 · The offer
 
-Discovery Day is Day 0, and it is optional. If the readiness check above looks like your team, start with the entry offer: it scopes the workflow and tells you whether a Sprint is the right next step. If the workflow is already scoped and the data is in place, start the main offer on Day 1.
-
-Day 0
-
-#### Discovery Day
-
-Start here if you need help choosing the workflow.
-
-$500 for 2 hours
-
-##### What happens
-
-- Use-case clarification
-
-- Data and API readiness check
-
-- Workflow selection
-
-- Risk assessment
-
-##### You leave with
-
-- Recommended feature scope
-
-- Go / no-go memo
-
-- Sprint recommendation if there is a strong fit
-
-[Book a Discovery Day](https://ghanemzadeh.com/discovery-day/)
-
-Continue within 14 days and the **$500 is credited** toward the Sprint.
+### One workflow, ten business days, one fixed price
 
 Days 1 to 10
 
 #### AI Feature Sprint
 
-Start here if you already know what to build. No Discovery Day required.
+$5,000 fixed price
 
-$5,000 for the first 3 teams, then $7,500 to $10,000
-
-10 business days. One narrow AI workflow shipped into staging, production, or a production-ready pull request. Working prototype by Day 5, or 50% back.
+10 business days. One narrow AI workflow shipped into staging, production, or a production-ready pull request.
 
 **Scope and design**
 
@@ -316,7 +292,24 @@ Claude Code workflow, hands-on implementation of the selected workflow, working 
 
 Team handoff and enablement session, Loom walkthrough, handoff notes, 30-day roadmap, output quality rubric, reusable workflow playbook.
 
-[Apply for the $5,000 Sprint](https://tally.so/r/ja5pD6)
+**Support**
+
+30 days of async support after handoff. Something breaks in week three, you write, I fix.
+
+**Guarantee**
+
+No working prototype on your data by Day 5? Stop the Sprint, full refund. The workflow in your signed Brief isn't running to its acceptance criteria by Day 10? Full refund.
+
+**Price**
+
+$5,000 for Sprints kicking off through Tuesday November 17. From the Tuesday December 1 kickoff, $7,500. Half on signing, half on Day 10. The deposit is invoiced on signing. Pay the deposit.
+
+Prefer a full two-hour scoping session before committing? The [Discovery Day](https://ghanemzadeh.com/discovery-day/) is $500, credited to the Sprint.
+
+[Score your workflow (2 min)](https://ghanemzadeh.com/scorecard/)
+[Book a 15-minute Scoping Call](https://ghanemzadeh.com/call/)
+
+The full offer on one page: [read the Offer Doc](https://ghanemzadeh.com/offer/).
 
 08 · How it works
 
@@ -376,7 +369,7 @@ Each workflow's rubric specifies its own dimensions: accuracy, clarity, tone, fo
 
 ### Clear scope. Clear expectations.
 
-The sprint timeline begins on the agreed kickoff date, scheduled after contract signing and upfront payment.
+The sprint timeline begins on the agreed kickoff date, scheduled after contract signing and the deposit.
 
 I take one active sprint at a time. Kickoff dates are scheduled on a first-available basis.
 
@@ -432,17 +425,33 @@ The Sprint method comes out of shipping these workflows in my own products first
 
 A 10-business-day engagement to ship one narrow AI workflow into a B2B SaaS product. Scoping on Day 1, design on Days 2 to 3, prototype by Day 5, implementation on Days 6 to 9, handoff on Day 10. Fixed scope, fixed price. Deliverables include the workflow code committed to your repo, an output quality rubric, a workflow playbook, a Loom walkthrough, and a 30-day post-Sprint roadmap.
 
+#### How long does it take to ship an AI feature in a SaaS product?
+
+Ten business days for one narrow workflow, if codebase access and sample data are ready on Day 1. Day 1 scopes it, Days 2 and 3 design it, a working prototype runs on your data by Day 5, and Day 10 is handoff. A broader AI feature takes longer; the Sprint ships its first narrow slice.
+
+#### How do I know if my AI feature idea is feasible?
+
+It's feasible in ten days if one person runs it, its data sits in one system you can export, it fits your existing APIs, and a person reviews the output before anything leaves. The [Workflow Scorecard](https://ghanemzadeh.com/scorecard/) checks this in two minutes across eight dimensions and four readiness checks.
+
 #### Who is this for?
 
 Founder-led B2B SaaS companies with 5 to 50 employees, post-product-market-fit, with paying customers, real data inside their product, and pressure to ship AI features. Not for indie hackers, solopreneurs, or enterprises with formal procurement.
 
 #### What does it cost?
 
-$500 for a Discovery Day (credited toward the Sprint if you continue within 14 days). $5,000 for the Sprint at beta pricing (first 3 customers). $7,500 to $10,000 after beta.
+$5,000 for Sprints kicking off through Tuesday November 17, and $7,500 from the Tuesday December 1 kickoff. Half on signing, half on Day 10. The optional Discovery Day is $500, credited to the Sprint.
+
+#### Why is the Scoping Call free?
+
+Some founders who take it ask me to run the Sprint. That's how I earn. The rest keep the scope.
 
 #### What happens if you can't deliver?
 
-If by Day 5 there's no working prototype demonstrating the core workflow, you can stop the Sprint and receive 50% back. No subjective judgment, no fine print. Either the prototype runs or it doesn't.
+A full refund, at either of two checkpoints. No working prototype on your data by Day 5? Stop the Sprint, full refund. The workflow in your signed Brief isn't running to its acceptance criteria by Day 10? Full refund.
+
+#### Do you have case studies?
+
+Not yet. This is a new offer. What you can see is my own product running in production and the walkthrough video. That's why the price is $5,000 through November and why the guarantee is a full refund.
 
 #### Why pay you instead of using your own engineers?
 
@@ -450,15 +459,15 @@ Speed, mostly: 10 days instead of six weeks of internal roadmap displacement, wh
 
 #### How is this different from an AI consulting firm?
 
-AI consulting firms deliver decks and roadmaps. This Sprint delivers a working AI workflow in your codebase by Day 10. The category is "Forward Deployed AI Engineering". The same shape of work OpenAI's Deployment Company and Anthropic's deployment arm sell to Fortune 500 customers, at a different price point.
+This Sprint ships a working AI workflow into your codebase by Day 10, where AI consulting firms deliver decks and roadmaps. The category is "Forward Deployed AI Engineering". The same shape of work OpenAI's Deployment Company and Anthropic's deployment arm sell to Fortune 500 customers, at a different price point.
 
 #### What kinds of AI workflows do you build?
 
-Investor update assistants. Runway scenario explainers. Customer summary generators. Support ticket summarizers. Report generators. Onboarding assistants. The common shape: narrow input, narrow output, single user, measurable improvement, human-in-the-loop review.
+Narrow workflows with one input, one output, and one user: investor update assistants, runway scenario explainers, customer summary generators, support ticket summarizers, report generators, and onboarding assistants. The common shape: narrow input, narrow output, single user, measurable improvement, human-in-the-loop review.
 
 #### What if our data isn't ready?
 
-Then a Sprint isn't the right starting point. The Discovery Day will say so explicitly and recommend what to do first. About half of Discovery Days end with "this isn't a Sprint yet, here's what to do instead."
+Then a Sprint isn't the right starting point yet. The scorecard usually flags it in two minutes, and the Scoping Call will say so explicitly and recommend what to do first.
 
 #### Do you handle compliance, security, GDPR, SOC 2?
 
@@ -468,13 +477,17 @@ No. Those are explicitly out of scope. The Sprint can produce a workflow that's 
 
 Whatever you already use. The Sprint integrates with your existing product, your existing data sources (Stripe, HubSpot, Linear, Slack, Notion, Intercom, Zendesk, your CRM, your admin), and your existing AI provider (Anthropic, OpenAI, AWS Bedrock, Google Vertex AI). The Sprint is too short to introduce new infrastructure.
 
+#### What do you need from us?
+
+Read-only codebase access, sample data, and one decision-maker who answers within a business day. About five hours of the founder's time across the ten days, most of it on Day 1.
+
 #### Can you guarantee production deployment?
 
 No. Production deployment depends on access, infrastructure, and third-party dependencies that aren't fully under our control. If production release is blocked, the deliverable is a staging deployment or a production-ready pull request your team can merge.
 
 #### What happens after Day 10?
 
-Three paths. Most teams take the workflow and run with it. The rubric and playbook are designed for self-service maintenance. Some come back for a second Sprint with a different workflow. Some sign an ongoing engagement for governance and iteration. All three are explicit options at handoff.
+Your team runs the workflow, and there are three paths from there. Most teams take the workflow and run with it. The rubric and playbook are designed for self-service maintenance. Some come back for a second Sprint with a different workflow. Some sign an ongoing engagement for governance and iteration. All three are explicit options at handoff.
 
 ### Terms used on this page
 
@@ -508,10 +521,10 @@ Full definitions for these and more terms are in the [Forward Deployed AI Engine
 
 ### Want to ship one useful AI feature?
 
-Start with a Discovery Day if you need help choosing the use case. Apply for the Sprint if you already know what to build and need it shipped.
+Score your workflow in two minutes, then book a 15-minute Scoping Call. If it fits, you get the Brief draft and your kickoff date.
 
-[Book a $500 Discovery Day](https://ghanemzadeh.com/discovery-day/)
-[Apply for the $5,000 Sprint](https://tally.so/r/ja5pD6)
+[Score your workflow (2 min)](https://ghanemzadeh.com/scorecard/)
+[Book a 15-minute Scoping Call](https://ghanemzadeh.com/call/)
 
 ---
 
@@ -935,7 +948,7 @@ Independent publication. This book is for general education and entertainment. I
 
 ---
 
-# Forward Deployed AI Engineering: The FDE Book | Nasser Ghanemzadeh
+# Forward Deployed AI Engineering: The FDE Book
 
 URL: https://ghanemzadeh.com/books/forward-deployed-ai-engineering/
 
@@ -1100,15 +1113,51 @@ No. Independent publication. The book discusses these organizations because they
 
 - [Hire a Forward Deployed AI Engineer](https://ghanemzadeh.com/ai-feature-sprint/). The 10-business-day AI Feature Sprint for founder-led B2B SaaS.
 
+- [AI Workflow Scorecard](https://ghanemzadeh.com/scorecard/). Two minutes to see whether an AI feature idea can ship in ten days.
+
 - [The best Forward Deployed Engineer books and resources](https://ghanemzadeh.com/best-forward-deployed-engineer-books/). What to read around this book, including the free essays and talks.
 
 Independent publication. Not affiliated with Anthropic, OpenAI, Google, Palantir, Y Combinator, Andreessen Horowitz, or any other organization mentioned in this book. Product and company names are trademarks of their respective owners. Views are the author's alone.
 
 ---
 
+# Book a free 15-minute AI Workflow Scoping Call
+
+URL: https://ghanemzadeh.com/call/
+
+Free, 15 minutes
+
+## Book a 15-minute Workflow Scoping Call with a Forward Deployed AI Engineer
+
+If you run a B2B SaaS company with paying customers and 5 to 50 people, you might be one scoped workflow away from your first AI feature in production.
+
+### On this call we'll:
+
+- Look at the workflow you have in mind, or the three you're weighing, and pick the one worth shipping first.
+
+- Check whether your data and codebase access can carry it in ten days.
+
+- Name the one thing most likely to block it: access, data shape, or a missing decision-maker.
+
+- Leave you with a one-sentence scope you can act on, with or without me.
+
+Your scorecard result,, is filled in on the booking form.
+
+Calendar not loading? [Book on Cal.com](https://cal.com/ghanemzadeh/workflow-scoping).
+
+Haven't scored your workflow yet? Do that first, two minutes: [score your workflow](https://ghanemzadeh.com/scorecard/). It makes the call worth three times as much.
+
+### Why is it free?
+
+Some founders who take the call ask me to run the Sprint. That's how I earn. The rest keep the scope. No hard feelings either way.
+
+---
+
 # AI Discovery Day: 2-Hour Use-Case Scoping Session ($500)
 
 URL: https://ghanemzadeh.com/discovery-day/
+
+Optional. Most founders start with the [free 15-minute Scoping Call](https://ghanemzadeh.com/call/).
 
 Discovery Day
 
@@ -1188,7 +1237,7 @@ About half of Discovery Days end with a Sprint recommendation. The other half en
 
 If you continue to a full Sprint within 14 days of your Discovery Day, the $500 is credited against the Sprint price.
 
-So a Discovery Day → Sprint path costs $5,000 total at beta pricing, not $5,500.
+So a Discovery Day followed by a Sprint costs the Sprint price, not the Sprint price plus $500.
 
 If we agree the Sprint isn't the right next step, the $500 covers the working document and the 2 hours. No upsell, no follow-up sequence, no retainer pitch.
 
@@ -1738,7 +1787,7 @@ Get the free chapters
 
 I'm Nasser Ghanemzadeh. 17+ years building products and companies across AI, SaaS, and fintech. As CEO and later CPO at Nivo, I shipped AI-powered applications that grew to 200K+ users and 450% revenue growth before the company was acquired.
 
-These days I build Vectig solo with Claude Code and run a 10-business-day [AI Feature Sprint](https://ghanemzadeh.com/ai-feature-sprint/) for B2B SaaS teams. The books came out of that work. More on the [home page](https://ghanemzadeh.com/).
+These days I build Vectig solo with Claude Code and run a 10-business-day [AI Feature Sprint](https://ghanemzadeh.com/ai-feature-sprint/) for B2B SaaS teams. If you have an AI feature in mind, the [Workflow Scorecard](https://ghanemzadeh.com/scorecard/) tells you in two minutes whether it can ship in ten days. The books came out of that work. More on the [home page](https://ghanemzadeh.com/).
 
 Forbes · TechCrunch · Al Jazeera · HuffPost
 
@@ -1747,3 +1796,157 @@ Forbes · TechCrunch · Al Jazeera · HuffPost
 ### Your first email has the chapters in it.
 
 Then one letter a week: one real decision through one mental model, for founders who invest and investors who build.
+
+---
+
+# AI Feature Sprint: the one-page offer
+
+URL: https://ghanemzadeh.com/offer/
+
+## AI Feature Sprint: Tuesday October 20 and Tuesday November 3 kickoff s AI Feature Sprint
+
+Last updated Wednesday September 23
+
+Here's what we're doing.
+
+In ten business days I ship one working AI workflow into your product. A workflow with a clear input, a clear output, and a person on your team who uses it. It runs on your data, in your codebase, deployed to staging or delivered as a pull request your engineers can merge. No deck and no demo video.
+
+You know AI has to be in the product this year. The roadmap is full, and nobody on the team has taken an AI feature to production. This is the shortest honest path from "we should do something with AI" to "it's live."
+
+### What you have on Day 10
+
+- The workflow, in staging or production, or as a production-ready pull request in your repo.
+
+- A recorded walkthrough of the workflow and the decisions behind it.
+
+- A scoring rubric your team uses to judge output quality, and a playbook they use to maintain and extend the workflow without me.
+
+- A 30-day roadmap and a 60 to 90 minute handoff session with your engineers.
+
+- 30 days of async support after handoff. Something breaks in week three, you write, I fix.
+
+### How the ten days run
+
+Day 1 we scope: one workflow, one user, the input, the output, and the acceptance criteria, written into a Sprint Brief you sign off by email. Days 2 and 3 are design. Days 4 and 5 produce a working prototype on your real data, and you watch it run on Day 5. Days 6 to 9 are edge cases, error states, logging and prompt tuning. Day 10 is handoff.
+
+### Who it's for
+
+Founders and CEOs of B2B SaaS companies with 5 to 50 people and paying customers, who have a workflow in mind (or three, and want help choosing), and whose team can give me codebase and data access plus one decision-maker who answers within a business day.
+
+### Who it's not for
+
+Anyone who wants to "add AI" without a specific workflow, needs a full AI transformation, has data that isn't accessible, wants a general chatbot, or needs guaranteed production deployment regardless of their infrastructure.
+
+### Price
+
+$5,000 for Sprints kicking off through Tuesday November 17. From the Tuesday December 1 kickoff, $7,500. Half on signing, half on Day 10. The deposit is invoiced on signing. Pay the deposit.
+
+### Guarantee
+
+No working prototype on your data by Day 5? Stop the Sprint and get a full refund. The workflow in your signed Brief isn't running to its acceptance criteria by Day 10? Full refund. The Brief is the contract, which is why Day 1 is the most important day of the ten.
+
+### Quick facts
+
+- One Sprint at a time.
+
+- Next kickoff s: Tuesday October 20 (deposit by Thursday October 15 ) and Tuesday November 3 (deposit by Thursday October 29 ).
+
+- Next kickoffs: new dates are being set. Ask on the Scoping Call.
+
+- Needed before Day 1: read-only codebase access, sample data, and a data processing agreement with your model provider.
+
+- Every v1 keeps a human in the loop. Autonomy comes later, when your team decides it's earned.
+
+- Not included: a second workflow, refactoring outside the workflow, new infrastructure, compliance review, model fine-tuning.
+
+- Prefer a full two-hour scoping session before committing? The Discovery Day is still available at $500, credited to the Sprint.
+
+### Who I am
+
+I ran Nivo as CEO and CPO to 200,000 users and an acquisition, and I ship AI workflows every week in Vectig, my own product. The investor update assistant on the Sprint page is a real Vectig feature: eight minutes from open to send instead of ninety. I wrote a book on this work, *Forward Deployed AI Engineering*. There are no Sprint case studies yet, which is why the price is $5,000 through November and why the guarantee is full.
+
+### How to start
+
+[Score your workflow](https://ghanemzadeh.com/scorecard/) (two minutes), then [book a 15-minute Scoping Call](https://ghanemzadeh.com/call/). On the call we pick the workflow and check your data can carry it in ten days. If it fits, you get the Brief draft and the deposit invoice, and your date is locked once it's paid. If it doesn't fit, I'll say so and tell you what to do instead.
+
+P.S. One slot on Tuesday October 20, one on Tuesday November 3. The paid deposit locks the date. The Brief locks the scope.
+
+---
+
+# AI Workflow Scorecard: Can Your AI Feature Ship in 10 Days?
+
+URL: https://ghanemzadeh.com/scorecard/
+
+[AI Feature Sprint](https://ghanemzadeh.com/ai-feature-sprint/)
+
+## Workflow Scorecard
+
+Two minutes. Tells you whether your AI idea is a ten-day workflow, and what to fix if it isn't.
+
+It runs in your browser. Your answers stay on this page unless you book the call.
+
+04 · Result
+
+### Your result
+
+### One scoped workflow in your inbox each week.
+
+Free. Unsubscribe in one click.
+
+Reference
+
+### How to tell whether an AI feature can ship in ten days
+
+An AI feature can ship in ten days when it is one narrow workflow: one user, one input, one output. Its data already sits in one system you can export, it runs on APIs you already have, and a person reviews every output before anything leaves. Miss one and it takes longer.
+
+### The one-sentence scope
+
+Every Sprint is written around one sentence with five blanks. If you can't fill all five, the workflow isn't scoped yet.
+
+> *For [user], when [trigger or input], the workflow will [process] and produce [output], so that [value].*
+
+**Example.** "For the founder, when monthly metrics and three to five sentences of context are in, the workflow will draft and produce an investor update covering metrics, risks, and asks, so that sending it takes 8 minutes instead of 90."
+
+### The eight dimensions
+
+Each is scored from 1 to 5, for a total out of 40.
+
+#### Business value
+
+Whether the workflow moves a number leadership already tracks. A 1 is a nice-to-have nobody would miss; a 5 is something the board asks about. It most often fails when the value is stated as "saves time" with no number attached.
+
+#### Frequency
+
+How often the workflow runs. A 1 runs a few times a year; a 5 runs daily. It fails when the idea is a quarterly report: too few runs to tune the prompts or to pay back the build.
+
+#### Pain intensity
+
+How much the people who do the task today dislike it. A 1 is mildly annoying; a 5 is a task people avoid or hand to the newest hire. It fails when the pain belongs to the founder rather than to the person who does the work.
+
+#### Data availability
+
+Whether the inputs exist and can be reached. A 1 means the data is scattered or absent; a 5 means it sits in one system with an API or export. It most often fails on data that exists but lives in five places with no owner.
+
+#### Technical feasibility
+
+Whether the workflow fits the systems you already run. A 1 needs new infrastructure; a 5 calls APIs you already use. It fails when the plan starts with building a platform instead of the workflow.
+
+#### Risk manageability
+
+What happens when the output is wrong. A 1 means a mistake is irreversible, legal, or financial; a 5 means a person reviews every output before anything leaves. It fails when version one is designed to act on its own instead of drafting for review.
+
+#### Adoption likelihood
+
+Whether someone will use it every week. A 1 has no owner; a 5 was asked for by the person who will use it. It fails when the workflow is built for "the team" and nobody in particular.
+
+#### Reusability
+
+Whether the same build serves more than one need. A 1 is a one-off; a 5 has the same shape, input to draft to review, as three other things you need. It fails when the workflow is so custom that the next one starts from zero.
+
+### Green, yellow, red
+
+**Green means Sprint-ready.** The total is 30 or more, data availability and technical feasibility are 4 or more, risk manageability is 3 or more, at least three of the four readiness checks are a yes, and every blank in the sentence is filled.
+
+**Red means not a Sprint yet.** Business value, data availability, or technical feasibility is 2 or lower, risk manageability is 1, or the total is under 22. Any one of these is enough. The fix is usually a different workflow, a month of sample data in one place, or turning the workflow into a draft a person reviews.
+
+**Yellow is everything in between: fixable.** The scorecard names the two lowest dimensions and any readiness gap, with what closes each one. An empty blank in the sentence also holds a result at yellow.

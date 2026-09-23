@@ -10,14 +10,15 @@
   <!-- End Google Tag Manager -->
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Books | Nasser Ghanemzadeh</title>
-  <meta name="description" content="Three books by Nasser Ghanemzadeh: Daily Wisdom, 366 meditations on mental models and money; Founder Mode; and Forward Deployed AI Engineering, the FDE guide.">
+  <!-- Head titles stay dateless: link previews are cached for days, so a date there goes stale. -->
+  <title>AI Feature Sprint: the one-page offer</title>
+  <meta name="description" content="One working AI workflow shipped into your B2B SaaS product in ten business days. What you get, how the days run, price, guarantee, and next kickoffs.">
   <meta name="author" content="Nasser Ghanemzadeh">
   <link rel="icon" href="/favicon.ico" type="image/x-icon">
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png">
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
-  <link rel="canonical" href="https://ghanemzadeh.com/books/">
+  <link rel="canonical" href="https://ghanemzadeh.com/offer/">
   <link rel="me" href="https://www.linkedin.com/in/ghanemzadeh/">
   <link rel="me" href="https://github.com/ghanemzadeh">
   <link rel="me" href="https://x.com/ghanemzadeh">
@@ -25,21 +26,22 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@400;500;700&family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/main.css?v=20260923">
+  <link rel="stylesheet" href="/assets/sprint/sprint.css?v=20260923">
 
   <!-- Open Graph -->
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="Books | Nasser Ghanemzadeh">
-  <meta property="og:description" content="Three books, one author. Daily Wisdom, Founder Mode, and Forward Deployed AI Engineering.">
-  <meta property="og:url" content="https://ghanemzadeh.com/books/">
-  <meta property="og:image" content="https://ghanemzadeh.com/assets/book/daily-wisdom/og-cover.jpg">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="AI Feature Sprint: the one-page offer">
+  <meta property="og:description" content="One working AI workflow shipped into your product in ten business days. Prototype on your data by Day 5 or a full refund.">
+  <meta property="og:url" content="https://ghanemzadeh.com/offer/">
+  <meta property="og:image" content="https://ghanemzadeh.com/assets/ai-feature-sprint/og-sprint.jpg">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
 
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Books | Nasser Ghanemzadeh">
-  <meta name="twitter:description" content="Three books, one author. Daily Wisdom, Founder Mode, and Forward Deployed AI Engineering.">
-  <meta name="twitter:image" content="https://ghanemzadeh.com/assets/book/daily-wisdom/og-cover.jpg">
+  <meta name="twitter:title" content="AI Feature Sprint: the one-page offer">
+  <meta name="twitter:description" content="One working AI workflow shipped into your product in ten business days. Prototype on your data by Day 5 or a full refund.">
+  <meta name="twitter:image" content="https://ghanemzadeh.com/assets/ai-feature-sprint/og-sprint.jpg">
 
   <script type="application/ld+json">
   {
@@ -89,40 +91,21 @@
         "publisher": { "@id": "https://ghanemzadeh.com/#person" }
       },
       {
-        "@type": "CollectionPage",
-        "@id": "https://ghanemzadeh.com/books/#page",
-        "url": "https://ghanemzadeh.com/books/",
-        "name": "Books by Nasser Ghanemzadeh",
-        "inLanguage": "en",
-        "mainEntity": {
-          "@type": "ItemList",
-          "name": "Books by Nasser Ghanemzadeh",
-          "itemListOrder": "https://schema.org/ItemListOrderAscending",
-          "numberOfItems": 3,
-          "itemListElement": [
-            {
-              "@type": "ListItem",
-              "position": 1,
-              "item": { "@id": "https://ghanemzadeh.com/books/daily-wisdom/#book" }
-            },
-            {
-              "@type": "ListItem",
-              "position": 2,
-              "item": { "@id": "https://ghanemzadeh.com/books/forward-deployed-ai-engineering/#book" }
-            },
-            {
-              "@type": "ListItem",
-              "position": 3,
-              "item": { "@id": "https://ghanemzadeh.com/book/#book" }
-            }
-          ]
-        }
+        "@type": "WebPage",
+        "@id": "https://ghanemzadeh.com/offer/#webpage",
+        "url": "https://ghanemzadeh.com/offer/",
+        "name": "AI Feature Sprint: the one-page offer",
+        "datePublished": "2026-09-23T00:00:00+00:00",
+        "dateModified": "2026-09-23T00:00:00+00:00",
+        "isPartOf": { "@id": "https://ghanemzadeh.com/#website" },
+        "author": { "@id": "https://ghanemzadeh.com/#person" }
       },
       {
         "@type": "BreadcrumbList",
         "itemListElement": [
           { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://ghanemzadeh.com/" },
-          { "@type": "ListItem", "position": 2, "name": "Books", "item": "https://ghanemzadeh.com/books/" }
+          { "@type": "ListItem", "position": 2, "name": "AI Feature Sprint", "item": "https://ghanemzadeh.com/ai-feature-sprint/" },
+          { "@type": "ListItem", "position": 3, "name": "Offer", "item": "https://ghanemzadeh.com/offer/" }
         ]
       }
     ]
@@ -136,101 +119,76 @@
   <!-- End Google Tag Manager (noscript) -->
 
   <div class="site">
+    <!-- Shared site header. Keep markup in sync with /, /newsletter/, /book/, /books/daily-wisdom/, /ai-feature-sprint/. -->
     <header class="site-header">
       <div class="container">
         <a href="/" class="site-header__brand">Nasser Ghanemzadeh</a>
         <nav class="site-header__nav" aria-label="Primary">
-          <a href="/books/" aria-current="page">Books</a>
+          <a href="/books/">Books</a>
           <a href="/newsletter/">Newsletter</a>
           <a href="/ai-feature-sprint/">AI Sprint</a>
         </nav>
       </div>
     </header>
 
-    <header class="hero afs-hero nl-hero nl-hero--compact">
-      <div class="container">
-        <p class="eyebrow-num">Books</p>
-        <h1 class="t-display">Three books, one <em>author</em></h1>
-        <p class="afs-subhead">Different topics, same operating lens. Daily Wisdom is a year of one-page meditations on judgment, misjudgment, and money. Founder Mode is about how great companies are actually built. Forward Deployed AI Engineering is about the job that has become the default way to ship AI into the real world.</p>
-      </div>
-    </header>
+    <!-- Every date and price below is a data-sprint hook filled from
+         assets/sprint/config.json (scripts/render-sprint.mjs for the HTML,
+         sprint.js in the browser). Edit the config, not these values. -->
+    <main class="container sp-doc">
+      <article>
+        <h1>
+          <span data-sprint-needs="kickoff1">AI Feature Sprint: <span data-sprint="kickoff1">Tuesday October 20</span><span data-sprint-needs="kickoff2"> and <span data-sprint="kickoff2">Tuesday November 3</span></span> kickoff<span data-sprint-needs="kickoff2">s</span></span>
+          <span data-sprint-unless="kickoff1" hidden>AI Feature Sprint</span>
+        </h1>
+        <p class="sp-doc__meta">Last updated <time data-sprint-updated datetime="2026-09-23">Wednesday September 23</time></p>
 
-    <main class="container books-index">
-      <section class="section">
-        <div class="books-grid">
-          <article class="book-card">
-            <a class="book-card__link" href="/books/daily-wisdom/">
-              <div class="book-card__cover">
-                <picture>
-                  <source type="image/webp" srcset="/assets/book/daily-wisdom/cover.webp">
-                  <img src="/assets/book/daily-wisdom/cover.jpg" alt="Daily Wisdom book cover" width="320" height="480" loading="lazy">
-                </picture>
-              </div>
-              <div class="book-card__body">
-                <p class="book-card__eyebrow">2026 · Pre-order</p>
-                <h2 class="book-card__title">Daily Wisdom</h2>
-                <p class="book-card__subtitle"><em>366 Meditations on Mental Models, Misjudgment, and Money</em></p>
-                <p class="book-card__meta">366 meditations. 399 pages in print. Kindle pre-order, out October 6, 2026.</p>
-                <p class="book-card__pitch">One bad hire costs a year. One bad acquisition costs a decade. One bad partner can cost you the company. A year-long course in not fooling yourself, for founders, investors, and managers: a verified quotation, a short essay, and one question for every day of the year.</p>
-                <p class="book-card__cta">Read a month free <span aria-hidden="true">→</span></p>
-              </div>
-            </a>
-          </article>
+        <p>Here's what we're doing.</p>
+        <p>In ten business days I ship one working AI workflow into your product. A workflow with a clear input, a clear output, and a person on your team who uses it. It runs on your data, in your codebase, deployed to staging or delivered as a pull request your engineers can merge. No deck and no demo video.</p>
+        <p>You know AI has to be in the product this year. The roadmap is full, and nobody on the team has taken an AI feature to production. This is the shortest honest path from "we should do something with AI" to "it's live."</p>
 
-          <article class="book-card">
-            <a class="book-card__link" href="/books/forward-deployed-ai-engineering/">
-              <div class="book-card__cover">
-                <img src="/assets/book/fde/cover.jpg" alt="Forward Deployed AI Engineering book cover" width="320" height="480" loading="lazy">
-              </div>
-              <div class="book-card__body">
-                <p class="book-card__eyebrow">2026</p>
-                <h2 class="book-card__title">Forward Deployed AI Engineering</h2>
-                <p class="book-card__subtitle"><em>A Working Guide to the Hottest Job in Software</em></p>
-                <p class="book-card__meta">304 pages. First edition, May 2026. Version 1.5, August 2026.</p>
-                <p class="book-card__pitch">On May 4, 2026, OpenAI and Anthropic each launched deployment subsidiaries on the same day, both built around the title Forward Deployed Engineer. This book is for the person who wants to do that work. Five parts: the landscape, the mindset and the method, the craft, becoming an FDE, and the economy and future.</p>
-                <p class="book-card__cta">Read the first chapters <span aria-hidden="true">→</span></p>
-              </div>
-            </a>
-          </article>
+        <h2>What you have on Day 10</h2>
+        <ul>
+          <li>The workflow, in staging or production, or as a production-ready pull request in your repo.</li>
+          <li>A recorded walkthrough of the workflow and the decisions behind it.</li>
+          <li>A scoring rubric your team uses to judge output quality, and a playbook they use to maintain and extend the workflow without me.</li>
+          <li>A 30-day roadmap and a 60 to 90 minute handoff session with your engineers.</li>
+          <li><span data-sprint="supportDays">30</span> days of async support after handoff. Something breaks in week three, you write, I fix.</li>
+        </ul>
 
-          <article class="book-card">
-            <a class="book-card__link" href="/book/">
-              <div class="book-card__cover">
-                <picture>
-                  <source type="image/webp" srcset="/assets/book/cover-transparent.webp">
-                  <img src="/assets/book/cover-transparent.png" alt="Founder Mode book cover" width="320" height="400" loading="lazy">
-                </picture>
-              </div>
-              <div class="book-card__body">
-                <p class="book-card__eyebrow">2026</p>
-                <h2 class="book-card__title">Founder Mode</h2>
-                <p class="book-card__subtitle"><em>How the Great Companies Are Actually Built</em></p>
-                <p class="book-card__meta">254 pages. First edition.</p>
-                <p class="book-card__pitch">In 2024, Paul Graham named "Founder Mode" after Brian Chesky's talk at a YC alumni dinner. The practice is older than the name. HP, Disney, Apple, Pixar, Amazon, NVIDIA, and Costco built their best work this way. This book traces how, and is honest about the costs.</p>
-                <p class="book-card__cta">Read the first two chapters <span aria-hidden="true">→</span></p>
-              </div>
-            </a>
-          </article>
-        </div>
-      </section>
+        <h2>How the ten days run</h2>
+        <p>Day 1 we scope: one workflow, one user, the input, the output, and the acceptance criteria, written into a Sprint Brief you sign off by email. Days 2 and 3 are design. Days 4 and 5 produce a working prototype on your real data, and you watch it run on Day 5. Days 6 to 9 are edge cases, error states, logging and prompt tuning. Day 10 is handoff.</p>
 
-      <section class="section">
-        <p class="eyebrow-num">02 · Why three books</p>
-        <h2 class="t-display">Why three books</h2>
-        <p>The three books are about the same thing seen from different angles. Daily Wisdom is about judgment: the models, the misjudgments, and the money, one page a day. Founder Mode is about the people who choose to stay close to the work that matters as their companies scale. Forward Deployed AI Engineering is about the work itself, in a specific form, in a specific moment. Start with whichever is closer to the problem on your desk.</p>
-      </section>
+        <h2>Who it's for</h2>
+        <p>Founders and CEOs of B2B SaaS companies with 5 to 50 people and paying customers, who have a workflow in mind (or three, and want help choosing), and whose team can give me codebase and data access plus one decision-maker who answers within a business day.</p>
 
-      <section class="section">
-        <p class="eyebrow-num">03 · About the author</p>
-        <h2 class="t-display">About the author</h2>
-        <div class="book-author">
-          <img class="book-author__photo" src="/assets/profile.jpg" alt="Nasser Ghanemzadeh" width="72" height="72" loading="lazy">
-          <div class="book-author__body">
-            <p>I'm Nasser Ghanemzadeh, a <a href="/forward-deployed-ai-engineer/">Forward Deployed AI Engineer</a> for founder-led B2B SaaS. 17+ years building products and companies across AI, SaaS, and fintech. Former CEO and CPO at Nivo (acquired, 200K+ users, 450% revenue growth), Founding Head of Product at Pangouan, and co-founder of Finnova and the Iran Startups community. My work has been covered in Forbes, TechCrunch, Al Jazeera, and HuffPost.</p>
-            <p>Today I run the <a href="/ai-feature-sprint/">AI Feature Sprint</a> and build <a href="https://vectig.com" target="_blank" rel="noopener noreferrer">Vectig</a> in public with Claude Code. More on the <a href="/">home page</a>.</p>
-          </div>
-        </div>
-      </section>
+        <h2>Who it's not for</h2>
+        <p>Anyone who wants to "add AI" without a specific workflow, needs a full AI transformation, has data that isn't accessible, wants a general chatbot, or needs guaranteed production deployment regardless of their infrastructure.</p>
+
+        <h2>Price</h2>
+        <p><span data-sprint="price">$5,000</span> for Sprints kicking off through <span data-sprint="priceThrough">Tuesday November 17</span>. From the <span data-sprint="nextFrom">Tuesday December 1</span> kickoff, <span data-sprint="nextPrice">$7,500</span>. Half on signing, half on Day 10. <span data-sprint-unless="deposit">The deposit is invoiced on signing.</span><a data-sprint-needs="deposit" data-sprint-href="deposit" hidden>Pay the deposit.</a></p>
+
+        <h2>Guarantee</h2>
+        <p>No working prototype on your data by Day 5? Stop the Sprint and get a full refund. The workflow in your signed Brief isn't running to its acceptance criteria by Day 10? Full refund. The Brief is the contract, which is why Day 1 is the most important day of the ten.</p>
+
+        <h2>Quick facts</h2>
+        <ul>
+          <li>One Sprint at a time.</li>
+          <li data-sprint-needs="kickoff1">Next kickoff<span data-sprint-needs="kickoff2">s</span>: <span data-sprint="kickoff1">Tuesday October 20</span> (deposit by <span data-sprint="deposit1">Thursday October 15</span>)<span data-sprint-needs="kickoff2"> and <span data-sprint="kickoff2">Tuesday November 3</span> (deposit by <span data-sprint="deposit2">Thursday October 29</span>)</span>.</li>
+          <li data-sprint-unless="kickoff1" hidden>Next kickoffs: new dates are being set. Ask on the Scoping Call.</li>
+          <li>Needed before Day 1: read-only codebase access, sample data, and a data processing agreement with your model provider.</li>
+          <li>Every v1 keeps a human in the loop. Autonomy comes later, when your team decides it's earned.</li>
+          <li>Not included: a second workflow, refactoring outside the workflow, new infrastructure, compliance review, model fine-tuning.</li>
+          <li>Prefer a full two-hour scoping session before committing? The Discovery Day is still available at <span data-sprint="discoveryDayPrice">$500</span>, credited to the Sprint.</li>
+        </ul>
+
+        <h2>Who I am</h2>
+        <p>I ran Nivo as CEO and CPO to 200,000 users and an acquisition, and I ship AI workflows every week in Vectig, my own product. The investor update assistant on the Sprint page is a real Vectig feature: eight minutes from open to send instead of ninety. I wrote a book on this work, <em>Forward Deployed AI Engineering</em>. There are no Sprint case studies yet, which is why the price is <span data-sprint="price">$5,000</span> through <span data-sprint="priceThroughMonth">November</span> and why the guarantee is full.</p>
+
+        <h2>How to start</h2>
+        <p><a href="/scorecard/">Score your workflow</a> (two minutes), then <a href="/call/">book a 15-minute Scoping Call</a>. On the call we pick the workflow and check your data can carry it in ten days. If it fits, you get the Brief draft and the deposit invoice, and your date is locked once it's paid. If it doesn't fit, I'll say so and tell you what to do instead.</p>
+
+        <p class="sp-doc__ps" data-sprint-needs="kickoff1">P.S. One slot on <span data-sprint="kickoff1">Tuesday October 20</span><span data-sprint-needs="kickoff2">, one on <span data-sprint="kickoff2">Tuesday November 3</span></span>. The paid deposit locks the date. The Brief locks the scope.</p>
+      </article>
     </main>
 
     <footer class="site-footer">
@@ -273,5 +231,6 @@
     </footer>
   </div>
   <script src="/assets/subscribe.js" defer></script>
+  <script src="/assets/sprint/sprint.js?v=20260923" defer></script>
 </body>
 </html>

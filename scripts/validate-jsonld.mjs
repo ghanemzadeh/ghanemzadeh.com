@@ -4,7 +4,7 @@
  *
  * Validates the site's structured data and internal links before deploy:
  *   1. Every <script type="application/ld+json"> block parses as JSON.
- *   2. The Person (#nasser) and WebSite (#website) nodes are fully defined
+ *   2. The Person (#person) and WebSite (#website) nodes are fully defined
  *      (not @id-only stubs) on every indexable page.
  *   3. Every FAQPage answer is a verbatim substring of the page's visible
  *      text, so schema and on-page FAQ cannot drift.
@@ -87,7 +87,7 @@ for (const file of pages) {
   });
 
   // 2. Person and WebSite fully defined.
-  for (const id of ['https://ghanemzadeh.com/#nasser', 'https://ghanemzadeh.com/#website']) {
+  for (const id of ['https://ghanemzadeh.com/#person', 'https://ghanemzadeh.com/#website']) {
     const node = nodes.find((n) => n['@id'] === id);
     if (!node) err(`${rel}: missing node ${id}`);
     else if (Object.keys(node).length <= 2) err(`${rel}: node ${id} is an @id-only stub`);

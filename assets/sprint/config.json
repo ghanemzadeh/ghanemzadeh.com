@@ -1,0 +1,36 @@
+{
+  "kickoffs": [
+    { "date": "2026-10-20", "callsCloseBy": "2026-10-14", "depositBy": "2026-10-15" },
+    { "date": "2026-11-03", "callsCloseBy": "2026-10-28", "depositBy": "2026-10-29" },
+    { "date": "2026-11-17", "callsCloseBy": "2026-11-11", "depositBy": "2026-11-12" }
+  ],
+  "price": {
+    "current": 5000,
+    "currentThroughKickoff": "2026-11-17",
+    "next": 7500,
+    "nextFrom": "2026-12-01",
+    "currency": "USD",
+    "depositPercent": 50,
+    "discoveryDay": 500
+  },
+  "supportDays": 30,
+  "urls": {
+    "scorecard": "/scorecard/",
+    "call": "/call/",
+    "thanks": "/call/thanks/",
+    "offer": "/offer/",
+    "booking": "https://cal.com/ghanemzadeh/workflow-scoping",
+    "discoveryDay": "/discovery-day/",
+    "deposit": "",
+    "proofVideo": "",
+    "callVideo": "",
+    "thanksVideo": ""
+  },
+  "proofVideoMeta": {
+    "name": "An AI workflow running in production, end to end",
+    "description": "An AI workflow running in my own product, end to end, and how one gets built into yours.",
+    "thumbnail": "",
+    "uploadDate": "",
+    "duration": "PT16M"
+  }
+}
