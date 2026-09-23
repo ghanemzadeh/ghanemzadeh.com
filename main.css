@@ -1328,7 +1328,7 @@ select:focus-visible {
 /* Sprint page: measured-outcome callout under the worked example */
 .afs-measured {
   border-left: 3px solid var(--accent);
-  padding: 12px 0 12px 16px;
+  padding: 12px 16px;
   background: var(--accent-soft);
   color: var(--text);
   font-size: 15px;
@@ -1892,6 +1892,11 @@ main.books-index {
 /* AI Sprint / Discovery: wide page (peer of /books/), readable prose column */
 main.afs-page {
   max-width: var(--container-books); /* 1080px */
+  /* .site is a flex column and .container centers with auto margins, so
+     <main> would shrink-to-fit its widest child: a comparison table then
+     pushed pages to 374 to 476px on a 360px phone. A definite width keeps
+     <main> in the viewport and lets .cmp-table-wrap scroll the table. */
+  width: 100%;
 }
 
 /* Cap text-heavy sections to a readable measure, centered in the wide page */

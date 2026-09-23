@@ -538,7 +538,7 @@ URL: https://ghanemzadeh.com/best-forward-deployed-engineer-books/
 
 There is exactly one book written specifically about the Forward Deployed Engineer role, so a useful FDE reading list pairs it with the best books on the skills the role is made of: AI engineering, data systems, product discovery, and the customer room. These five books, plus five free essays and talks, cover the territory.
 
-By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated August 2026.
+By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated September 2026.
 
 ### The five books
 
@@ -563,6 +563,10 @@ The product-discovery half of the craft. An FDE decides what to build under pres
 #### 5. Impro, by Keith Johnstone
 
 The odd one out, deliberately. Johnstone's book on improvisational theatre appears on Palantir's FDE onboarding reading list because customer-room work is improvisation: status, listening, and responding honestly to what is actually happening. It teaches the temperament of the work rather than the technique.
+
+Running a B2B SaaS company? The method in this book is also a service: one AI workflow shipped into your product in ten business days.
+
+[Score your workflow (2 min)](https://ghanemzadeh.com/scorecard/) · [See the Sprint](https://ghanemzadeh.com/ai-feature-sprint/)
 
 ### Essential essays and talks (free)
 
@@ -973,6 +977,10 @@ Or read the sample chapters (PDF) now. Sign up and they land in your inbox.
 
 You'll also get the newsletter. One email a week, easy unsubscribe.
 
+Running a B2B SaaS company? The method in this book is also a service: one AI workflow shipped into your product in ten business days.
+
+[Score your workflow (2 min)](https://ghanemzadeh.com/scorecard/) · [See the Sprint](https://ghanemzadeh.com/ai-feature-sprint/)
+
 02 · Who this is for
 
 ### Three readers
@@ -1118,38 +1126,6 @@ No. Independent publication. The book discusses these organizations because they
 - [The best Forward Deployed Engineer books and resources](https://ghanemzadeh.com/best-forward-deployed-engineer-books/). What to read around this book, including the free essays and talks.
 
 Independent publication. Not affiliated with Anthropic, OpenAI, Google, Palantir, Y Combinator, Andreessen Horowitz, or any other organization mentioned in this book. Product and company names are trademarks of their respective owners. Views are the author's alone.
-
----
-
-# Book a free 15-minute AI Workflow Scoping Call
-
-URL: https://ghanemzadeh.com/call/
-
-Free, 15 minutes
-
-## Book a 15-minute Workflow Scoping Call with a Forward Deployed AI Engineer
-
-If you run a B2B SaaS company with paying customers and 5 to 50 people, you might be one scoped workflow away from your first AI feature in production.
-
-### On this call we'll:
-
-- Look at the workflow you have in mind, or the three you're weighing, and pick the one worth shipping first.
-
-- Check whether your data and codebase access can carry it in ten days.
-
-- Name the one thing most likely to block it: access, data shape, or a missing decision-maker.
-
-- Leave you with a one-sentence scope you can act on, with or without me.
-
-Your scorecard result,, is filled in on the booking form.
-
-Calendar not loading? [Book on Cal.com](https://cal.com/ghanemzadeh/workflow-scoping).
-
-Haven't scored your workflow yet? Do that first, two minutes: [score your workflow](https://ghanemzadeh.com/scorecard/). It makes the call worth three times as much.
-
-### Why is it free?
-
-Some founders who take the call ask me to run the Sprint. That's how I earn. The rest keep the scope. No hard feelings either way.
 
 ---
 
@@ -1322,7 +1298,7 @@ URL: https://ghanemzadeh.com/forward-deployed-ai-engineer-vs-solutions-engineer/
 
 A Forward Deployed AI Engineer and a solutions engineer share the same technical, customer-facing instinct, but they work for different sides and ship different things. The Forward Deployed AI Engineer builds an AI workflow into the customer's own product and owns the result. The solutions engineer sells, demos, and integrates a vendor's product on the vendor's behalf.
 
-By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated August 2026.
+By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated September 2026.
 
 ### The short answer
 
@@ -1332,14 +1308,14 @@ The two roles look similar from the outside because both put a technical person 
 
 ### Side by side
 
-| Dimension | Forward Deployed AI Engineer | Solutions engineer |
-| --- | --- | --- |
-| Works for | The customer's outcome, via a deployment company or a direct engagement | The software vendor selling the product |
-| Primary deliverable | A production AI workflow in the customer's codebase | Demos, proofs of concept, and integrations |
-| Where the code lives | The customer's product and repository | The vendor's platform and demo environments |
-| Measured on | A shipped workflow the customer's team can run and maintain | Pipeline, deals closed, and successful onboarding |
-| AI focus | Prompt and context design, data integration, evaluation rubrics | Showing how the vendor's AI features fit the customer's stack |
-| Compensation | Median base $174,000; median package $238,000; senior frontier packages above $500,000 (public data, 2026) | Varies by vendor; typically base plus commission (OTE), tied to sales and onboarding outcomes. |
+| Dimension | Forward Deployed AI Engineer | Solutions engineer | Applied AI engineer |
+| --- | --- | --- | --- |
+| Works for | The customer's outcome, via a deployment company or a direct engagement | The software vendor selling the product | Their own company |
+| Primary deliverable | A production AI workflow in the customer's codebase | Demos, proofs of concept, and integrations | AI features inside their own company's product |
+| Where the code lives | The customer's product and repository | The vendor's platform and demo environments | Their employer's codebase |
+| Measured on | A shipped workflow the customer's team can run and maintain | Pipeline, deals closed, and successful onboarding | Shipping AI capabilities in-house |
+| AI focus | Prompt and context design, data integration, evaluation rubrics | Showing how the vendor's AI features fit the customer's stack | Building and evaluating AI features for their own product's users |
+| Compensation | Median base $174,000; median package $238,000; senior frontier packages above $500,000 (public data, 2026) | Varies by vendor; typically base plus commission (OTE), tied to sales and onboarding outcomes. | Varies by company and level |
 
 ### Where they overlap
 
@@ -1351,9 +1327,9 @@ Choose by what you want to own. If you want to close deals and help many custome
 
 One more practical signal: seen as solutions engineer vs forward deployed engineer, the trade is breadth against depth. Solutions engineering rewards breadth across a pipeline; forward deployed work rewards depth on one customer at a time. Neither is more senior than the other. They optimize for different outcomes.
 
-### Applied AI Engineer vs Solutions Engineer
+### Applied AI engineer vs solutions engineer vs forward deployed engineer
 
-Applied AI Engineer is Anthropic's title for the FDE-shaped role, the same job this page describes under a different name. So the same contrast applies: the applied AI engineer builds a production AI workflow inside the customer's systems and is measured on whether it ships, while the solutions engineer sells and integrates the vendor's product and is measured on the deal. If a posting says Applied AI, read it as forward deployed.
+An applied AI engineer usually builds AI features into their own company's product, a solutions engineer sells and integrates a vendor's product, and a forward deployed engineer ships AI into a customer's product. The difference is whose codebase the work lives in: the employer's, the vendor's demo environment, or the customer's. One exception: at Anthropic, Applied AI is the customer-facing team, so an applied AI engineer there does forward deployed work. When a posting says applied AI, check whose product you would be building.
 
 ### Related
 
@@ -1377,9 +1353,13 @@ A solutions engineer almost always works for the software vendor and is measured
 
 Sometimes, but usually demos, proofs of concept, and integrations rather than features that live permanently in the customer's product. A Forward Deployed AI Engineer's main deliverable is production code in the customer's repository, with edge cases, logging, and a handoff.
 
+#### What is the difference between an applied AI engineer and a solutions engineer?
+
+An applied AI engineer usually builds AI features inside their own company's product and is measured on shipping them; a solutions engineer sells, demos, and integrates a vendor's product for customers and is measured on the deal. At Anthropic the Applied AI title names the customer-facing team, which is closer to forward deployed work.
+
 ---
 
-# What Is a Forward Deployed Engineer (FDE)? Definition, Salary, Role
+# What Is a Forward Deployed Engineer? The AI Role, Explained
 
 URL: https://ghanemzadeh.com/forward-deployed-ai-engineer/
 
@@ -1796,80 +1776,6 @@ Forbes · TechCrunch · Al Jazeera · HuffPost
 ### Your first email has the chapters in it.
 
 Then one letter a week: one real decision through one mental model, for founders who invest and investors who build.
-
----
-
-# AI Feature Sprint: the one-page offer
-
-URL: https://ghanemzadeh.com/offer/
-
-## AI Feature Sprint: Tuesday October 20 and Tuesday November 3 kickoff s AI Feature Sprint
-
-Last updated Wednesday September 23
-
-Here's what we're doing.
-
-In ten business days I ship one working AI workflow into your product. A workflow with a clear input, a clear output, and a person on your team who uses it. It runs on your data, in your codebase, deployed to staging or delivered as a pull request your engineers can merge. No deck and no demo video.
-
-You know AI has to be in the product this year. The roadmap is full, and nobody on the team has taken an AI feature to production. This is the shortest honest path from "we should do something with AI" to "it's live."
-
-### What you have on Day 10
-
-- The workflow, in staging or production, or as a production-ready pull request in your repo.
-
-- A recorded walkthrough of the workflow and the decisions behind it.
-
-- A scoring rubric your team uses to judge output quality, and a playbook they use to maintain and extend the workflow without me.
-
-- A 30-day roadmap and a 60 to 90 minute handoff session with your engineers.
-
-- 30 days of async support after handoff. Something breaks in week three, you write, I fix.
-
-### How the ten days run
-
-Day 1 we scope: one workflow, one user, the input, the output, and the acceptance criteria, written into a Sprint Brief you sign off by email. Days 2 and 3 are design. Days 4 and 5 produce a working prototype on your real data, and you watch it run on Day 5. Days 6 to 9 are edge cases, error states, logging and prompt tuning. Day 10 is handoff.
-
-### Who it's for
-
-Founders and CEOs of B2B SaaS companies with 5 to 50 people and paying customers, who have a workflow in mind (or three, and want help choosing), and whose team can give me codebase and data access plus one decision-maker who answers within a business day.
-
-### Who it's not for
-
-Anyone who wants to "add AI" without a specific workflow, needs a full AI transformation, has data that isn't accessible, wants a general chatbot, or needs guaranteed production deployment regardless of their infrastructure.
-
-### Price
-
-$5,000 for Sprints kicking off through Tuesday November 17. From the Tuesday December 1 kickoff, $7,500. Half on signing, half on Day 10. The deposit is invoiced on signing. Pay the deposit.
-
-### Guarantee
-
-No working prototype on your data by Day 5? Stop the Sprint and get a full refund. The workflow in your signed Brief isn't running to its acceptance criteria by Day 10? Full refund. The Brief is the contract, which is why Day 1 is the most important day of the ten.
-
-### Quick facts
-
-- One Sprint at a time.
-
-- Next kickoff s: Tuesday October 20 (deposit by Thursday October 15 ) and Tuesday November 3 (deposit by Thursday October 29 ).
-
-- Next kickoffs: new dates are being set. Ask on the Scoping Call.
-
-- Needed before Day 1: read-only codebase access, sample data, and a data processing agreement with your model provider.
-
-- Every v1 keeps a human in the loop. Autonomy comes later, when your team decides it's earned.
-
-- Not included: a second workflow, refactoring outside the workflow, new infrastructure, compliance review, model fine-tuning.
-
-- Prefer a full two-hour scoping session before committing? The Discovery Day is still available at $500, credited to the Sprint.
-
-### Who I am
-
-I ran Nivo as CEO and CPO to 200,000 users and an acquisition, and I ship AI workflows every week in Vectig, my own product. The investor update assistant on the Sprint page is a real Vectig feature: eight minutes from open to send instead of ninety. I wrote a book on this work, *Forward Deployed AI Engineering*. There are no Sprint case studies yet, which is why the price is $5,000 through November and why the guarantee is full.
-
-### How to start
-
-[Score your workflow](https://ghanemzadeh.com/scorecard/) (two minutes), then [book a 15-minute Scoping Call](https://ghanemzadeh.com/call/). On the call we pick the workflow and check your data can carry it in ten days. If it fits, you get the Brief draft and the deposit invoice, and your date is locked once it's paid. If it doesn't fit, I'll say so and tell you what to do instead.
-
-P.S. One slot on Tuesday October 20, one on Tuesday November 3. The paid deposit locks the date. The Brief locks the scope.
 
 ---
 
