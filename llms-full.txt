@@ -151,6 +151,8 @@ An AI Feature Sprint is a fixed-price engagement for founder-led B2B SaaS teams 
 
 A forward deployed AI engineer works inside the customer's codebase and ships AI features into their product, instead of advising from outside. The term comes from Palantir. In 2026, OpenAI and Anthropic adopted it for the teams that deploy their models inside enterprises. The AI Feature Sprint is the founder-tier version of that work.
 
+Weighing a hire? [Does a startup need a forward deployed engineer?](https://ghanemzadeh.com/forward-deployed-engineer-for-startups/) compares a full-time hire, a contractor, and a Sprint.
+
 As covered in
 
 Forbes · TechCrunch · Al Jazeera · HuffPost
@@ -1374,7 +1376,7 @@ That definition comes from Bob McGrew, who spent 11 years at Palantir, where the
 [Read the book →](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/)
 [See it as a service](https://ghanemzadeh.com/ai-feature-sprint/)
 
-By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated August 2026.
+By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated September 2026.
 
 ### What does a Forward Deployed Engineer do?
 
@@ -1486,6 +1488,8 @@ The enterprise version of this role is built for Fortune 500 procurement. The sa
 
 That's the work I do. Most patterns I ship into a customer's codebase have already run in [Vectig](https://vectig.com), my own AI-native product and live R&D lab. If you want to see the engagement, start with the [AI Feature Sprint](https://ghanemzadeh.com/ai-feature-sprint/) or a [Discovery Day](https://ghanemzadeh.com/discovery-day/).
 
+Weighing a full-time hire against a contractor or a Sprint? Start with [Does a startup need a forward deployed engineer?](https://ghanemzadeh.com/forward-deployed-engineer-for-startups/)
+
 The book
 
 ### A working guide to the role
@@ -1543,6 +1547,88 @@ Newsletter
 One letter a week that runs one real decision through one mental model. Subscribing also gets you the first two chapters of both my books.
 
 Free. Unsubscribe in one click.
+
+---
+
+# Forward Deployed Engineers for Startups: 3 Ways to Get One
+
+URL: https://ghanemzadeh.com/forward-deployed-engineer-for-startups/
+
+[Forward Deployed Engineer](https://ghanemzadeh.com/forward-deployed-ai-engineer/)
+
+## Does a startup need a forward deployed engineer?
+
+Usually not a full-time one. A startup under 50 people rarely needs a full-time forward deployed engineer. It needs one AI workflow shipped into its product and a team that can maintain it afterward. There are three ways to get there: hire one, contract one, or run a fixed-scope Sprint.
+
+By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated September 2026.
+
+### Option 1: hire one full-time
+
+A full-time forward deployed engineer ships AI features inside your codebase and stays to maintain them. That is the right call when AI work is continuous: several workflows a quarter, each with its own data, users, and evaluation.
+
+Job postings in 2026 put a forward deployed engineer's base salary typically between $160,000 and $220,000, with a median near $190,000 ([Recruiting from Scratch](https://www.recruitingfromscratch.com/blog/forward-deployed-engineer-salary-in-2026-real-data-from-200k-job-postings)). Median US total compensation is about $207,500 ([Levels.fyi](https://www.levels.fyi/t/software-engineer/title/forward-deployed-engineer)). That's roughly $16,000 a month in base salary alone, before equity, benefits, and the months it takes to hire.
+
+Hiring usually takes months, not weeks. The pool of engineers who have taken AI to production is small, and the strong ones are interviewing everywhere. Onboarding comes on top of that before the first workflow ships.
+
+Hire when you have a year of AI work to give one engineer, and a technical leader who can manage and judge their output.
+
+### Option 2: contract a freelancer or agency
+
+A freelancer or agency gives you engineering capacity without a hire. You can usually start sooner than a full-time search allows, pay only while the work runs, and stop when it's done.
+
+Where it usually breaks:
+
+- **Scope.** Hourly and open-ended engagements drift. Without a one-sentence scope agreed on the first day, "add AI to the product" turns into three half-built features.
+
+- **Handoff.** When the contractor leaves, the knowledge leaves with them. If nobody on your team can run, debug, or change the workflow, you own code you can't maintain.
+
+- **Evaluation.** Few contracts define what good output looks like. Without a rubric and test cases, nobody can tell whether a prompt change made the workflow better or worse.
+
+Contract when the scope is already tight, someone on your team will own the result, and the contract names acceptance criteria and a handoff.
+
+### Option 3: a fixed-scope Sprint
+
+The AI Feature Sprint is the fixed-scope version: one AI workflow, scoped on Day 1, running on your data by Day 5, and in your repo by Day 10. A forward deployed AI engineer does the build inside your codebase, then hands over a recorded walkthrough, an output rubric, and a playbook your team uses to maintain it. The price is fixed, with a full refund if there's no working prototype by Day 5 or the workflow isn't running to its acceptance criteria by Day 10. [See how the Sprint works](https://ghanemzadeh.com/ai-feature-sprint/).
+
+### How to choose
+
+The deciding question is volume, not budget: how much AI work you have, and who will own it once it ships. A team with one workflow in mind and no AI engineer on staff is usually best served by a Sprint first, then a hire once the second and third workflows are queued.
+
+| Option | Cost | Time to first shipped workflow | Who owns it after | Best when |
+| --- | --- | --- | --- | --- |
+| Hire full-time | Highest: a senior engineering salary plus equity, every month | Months: the search, then onboarding | Your team, through the new hire | AI is a year-round roadmap, not one feature |
+| Contract a freelancer or agency | Variable: hourly or monthly, open-ended unless scoped | Weeks to months, depending on scope | Often the contractor, unless the contract includes a handoff | The scope is tight and someone in-house will own the result |
+| Fixed-scope Sprint | Fixed: $5,000, half on signing | Ten business days | Your team, with a rubric, playbook, and walkthrough | You want one workflow live fast and your team to run it |
+
+### What to have ready before any of them
+
+Whichever route you pick, four things decide whether the first workflow ships on time. The [Workflow Scorecard](https://ghanemzadeh.com/scorecard/) checks all four in two minutes, along with eight dimensions of the idea itself.
+
+- Read-only codebase access that can be granted within a week.
+
+- Sample data that exists and can be shared.
+
+- One decision-maker who answers within a business day.
+
+- A data processing agreement with your model provider, such as Anthropic or OpenAI.
+
+### Frequently asked questions
+
+#### Can a startup afford a forward deployed engineer?
+
+Rarely as a full-time hire before it has a year of AI work to give one. Forward deployed engineers are paid at rates set by frontier labs and enterprise deployment companies, so most startups get the same work through a contract or a fixed-scope Sprint first, and hire once AI is a standing part of the roadmap.
+
+#### What's the difference between an FDE and an AI consultant?
+
+An FDE ships working code into your product; an AI consultant usually delivers advice, a strategy, or a roadmap. The FDE's work lives in your repository and is judged by whether it runs on your data. The consultant's work is a document your team still has to build.
+
+#### How long does it take to ship a first AI feature?
+
+Ten business days for one narrow workflow, if codebase access and sample data are ready on Day 1. Broader features take longer, and most of the delay before that point is scoping and data access, not engineering.
+
+#### What should the first AI workflow be?
+
+One narrow, internal workflow that drafts something a person reviews, runs at least weekly, and uses data you already have in one place. Investor updates, support ticket summaries, and customer account summaries are typical first choices: one user, one input, one output, and a human check before anything leaves.
 
 ---
 
