@@ -451,7 +451,7 @@ img {
   }
 }
 
-/* AI Feature Sprint page */
+/* FDE Sprint page */
 .afs-hero {
   text-align: left;
   padding: 72px 0 32px;
@@ -1212,7 +1212,7 @@ img {
   .book-hero { padding: 36px 0 28px; }
 }
 
-/* Day 0 diagnostic terminal block (AI Sprint page) */
+/* Day 0 diagnostic terminal block (FDE Sprint page) */
 .diag {
   max-width: 720px;
   margin: 24px auto 12px;
@@ -1837,7 +1837,7 @@ select:focus-visible {
   margin-bottom: 12px;
 }
 
-/* Horizontal timeline on the AI Sprint page */
+/* Horizontal timeline on the FDE Sprint page */
 .afs-timeline-h {
   display: grid;
   grid-template-columns: 1fr;
@@ -1889,7 +1889,7 @@ main.books-index {
   max-width: var(--container-books);
 }
 
-/* AI Sprint / Discovery: wide page (peer of /books/), readable prose column */
+/* FDE Sprint / Discovery: wide page (peer of /books/), readable prose column */
 main.afs-page {
   max-width: var(--container-books); /* 1080px */
   /* .site is a flex column and .container centers with auto margins, so

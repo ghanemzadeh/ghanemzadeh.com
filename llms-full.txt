@@ -1,8 +1,8 @@
 # Nasser Ghanemzadeh
 
-> Forward Deployed AI Engineer for founder-led B2B SaaS. Sells the AI Feature Sprint: one working AI workflow shipped into your product in ten business days, fixed price, full refund if it doesn't ship. Building Vectig in public with Claude Code. Former CEO/CPO at Nivo (acquired, 200K+ users).
+> Independent forward deployed AI engineer for founder-led B2B SaaS. Sells the FDE Sprint: one working AI workflow shipped into your product in ten business days, fixed price, full refund if it doesn't ship. Building Vectig in public with Claude Code. Former CEO/CPO at Nivo (acquired, 200K+ users).
 
-Nasser Ghanemzadeh has spent 17+ years building products and companies across AI, SaaS, and fintech. As CEO and later CPO at Nivo he built the product organization and shipped AI-powered applications that grew to 200K+ users and 450% revenue growth before the company was acquired. His current commercial focus is the AI Feature Sprint: a 10-business-day engagement for founder-led B2B SaaS teams of 5 to 50 that ships one narrow AI workflow into their product, with fixed scope, fixed price, and a full refund if there is no working prototype by Day 5 or no working workflow by Day 10. Founders start with the free two-minute AI Workflow Scorecard and a free 15-minute Scoping Call.
+Nasser Ghanemzadeh has spent 17+ years building products and companies across AI, SaaS, and fintech. As CEO and later CPO at Nivo he built the product organization and shipped AI-powered applications that grew to 200K+ users and 450% revenue growth before the company was acquired. His current commercial focus is the FDE Sprint: a 10-business-day engagement for founder-led B2B SaaS teams of 5 to 50 that ships one narrow AI workflow into their product, with fixed scope, fixed price, and a full refund if there is no working prototype by Day 5 or no working workflow by Day 10. Founders start with the free two-minute AI Workflow Scorecard and a free 15-minute Scoping Call.
 
 His live R&D lab is Vectig, an AI-native cash flow forecasting product for pre-seed-to-Series-A founders, built solo with Claude Code, in public. Most workflow patterns he ships into a client codebase have already run in Vectig first.
 
@@ -22,7 +22,7 @@ Daily Wisdom for Founders, Investors, and Managers: 366 Meditations on Mental Mo
 
 ## The service
 
-The AI Feature Sprint is a 10-business-day engagement that ships one narrow AI workflow into a founder-led B2B SaaS product. Fixed scope, fixed price; the current price and the next kickoff dates are on the one-page offer at https://ghanemzadeh.com/offer/. Full refund if there is no working prototype on your data by Day 5, or if the workflow in the signed Sprint Brief isn't running to its acceptance criteria by Day 10. Start with the two-minute Workflow Scorecard (https://ghanemzadeh.com/scorecard/) and a free 15-minute Scoping Call (https://ghanemzadeh.com/call/). An optional paid Discovery Day offers a full two-hour scoping session, credited to the Sprint.
+The FDE Sprint is a 10-business-day engagement in which an independent forward deployed engineer ships one narrow AI workflow into a founder-led B2B SaaS product. Fixed scope, fixed price; the current price and the next kickoff dates are on the one-page offer at https://ghanemzadeh.com/offer/. Full refund if there is no working prototype on your data by Day 5, or if the workflow in the signed Sprint Brief isn't running to its acceptance criteria by Day 10. Start with the two-minute Workflow Scorecard (https://ghanemzadeh.com/scorecard/) and a free 15-minute Scoping Call (https://ghanemzadeh.com/call/). An optional paid Discovery Day offers a full two-hour scoping session, credited to the Sprint.
 
 ---
 
@@ -30,7 +30,7 @@ The AI Feature Sprint is a 10-business-day engagement that ships one narrow AI w
 
 URL: https://ghanemzadeh.com/
 
-Forward Deployed AI Engineer for founder-led B2B SaaS
+Independent forward deployed AI engineer for founder-led B2B SaaS
 
 ## Nasser Ghanemzadeh
 
@@ -47,7 +47,7 @@ Built Nivo to 200K users and an acquisition as CEO and CPO. Covered in Forbes, T
 
 Everything I do feeds the same operation. Here it is, in priority order.
 
-- 01 **[The AI Feature Sprint.](https://ghanemzadeh.com/ai-feature-sprint/)** Ten business days embedded with a founder-led B2B SaaS team, shipping one narrow AI workflow into the product. Fixed scope, fixed price, a working prototype by Day 5.
+- 01 **[The FDE Sprint.](https://ghanemzadeh.com/ai-feature-sprint/)** Ten business days embedded with a founder-led B2B SaaS team, shipping one narrow AI workflow into the product. Fixed scope, fixed price, a working prototype by Day 5.
 
 - 02 **[Vectig.](https://vectig.com)** AI-native cash flow forecasting for early-stage founders, built solo with Claude Code, in public. It's also my test bench: most Sprint patterns run here before a client sees them.
 
@@ -91,17 +91,17 @@ Featured in [Forbes](https://www.forbes.com/sites/elizabethmacbride/2016/04/30/s
 
 #### What is Nasser Ghanemzadeh working on?
 
-The AI Feature Sprint takes most of my week: a 10-business-day engagement that ships one narrow AI workflow into a founder-led B2B SaaS product. The rest goes to [Vectig](https://vectig.com), an AI-native cash flow forecasting tool I build solo with Claude Code, and to the books and the newsletter. Before this I was CEO and then CPO at Nivo, which grew to 200K+ users and was acquired.
+The FDE Sprint takes most of my week: a 10-business-day engagement that ships one narrow AI workflow into a founder-led B2B SaaS product. The rest goes to [Vectig](https://vectig.com), an AI-native cash flow forecasting tool I build solo with Claude Code, and to the books and the newsletter. Before this I was CEO and then CPO at Nivo, which grew to 200K+ users and was acquired.
 
 #### How do I work with you?
 
-Through the [AI Feature Sprint](https://ghanemzadeh.com/ai-feature-sprint/) if you have a workflow in mind, through the [newsletter](https://ghanemzadeh.com/newsletter/) if you want to follow the work, or by [email](mailto:ghanemzadeh@gmail.com).
+Through the [FDE Sprint](https://ghanemzadeh.com/ai-feature-sprint/) if you have a workflow in mind, through the [newsletter](https://ghanemzadeh.com/newsletter/) if you want to follow the work, or by [email](mailto:ghanemzadeh@gmail.com).
 
 07 · Get in touch
 
 ### Email works best.
 
-[ghanemzadeh@gmail.com](mailto:ghanemzadeh@gmail.com). For a Sprint, start on [the AI Feature Sprint page](https://ghanemzadeh.com/ai-feature-sprint/): score your workflow, then book a 15-minute Scoping Call.
+[ghanemzadeh@gmail.com](mailto:ghanemzadeh@gmail.com). For a Sprint, start on [the FDE Sprint page](https://ghanemzadeh.com/ai-feature-sprint/): score your workflow, then book a 15-minute Scoping Call.
 
 I'm also on
 [GitHub](https://github.com/ghanemzadeh),
@@ -122,15 +122,15 @@ Free. Unsubscribe in one click.
 
 ---
 
-# Hire a Forward Deployed AI Engineer: AI Feature Sprint
+# Hire an Independent Forward Deployed Engineer: FDE Sprint
 
 URL: https://ghanemzadeh.com/ai-feature-sprint/
 
-Forward Deployed AI Engineering for founder-led B2B SaaS
+Independent forward deployed engineer for founder-led B2B SaaS
 
 ## Your first working AI workflow, in your product, in ten business days.
 
-OpenAI and Anthropic launched deployment subsidiaries this year to embed engineers inside enterprises. This is the same work, sized for a founder-led team that can't run a $250,000 procurement. One narrow workflow, scoped on Day 1, running on your data by Day 5, in your repo by Day 10.
+OpenAI and Anthropic launched deployment arms this year to embed engineers inside enterprises. I do the same work as an independent forward deployed engineer, sized for a founder-led team: one narrow workflow, scoped on Day 1, running on your data by Day 5, in your repo by Day 10. I pick the model that fits the job, not the one I'm paid to resell.
 
 Built by **Nasser Ghanemzadeh**, ex-CEO/CPO of Nivo (acquired, 200K+ users) · building Vectig in public · featured in Forbes, TechCrunch, Al Jazeera
 
@@ -139,17 +139,17 @@ Next kickoff s: Tuesday October 20 (deposit by Thursday October 15 ) · Tuesday 
 [Score your workflow (2 min)](https://ghanemzadeh.com/scorecard/)
 [Book a 15-minute Scoping Call](https://ghanemzadeh.com/call/)
 
-By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated Wednesday September 23.
+By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated Thursday October 1.
 
 An AI workflow running in my own product, end to end, and how one gets built into yours. 16 minutes.
 
-### What is an AI Feature Sprint?
+### What is the FDE Sprint?
 
-An AI Feature Sprint is a fixed-price engagement for founder-led B2B SaaS teams of 5 to 50 people. In ten business days, a forward deployed AI engineer ships one working AI workflow into your product, on your data. It costs $5,000, refunded in full if there's no working prototype by Day 5 or no working workflow by Day 10.
+The FDE Sprint is a fixed-scope engagement in which an independent forward deployed engineer ships one AI workflow into your product in ten business days. It's built for founder-led B2B SaaS teams of 5 to 50 people, and the workflow runs on your data. It's a fixed price, $5,000, refunded in full if there's no working prototype by Day 5 or no working workflow by Day 10.
 
 ### What is a forward deployed AI engineer?
 
-A forward deployed AI engineer works inside the customer's codebase and ships AI features into their product, instead of advising from outside. The term comes from Palantir. In 2026, OpenAI and Anthropic adopted it for the teams that deploy their models inside enterprises. The AI Feature Sprint is the founder-tier version of that work.
+A forward deployed AI engineer works inside the customer's codebase and ships AI features into their product, instead of advising from outside. The term comes from Palantir. In 2026, OpenAI and Anthropic adopted it for the teams that deploy their models inside enterprises. The FDE Sprint is the founder-tier version of that work.
 
 Weighing a hire? [Does a startup need a forward deployed engineer?](https://ghanemzadeh.com/forward-deployed-engineer-for-startups/) compares a full-time hire, a contractor, and a Sprint.
 
@@ -169,7 +169,7 @@ That's what the Sprint produces: one managed AI workflow with a clear use case, 
 
 ### What is Forward Deployed AI Engineering?
 
-Forward Deployed AI Engineering is a delivery model where an engineer embeds inside a customer's team and ships AI capabilities directly into the customer's product and codebase. The deliverable is working code in the customer's repo, not a deck about it. The term comes from Palantir, where it has been the dominant model for two decades. In May 2026, OpenAI launched a $10 billion deployment subsidiary using exactly this title, and Anthropic launched a $1.5 billion deployment subsidiary the same day. Both are aimed at the Fortune 500. The **AI Feature Sprint is the same playbook, sized for founder-led B2B SaaS teams of 5 to 50 people** who can't run a quarter-million-dollar procurement process.
+Forward Deployed AI Engineering is a delivery model where an engineer embeds inside a customer's team and ships AI capabilities directly into the customer's product and codebase. The deliverable is working code in the customer's repo, not a deck about it. The term comes from Palantir, where it has been the dominant model for two decades. In May 2026, OpenAI launched a $10 billion deployment subsidiary using exactly this title, and Anthropic launched a $1.5 billion deployment subsidiary the same day. Both are aimed at the Fortune 500. The **FDE Sprint is the same playbook, sized for founder-led B2B SaaS teams of 5 to 50 people** who can't run a quarter-million-dollar procurement process.
 
 More on the role: [what a Forward Deployed AI Engineer is](https://ghanemzadeh.com/forward-deployed-ai-engineer/), and the full guide in the book, [Forward Deployed AI Engineering: A Working Guide to the Hottest Job in Software](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/).
 
@@ -276,7 +276,7 @@ Output simulated for a typical founder-led team.
 
 Days 1 to 10
 
-#### AI Feature Sprint
+#### FDE Sprint
 
 $5,000 fixed price
 
@@ -423,7 +423,7 @@ The Sprint method comes out of shipping these workflows in my own products first
 
 ### FAQ
 
-#### What is a 10-day AI Feature Sprint?
+#### What is a 10-day FDE Sprint?
 
 A 10-business-day engagement to ship one narrow AI workflow into a B2B SaaS product. Scoping on Day 1, design on Days 2 to 3, prototype by Day 5, implementation on Days 6 to 9, handoff on Day 10. Fixed scope, fixed price. Deliverables include the workflow code committed to your repo, an output quality rubric, a workflow playbook, a Loom walkthrough, and a 30-day post-Sprint roadmap.
 
@@ -463,6 +463,10 @@ Speed, mostly: 10 days instead of six weeks of internal roadmap displacement, wh
 
 This Sprint ships a working AI workflow into your codebase by Day 10, where AI consulting firms deliver decks and roadmaps. The category is "Forward Deployed AI Engineering": the same shape of work OpenAI's Deployment Company and Anthropic's deployment arm sell to Fortune 500 customers, at a different price point.
 
+#### Why hire an independent FDE instead of a model vendor's deployment team?
+
+A vendor's forward deployed engineers work for the vendor, so the natural outcome is more of that vendor's platform and more spend on it. An independent FDE picks the model per workflow, keeps prompts and model settings in a config file your team controls, and can switch models when a better or cheaper one ships. Vendor teams also start at enterprise minimums; the FDE Sprint is sized for a 5 to 50 person company.
+
 #### What kinds of AI workflows do you build?
 
 Narrow workflows with one input, one output, and one user: investor update assistants, runway scenario explainers, customer summary generators, support ticket summarizers, report generators, and onboarding assistants. The common shape: narrow input, narrow output, single user, measurable improvement, human-in-the-loop review.
@@ -497,9 +501,9 @@ Your team runs the workflow, and there are three paths from there. Most teams ta
 
 An engineer who embeds inside a customer's team and ships inside their codebase, rather than delivering an external dashboard or report. Originally Palantir's model; adopted by OpenAI and Anthropic in May 2026.
 
-**AI Feature Sprint**
+**FDE Sprint**
 
-This offer. 10 business days, one narrow AI workflow, fixed scope, fixed price.
+This offer. FDE stands for forward deployed engineer. 10 business days, one narrow AI workflow, fixed scope, fixed price.
 
 **Workflow**
 
@@ -540,7 +544,7 @@ URL: https://ghanemzadeh.com/best-forward-deployed-engineer-books/
 
 There is exactly one book written specifically about the Forward Deployed Engineer role, so a useful FDE reading list pairs it with the best books on the skills the role is made of: AI engineering, data systems, product discovery, and the customer room. These five books, plus five free essays and talks, cover the territory.
 
-By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated September 2026.
+By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated October 2026.
 
 ### The five books
 
@@ -566,7 +570,7 @@ The product-discovery half of the craft. An FDE decides what to build under pres
 
 The odd one out, deliberately. Johnstone's book on improvisational theatre appears on Palantir's FDE onboarding reading list because customer-room work is improvisation: status, listening, and responding honestly to what is actually happening. It teaches the temperament of the work rather than the technique.
 
-Running a B2B SaaS company? The method in this book is also a service: one AI workflow shipped into your product in ten business days.
+Running a B2B SaaS company? The method in this book is also a service, the FDE Sprint: one AI workflow shipped into your product in ten business days.
 
 [Score your workflow (2 min)](https://ghanemzadeh.com/scorecard/) · [See the Sprint](https://ghanemzadeh.com/ai-feature-sprint/)
 
@@ -662,7 +666,7 @@ The buying-club discipline that survived Sinegal's retirement.
 
 ### About the author
 
-I'm Nasser Ghanemzadeh. 17+ years building products and companies across AI, SaaS, and fintech. Previously CEO/CPO at Nivo (acquired). Currently building Vectig solo with Claude Code, and running a 10-business-day [AI Feature Sprint](https://ghanemzadeh.com/ai-feature-sprint/) for B2B SaaS teams.
+I'm Nasser Ghanemzadeh. 17+ years building products and companies across AI, SaaS, and fintech. Previously CEO/CPO at Nivo (acquired). Currently building Vectig solo with Claude Code, and running a 10-business-day [FDE Sprint](https://ghanemzadeh.com/ai-feature-sprint/) for B2B SaaS teams.
 
 Also by Nasser: [Forward Deployed AI Engineering: A Working Guide to the Hottest Job in Software](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/) and [Daily Wisdom](https://ghanemzadeh.com/books/daily-wisdom/).
 
@@ -708,7 +712,7 @@ The three books are about the same thing seen from different angles. Daily Wisdo
 
 I'm Nasser Ghanemzadeh, a [Forward Deployed AI Engineer](https://ghanemzadeh.com/forward-deployed-ai-engineer/) for founder-led B2B SaaS. 17+ years building products and companies across AI, SaaS, and fintech. Former CEO and CPO at Nivo (acquired, 200K+ users, 450% revenue growth), Founding Head of Product at Pangouan, and co-founder of Finnova and the Iran Startups community. My work has been covered in Forbes, TechCrunch, Al Jazeera, and HuffPost.
 
-Today I run the [AI Feature Sprint](https://ghanemzadeh.com/ai-feature-sprint/) and build [Vectig](https://vectig.com) in public with Claude Code. More on the [home page](https://ghanemzadeh.com/).
+Today I run the [FDE Sprint](https://ghanemzadeh.com/ai-feature-sprint/) and build [Vectig](https://vectig.com) in public with Claude Code. More on the [home page](https://ghanemzadeh.com/).
 
 ---
 
@@ -888,7 +892,7 @@ Three promises. Every quotation was verified against a primary source before it 
 
 ### About the author
 
-I'm Nasser Ghanemzadeh. 17+ years building products and companies across AI, SaaS, and fintech. Former CEO and CPO at Nivo (acquired, 200K+ users), Founding Head of Product at Pangouan, and co-founder of Finnova and the Iran Startups community. Currently building [Vectig](https://vectig.com) solo with Claude Code and running the [AI Feature Sprint](https://ghanemzadeh.com/ai-feature-sprint/) for founder-led B2B SaaS teams.
+I'm Nasser Ghanemzadeh. 17+ years building products and companies across AI, SaaS, and fintech. Former CEO and CPO at Nivo (acquired, 200K+ users), Founding Head of Product at Pangouan, and co-founder of Finnova and the Iran Startups community. Currently building [Vectig](https://vectig.com) solo with Claude Code and running the [FDE Sprint](https://ghanemzadeh.com/ai-feature-sprint/) for founder-led B2B SaaS teams.
 
 I have been the founder watching runway and the manager building the machine. Finnova, a coworking space and accelerator, showed me the ecosystem from the investor side. The three readers in this book are three jobs I have held or sat across the table from.
 
@@ -979,7 +983,7 @@ Or read the sample chapters (PDF) now. Sign up and they land in your inbox.
 
 You'll also get the newsletter. One email a week, easy unsubscribe.
 
-Running a B2B SaaS company? The method in this book is also a service: one AI workflow shipped into your product in ten business days.
+Running a B2B SaaS company? The method in this book is also a service, the FDE Sprint: one AI workflow shipped into your product in ten business days.
 
 [Score your workflow (2 min)](https://ghanemzadeh.com/scorecard/) · [See the Sprint](https://ghanemzadeh.com/ai-feature-sprint/)
 
@@ -1075,7 +1079,7 @@ I'm Nasser Ghanemzadeh. 17+ years building products and companies across AI, Saa
 
 I'm not a Palantir alumnus. I did not invent the FDE motion and I make no claim to having shaped it. What I have done is seventeen years of customer-side software work with the particular intensity that comes from having most often been the one ultimately accountable for whether the software shipped, worked, and earned its keep.
 
-I also run a 10-business-day [AI Feature Sprint](https://ghanemzadeh.com/ai-feature-sprint/) for founder-led B2B SaaS teams: ship one narrow AI workflow into their product. Same playbook, sized for teams that don't have a $250K procurement process.
+I also run a 10-business-day [FDE Sprint](https://ghanemzadeh.com/ai-feature-sprint/) for founder-led B2B SaaS teams: ship one narrow AI workflow into their product. Same playbook, sized for teams that don't have a $250K procurement process.
 
 More on the [home page](https://ghanemzadeh.com/). Also by Nasser: [Founder Mode](https://ghanemzadeh.com/book/) and [Daily Wisdom](https://ghanemzadeh.com/books/daily-wisdom/).
 
@@ -1121,7 +1125,7 @@ No. Independent publication. The book discusses these organizations because they
 
 - [FDE vs Solutions Engineer](https://ghanemzadeh.com/forward-deployed-ai-engineer-vs-solutions-engineer/). The closest neighboring role, compared side by side.
 
-- [Hire a Forward Deployed AI Engineer](https://ghanemzadeh.com/ai-feature-sprint/). The 10-business-day AI Feature Sprint for founder-led B2B SaaS.
+- [Hire a Forward Deployed AI Engineer](https://ghanemzadeh.com/ai-feature-sprint/). The 10-business-day FDE Sprint for founder-led B2B SaaS.
 
 - [AI Workflow Scorecard](https://ghanemzadeh.com/scorecard/). Two minutes to see whether an AI feature idea can ship in ten days.
 
@@ -1283,7 +1287,7 @@ Mostly no. The methodology, examples, and Sprint structure are built around foun
 
 ### Two hours, one document, a clear next step.
 
-Book a Discovery Day for a focused outside read on whether the AI feature you're considering is ready to ship in 10 business days. Or start with the full breakdown of the [10-day AI Feature Sprint](https://ghanemzadeh.com/ai-feature-sprint/).
+Book a Discovery Day for a focused outside read on whether the AI feature you're considering is ready to ship in 10 business days. Or start with the full breakdown of the [10-day FDE Sprint](https://ghanemzadeh.com/ai-feature-sprint/).
 
 [Book a Discovery Day →](https://cal.com/ghanemzadeh/discovery)
 [Read the Sprint details](https://ghanemzadeh.com/ai-feature-sprint/)
@@ -1300,7 +1304,7 @@ URL: https://ghanemzadeh.com/forward-deployed-ai-engineer-vs-solutions-engineer/
 
 A Forward Deployed AI Engineer and a solutions engineer share the same technical, customer-facing instinct, but they work for different sides and ship different things. The Forward Deployed AI Engineer builds an AI workflow into the customer's own product and owns the result. The solutions engineer sells, demos, and integrates a vendor's product on the vendor's behalf.
 
-By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated September 2026.
+By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated October 2026.
 
 ### The short answer
 
@@ -1335,7 +1339,7 @@ One more practical signal: seen as solutions engineer vs forward deployed engine
 
 An applied AI engineer usually builds AI features into their own company's product, a solutions engineer sells and integrates a vendor's product, and a forward deployed engineer ships AI into a customer's product. The difference is whose codebase the work lives in: the employer's, the vendor's demo environment, or the customer's. One exception: at Anthropic, Applied AI is the customer-facing team, so an applied AI engineer there does forward deployed work. When a posting says applied AI, check whose product you would be building.
 
-Running a B2B SaaS company? The AI Feature Sprint puts a forward deployed AI engineer on one workflow in your product and ships it in ten business days.
+Running a B2B SaaS company? The FDE Sprint puts a forward deployed AI engineer on one workflow in your product and ships it in ten business days.
 
 [Score your workflow (2 min)](https://ghanemzadeh.com/scorecard/)
 [Book a 15-minute Scoping Call](https://ghanemzadeh.com/call/)
@@ -1383,7 +1387,7 @@ That definition comes from Bob McGrew, who spent 11 years at Palantir, where the
 [Read the book →](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/)
 [See it as a service](https://ghanemzadeh.com/ai-feature-sprint/)
 
-By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated September 2026.
+By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated October 2026.
 
 ### What does a Forward Deployed Engineer do?
 
@@ -1492,13 +1496,13 @@ The fastest credible path is to build and ship a real workflow, write the evalua
 
 ### Forward Deployed AI Engineering for founder-led B2B SaaS
 
-The enterprise version of this role is built for Fortune 500 procurement. The same work, sized for a 5-to-50-person founder-led SaaS team, is the AI Feature Sprint: one narrow AI workflow shipped into the product in 10 business days, fixed scope and fixed price.
+The enterprise version of this role is built for Fortune 500 procurement. The same work, sized for a 5-to-50-person founder-led SaaS team, is the FDE Sprint: one narrow AI workflow shipped into the product in 10 business days, fixed scope and fixed price.
 
-That's the work I do. Most patterns I ship into a customer's codebase have already run in [Vectig](https://vectig.com), my own AI-native product and live R&D lab. If you want to see the engagement, start with the [AI Feature Sprint](https://ghanemzadeh.com/ai-feature-sprint/) or a [Discovery Day](https://ghanemzadeh.com/discovery-day/).
+That's the work I do. Most patterns I ship into a customer's codebase have already run in [Vectig](https://vectig.com), my own AI-native product and live R&D lab. If you want to see the engagement, start with the [FDE Sprint](https://ghanemzadeh.com/ai-feature-sprint/) or a [Discovery Day](https://ghanemzadeh.com/discovery-day/).
 
 Weighing a full-time hire against a contractor or a Sprint? Start with [Does a startup need a forward deployed engineer?](https://ghanemzadeh.com/forward-deployed-engineer-for-startups/)
 
-Running a B2B SaaS company? The AI Feature Sprint puts a forward deployed AI engineer on one workflow in your product and ships it in ten business days.
+Running a B2B SaaS company? The FDE Sprint puts a forward deployed AI engineer on one workflow in your product and ships it in ten business days.
 
 [Score your workflow (2 min)](https://ghanemzadeh.com/scorecard/)
 [Book a 15-minute Scoping Call](https://ghanemzadeh.com/call/)
@@ -1513,7 +1517,7 @@ The book
 
 I'm Nasser Ghanemzadeh, a Forward Deployed AI Engineer for founder-led B2B SaaS. 17+ years building products and companies across AI, SaaS, and fintech. Previously CEO/CPO at Nivo (acquired, 200K+ users, 450% revenue growth). Work covered in Forbes, TechCrunch, Al Jazeera, and HuffPost.
 
-I run the [AI Feature Sprint](https://ghanemzadeh.com/ai-feature-sprint/), build [Vectig](https://vectig.com) in public with Claude Code, and wrote the book on this role. More on the [home page](https://ghanemzadeh.com/).
+I run the [FDE Sprint](https://ghanemzadeh.com/ai-feature-sprint/), build [Vectig](https://vectig.com) in public with Claude Code, and wrote the book on this role. More on the [home page](https://ghanemzadeh.com/).
 
 ### Frequently asked questions
 
@@ -1575,7 +1579,7 @@ URL: https://ghanemzadeh.com/forward-deployed-engineer-for-startups/
 
 Usually not a full-time one. A startup under 50 people rarely needs a full-time forward deployed engineer. It needs one AI workflow shipped into its product and a team that can maintain it afterward. There are three ways to get there: hire one, contract one, or run a fixed-scope Sprint.
 
-By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated September 2026.
+By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated October 2026.
 
 ### Option 1: hire one full-time
 
@@ -1601,9 +1605,9 @@ Where it usually breaks:
 
 Contract when the scope is already tight, someone on your team will own the result, and the contract names acceptance criteria and a handoff.
 
-### Option 3: a fixed-scope Sprint
+### Option 3: a fixed-scope FDE Sprint
 
-The AI Feature Sprint is the fixed-scope version: one AI workflow, scoped on Day 1, running on your data by Day 5, and in your repo by Day 10. A forward deployed AI engineer does the build inside your codebase, then hands over a recorded walkthrough, an output rubric, and a playbook your team uses to maintain it. The price is fixed, with a full refund if there's no working prototype by Day 5 or the workflow isn't running to its acceptance criteria by Day 10. [See how the Sprint works](https://ghanemzadeh.com/ai-feature-sprint/).
+The FDE Sprint is the fixed-scope version: one AI workflow, scoped on Day 1, running on your data by Day 5, and in your repo by Day 10. A forward deployed AI engineer does the build inside your codebase, then hands over a recorded walkthrough, an output rubric, and a playbook your team uses to maintain it. The price is fixed, with a full refund if there's no working prototype by Day 5 or the workflow isn't running to its acceptance criteria by Day 10. [See how the Sprint works](https://ghanemzadeh.com/ai-feature-sprint/).
 
 ### How to choose
 
@@ -1659,7 +1663,7 @@ URL: https://ghanemzadeh.com/glossary/
 
 The working vocabulary of Forward Deployed AI Engineering for founder-led B2B SaaS. Plain definitions of the role, the offer, the deliverables, and the tools, written the way they are actually used.
 
-By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated September 2026.
+By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated October 2026.
 
 **Forward Deployed AI Engineer (FDE)**
 
@@ -1673,9 +1677,9 @@ At Palantir, the embedded analyst with deep domain expertise who owns the custom
 
 At Palantir, the deployed engineer who ships code inside the customer's environment; the company describes the responsibilities as similar to a startup CTO's. In *Forward Deployed AI Engineering*, Delta also names the other half of the craft: the change that makes the next deployment work better.
 
-**AI Feature Sprint**
+**FDE Sprint**
 
-A ten-business-day engagement that ships one narrow AI workflow into a customer's product. Fixed scope, fixed price, end-to-end delivery and handoff. See the [AI Feature Sprint](https://ghanemzadeh.com/ai-feature-sprint/).
+A ten-business-day engagement in which an independent forward deployed engineer (FDE) ships one narrow AI workflow into a customer's product. Fixed scope, fixed price, end-to-end delivery and handoff. See the [FDE Sprint](https://ghanemzadeh.com/ai-feature-sprint/).
 
 **Discovery Day**
 
@@ -1713,7 +1717,7 @@ A product built around AI workflows from the start, rather than a traditional pr
 
 Nasser Ghanemzadeh's AI-native startup finance product: cash-flow forecasting, runway scenarios, and investor update drafting. It serves as the live R&D lab where workflow patterns are proven before they ship to customers. See [vectig.com](https://vectig.com).
 
-Running a B2B SaaS company? The AI Feature Sprint puts a forward deployed AI engineer on one workflow in your product and ships it in ten business days.
+Running a B2B SaaS company? The FDE Sprint puts a forward deployed AI engineer on one workflow in your product and ships it in ten business days.
 
 [Score your workflow (2 min)](https://ghanemzadeh.com/scorecard/)
 [Book a 15-minute Scoping Call](https://ghanemzadeh.com/call/)
@@ -1738,7 +1742,7 @@ URL: https://ghanemzadeh.com/how-to-become-a-forward-deployed-ai-engineer/
 
 You become a Forward Deployed AI Engineer by proving you can take one narrow AI use case from a vague idea to a working feature in a real product, then explain every decision behind it. The fastest credible path is to build and ship one workflow end to end, evaluation rubric included, and be able to walk someone through the code.
 
-By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated August 2026.
+By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated October 2026.
 
 ### Who already has a head start
 
@@ -1875,7 +1879,7 @@ Get the free chapters
 
 I'm Nasser Ghanemzadeh. 17+ years building products and companies across AI, SaaS, and fintech. As CEO and later CPO at Nivo, I shipped AI-powered applications that grew to 200K+ users and 450% revenue growth before the company was acquired.
 
-These days I build Vectig solo with Claude Code and run a 10-business-day [AI Feature Sprint](https://ghanemzadeh.com/ai-feature-sprint/) for B2B SaaS teams. If you have an AI feature in mind, the [Workflow Scorecard](https://ghanemzadeh.com/scorecard/) tells you in two minutes whether it can ship in ten days. The books came out of that work. More on the [home page](https://ghanemzadeh.com/).
+These days I build Vectig solo with Claude Code and run a 10-business-day [FDE Sprint](https://ghanemzadeh.com/ai-feature-sprint/) for B2B SaaS teams. If you have an AI feature in mind, the [Workflow Scorecard](https://ghanemzadeh.com/scorecard/) tells you in two minutes whether it can ship in ten days. The books came out of that work. More on the [home page](https://ghanemzadeh.com/).
 
 Forbes · TechCrunch · Al Jazeera · HuffPost
 
@@ -1891,7 +1895,7 @@ Then one letter a week: one real decision through one mental model, for founders
 
 URL: https://ghanemzadeh.com/scorecard/
 
-[AI Feature Sprint](https://ghanemzadeh.com/ai-feature-sprint/)
+[FDE Sprint](https://ghanemzadeh.com/ai-feature-sprint/)
 
 ## Workflow Scorecard
 
