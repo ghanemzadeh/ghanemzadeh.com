@@ -6,7 +6,7 @@ Nasser Ghanemzadeh has spent 17+ years building products and companies across AI
 
 His live R&D lab is Vectig, an AI-native cash flow forecasting product for pre-seed-to-Series-A founders, built solo with Claude Code, in public. Most workflow patterns he ships into a client codebase have already run in Vectig first.
 
-He is the author of three books: Daily Wisdom (366 one-page meditations on mental models, misjudgment, and money for founders, investors, and managers; Kindle pre-order, out October 6, 2026), Forward Deployed AI Engineering (a working guide to the Forward Deployed AI Engineer role: what it is, where it came from, how it is practiced, and how to do it well; 304 pages, first edition May 2026, Version 1.5 August 2026) and Founder Mode (how great founders stay close to product, people, judgment, and execution as companies scale). He writes a weekly newsletter, Nasser Ghanemzadeh’s Newsletter, which runs one real decision through one mental model for founders who invest and investors who build, and his work has been covered in Forbes, TechCrunch, Al Jazeera, and HuffPost.
+He is the author of three books: Daily Wisdom (366 one-page meditations on mental models, misjudgment, and money for founders, investors, and managers; out October 6, 2026 on Kindle, in paperback, and in hardcover), Forward Deployed AI Engineering (a working guide to the Forward Deployed AI Engineer role: what it is, where it came from, how it is practiced, and how to do it well; 304 pages, first edition May 2026, Version 1.5 August 2026) and Founder Mode (how great founders stay close to product, people, judgment, and execution as companies scale). He writes a weekly newsletter, Nasser Ghanemzadeh’s Newsletter, which runs one real decision through one mental model for founders who invest and investors who build, and his work has been covered in Forbes, TechCrunch, Al Jazeera, and HuffPost.
 
 ## The books
 
@@ -15,10 +15,11 @@ Forward Deployed AI Engineering: A Working Guide to the Hottest Job in Software,
 - Paperback: $19.99 at https://www.amazon.com/Forward-Deployed-AI-Engineering-Software/dp/B0H3VKKG38/
 - Kindle: $9.99 (also on Kindle Unlimited) at https://www.amazon.com/dp/B0H3KP9CVH/
 
-Daily Wisdom for Founders, Investors, and Managers: 366 Meditations on Mental Models, Misjudgment, and Money, by Nasser Ghanemzadeh. Independently published. First edition; Kindle release October 6, 2026. 366 one-page meditations in twelve themed months: the latticework, the machinery of misjudgment, guarding the mind, the mathematics of wisdom, lessons from Darwin, systems and second-order effects, the psychology of money, the investor's temperament, the manager's craft, the founder's path, the not-to-do list, and the good life. Each day holds a quotation verified against a primary source, an essay of about 250 words, and one closing question or action. 399 pages in print, about 104,000 words.
+Daily Wisdom for Founders, Investors, and Managers: 366 Meditations on Mental Models, Misjudgment, and Money, by Nasser Ghanemzadeh. Independently published. First edition, October 6, 2026. 366 one-page meditations in twelve themed months: the latticework, the machinery of misjudgment, guarding the mind, the mathematics of wisdom, lessons from Darwin, systems and second-order effects, the psychology of money, the investor's temperament, the manager's craft, the founder's path, the not-to-do list, and the good life. Each day holds a quotation verified against a primary source, an essay of about 250 words, and one closing question or action. 399 pages in print, about 104,000 words. The book page lists all 366 day titles by date, each with its own link (for example https://ghanemzadeh.com/books/daily-wisdom/#june-8 for June 8, The Cobra Effect), and prints two days in full (January 1 and November 1).
 
-- Kindle: $11.99, pre-order at https://www.amazon.com/dp/B0HHNNFY6M/ (delivered October 6, 2026)
-- Paperback and hardcover: follow the Kindle release
+- Kindle: $11.99 at https://www.amazon.com/dp/B0HHNNFY6M/
+- Paperback: https://www.amazon.com/dp/B0HHNZJB9R/
+- Hardcover: https://www.amazon.com/dp/B0HHNYM63M/
 
 ## The service
 
@@ -40,7 +41,7 @@ The FDE Sprint is a 10-business-day engagement in which an independent forward d
 - [The Best Forward Deployed Engineer Books & Resources](https://ghanemzadeh.com/best-forward-deployed-engineer-books/): Five books worth reading to learn the FDE role, plus the essential free essays and talks.
 - [Books](https://ghanemzadeh.com/books/): Three books by Nasser Ghanemzadeh: Daily Wisdom, Founder Mode, and Forward Deployed AI Engineering.
 - [Forward Deployed AI Engineering (book)](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/): A working guide to the Forward Deployed AI Engineer role. 304 pages. Version 1.5, August 2026.
-- [Daily Wisdom (book)](https://ghanemzadeh.com/books/daily-wisdom/): 366 one-page meditations on mental models, misjudgment, and money for founders, investors, and managers. Each day a verified quotation, a short essay, and one question. Kindle pre-order, out October 6, 2026; 399 pages in print.
+- [Daily Wisdom (book)](https://ghanemzadeh.com/books/daily-wisdom/): 366 one-page meditations on mental models, misjudgment, and money for founders, investors, and managers. Each day a verified quotation, a short essay, and one question. All 366 day titles listed by date. Out now on Kindle, in paperback, and in hardcover; 399 pages in print.
 - [Founder Mode (book)](https://ghanemzadeh.com/book/): A practical book on how great founders stay close to product, people, judgment, and execution as companies scale.
 - [Vectig](https://vectig.com): AI-native cash flow forecasting for early-stage founders, built solo with Claude Code, in public. The test bench for most Sprint workflow patterns.
 - [Newsletter: Nasser Ghanemzadeh’s Newsletter](https://ghanemzadeh.com/newsletter/): Better judgment for founders who invest and investors who build. A weekly letter that runs one real decision through one mental model, from the author of Daily Wisdom. Subscribe and get the first two chapters of both books, Forward Deployed AI Engineering and Founder Mode, in your first email.

@@ -6,7 +6,7 @@ Nasser Ghanemzadeh has spent 17+ years building products and companies across AI
 
 His live R&D lab is Vectig, an AI-native cash flow forecasting product for pre-seed-to-Series-A founders, built solo with Claude Code, in public. Most workflow patterns he ships into a client codebase have already run in Vectig first.
 
-He is the author of three books: Daily Wisdom (366 one-page meditations on mental models, misjudgment, and money for founders, investors, and managers; Kindle pre-order, out October 6, 2026), Forward Deployed AI Engineering (a working guide to the Forward Deployed AI Engineer role: what it is, where it came from, how it is practiced, and how to do it well; 304 pages, first edition May 2026, Version 1.5 August 2026) and Founder Mode (how great founders stay close to product, people, judgment, and execution as companies scale). He writes a weekly newsletter, Nasser Ghanemzadeh’s Newsletter, which runs one real decision through one mental model for founders who invest and investors who build, and his work has been covered in Forbes, TechCrunch, Al Jazeera, and HuffPost.
+He is the author of three books: Daily Wisdom (366 one-page meditations on mental models, misjudgment, and money for founders, investors, and managers; out October 6, 2026 on Kindle, in paperback, and in hardcover), Forward Deployed AI Engineering (a working guide to the Forward Deployed AI Engineer role: what it is, where it came from, how it is practiced, and how to do it well; 304 pages, first edition May 2026, Version 1.5 August 2026) and Founder Mode (how great founders stay close to product, people, judgment, and execution as companies scale). He writes a weekly newsletter, Nasser Ghanemzadeh’s Newsletter, which runs one real decision through one mental model for founders who invest and investors who build, and his work has been covered in Forbes, TechCrunch, Al Jazeera, and HuffPost.
 
 ## The books
 
@@ -15,10 +15,11 @@ Forward Deployed AI Engineering: A Working Guide to the Hottest Job in Software,
 - Paperback: $19.99 at https://www.amazon.com/Forward-Deployed-AI-Engineering-Software/dp/B0H3VKKG38/
 - Kindle: $9.99 (also on Kindle Unlimited) at https://www.amazon.com/dp/B0H3KP9CVH/
 
-Daily Wisdom for Founders, Investors, and Managers: 366 Meditations on Mental Models, Misjudgment, and Money, by Nasser Ghanemzadeh. Independently published. First edition; Kindle release October 6, 2026. 366 one-page meditations in twelve themed months: the latticework, the machinery of misjudgment, guarding the mind, the mathematics of wisdom, lessons from Darwin, systems and second-order effects, the psychology of money, the investor's temperament, the manager's craft, the founder's path, the not-to-do list, and the good life. Each day holds a quotation verified against a primary source, an essay of about 250 words, and one closing question or action. 399 pages in print, about 104,000 words.
+Daily Wisdom for Founders, Investors, and Managers: 366 Meditations on Mental Models, Misjudgment, and Money, by Nasser Ghanemzadeh. Independently published. First edition, October 6, 2026. 366 one-page meditations in twelve themed months: the latticework, the machinery of misjudgment, guarding the mind, the mathematics of wisdom, lessons from Darwin, systems and second-order effects, the psychology of money, the investor's temperament, the manager's craft, the founder's path, the not-to-do list, and the good life. Each day holds a quotation verified against a primary source, an essay of about 250 words, and one closing question or action. 399 pages in print, about 104,000 words. The book page lists all 366 day titles by date, each with its own link (for example https://ghanemzadeh.com/books/daily-wisdom/#june-8 for June 8, The Cobra Effect), and prints two days in full (January 1 and November 1).
 
-- Kindle: $11.99, pre-order at https://www.amazon.com/dp/B0HHNNFY6M/ (delivered October 6, 2026)
-- Paperback and hardcover: follow the Kindle release
+- Kindle: $11.99 at https://www.amazon.com/dp/B0HHNNFY6M/
+- Paperback: https://www.amazon.com/dp/B0HHNZJB9R/
+- Hardcover: https://www.amazon.com/dp/B0HHNYM63M/
 
 ## The service
 
@@ -51,7 +52,7 @@ Everything I do feeds the same operation. Here it is, in priority order.
 
 - 02 **[Vectig.](https://vectig.com)** AI-native cash flow forecasting for early-stage founders, built solo with Claude Code, in public. It's also my test bench: most Sprint patterns run here before a client sees them.
 
-- 03 **The books.** [Daily Wisdom](https://ghanemzadeh.com/books/daily-wisdom/) is a year of one-page meditations on judgment and money, on Kindle pre-order now. [Forward Deployed AI Engineering](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/) explains the role. [Founder Mode](https://ghanemzadeh.com/book/) explains the operating practice underneath it. For the quick version of the FDE book, read [what a Forward Deployed AI Engineer is](https://ghanemzadeh.com/forward-deployed-ai-engineer/), or browse [the best FDE books](https://ghanemzadeh.com/best-forward-deployed-engineer-books/).
+- 03 **The books.** [Daily Wisdom](https://ghanemzadeh.com/books/daily-wisdom/) is a year of one-page meditations on judgment and money, out now on Kindle, in paperback, and in hardcover. [Forward Deployed AI Engineering](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/) explains the role. [Founder Mode](https://ghanemzadeh.com/book/) explains the operating practice underneath it. For the quick version of the FDE book, read [what a Forward Deployed AI Engineer is](https://ghanemzadeh.com/forward-deployed-ai-engineer/), or browse [the best FDE books](https://ghanemzadeh.com/best-forward-deployed-engineer-books/).
 
 - 04 **[The newsletter.](https://ghanemzadeh.com/newsletter/)** One letter a week that runs one real decision through one mental model. Better judgment for founders who invest and investors who build.
 
@@ -63,7 +64,7 @@ Everything I do feeds the same operation. Here it is, in priority order.
 
 One is about judgment, one about the role, one about the operating practice underneath it. The first two chapters of Founder Mode and Forward Deployed AI Engineering are free, and so is a month of Daily Wisdom.
 
-[366 meditations · Pre-order #### Daily Wisdom One page a day on mental models, misjudgment, and money, for founders, investors, and managers.](https://ghanemzadeh.com/books/daily-wisdom/)
+[366 meditations · Out now #### Daily Wisdom One page a day on mental models, misjudgment, and money, for founders, investors, and managers.](https://ghanemzadeh.com/books/daily-wisdom/)
 [304 pages · Version 1.5 #### Forward Deployed AI Engineering The working guide to the FDE role: what the job is, how the work is done, how to break in.](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/)
 [From HP to NVIDIA #### Founder Mode The history of calibrated founder involvement, and what the great companies paid for it.](https://ghanemzadeh.com/book/)
 
@@ -694,7 +695,7 @@ Books
 
 Different topics, same operating lens. Daily Wisdom is a year of one-page meditations on judgment, misjudgment, and money. Founder Mode is about how great companies are actually built. Forward Deployed AI Engineering is about the job that has become the default way to ship AI into the real world.
 
-[2026 · Pre-order ### Daily Wisdom 366 Meditations on Mental Models, Misjudgment, and Money 366 meditations. 399 pages in print. Kindle pre-order, out October 6, 2026. One bad hire costs a year. One bad acquisition costs a decade. One bad partner can cost you the company. A year-long course in not fooling yourself, for founders, investors, and managers: a verified quotation, a short essay, and one question for every day of the year. Read a month free →](https://ghanemzadeh.com/books/daily-wisdom/)
+[2026 · Out now ### Daily Wisdom 366 Meditations on Mental Models, Misjudgment, and Money 366 meditations. 399 pages in print. Kindle, paperback, and hardcover. One bad hire costs a year. One bad acquisition costs a decade. One bad partner can cost you the company. A year-long course in not fooling yourself, for founders, investors, and managers: a verified quotation, a short essay, and one question for every day of the year. Read a month free →](https://ghanemzadeh.com/books/daily-wisdom/)
 
 [2026 ### Forward Deployed AI Engineering A Working Guide to the Hottest Job in Software 304 pages. First edition, May 2026. Version 1.5, August 2026. On May 4, 2026, OpenAI and Anthropic each launched deployment subsidiaries on the same day, both built around the title Forward Deployed Engineer. This book is for the person who wants to do that work. Five parts: the landscape, the mindset and the method, the craft, becoming an FDE, and the economy and future. Read the first chapters →](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/)
 
@@ -720,7 +721,7 @@ Today I run the [FDE Sprint](https://ghanemzadeh.com/ai-feature-sprint/) and bui
 
 URL: https://ghanemzadeh.com/books/daily-wisdom/
 
-**Kindle edition open for pre-order.** It lands on your Kindle on October 6, 2026. Paperback and hardcover follow.
+**Out now.** Daily Wisdom is on Kindle, in paperback, and in hardcover.
 
 A year-long course in not fooling yourself: a verified quotation, a three-minute essay, and one question, for every day of the year.
 
@@ -728,13 +729,15 @@ A year-long course in not fooling yourself: a verified quotation, a three-minute
 
 *for Founders, Investors, and Managers: 366 Meditations on Mental Models, Misjudgment, and Money*
 
-First edition · Kindle pre-order, out October 6, 2026 · 366 meditations · 399 pages in print
+First edition · Kindle, paperback, and hardcover · 366 meditations · 399 pages in print
 
 One bad hire costs a year. One bad acquisition costs a decade. One bad partner can cost you the company. Avoided mistakes compound like invested money, and almost nobody studies avoidance. The standard stupidities never go out of style: people overpaid for glamour stocks in 1720, in 1999, and in 2021, and founders ran out of cash in every decade on record. The names change. The errors are reruns. This book studies the reruns, one page a day, until you recognize them from the opening scene.
 
-[Pre-order on Kindle](https://www.amazon.com/dp/B0HHNNFY6M/)
+[Order on Kindle](https://www.amazon.com/dp/B0HHNNFY6M/)
+[Order Paperback](https://www.amazon.com/dp/B0HHNZJB9R/)
+[Order Hardcover](https://www.amazon.com/dp/B0HHNYM63M/)
 
-Paperback and hardcover editions follow the Kindle release. Or read a whole month now: sign up and the October sample, 54 pages, lands in your inbox.
+Or read a whole month first: sign up and the October sample, 54 pages, lands in your inbox.
 
 You'll also get the newsletter. One email a week, easy unsubscribe.
 
@@ -856,7 +859,769 @@ And the competition is thinner. The pursuit of brilliance is crowded with ambiti
 
 **Ask yourself:** Will this year's results improve more from one brilliant addition, or from deleting my two most repeatable stupidities? Name the two.
 
-06 · The quotations
+06 · Every page
+
+### All 366 pages
+
+Every title in the book, by date. Each date is its own link, so you can send someone straight to the page they need before a decision.
+
+#### January · The Latticework
+
+- January 1 Why Wisdom (read it above)
+
+- January 2 The Latticework
+
+- January 3 Invert, Always Invert
+
+- January 4 Big Ideas from Big Disciplines
+
+- January 5 The Man with a Hammer
+
+- January 6 Know the Edge
+
+- January 7 The Learning Machine
+
+- January 8 Read Wide, Read Old
+
+- January 9 Courts of the Ancients
+
+- January 10 A Dear School
+
+- January 11 First Principles
+
+- January 12 All Models Are Wrong
+
+- January 13 Chauffeur Knowledge
+
+- January 14 Define What You Don't Know
+
+- January 15 Simplicity
+
+- January 16 The Thousand Nos
+
+- January 17 Deserved Trust
+
+- January 18 Deserve What You Want
+
+- January 19 Darwin's Golden Rule
+
+- January 20 Franklin's Project
+
+- January 21 The Unbought Mind
+
+- January 22 Sit Quietly
+
+- January 23 Writing Is Thinking
+
+- January 24 The Decision Journal
+
+- January 25 Six Honest Serving-Men
+
+- January 26 On Shoulders
+
+- January 27 Measure, Then Judge
+
+- January 28 The Bee's Method
+
+- January 29 An Ounce of Prevention
+
+- January 30 All Behavior Makes Sense
+
+- January 31 The Checklist
+
+#### February · The Machinery of Misjudgment
+
+- February 1 The Quirks in Your Wiring
+
+- February 2 Guilt by Association
+
+- February 3 What Gets Rewarded Gets Repeated
+
+- February 4 Whose Bread I Eat
+
+- February 5 The Flattering Mirror
+
+- February 6 Wishful Believing
+
+- February 7 The Hobgoblin
+
+- February 8 Seeing What You Look For
+
+- February 9 Loss Hurts Twice
+
+- February 10 The Default Setting
+
+- February 11 Now Beats Later
+
+- February 12 The Green Eye
+
+- February 13 Everything Is Relative
+
+- February 14 The First Number Wins
+
+- February 15 Vivid and Recent
+
+- February 16 The Missing Evidence
+
+- February 17 The Returned Favor
+
+- February 18 Liked into Agreeing
+
+- February 19 The Herd
+
+- February 20 The Uniform
+
+- February 21 Stories After the Fact
+
+- February 22 Because
+
+- February 23 Gullible by Default
+
+- February 24 Memory, the Revisionist
+
+- February 25 Do Something
+
+- February 26 Say Something
+
+- February 27 Hot States
+
+- February 28 Under Pressure
+
+- February 29 The Lollapalooza
+
+#### March · Guarding the Mind
+
+- March 1 The Outside View
+
+- March 2 Confident and Wrong
+
+- March 3 I Knew It All Along
+
+- March 4 The Silent Graveyard
+
+- March 5 The Narrative Trap
+
+- March 6 Everything Takes Longer
+
+- March 7 Throwing Good After Bad
+
+- March 8 The Halo
+
+- March 9 It's the Situation
+
+- March 10 Good Outcome, Bad Decision
+
+- March 11 Cui Bono
+
+- March 12 Earn Your Opinion
+
+- March 13 Hunt Disconfirmation
+
+- March 14 The Pre-Mortem
+
+- March 15 The Official Dissenter
+
+- March 16 Begin with the Base Rate
+
+- March 17 Never Decide Depleted
+
+- March 18 The Hot Letter
+
+- March 19 Kill Your Darling
+
+- March 20 Vaguely Right
+
+- March 21 Storks Don't Bring Babies
+
+- March 22 The Instructor's Illusion
+
+- March 23 A Sample of One
+
+- March 24 The Confident Beginner
+
+- March 25 The Annual Demolition
+
+- March 26 For Want of a Nail
+
+- March 27 Keep Score of Your Calls
+
+- March 28 Never Ask the Barber
+
+- March 29 Franklin's Algebra
+
+- March 30 Which Bias Is on Duty
+
+- March 31 The Easiest Person to Fool
+
+#### April · The Mathematics of Wisdom
+
+- April 1 Money Begets Money
+
+- April 2 The Rule of 72
+
+- April 3 Wet Snow, Long Hill
+
+- April 4 Degrees of Belief
+
+- April 5 Expected Value
+
+- April 6 Cap the Downside
+
+- April 7 The Base Rate of Ambition
+
+- April 8 Small Samples Lie
+
+- April 9 The Mountains Bring Forth a Mouse
+
+- April 10 Four Feet Deep on Average
+
+- April 11 The Tails Wag the Dog
+
+- April 12 The Weakest Link
+
+- April 13 Too Many Branches
+
+- April 14 A Million-to-One, Daily
+
+- April 15 Streaks Happen
+
+- April 16 Five Dollars Off What
+
+- April 17 On Being the Right Size
+
+- April 18 The Dose Makes the Poison
+
+- April 19 The Vital Few
+
+- April 20 Lose Half, Need Double
+
+- April 21 First, Survive
+
+- April 22 Bet Size Is the Decision
+
+- April 23 The Insurance Mind
+
+- April 24 Change Your Mind
+
+- April 25 Trees and Scenarios
+
+- April 26 A Bird in the Hand
+
+- April 27 The Lever Breaks Both Ways
+
+- April 28 When Correlations Go to One
+
+- April 29 Prophecy Is a Risky Line
+
+- April 30 The Numbers and the Story
+
+#### May · Lessons from Darwin
+
+- May 1 The Slightest Advantage
+
+- May 2 The Algorithm
+
+- May 3 Fit to the Environment
+
+- May 4 The Red Queen
+
+- May 5 Find the Empty Niche
+
+- May 6 The Crowded Table
+
+- May 7 Eight Years of Barnacles
+
+- May 8 The Grinding Machine
+
+- May 9 The Peacock's Tail
+
+- May 10 Signals That Cost
+
+- May 11 Mimicry
+
+- May 12 Why Companies Go Extinct
+
+- May 13 Long Calm, Sudden Storm
+
+- May 14 Robust Beats Optimal
+
+- May 15 Two Lungs
+
+- May 16 The Tinkerer
+
+- May 17 No Sudden Leaps
+
+- May 18 Read the Fossil Record
+
+- May 19 Runaway Fashion
+
+- May 20 Species Without Predators
+
+- May 21 Living Together
+
+- May 22 The Parasite Check
+
+- May 23 Island Species
+
+- May 24 The Breeder's Eye
+
+- May 25 The Environment Decides
+
+- May 26 Change the Skin, Keep the Spine
+
+- May 27 What Doesn't Kill You
+
+- May 28 Eyes Evolved Forty Times
+
+- May 29 The Sloth's Strategy
+
+- May 30 Feathers Before Flight
+
+- May 31 Grandeur in This View
+
+#### June · Systems and Second-Order Effects
+
+- June 1 And Then What
+
+- June 2 The Spiral
+
+- June 3 The Thermostat
+
+- June 4 The Shower Faucet
+
+- June 5 Stocks and Flows
+
+- June 6 The Bottleneck
+
+- June 7 Where to Press
+
+- June 8 The Cobra Effect
+
+- June 9 When Measures Become Targets
+
+- June 10 Nails by Weight
+
+- June 11 The Superpower, at System Scale
+
+- June 12 Nobody Is in Charge
+
+- June 13 Normal Accidents
+
+- June 14 The Case for Slack
+
+- June 15 Buffers
+
+- June 16 Each User Makes It Better
+
+- June 17 Critical Mass
+
+- June 18 The Typewriter's Ghost
+
+- June 19 The Cost of Leaving
+
+- June 20 Believed into Being
+
+- June 21 The Market Looks Back
+
+- June 22 Five Whys Deep
+
+- June 23 Work Expands
+
+- June 24 Chesterton's Fence
+
+- June 25 Profits Attract Their Own Assassins
+
+- June 26 The Shared Pasture
+
+- June 27 Drift
+
+- June 28 Simple Rules, Rich Behavior
+
+- June 29 The Invisible Hand
+
+- June 30 Build the Machine
+
+#### July · The Psychology of Money
+
+- July 1 No One Is Crazy
+
+- July 2 Twins Named Luck and Risk
+
+- July 3 Enough
+
+- July 4 The Moving Goalpost
+
+- July 5 The Quiet Decades
+
+- July 6 Getting vs Keeping
+
+- July 7 A Few Pearls Pay for Everything
+
+- July 8 The Highest Dividend
+
+- July 9 The Man in the Car
+
+- July 10 Wealth Is What You Don't See
+
+- July 11 Save for No Reason
+
+- July 12 Reasonable Beats Rational
+
+- July 13 The Record Is Surprise
+
+- July 14 Room for Error
+
+- July 15 You Will Change
+
+- July 16 The Fee, Not the Fine
+
+- July 17 Different Games
+
+- July 18 Pessimism Sounds Smart
+
+- July 19 Appealing Fictions
+
+- July 20 The Neighbor's Raise
+
+- July 21 The Treadmill
+
+- July 22 Autonomy Pays
+
+- July 23 Rich vs Wealthy
+
+- July 24 Spend Well
+
+- July 25 Who Is the Purchase For
+
+- July 26 Debt Narrows the Road
+
+- July 27 The Price of Admission
+
+- July 28 You Can't Shrink to Greatness
+
+- July 29 Money and Marriage
+
+- July 30 What Money Is For
+
+- July 31 The Poorest Rich Man
+
+#### August · The Investor's Temperament
+
+- August 1 Mr. Market
+
+- August 2 Price and Value
+
+- August 3 Pieces of Businesses
+
+- August 4 The Punch Card
+
+- August 5 The Circle, Applied
+
+- August 6 Temperament over IQ
+
+- August 7 Sit-on-Your-Ass Investing
+
+- August 8 Risk Is Not a Squiggle
+
+- August 9 The Margin of Safety
+
+- August 10 The Moat
+
+- August 11 Cost Moats
+
+- August 12 The Candy Test
+
+- August 13 Nets and Hooks
+
+- August 14 Cash Is What Counts
+
+- August 15 The Institutional Imperative
+
+- August 16 From Cigar Butts to Quality
+
+- August 17 When to Sell
+
+- August 18 Deaf to Thunder
+
+- August 19 Time In, Not Timing
+
+- August 20 Friction Eats Returns
+
+- August 21 Know Thyself, Then Maybe Index
+
+- August 22 Watching a Friend Get Rich
+
+- August 23 Mad in Herds
+
+- August 24 Fearful and Greedy
+
+- August 25 Scuttlebutt
+
+- August 26 Do the Reading
+
+- August 27 Thesis Drift
+
+- August 28 The Honest Yardstick
+
+- August 29 The Sitting
+
+- August 30 Luck, Skill, and Time
+
+- August 31 Your Owner's Manual
+
+#### September · The Manager's Craft
+
+- September 1 The Superpower, Applied
+
+- September 2 Trust as a System
+
+- September 3 Integrity First
+
+- September 4 The Edge of Abdication
+
+- September 5 The Ratchet
+
+- September 6 The Meeting Tax
+
+- September 7 Measure Carefully
+
+- September 8 Bad News First
+
+- September 9 Praise by Name, Criticize by Category
+
+- September 10 Eat Your Own Cooking
+
+- September 11 The Bonus Boomerang
+
+- September 12 Problems Don't Age Well
+
+- September 13 Write Plainly
+
+- September 14 Candor
+
+- September 15 The Sandbaggers
+
+- September 16 The Tone at the Top
+
+- September 17 What You Tolerate, You Teach
+
+- September 18 Firing Well
+
+- September 19 A Business Any Idiot Can Run
+
+- September 20 Flat Enough to Hear
+
+- September 21 Palace Disease
+
+- September 22 Mrs. B's Floor
+
+- September 23 The Empty Calendar
+
+- September 24 The Power of No
+
+- September 25 The Front Line Knows
+
+- September 26 Lose a Shred
+
+- September 27 Fairness Beats Envy
+
+- September 28 The Teaching Company
+
+- September 29 The Ovarian Lottery at Work
+
+- September 30 A Machine That Runs Without You
+
+#### October · The Founder's Path
+
+- October 1 First, Don't Die
+
+- October 2 A Problem Worth Having
+
+- October 3 Leave the Building
+
+- October 4 One Word
+
+- October 5 Handcraft First
+
+- October 6 Ninety-Cent Dollars
+
+- October 7 Cash Is Oxygen
+
+- October 8 The Discipline of Scarcity
+
+- October 9 What a Round Costs
+
+- October 10 Edges Start Small
+
+- October 11 The Faster Learner Wins
+
+- October 12 One Thing, Done Well
+
+- October 13 Strategy Is What You Refuse
+
+- October 14 The First Ten
+
+- October 15 The Founder's Odds
+
+- October 16 The Story and the Mirror
+
+- October 17 Obsess over Customers
+
+- October 18 Kill Criteria
+
+- October 19 The Courage to Charge
+
+- October 20 Vesting and Other Prenups
+
+- October 21 A Board That Helps
+
+- October 22 Ledger A
+
+- October 23 Patient Ambition
+
+- October 24 The Weather Matters
+
+- October 25 Burnout Is a Business Risk
+
+- October 26 Beyond the Founder
+
+- October 27 Prune the Product Tree
+
+- October 28 Process, Just in Time
+
+- October 29 The Second Act
+
+- October 30 Built to Last or to Sell
+
+- October 31 Your Extinction Events
+
+#### November · The Not-To-Do List
+
+- November 1 Consistently Not Stupid (read it above)
+
+- November 2 Be Unreliable
+
+- November 3 Learn Only from Yourself
+
+- November 4 Go Down and Stay Down
+
+- November 5 Fuzzy Thinking
+
+- November 6 The Stupid Sin
+
+- November 7 Carrying Coals
+
+- November 8 The Self-Pity Card
+
+- November 9 Ideology Cabbages the Mind
+
+- November 10 Liquor, Ladies, and Leverage
+
+- November 11 Chemicals
+
+- November 12 Lie Down with Dogs
+
+- November 13 The First Small Lie
+
+- November 14 Win-Win or Walk
+
+- November 15 Two Masters
+
+- November 16 Overreach
+
+- November 17 Pride Goeth
+
+- November 18 Nine Women, One Month
+
+- November 19 Complexity for Its Own Sake
+
+- November 20 The Unforced Error
+
+- November 21 Other People's Bubbles
+
+- November 22 Too Good to Check
+
+- November 23 Mistakes Travel in Packs
+
+- November 24 Your Personal Not-To-Do List
+
+- November 25 Seeing Is Not Observing
+
+- November 26 Twisting Facts
+
+- November 27 The Dog That Didn't Bark
+
+- November 28 Eliminate the Impossible
+
+- November 29 Reasoning Backward
+
+- November 30 The Folly Review
+
+#### December · The Good Life
+
+- December 1 What Is in Your Power
+
+- December 2 The Morning Rehearsal
+
+- December 3 The Obstacle
+
+- December 4 Wanting Less
+
+- December 5 Time, the Only Coin
+
+- December 6 Where I'm Going to Die
+
+- December 7 Memento Mori
+
+- December 8 Character Is Fate
+
+- December 9 The Slow Build
+
+- December 10 The Inner Scorecard
+
+- December 11 Count What You Have
+
+- December 12 The Even Keel
+
+- December 13 Old Friends Compound
+
+- December 14 The Biggest Decision
+
+- December 15 The First Wealth
+
+- December 16 Work You'd Do Free
+
+- December 17 The Golden Mean
+
+- December 18 Cheap Joys
+
+- December 19 Dinner with the Dead
+
+- December 20 The Nightly Audit
+
+- December 21 The Best Revenge
+
+- December 22 The Examined Year
+
+- December 23 Teach to Learn Twice
+
+- December 24 Presence over Presents
+
+- December 25 The Gift of Enough
+
+- December 26 Give It Away
+
+- December 27 Old Age, Well Spent
+
+- December 28 The Weapon of Laughter
+
+- December 29 Nothing to Add
+
+- December 30 What Compounds After You
+
+- December 31 While We Are Postponing
+
+07 · The quotations
 
 ### Checked, not copied
 
@@ -876,7 +1641,7 @@ Five famous lines you may expect to find are corrected instead of repeated.
 
 Charlie Munger is quoted twenty times and Warren Buffett fifteen, both at a deliberate cap. Benjamin Franklin, Charles Darwin, Francis Bacon, Seneca, Marcus Aurelius, and Aesop follow. Howard Marks, Ben Graham, and Morgan Housel appear a few times each. Almost everything else is public domain, quoted from public-domain translations, and Sources by Day at the back lists where all 366 come from.
 
-07 · Where it came from
+08 · Where it came from
 
 ### A daily dose
 
@@ -888,7 +1653,7 @@ The daily format is old. Tolstoy spent his last years assembling *A Calendar of 
 
 Three promises. Every quotation was verified against a primary source before it went in. The ideas are credited: where a framing belongs to Munger, Buffett, Housel, Bevelin, or anyone else, their name is on it, and the connective tissue and the mistakes are mine. And nothing here is theory I haven't needed. I have spent my working life building software and companies, and every page is something I learned the expensive way or watched someone else pay for.
 
-08 · About the author
+09 · About the author
 
 ### About the author
 
@@ -898,11 +1663,11 @@ I have been the founder watching runway and the manager building the machine. Fi
 
 More on the [home page](https://ghanemzadeh.com/). Also by Nasser: [Forward Deployed AI Engineering](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/) and [Founder Mode](https://ghanemzadeh.com/book/).
 
-09 · Read it
+10 · Read it
 
 ### Read October free
 
-Join the newsletter and the October sample lands in your inbox: the introduction, all thirty-one days of The Founder's Path, and the sources at the back. The Kindle edition is on pre-order and arrives October 6, 2026.
+Join the newsletter and the October sample lands in your inbox: the introduction, all thirty-one days of The Founder's Path, and the sources at the back. The whole book is out now on Kindle, in paperback, and in hardcover.
 
 You'll also get the newsletter. One email a week, easy unsubscribe.
 
@@ -924,9 +1689,13 @@ Three parts on one page. A quotation, checked against its primary source. An ess
 
 January builds the latticework of mental models. February and March cover the psychology of misjudgment and its antidotes. April is the mathematics of wisdom. May reads business through Darwin. June is systems and second-order effects. July is the psychology of money, August the investor's temperament, September the manager's craft, October the founder's path. November is the not-to-do list. December asks what all of it is for.
 
-#### When is it out, and in what formats?
+#### Is it out, and in what formats?
 
-The Kindle edition is on pre-order now and is delivered on October 6, 2026. Paperback and hardcover editions follow the Kindle release. A free sample, the whole month of October, goes to anyone who joins the newsletter.
+Yes. The Kindle edition came out on October 6, 2026, and the paperback and hardcover are on Amazon too. The print editions run 399 pages at 6 by 9 inches. A free sample, the whole month of October, goes to anyone who joins the newsletter.
+
+#### Is there a list of every day in the book?
+
+Yes. All 366 titles are on this page, month by month, under All 366 pages. Each date has its own link, so you can send someone straight to the page on, say, the Cobra effect (June 8) or the pre-mortem (March 14).
 
 #### How long is it?
 
