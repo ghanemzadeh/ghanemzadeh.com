@@ -790,11 +790,11 @@ URL: https://ghanemzadeh.com/books-like-the-daily-stoic/
 
 ## Books like The Daily Stoic for founders, investors, and managers
 
-The Daily Stoic made the one-page-a-day book popular again. If you decide for a living, four more in the same format are worth a year: The Daily Laws for power and people, The Daily Drucker for management, Tolstoy's A Calendar of Wisdom for the oldest version of the form, and Daily Wisdom for mental models, misjudgment, and money.
+The Daily Stoic made the one-page-a-day book popular again. If you decide for a living, five more in the same format are worth a year: The Daily Laws for power and people, The Daily Drucker for management, Limitless Daily for focus and learning, Tolstoy's A Calendar of Wisdom for the oldest version of the form, and Daily Wisdom for mental models, misjudgment, and money.
 
 By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated October 2026.
 
-### The five books
+### The six books
 
 #### 1. The Daily Stoic, by Ryan Holiday and Stephen Hanselman (2016)
 
@@ -812,7 +812,11 @@ Greene distilled his books on power, seduction, mastery, strategy, and human nat
 
 The oldest book here. Tolstoy spent his last years collecting thoughts from philosophers, prophets, and writers, grouped by a topic for each day, with his own reflections added. Peter Sekirin's English translation appeared in 1997. It is a book about how to live rather than how to decide, and it is the reminder that the daily form is a practice, not a modern productivity trick.
 
-#### 5. Daily Wisdom, by Nasser Ghanemzadeh (2026)
+#### 5. Limitless Daily, by Jim Kwik (2026)
+
+From the author of *Limitless*, published in September 2026. A page each morning on the instrument you decide with: mindset, focus, flow, learning, and habits. Each day pairs an insight with the neuroscience or psychology behind it, a small action to take that day, and an affirmation. It is the most practical book on this list about attention and learning, and the least about money, markets, or managing people.
+
+#### 6. Daily Wisdom, by Nasser Ghanemzadeh (2026)
 
 366 one-page meditations for founders, investors, and managers, in the mental-model tradition of Charlie Munger and Peter Bevelin. Each page has three parts: a quotation checked against its primary source, an essay of about 250 words, and one question or action to carry into the day. The year is a course: the latticework of mental models in January, the psychology of misjudgment in February and March, then the mathematics of wisdom, money, the investor's temperament, the manager's craft, the founder's path, and a not-to-do list built from history's disasters. It is the one on this list written for decisions with money, runway, and other people's trust at stake. Full disclosure: I wrote this one.
 
@@ -826,6 +830,7 @@ The oldest book here. Tolstoy spent his last years collecting thoughts from phil
 | The Daily Laws | Power, strategy, and human nature | A page distilled from Greene's books, under a monthly theme | Reading people and organizations |
 | The Daily Drucker | Management and effectiveness | A Drucker reading and an action point | Managers and executives |
 | A Calendar of Wisdom | How to live | Collected thoughts on one topic, with Tolstoy's reflections | Life questions, not business ones |
+| Limitless Daily | The brain: mindset, focus, learning, and habits | An insight, the science behind it, an action, and an affirmation | Anyone who wants sharper focus and faster learning |
 | Daily Wisdom | Mental models, misjudgment, and money | A verified quotation, a short essay, and one question or action | Founders, investors, and managers making costly decisions |
 
 ### How to choose
@@ -835,6 +840,8 @@ The oldest book here. Tolstoy spent his last years collecting thoughts from phil
 - **You keep misreading people.** The Daily Laws.
 
 - **You run a team and want to run it better.** The Daily Drucker.
+
+- **Your bottleneck is focus or learning speed.** Limitless Daily.
 
 - **You want the long view, beyond work.** A Calendar of Wisdom.
 
@@ -1908,7 +1915,7 @@ No. The book is for general education. It is not investment, legal, tax, or medi
 
 - [Founder Mode](https://ghanemzadeh.com/book/). How the great companies are actually built.
 
-- [Books like The Daily Stoic](https://ghanemzadeh.com/books-like-the-daily-stoic/). Five one-page-a-day books for people who decide for a living, compared.
+- [Books like The Daily Stoic](https://ghanemzadeh.com/books-like-the-daily-stoic/). Six one-page-a-day books for people who decide for a living, compared.
 
 - [The newsletter](https://ghanemzadeh.com/newsletter/). One email a week from the same desk.
 
