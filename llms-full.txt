@@ -123,6 +123,95 @@ Free. Unsubscribe in one click.
 
 ---
 
+# AI Agency vs Forward Deployed Engineer: Which to Hire
+
+URL: https://ghanemzadeh.com/ai-agency-vs-forward-deployed-engineer/
+
+[Forward Deployed Engineer](https://ghanemzadeh.com/forward-deployed-ai-engineer/)
+
+## AI agency vs forward deployed engineer: which one ships your first AI feature?
+
+An AI agency sells a team and a project: discovery, design, a build, a launch. A forward deployed engineer sells one senior engineer inside your codebase, shipping one AI workflow your own team will run. If you have no engineering team to own the result, hire the agency. If you have a product and a team, and you need AI working inside it, the forward deployed engineer is usually the faster route.
+
+By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated October 2026.
+
+### What an AI agency sells
+
+A team: a project or account manager, designers, engineers, sometimes a data scientist. The engagement usually starts with a paid discovery phase, produces a statement of work, and runs in sprints against it. Changes after that go through change orders.
+
+That structure is the agency's strength when the job is big and you have nobody to do it. It is overhead when the job is one workflow inside a product that already exists. The people who scope the work are often not the people who build it, and the agency's best engineers are spread across several clients.
+
+### What a forward deployed engineer sells
+
+One senior engineer, working in your repository, on your data, with your team. The [forward deployed engineer](https://ghanemzadeh.com/forward-deployed-ai-engineer/) scopes the workflow with the person who will use it, builds it inside your product, evaluates it against real examples, and hands it over with what your engineers need to run it: the code, an output rubric, a playbook, and a walkthrough.
+
+The same person scopes and builds, so nothing is lost between the sales call and the code. The limit is capacity: one engineer ships one narrow workflow at a time, not a whole product.
+
+### Side by side
+
+| Compared on | AI agency | Forward deployed engineer |
+| --- | --- | --- |
+| Who does the work | A team, with a management layer between you and the engineers | One senior engineer, working directly with you |
+| Where the code lives | Sometimes the agency's stack or hosting, sometimes your repo | Your repository, from the first commit |
+| How scope is set | Discovery phase, then a statement of work and change orders | One workflow, written as one sentence, agreed on the first day |
+| Time to a first working version | Weeks to months, after discovery | Days, for one narrow workflow on your data |
+| Who owns it after | Often the agency, through a retainer, unless the handoff is in the contract | Your team, with a rubric, playbook, and walkthrough |
+| Best when | You need a whole product or several features built, and have no team to build them | You have a product and a team, and need one AI workflow live inside it |
+
+### When the agency is the better choice
+
+- **You have no engineering team.** Someone has to run and change the AI feature after it ships. If nobody on staff can, a forward deployed engineer's handoff has no one to hand to, and an agency retainer is the honest answer.
+
+- **The job is a product, not a workflow.** A new app with design, mobile, backend, and AI all at once needs more hands than one engineer has.
+
+- **You need work in parallel.** Three features on three deadlines need three builders.
+
+- **Procurement needs a firm.** Some buyers require a company with insurance, security reviews, and a bench behind it.
+
+### When the forward deployed engineer is the better choice
+
+- **The product exists and the team is busy.** Your engineers can maintain an AI workflow; they don't have the weeks to learn to ship the first one.
+
+- **The work is one narrow workflow.** One user, one input, one output, and a human check before anything leaves.
+
+- **You want to own it.** Code in your repo, prompts and evaluation set in your repo, and no retainer to keep it running.
+
+- **You want to learn before you hire.** One shipped workflow tells you what an AI engineer on staff would actually do, before you write the job description.
+
+### Whichever you pick, put this in the contract
+
+- The scope as one sentence: who uses it, what goes in, what comes out.
+
+- Acceptance criteria, written before the build, that say what a correct output looks like.
+
+- An evaluation set of real examples, so a prompt change can be tested instead of argued about.
+
+- A handoff your team can run without the vendor: documentation, a rubric, and a recorded walkthrough.
+
+- A data processing agreement with your model provider, such as Anthropic or OpenAI.
+
+- Plain ownership: the code, prompts, and evaluation set are yours.
+
+The [FDE Sprint](https://ghanemzadeh.com/ai-feature-sprint/) is the fixed-scope version of the forward deployed route: one workflow, a working prototype on your data by Day 5, in your repo by Day 10, at a fixed price with a full refund if either milestone is missed. To compare it with hiring and contracting on cost, use the [FDE cost calculator](https://ghanemzadeh.com/fde-cost-calculator/).
+
+### Frequently asked questions
+
+#### Should I hire an AI agency or a forward deployed engineer?
+
+Hire an agency when you need a team to build something you don't have an engineering team to own: a whole product, or design, mobile, and backend at once. Bring in a forward deployed engineer when you have a product and a team, and you need one AI workflow shipped inside your codebase that your engineers will run afterward.
+
+#### Is a forward deployed engineer cheaper than an AI agency?
+
+For a single, narrow workflow, usually, because there is one senior engineer instead of a team with a project management layer, and no long discovery phase. For a large build, compare the quotes on cost per shipped, accepted workflow rather than on day rates, and count the handoff: work your team can't maintain is not finished.
+
+#### What should an AI development contract include?
+
+One sentence of scope agreed before work starts, acceptance criteria that say what a correct output looks like, an evaluation set to test against, a handoff your team can run without the vendor, a data processing agreement with the model provider, and a clear statement that the code and prompts belong to you.
+
+Not sure your workflow is narrow enough? [Score it](https://ghanemzadeh.com/scorecard/) in two minutes, then [book a 15-minute Scoping Call](https://ghanemzadeh.com/call/).
+
+---
+
 # Hire an Independent Forward Deployed Engineer: FDE Sprint
 
 URL: https://ghanemzadeh.com/ai-feature-sprint/
@@ -496,6 +585,14 @@ No. Production deployment depends on access, infrastructure, and third-party dep
 
 Your team runs the workflow, and there are three paths from there. Most teams take the workflow and run with it. The rubric and playbook are designed for self-service maintenance. Some come back for a second Sprint with a different workflow. Some sign an ongoing engagement for governance and iteration. All three are explicit options at handoff.
 
+Ask your AI about this page
+
+Opens your assistant with the question ready. It reads this page and answers for your situation.
+
+[ChatGPT](https://chatgpt.com/?q=Read%20https%3A%2F%2Fghanemzadeh.com%2Fai-feature-sprint%2F%20and%20help%20me%20decide%20whether%20to%20run%20an%20FDE%20Sprint.%20Ask%20me%20about%20my%20product%2C%20my%20team%2C%20and%20the%20AI%20workflow%20I%20have%20in%20mind%2C%20then%20give%20me%20a%20straight%20answer.)
+[Claude](https://claude.ai/new?q=Read%20https%3A%2F%2Fghanemzadeh.com%2Fai-feature-sprint%2F%20and%20help%20me%20decide%20whether%20to%20run%20an%20FDE%20Sprint.%20Ask%20me%20about%20my%20product%2C%20my%20team%2C%20and%20the%20AI%20workflow%20I%20have%20in%20mind%2C%20then%20give%20me%20a%20straight%20answer.)
+[Perplexity](https://www.perplexity.ai/search?q=Read%20https%3A%2F%2Fghanemzadeh.com%2Fai-feature-sprint%2F%20and%20help%20me%20decide%20whether%20to%20run%20an%20FDE%20Sprint.%20Ask%20me%20about%20my%20product%2C%20my%20team%2C%20and%20the%20AI%20workflow%20I%20have%20in%20mind%2C%20then%20give%20me%20a%20straight%20answer.)
+
 ### Terms used on this page
 
 **Forward Deployed Engineer**
@@ -682,6 +779,88 @@ Join the launch list and I'll send you the first two chapters now. You'll also b
 You'll also get the newsletter. One email a week, easy unsubscribe.
 
 This book is independent and is not affiliated with Airbnb, Brian Chesky, Paul Graham, Y Combinator, or Invest Like the Best.
+
+---
+
+# Books Like The Daily Stoic for Founders and Investors
+
+URL: https://ghanemzadeh.com/books-like-the-daily-stoic/
+
+[Books](https://ghanemzadeh.com/books/)
+
+## Books like The Daily Stoic for founders, investors, and managers
+
+The Daily Stoic made the one-page-a-day book popular again. If you decide for a living, four more in the same format are worth a year: The Daily Laws for power and people, The Daily Drucker for management, Tolstoy's A Calendar of Wisdom for the oldest version of the form, and Daily Wisdom for mental models, misjudgment, and money.
+
+By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated October 2026.
+
+### The five books
+
+#### 1. The Daily Stoic, by Ryan Holiday and Stephen Hanselman (2016)
+
+The book that brought the form back. Each day pairs a short passage from Marcus Aurelius, Seneca, Epictetus, or another Stoic with a page of commentary on how to use it now. The subject is the inner game: what you control, what you don't, and how to stay steady when the second category misbehaves. It is the right first daily book for almost anyone, which is also its limit. It says little about money, markets, or running a company.
+
+#### 2. The Daily Laws, by Robert Greene (2021)
+
+Greene distilled his books on power, seduction, mastery, strategy, and human nature into a page a day, with each month built around one theme. Read it to understand people: why the colleague resists, why the negotiation stalls, why the board behaves as it does. It is sharper on reading others than on judging yourself.
+
+#### 3. The Daily Drucker, by Peter F. Drucker with Joseph A. Maciariello (2004)
+
+366 readings drawn from Drucker's work on management, each ending with an action point. Time, decisions, innovation, the effective executive. The examples are from the twentieth century; the principles have aged better than most management writing since. The best daily book for anyone who runs a team.
+
+#### 4. A Calendar of Wisdom, by Leo Tolstoy
+
+The oldest book here. Tolstoy spent his last years collecting thoughts from philosophers, prophets, and writers, grouped by a topic for each day, with his own reflections added. Peter Sekirin's English translation appeared in 1997. It is a book about how to live rather than how to decide, and it is the reminder that the daily form is a practice, not a modern productivity trick.
+
+#### 5. Daily Wisdom, by Nasser Ghanemzadeh (2026)
+
+366 one-page meditations for founders, investors, and managers, in the mental-model tradition of Charlie Munger and Peter Bevelin. Each page has three parts: a quotation checked against its primary source, an essay of about 250 words, and one question or action to carry into the day. The year is a course: the latticework of mental models in January, the psychology of misjudgment in February and March, then the mathematics of wisdom, money, the investor's temperament, the manager's craft, the founder's path, and a not-to-do list built from history's disasters. It is the one on this list written for decisions with money, runway, and other people's trust at stake. Full disclosure: I wrote this one.
+
+[See every page title](https://ghanemzadeh.com/books/daily-wisdom/), all 366, with two days printed in full.
+
+### Side by side
+
+| Book | Subject | Each day | Best for |
+| --- | --- | --- | --- |
+| The Daily Stoic | Stoic philosophy: control, emotion, character | A Stoic passage and a page of commentary | Anyone starting a daily practice |
+| The Daily Laws | Power, strategy, and human nature | A page distilled from Greene's books, under a monthly theme | Reading people and organizations |
+| The Daily Drucker | Management and effectiveness | A Drucker reading and an action point | Managers and executives |
+| A Calendar of Wisdom | How to live | Collected thoughts on one topic, with Tolstoy's reflections | Life questions, not business ones |
+| Daily Wisdom | Mental models, misjudgment, and money | A verified quotation, a short essay, and one question or action | Founders, investors, and managers making costly decisions |
+
+### How to choose
+
+- **You want to stay steady under pressure.** Start with The Daily Stoic.
+
+- **You keep misreading people.** The Daily Laws.
+
+- **You run a team and want to run it better.** The Daily Drucker.
+
+- **You want the long view, beyond work.** A Calendar of Wisdom.
+
+- **Your mistakes cost money: a hire, an investment, a partner, a burn rate.** Daily Wisdom. Start with [March 14, the pre-mortem](https://ghanemzadeh.com/books/daily-wisdom/#march-14), or [June 8, the Cobra effect](https://ghanemzadeh.com/books/daily-wisdom/#june-8).
+
+Two daily books at once is one too many. Pick the one that matches the decisions in front of you this year, and keep a notebook next to it. The prompts only pay if the writing happens.
+
+### Not daily, but the source
+
+Two books sit underneath Daily Wisdom and much of this genre, and both reward a slow read after a year of pages. Peter Bevelin's *Seeking Wisdom: From Darwin to Munger* (2003) collects in one place what Darwin, Munger, Buffett, and a hundred scientists figured out about why we misjudge. *Poor Charlie's Almanack* gathers Charlie Munger's talks, including the one on the psychology of human misjudgment.
+
+### Frequently asked questions
+
+#### What is a good alternative to The Daily Stoic for business?
+
+For management, The Daily Drucker: 366 readings from Peter Drucker, each with an action point. For power and human nature, Robert Greene's The Daily Laws. For decisions about money, hiring, and risk, Daily Wisdom, which applies Charlie Munger's mental models and the psychology of misjudgment to founders, investors, and managers, one page a day.
+
+#### Is there a daily book about mental models?
+
+Yes. Daily Wisdom for Founders, Investors, and Managers is 366 one-page meditations in the mental-model tradition of Charlie Munger and Peter Bevelin. Each page has a quotation checked against its primary source, an essay of about 250 words, and one question or action for the day.
+
+#### Do you have to start a daily book on January 1?
+
+No. Each book on this list is organized by date, so you can start on today's page and go round the year from there. A second year through the same book reads differently from the first, because you are making different decisions.
+
+Want to try a month first? [Daily Wisdom](https://ghanemzadeh.com/books/daily-wisdom/) is out on Kindle, in paperback, and in hardcover, and the October sample, all thirty-one days of The Founder's Path, goes free to anyone who joins [the newsletter](https://ghanemzadeh.com/newsletter/).
 
 ---
 
@@ -1671,6 +1850,14 @@ Join the newsletter and the October sample lands in your inbox: the introduction
 
 You'll also get the newsletter. One email a week, easy unsubscribe.
 
+Ask your AI about this page
+
+Opens your assistant with the question ready. It reads this page and answers for your situation.
+
+[ChatGPT](https://chatgpt.com/?q=Read%20https%3A%2F%2Fghanemzadeh.com%2Fbooks%2Fdaily-wisdom%2F%20and%20tell%20me%20whether%20Daily%20Wisdom%20is%20a%20good%20fit%20for%20me.%20Ask%20me%20what%20kind%20of%20decisions%20I%20make%20at%20work%20first%2C%20then%20point%20me%20to%20three%20days%20in%20the%20book%20worth%20reading.)
+[Claude](https://claude.ai/new?q=Read%20https%3A%2F%2Fghanemzadeh.com%2Fbooks%2Fdaily-wisdom%2F%20and%20tell%20me%20whether%20Daily%20Wisdom%20is%20a%20good%20fit%20for%20me.%20Ask%20me%20what%20kind%20of%20decisions%20I%20make%20at%20work%20first%2C%20then%20point%20me%20to%20three%20days%20in%20the%20book%20worth%20reading.)
+[Perplexity](https://www.perplexity.ai/search?q=Read%20https%3A%2F%2Fghanemzadeh.com%2Fbooks%2Fdaily-wisdom%2F%20and%20tell%20me%20whether%20Daily%20Wisdom%20is%20a%20good%20fit%20for%20me.%20Ask%20me%20what%20kind%20of%20decisions%20I%20make%20at%20work%20first%2C%20then%20point%20me%20to%20three%20days%20in%20the%20book%20worth%20reading.)
+
 ### FAQ
 
 #### What is Daily Wisdom?
@@ -1720,6 +1907,8 @@ No. The book is for general education. It is not investment, legal, tax, or medi
 - [Forward Deployed AI Engineering](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/). The working guide to the FDE role.
 
 - [Founder Mode](https://ghanemzadeh.com/book/). How the great companies are actually built.
+
+- [Books like The Daily Stoic](https://ghanemzadeh.com/books-like-the-daily-stoic/). Five one-page-a-day books for people who decide for a living, compared.
 
 - [The newsletter](https://ghanemzadeh.com/newsletter/). One email a week from the same desk.
 
@@ -1859,6 +2048,14 @@ More on the [home page](https://ghanemzadeh.com/). Also by Nasser: [Founder Mode
 Join the launch list and the first chapters land in your inbox now. The full Kindle and paperback editions are available on Amazon today.
 
 You'll also get the newsletter. One email a week, easy unsubscribe.
+
+Ask your AI about this page
+
+Opens your assistant with the question ready. It reads this page and answers for your situation.
+
+[ChatGPT](https://chatgpt.com/?q=Read%20https%3A%2F%2Fghanemzadeh.com%2Fbooks%2Fforward-deployed-ai-engineering%2F%20and%20tell%20me%20whether%20this%20book%20is%20right%20for%20me.%20Ask%20me%20about%20my%20background%20and%20what%20I%20want%20to%20do%20next%20first.)
+[Claude](https://claude.ai/new?q=Read%20https%3A%2F%2Fghanemzadeh.com%2Fbooks%2Fforward-deployed-ai-engineering%2F%20and%20tell%20me%20whether%20this%20book%20is%20right%20for%20me.%20Ask%20me%20about%20my%20background%20and%20what%20I%20want%20to%20do%20next%20first.)
+[Perplexity](https://www.perplexity.ai/search?q=Read%20https%3A%2F%2Fghanemzadeh.com%2Fbooks%2Fforward-deployed-ai-engineering%2F%20and%20tell%20me%20whether%20this%20book%20is%20right%20for%20me.%20Ask%20me%20about%20my%20background%20and%20what%20I%20want%20to%20do%20next%20first.)
 
 ### FAQ
 
@@ -2060,6 +2257,68 @@ Book a Discovery Day for a focused outside read on whether the AI feature you're
 
 [Book a Discovery Day →](https://cal.com/ghanemzadeh/discovery)
 [Read the Sprint details](https://ghanemzadeh.com/ai-feature-sprint/)
+
+---
+
+# FDE Cost Calculator: Hire vs Contractor vs Sprint
+
+URL: https://ghanemzadeh.com/fde-cost-calculator/
+
+[Forward Deployed Engineer for startups](https://ghanemzadeh.com/forward-deployed-engineer-for-startups/)
+
+## What does a forward deployed engineer cost?
+
+In year one, less than the salary suggests and more than a contract looks. Put in how many AI workflows you need shipped this year, and the calculator compares a full-time hire, a contractor, and a fixed-price FDE Sprint on three numbers: first-year cost, cost per workflow, and time to the first workflow in production.
+
+By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated October 2026.
+
+### Your numbers
+
+Every field is editable. It runs in your browser; nothing you type leaves this page.
+
+### The comparison
+
+| Option | First-year cost | Cost per workflow | Time to the first workflow |
+| --- | --- | --- | --- |
+| Hire full-time | $158,333 | $79,167 | 4 months to hire, then the build |
+| Contractor | $48,000 | $24,000 | About 4 weeks of build, once you have found one |
+| FDE Sprint | Two Sprints at $5,000 each | $5,000 | Ten business days |
+
+The figures above are the worked example below, with the default inputs. Change any input to recalculate.
+
+### How the numbers are calculated
+
+- **Hire full-time.** Salary times the overhead multiple, for the months of the first year left after hiring and onboarding. Cost per workflow divides that by the workflows you need. The first workflow ships after the hiring months plus its own build.
+
+- **Contractor.** Hourly rate times hours per workflow, times the number of workflows. Time to the first workflow assumes 40 billable hours a week, after you have found and contracted someone.
+
+- **FDE Sprint.** The fixed Sprint price, once per workflow. Each Sprint ships one workflow into your repo in ten business days, with a full refund if there is no working prototype by Day 5 or the workflow isn't running to its acceptance criteria by Day 10.
+
+**Worked example, with the defaults.** Two workflows. A hire at $190,000 base and a 1.25 overhead multiple, who joins after four months, costs $190,000 × 1.25 × 8/12 = $158,333 in the first year, or $79,167 per workflow. A contractor at $150 an hour for 160 hours a workflow costs $24,000 per workflow, $48,000 for both. Two Sprints cost twice the Sprint price, $5,000 each.
+
+Median US total compensation for the role is about $206,000 ([Levels.fyi](https://www.levels.fyi/t/software-engineer/title/forward-deployed-engineer)), so if you plan to match the market on total pay rather than base, raise the salary field.
+
+### What the calculator leaves out
+
+Cost per workflow is the fair way to compare the first few workflows, and an unfair way to compare everything after that. A full-time engineer also maintains what shipped, iterates on it when the model or your data changes, and starts the next workflow without a new contract. A contractor's cost goes up if the scope drifts, and down if the scope is already tight. A Sprint ships one narrow workflow and hands it to your team with a rubric, a playbook, and a recorded walkthrough, so it only works if someone on your team will own the result.
+
+So read the break-even line, not just the cheapest column. If you need more workflows a year than the break-even, and AI is a standing part of the roadmap, hire. If you need one or two, or you want to learn what an AI workflow takes before you write a job description, start with a Sprint. [The three options, compared in full](https://ghanemzadeh.com/forward-deployed-engineer-for-startups/).
+
+### Frequently asked questions
+
+#### How much does a forward deployed engineer cost?
+
+Job postings in 2026 put a forward deployed engineer's base salary typically between $160,000 and $220,000, with a median near $190,000, and median US total compensation is about $206,000. The cost to the company in the first year is different: benefits and payroll taxes add to it, and the months spent hiring take away from it, because nobody is paid or shipping yet. That first-year cost is what this calculator adds up.
+
+#### Is a Sprint cheaper than hiring a forward deployed engineer?
+
+Per workflow, yes, for the first several. But a hire is a different purchase: standing capacity to maintain, iterate, and ship the next workflow without a new contract. The calculator shows the break-even point, the number of workflows a year at which a hire costs less per workflow than Sprints. Below it, start with a Sprint. Well above it, hire.
+
+#### Where do the calculator's defaults come from?
+
+The salary default is the 2026 median base from Recruiting from Scratch's analysis of forward deployed engineer job postings. The other defaults are example inputs, not market data: replace the overhead, hiring time, contractor rate, and hours with your own numbers. The Sprint price comes from the live offer.
+
+Have one workflow in mind? [Score it](https://ghanemzadeh.com/scorecard/) in two minutes, then [book a 15-minute Scoping Call](https://ghanemzadeh.com/call/).
 
 ---
 
@@ -2288,6 +2547,14 @@ I'm Nasser Ghanemzadeh, a Forward Deployed AI Engineer for founder-led B2B SaaS.
 
 I run the [FDE Sprint](https://ghanemzadeh.com/ai-feature-sprint/), build [Vectig](https://vectig.com) in public with Claude Code, and wrote the book on this role. More on the [home page](https://ghanemzadeh.com/).
 
+Ask your AI about this page
+
+Opens your assistant with the question ready. It reads this page and answers for your situation.
+
+[ChatGPT](https://chatgpt.com/?q=Read%20https%3A%2F%2Fghanemzadeh.com%2Fforward-deployed-ai-engineer%2F%20and%20explain%20what%20a%20forward%20deployed%20AI%20engineer%20does.%20Then%20ask%20me%20about%20my%20company%20and%20tell%20me%20whether%20we%20need%20one%2C%20and%20in%20what%20form.)
+[Claude](https://claude.ai/new?q=Read%20https%3A%2F%2Fghanemzadeh.com%2Fforward-deployed-ai-engineer%2F%20and%20explain%20what%20a%20forward%20deployed%20AI%20engineer%20does.%20Then%20ask%20me%20about%20my%20company%20and%20tell%20me%20whether%20we%20need%20one%2C%20and%20in%20what%20form.)
+[Perplexity](https://www.perplexity.ai/search?q=Read%20https%3A%2F%2Fghanemzadeh.com%2Fforward-deployed-ai-engineer%2F%20and%20explain%20what%20a%20forward%20deployed%20AI%20engineer%20does.%20Then%20ask%20me%20about%20my%20company%20and%20tell%20me%20whether%20we%20need%20one%2C%20and%20in%20what%20form.)
+
 ### Frequently asked questions
 
 #### Do Forward Deployed Engineers write production code?
@@ -2372,7 +2639,7 @@ Where it usually breaks:
 
 - **Evaluation.** Few contracts define what good output looks like. Without a rubric and test cases, nobody can tell whether a prompt change made the workflow better or worse.
 
-Contract when the scope is already tight, someone on your team will own the result, and the contract names acceptance criteria and a handoff.
+Contract when the scope is already tight, someone on your team will own the result, and the contract names acceptance criteria and a handoff. Weighing an agency specifically? See [AI agency vs forward deployed engineer](https://ghanemzadeh.com/ai-agency-vs-forward-deployed-engineer/).
 
 ### Option 3: a fixed-scope FDE Sprint
 
@@ -2380,7 +2647,7 @@ The FDE Sprint is the fixed-scope version: one AI workflow, scoped on Day 1, run
 
 ### How to choose
 
-The deciding question is how much AI work you have, and who will own it once it ships. A team with one workflow in mind and no AI engineer on staff is usually best served by a Sprint first, then a hire once the second and third workflows are queued.
+The deciding question is how much AI work you have, and who will own it once it ships. A team with one workflow in mind and no AI engineer on staff is usually best served by a Sprint first, then a hire once the second and third workflows are queued. To run your own numbers, use the [FDE cost calculator](https://ghanemzadeh.com/fde-cost-calculator/).
 
 | Option | Cost | Time to first shipped workflow | Who owns it after | Best when |
 | --- | --- | --- | --- | --- |

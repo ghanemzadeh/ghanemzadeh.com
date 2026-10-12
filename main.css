@@ -2540,3 +2540,97 @@ main.afs-page {
 .dw-days li:target .dw-days__date {
   color: var(--accent);
 }
+
+/* "Ask your AI about this page": plain links that open ChatGPT, Claude, or
+   Perplexity with a prompt about the page, so the reader's assistant reads
+   the whole page and answers for their situation. No script needed. */
+.ask-ai {
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--accent);
+  border-radius: 0 4px 4px 0;
+  background: var(--bg-elevated);
+  padding: 18px 22px;
+}
+
+.ask-ai p {
+  font-size: 15px;
+  color: var(--text-muted);
+  margin: 0;
+}
+
+.ask-ai .ask-ai__title {
+  font-weight: 600;
+  font-size: 17px;
+  color: var(--text-strong);
+  margin-bottom: 4px;
+}
+
+.ask-ai .ask-ai__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 14px;
+}
+
+.ask-ai .ask-ai__links a {
+  display: inline-block;
+  padding: 6px 16px;
+  border: 1px solid var(--accent-dim);
+  border-radius: var(--radius-pill);
+  color: var(--text-strong);
+  text-decoration: none;
+  font-size: 15px;
+  transition: border-color 0.2s, background 0.2s;
+}
+
+.ask-ai .ask-ai__links a:hover,
+.ask-ai .ask-ai__links a:focus-visible {
+  border-color: var(--accent-hover);
+  background: var(--accent-soft);
+}
+
+/* FDE cost calculator: input grid */
+.calc-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 20px 28px;
+  margin-top: 18px;
+}
+
+.calc-field label {
+  display: block;
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--text-strong);
+  margin-bottom: 6px;
+}
+
+.calc-field input {
+  width: 100%;
+  min-width: 0;
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 10px 12px;
+  font: inherit;
+  font-size: 17px;
+  color: var(--accent-hover);
+  transition: border-color 0.2s;
+}
+
+.calc-field input:hover {
+  border-color: var(--accent-dim);
+}
+
+.calc-field input:focus-visible {
+  outline: 2px solid var(--accent-hover);
+  outline-offset: 2px;
+  border-color: var(--accent);
+}
+
+.section .calc-hint {
+  font-size: 13px;
+  line-height: 1.45;
+  color: var(--text-soft);
+  margin: 6px 0 0;
+}
