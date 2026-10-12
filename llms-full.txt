@@ -1923,7 +1923,7 @@ Independent publication. This book is for general education and entertainment. I
 
 ---
 
-# Forward Deployed AI Engineering: The FDE Book
+# Forward Deployed Engineer Book (FDE): Forward Deployed AI Engineering
 
 URL: https://ghanemzadeh.com/books/forward-deployed-ai-engineering/
 
