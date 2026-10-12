@@ -2303,7 +2303,7 @@ The figures above are the worked example below, with the default inputs. Change 
 
 **Worked example, with the defaults.** Two workflows. A hire at $190,000 base and a 1.25 overhead multiple, who joins after four months, costs $190,000 × 1.25 × 8/12 = $158,333 in the first year, or $79,167 per workflow. A contractor at $150 an hour for 160 hours a workflow costs $24,000 per workflow, $48,000 for both. Two Sprints cost twice the Sprint price, $5,000 each.
 
-Median US total compensation for the role is about $206,000 ([Levels.fyi](https://www.levels.fyi/t/software-engineer/title/forward-deployed-engineer)), so if you plan to match the market on total pay rather than base, raise the salary field.
+Median US total compensation for the role is about $206,000 ([Levels.fyi](https://www.levels.fyi/t/software-engineer/title/forward-deployed-engineer)), so if you plan to match the market on total pay rather than base, raise the salary field. Posted ranges run higher still: in [260 live roles in October 2026](https://ghanemzadeh.com/forward-deployed-engineer-job-market/), the median US posted base range was $180,000 to $250,208.
 
 ### What the calculator leaves out
 
@@ -2463,7 +2463,10 @@ Job postings in 2026 put a forward deployed engineer's base salary typically bet
 | Base salary, typical range (2026 job postings) | $160,000 to $220,000 |
 | Median base salary (2026 job postings) | About $190,000 |
 | Median US total compensation | About $206,000 |
+| Median posted base range, US engineering roles (my count of 260 live roles, October 2026) | $180,000 to $250,208 |
 | Frontier labs such as Anthropic and OpenAI | Well above that, mostly in equity |
+
+Posted ranges run higher than surveys of what people are paid, because a range runs to the top of the band. My [October 2026 count of 260 live forward deployed roles at 44 companies](https://ghanemzadeh.com/forward-deployed-engineer-job-market/) has the full pay, travel, location, and skills data, with the dataset to download.
 
 Base salary figures are from Recruiting from Scratch's analysis of 2026 job postings; total compensation is from Levels.fyi's US data. Individual offers vary with seniority, location, and equity. For how that lands on a small team's budget, see [what a forward deployed engineer costs a startup](https://ghanemzadeh.com/forward-deployed-engineer-for-startups/).
 
@@ -2696,6 +2699,211 @@ Weighing a Sprint for your first workflow? [Score your workflow](https://ghanemz
 
 ---
 
+# Forward Deployed Engineer Jobs: 260 Roles Analyzed (2026)
+
+URL: https://ghanemzadeh.com/forward-deployed-engineer-job-market/
+
+[Forward Deployed Engineer](https://ghanemzadeh.com/forward-deployed-ai-engineer/)
+
+## Forward deployed engineer jobs in October 2026: 260 roles at 44 companies, analyzed
+
+On October 12, 2026, I pulled every live forward deployed role from the public job boards of 144 AI and software companies. 44 were hiring: 382 postings, 260 distinct roles. In the US, the median posted base range for a forward deployed engineer is $180,000 to $250,000. More than half of the roles that state a travel figure allow for 50% or more. And the title is spreading well beyond engineering.
+
+By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Data collected October 12, 2026. [Download the data (CSV)](https://ghanemzadeh.com/assets/data/fde-job-postings-2026-10-12.csv).
+
+### The numbers
+
+- **44 companies, 260 distinct roles, 382 postings.** Databricks, Palantir, and OpenAI alone account for half of the roles.
+
+- **Median US posted base range: $180,000 to $250,208.** Median midpoint $216,104 across 74 engineering roles; $220,552 if each company counts once.
+
+- **88% of US engineering roles post a salary range,** so the pay figures cover nearly the whole US market in this sample.
+
+- **56% mention travel; 42% put a number on it.** The most common figure is up to 50% of the time.
+
+- **58% of roles are in the US, 40% outside it.** London has more than any other city outside the US, with 36.
+
+- **Python (67%), agents (55%), TypeScript or JavaScript (54%), and evals (48%)** are what engineering postings ask for most.
+
+- **A quarter of engineering roles mention a security clearance.** Government and defense are a large share of the work.
+
+- **42% of roles are not engineering roles.** Companies now hire forward deployed bankers, lawyers, strategists, architects, and product managers.
+
+### Who is hiring
+
+The sixteen companies with the most forward deployed roles. A distinct role is one title at one company, counted once however many cities it is posted in; Databricks, for example, posts most of its roles once per city.
+
+| Company | Distinct roles | Postings |
+| --- | --- | --- |
+| Databricks | 56 | 119 |
+| Palantir | 43 | 79 |
+| OpenAI | 30 | 30 |
+| Rogo | 15 | 15 |
+| Cohere | 12 | 13 |
+| Scale AI | 10 | 13 |
+| Cursor | 8 | 11 |
+| Cresta | 7 | 10 |
+| Snorkel AI | 7 | 7 |
+| Notion | 6 | 9 |
+| Shield AI | 5 | 5 |
+| Stripe | 4 | 5 |
+| Anthropic | 3 | 6 |
+| Harvey | 3 | 3 |
+| ElevenLabs | 3 | 3 |
+| Deepgram | 3 | 3 |
+
+The other 28 companies had one to three roles each, from Anduril, Baseten, Brex, Figma, Glean, Lovable, Modal, Ramp, Replit, Together AI, and Vercel to newer AI companies such as Legora, Eudia, Tennr, Vapi, and Tavus. The full list is in the CSV.
+
+### What it pays
+
+Pay figures cover the 74 distinct engineering roles in the US that post a salary range in US dollars, which is 88% of them. They are base salary ranges as posted, not offers or total compensation; equity and bonus come on top at most of these companies. Where a posting gives one range per location, the first range is used.
+
+- **Median range:** $180,000 to $250,208.
+
+- **Median midpoint:** $216,104, and the middle half of roles fall between $170,000 and $242,500.
+
+- **Company-weighted median midpoint:** $220,552 across 26 companies, so the three biggest hirers don't set the number on their own.
+
+- **By level:** staff and principal roles have a median midpoint of $250,000 (5 roles), senior roles $216,104 (15), and roles with no level in the title $215,000 (53). Level barely moves the midpoint below staff.
+
+- **Lowest and highest:** $90,000 at the bottom of a Palantir US Government security role, $445,000 at the top of OpenAI's Forward Deployed Security Engineer range.
+
+| Company | US engineering roles with a range | Lowest to highest posted base |
+| --- | --- | --- |
+| Palantir | 14 | $90,000 to $200,000 |
+| OpenAI | 13 | $145,800 to $445,000 |
+| Databricks | 13 | $152,900 to $250,208 |
+| Scale AI | 4 | $180,000 to $315,000 |
+| Snorkel AI | 3 | $180,000 to $320,000 |
+| Ramp | 2 | $189,000 to $330,000 |
+| Baseten | 2 | $165,000 to $400,000 |
+| Modal | 2 | $180,000 to $250,000 |
+| Legora | 2 | $175,100 to $369,150 |
+| Commure | 2 | $130,000 to $230,000 |
+| LiveKit | 2 | $180,000 to $320,000 |
+| Glean | 1 | $160,000 to $270,000 |
+| Anduril | 1 | $113,000 to $155,000 |
+| Tennr | 1 | $160,000 to $180,000 |
+| Together AI | 1 | $270,000 to $300,000 |
+| Replit | 1 | $180,000 to $300,000 |
+| Deepgram | 1 | $180,000 to $245,000 |
+| Labelbox | 1 | $140,000 to $200,000 |
+| Turing | 1 | $200,000 to $250,000 |
+| Eudia | 1 | $160,000 to $200,000 |
+| Parafin | 1 | $215,000 to $275,000 |
+| Figma | 1 | $153,000 to $376,000 |
+| Brex | 1 | $152,000 to $240,000 |
+| Vapi | 1 | $200,000 to $280,000 |
+| Tavus | 1 | $180,000 to $230,000 |
+| Vannevar Labs | 1 | $135,000 to $205,000 |
+
+These ranges are higher than salary surveys that measure what people are paid, because a posted range runs to the top of the band. To put a hire's first-year cost next to a contractor and a fixed-price Sprint, use the [FDE cost calculator](https://ghanemzadeh.com/fde-cost-calculator/).
+
+### How much travel
+
+The forward deployed engineer is embedded with the customer, and the postings say so. 56% of roles mention travel and 42% state a percentage. Where a posting gives a range, such as Palantir's "25 to 75% within country," the table counts the upper bound.
+
+| Stated travel | Roles |
+| --- | --- |
+| Up to 20% | 19 |
+| Up to 25% | 11 |
+| Up to 30% | 6 |
+| Up to 40% | 11 |
+| Up to 50% | 54 |
+| Up to 75% | 7 |
+| Up to 80% | 1 |
+| Up to 90% | 1 |
+
+57% of the roles that state a figure allow for 50% or more. The figure tracks the company more than the role: OpenAI's postings mostly say up to 50%, Databricks' mostly 20%, Cohere's 20 to 40%, and Shield AI's about 30%.
+
+### Where the jobs are
+
+152 roles (58%) are in the US and 103 (40%) are outside it; 5 are remote with no country given. Outside the US, London leads with 36 roles, then Tokyo (9), Singapore (8), Paris (7), and Munich (6). 32% of roles allow remote work in at least one location, which is low for software jobs in 2026 and fits a role defined by being on site.
+
+### What the job asks for
+
+Share of the 151 distinct engineering roles whose posting mentions each skill.
+
+| Skill | Engineering roles |
+| --- | --- |
+| Python | 67% |
+| Agents | 55% |
+| TypeScript or JavaScript | 54% |
+| Evaluation (evals) | 48% |
+| LLMs or generative AI | 43% |
+| Cloud (AWS, GCP, Azure) | 37% |
+| Security clearance | 25% |
+| Retrieval (RAG) | 20% |
+| Containers (Docker, Kubernetes) | 19% |
+| Fine-tuning or post-training | 13% |
+| SQL | 7% |
+
+The job is building with models, not training them. Agents and evals each appear in about half of the postings; fine-tuning or post-training in 13%. Palantir accounts for half of the roles that mention a clearance, followed by the government and public-sector teams at Databricks, Cohere, OpenAI, and Vannevar Labs.
+
+### The title is spreading
+
+Forward deployed started as an engineering title. In October 2026 it is a way of working that companies attach to other jobs.
+
+| Role family | Distinct roles | Share |
+| --- | --- | --- |
+| Engineer | 151 | 58% |
+| Strategist, architect, or domain specialist | 45 | 17% |
+| Manager or leader | 39 | 15% |
+| Intern or new grad | 19 | 7% |
+| Product manager | 6 | 2% |
+
+Rogo hires forward deployed bankers and investors. Eudia hires forward deployed lawyers. Harvey hires forward deployed finance engineers for private credit, buyouts, and real estate. Cursor hires forward deployed strategists, Notion forward deployed architects, and Scale AI and Cresta forward deployed product managers. The common thread is the one in the original Palantir model: a specialist who sits with the customer and makes the product work inside their business.
+
+Most engineering titles carry no level at all (113 of 151). Of those that do, senior (25) and staff or principal (11) far outnumber junior (2). The entry points are internships and new-grad programs, 19 roles, nearly all at Palantir.
+
+### What it means
+
+**For founders.** A forward deployed engineer is priced by OpenAI, Databricks, and Palantir. A median posted midpoint above $216,000, before equity, is hard to justify for a startup with one or two AI workflows to ship; [the three ways to get one](https://ghanemzadeh.com/forward-deployed-engineer-for-startups/) compares hiring with contracting and a fixed-scope Sprint.
+
+**For engineers.** The postings describe the job plainly: Python and TypeScript, agents and evals, a customer you sit with, and a suitcase. [How to become a forward deployed engineer](https://ghanemzadeh.com/how-to-become-a-forward-deployed-ai-engineer/) turns that list into a path.
+
+Ask your AI about this page
+
+Opens your assistant with the question ready. It reads this page and answers for your situation.
+
+[ChatGPT](https://chatgpt.com/?q=Read%20https%3A%2F%2Fghanemzadeh.com%2Fforward-deployed-engineer-job-market%2F%20and%20tell%20me%20what%20a%20forward%20deployed%20engineer%20role%20would%20pay%20and%20ask%20of%20someone%20with%20my%20background.%20Ask%20me%20about%20my%20experience%20first.)
+[Claude](https://claude.ai/new?q=Read%20https%3A%2F%2Fghanemzadeh.com%2Fforward-deployed-engineer-job-market%2F%20and%20tell%20me%20what%20a%20forward%20deployed%20engineer%20role%20would%20pay%20and%20ask%20of%20someone%20with%20my%20background.%20Ask%20me%20about%20my%20experience%20first.)
+[Perplexity](https://www.perplexity.ai/search?q=Read%20https%3A%2F%2Fghanemzadeh.com%2Fforward-deployed-engineer-job-market%2F%20and%20tell%20me%20what%20a%20forward%20deployed%20engineer%20role%20would%20pay%20and%20ask%20of%20someone%20with%20my%20background.%20Ask%20me%20about%20my%20experience%20first.)
+
+### Method and limits
+
+- **Source.** The public job-board APIs of Ashby, Greenhouse, and Lever, queried on October 12, 2026 for 144 AI and software companies. 100 had a board on one of the three; 44 had at least one matching role.
+
+- **Match.** Any title containing "forward deployed" (with or without a hyphen) or "FDE." Postings listed on two boards were counted once.
+
+- **Distinct roles.** One title at one company, counted once across locations. Shares are of the 260 distinct roles unless a section says otherwise.
+
+- **Pay.** Taken from the board's structured salary field where it exists (Ashby, Lever), otherwise from the first US dollar range in the posting text (Greenhouse). Annual base only; hourly and non-USD figures are excluded.
+
+- **Travel and skills.** Keyword matches in the posting text, checked by hand against a sample of postings.
+
+- **What it misses.** Companies on other hiring systems, such as Workday at most large enterprises, and roles that do the work without the title. It is a single day's snapshot, and three companies carry half the sample, so treat company-level patterns as the stronger finding.
+
+[Download the data (CSV, 382 postings)](https://ghanemzadeh.com/assets/data/fde-job-postings-2026-10-12.csv). Free to reuse with credit under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+### Frequently asked questions
+
+#### How much does a forward deployed engineer make in 2026?
+
+In US job postings collected on October 12, 2026, the median posted base salary range for a forward deployed engineer was $180,000 to $250,208, with a median midpoint of $216,104. The middle half of roles had midpoints between $170,000 and $242,500. Posted ranges are base pay only; equity and bonus come on top at most of these companies.
+
+#### Which companies hire forward deployed engineers?
+
+On October 12, 2026, 44 companies had live forward deployed roles on public job boards. Databricks, Palantir, and OpenAI had the most, and together accounted for half of the 260 distinct roles. Cohere, Scale AI, Cursor, Cresta, Snorkel AI, Notion, Shield AI, Stripe, and Anthropic followed.
+
+#### How much do forward deployed engineers travel?
+
+56% of the roles mention travel, and 42% state a percentage. Among those, the most common figure is up to 50% of the time, and 57% allow for 50% or more. OpenAI's postings mostly say up to 50%, Databricks' mostly 20%, and Palantir's 25 to 75% within the country.
+
+Need one AI workflow shipped without hiring? [Score it](https://ghanemzadeh.com/scorecard/) in two minutes, then [book a 15-minute Scoping Call](https://ghanemzadeh.com/call/).
+
+---
+
 # Forward Deployed AI Engineering Glossary | Nasser Ghanemzadeh
 
 URL: https://ghanemzadeh.com/glossary/
@@ -2817,6 +3025,8 @@ Study product engineering, prompt and context design, data integration, and eval
 
 A research or MLOps background is useful in some engagements, but it is not the entry requirement, and chasing it first is the most common way to delay the thing that actually gets you hired: a shipped workflow.
 
+The postings agree. In [260 live forward deployed roles in October 2026](https://ghanemzadeh.com/forward-deployed-engineer-job-market/), 67% of engineering postings asked for Python, 55% mentioned agents, 48% evals, and 13% fine-tuning or post-training.
+
 Go deeper
 
 ### The book
@@ -2828,6 +3038,8 @@ Go deeper
 - [What is a Forward Deployed AI Engineer?](https://ghanemzadeh.com/forward-deployed-ai-engineer/)
 
 - [Forward Deployed AI Engineer vs solutions engineer](https://ghanemzadeh.com/forward-deployed-ai-engineer-vs-solutions-engineer/)
+
+- [Forward deployed engineer jobs: 260 roles analyzed](https://ghanemzadeh.com/forward-deployed-engineer-job-market/)
 
 - [Forward Deployed AI Engineering glossary](https://ghanemzadeh.com/glossary/)
 
