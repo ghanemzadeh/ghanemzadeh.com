@@ -2,7 +2,7 @@
 
 > Independent forward deployed AI engineer for founder-led B2B SaaS. Sells the FDE Sprint: one working AI workflow shipped into your product in ten business days, fixed price, full refund if it doesn't ship. Building Vectig in public with Claude Code. Former CEO/CPO at Nivo (acquired, 200K+ users).
 
-Nasser Ghanemzadeh has spent 17+ years building products and companies across AI, SaaS, and fintech. As CEO and later CPO at Nivo he built the product organization and shipped AI-powered applications that grew to 200K+ users and 450% revenue growth before the company was acquired. His current commercial focus is the FDE Sprint: a 10-business-day engagement for founder-led B2B SaaS teams of 5 to 50 that ships one narrow AI workflow into their product, with fixed scope, fixed price, and a full refund if there is no working prototype by Day 5 or no working workflow by Day 10. Founders start with the free two-minute AI Workflow Scorecard and a free 15-minute Scoping Call.
+Nasser Ghanemzadeh has spent 17+ years building products and companies across AI, SaaS, and fintech. As CEO and CPO of Nivo, holding both roles at once, he built the product organization and shipped AI-powered applications that grew to 200K+ users and 450% revenue growth before the company was acquired. His current commercial focus is the FDE Sprint: a 10-business-day engagement for founder-led B2B SaaS teams of 5 to 50 that ships one narrow AI workflow into their product, with fixed scope, fixed price, and a full refund if there is no working prototype by Day 5 or no working workflow by Day 10. Founders start with the free two-minute AI Workflow Scorecard and a free 15-minute Scoping Call.
 
 His live R&D lab is Vectig, an AI-native cash flow forecasting product for pre-seed-to-Series-A founders, built solo with Claude Code, in public. Most workflow patterns he ships into a client codebase have already run in Vectig first.
 
@@ -72,7 +72,7 @@ One is about judgment, one about the role, one about the operating practice unde
 
 ### Before all this
 
-- 01 **Nivo.** CEO, then CPO. Built the product organization and shipped AI-powered applications that grew to 200K+ users and 450% revenue growth before the acquisition.
+- 01 **Nivo.** CEO and CPO at the same time. Built the product organization and shipped AI-powered applications that grew to 200K+ users and 450% revenue growth before the acquisition.
 
 - 02 **Pangouan.** Founding Head of Product until 2026. Joined before there was a product, a team, or a user, and built all three.
 
@@ -92,7 +92,7 @@ Featured in [Forbes](https://www.forbes.com/sites/elizabethmacbride/2016/04/30/s
 
 #### What is Nasser Ghanemzadeh working on?
 
-The FDE Sprint takes most of my week: a 10-business-day engagement that ships one narrow AI workflow into a founder-led B2B SaaS product. The rest goes to [Vectig](https://vectig.com), an AI-native cash flow forecasting tool I build solo with Claude Code, and to the books and the newsletter. Before this I was CEO and then CPO at Nivo, which grew to 200K+ users and was acquired.
+The FDE Sprint takes most of my week: a 10-business-day engagement that ships one narrow AI workflow into a founder-led B2B SaaS product. The rest goes to [Vectig](https://vectig.com), an AI-native cash flow forecasting tool I build solo with Claude Code, and to the books and the newsletter. Before this I ran Nivo as CEO and CPO at the same time; it grew to 200K+ users and was acquired.
 
 #### How do I work with you?
 
@@ -3171,7 +3171,7 @@ Get the free chapters
 
 ### About
 
-I'm Nasser Ghanemzadeh. 17+ years building products and companies across AI, SaaS, and fintech. As CEO and later CPO at Nivo, I shipped AI-powered applications that grew to 200K+ users and 450% revenue growth before the company was acquired.
+I'm Nasser Ghanemzadeh. 17+ years building products and companies across AI, SaaS, and fintech. As CEO and CPO of Nivo, I shipped AI-powered applications that grew to 200K+ users and 450% revenue growth before the company was acquired.
 
 These days I build Vectig solo with Claude Code and run a 10-business-day [FDE Sprint](https://ghanemzadeh.com/ai-feature-sprint/) for B2B SaaS teams. If you have an AI feature in mind, the [Workflow Scorecard](https://ghanemzadeh.com/scorecard/) tells you in two minutes whether it can ship in ten days. The books came out of that work. More on the [home page](https://ghanemzadeh.com/).
 
