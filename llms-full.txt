@@ -10,7 +10,7 @@ He is the author of three books: Daily Wisdom (366 one-page meditations on menta
 
 ## The books
 
-Forward Deployed AI Engineering: A Working Guide to the Hottest Job in Software, by Nasser Ghanemzadeh. Independently published. First edition May 2026; current version 1.5, August 2026. 304 pages, 5 parts, 20 chapters, plus a workbook and annotated references. ISBN 979-8199517683.
+Forward Deployed AI Engineering: The Forward Deployed Engineer (FDE) Guide to Shipping Enterprise AI from Pilot to Production, by Nasser Ghanemzadeh. Independently published. First edition May 2026; current version 1.5, August 2026. 304 pages, 5 parts, 20 chapters, plus a workbook and annotated references. ISBN 979-8199517683.
 
 - Paperback: $19.99 at https://www.amazon.com/Forward-Deployed-AI-Engineering-Software/dp/B0H3VKKG38/
 - Kindle: $9.99 (also on Kindle Unlimited) at https://www.amazon.com/dp/B0H3KP9CVH/
@@ -261,7 +261,7 @@ That's what the Sprint produces: one managed AI workflow with a clear use case, 
 
 Forward Deployed AI Engineering is a delivery model where an engineer embeds inside a customer's team and ships AI capabilities directly into the customer's product and codebase. The deliverable is working code in the customer's repo, not a deck about it. The term comes from Palantir, where it has been the dominant model for two decades. In May 2026, OpenAI launched a $10 billion deployment subsidiary using exactly this title, and Anthropic launched a $1.5 billion deployment subsidiary the same day. Both are aimed at the Fortune 500. The **FDE Sprint is the same playbook, sized for founder-led B2B SaaS teams of 5 to 50 people** who can't run a quarter-million-dollar procurement process.
 
-More on the role: [what a Forward Deployed AI Engineer is](https://ghanemzadeh.com/forward-deployed-ai-engineer/), and the full guide in the book, [Forward Deployed AI Engineering: A Working Guide to the Hottest Job in Software](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/).
+More on the role: [what a Forward Deployed AI Engineer is](https://ghanemzadeh.com/forward-deployed-ai-engineer/), and the full guide in the book, [Forward Deployed AI Engineering: The Forward Deployed Engineer (FDE) Guide to Shipping Enterprise AI from Pilot to Production](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/).
 
 04 · Example workflows
 
@@ -805,7 +805,7 @@ The buying-club discipline that survived Sinegal's retirement.
 
 I'm Nasser Ghanemzadeh. 17+ years building products and companies across AI, SaaS, and fintech. Previously CEO/CPO at Nivo (acquired). Currently building Vectig solo with Claude Code, and running a 10-business-day [FDE Sprint](https://ghanemzadeh.com/ai-feature-sprint/) for B2B SaaS teams.
 
-Also by Nasser: [Forward Deployed AI Engineering: A Working Guide to the Hottest Job in Software](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/) and [Daily Wisdom](https://ghanemzadeh.com/books/daily-wisdom/).
+Also by Nasser: [Forward Deployed AI Engineering: The Forward Deployed Engineer (FDE) Guide to Shipping Enterprise AI from Pilot to Production](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/) and [Daily Wisdom](https://ghanemzadeh.com/books/daily-wisdom/).
 
 More on the [home page](https://ghanemzadeh.com/).
 
@@ -922,7 +922,7 @@ Different topics, same operating lens. Daily Wisdom is a year of one-page medita
 
 [2026 · Out now ### Daily Wisdom 366 Meditations on Mental Models, Misjudgment, and Money 366 meditations. 399 pages in print. Kindle, paperback, and hardcover. One bad hire costs a year. One bad acquisition costs a decade. One bad partner can cost you the company. A year-long course in not fooling yourself, for founders, investors, and managers: a verified quotation, a short essay, and one question for every day of the year. Read a month free →](https://ghanemzadeh.com/books/daily-wisdom/)
 
-[2026 ### Forward Deployed AI Engineering A Working Guide to the Hottest Job in Software 304 pages. First edition, May 2026. Version 1.5, August 2026. On May 4, 2026, OpenAI and Anthropic each launched deployment subsidiaries on the same day, both built around the title Forward Deployed Engineer. This book is for the person who wants to do that work. Five parts: the landscape, the mindset and the method, the craft, becoming an FDE, and the economy and future. Read the first chapters →](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/)
+[2026 ### Forward Deployed AI Engineering The Forward Deployed Engineer (FDE) Guide to Shipping Enterprise AI from Pilot to Production 304 pages. First edition, May 2026. Version 1.5, August 2026. On May 4, 2026, OpenAI and Anthropic each launched deployment subsidiaries on the same day, both built around the title Forward Deployed Engineer. This book is for the person who wants to do that work. Five parts: the landscape, the mindset and the method, the craft, becoming an FDE, and the economy and future. Read the first chapters →](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/)
 
 [2026 ### Founder Mode How the Great Companies Are Actually Built 254 pages. First edition. In 2024, Paul Graham named "Founder Mode" after Brian Chesky's talk at a YC alumni dinner. The practice is older than the name. HP, Disney, Apple, Pixar, Amazon, NVIDIA, and Costco built their best work this way. This book traces how, and is honest about the costs. Read the first two chapters →](https://ghanemzadeh.com/book/)
 
@@ -1972,7 +1972,7 @@ The Forward Deployed Engineer book: a working guide to the role OpenAI and Anthr
 
 ## Forward Deployed AI Engineering
 
-*A Working Guide to the Hottest Job in Software*
+*The Forward Deployed Engineer (FDE) Guide to Shipping Enterprise AI from Pilot to Production*
 
 First edition, May 2026 · Version 1.5, August 2026 · 304 pages · ISBN 979-8199517683
 
@@ -2588,7 +2588,7 @@ The book
 
 ### A working guide to the role
 
-[Forward Deployed AI Engineering: A Working Guide to the Hottest Job in Software](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/) is the long-form version of this page: what the role is, where it came from, how it is practiced, and how to do it well. Written from inside the work, in the months after OpenAI and Anthropic put the title on the map. For the wider reading list around the role, see [the best Forward Deployed Engineer books](https://ghanemzadeh.com/best-forward-deployed-engineer-books/).
+[Forward Deployed AI Engineering: The Forward Deployed Engineer (FDE) Guide to Shipping Enterprise AI from Pilot to Production](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/) is the long-form version of this page: what the role is, where it came from, how it is practiced, and how to do it well. Written from inside the work, in the months after OpenAI and Anthropic put the title on the map. For the wider reading list around the role, see [the best Forward Deployed Engineer books](https://ghanemzadeh.com/best-forward-deployed-engineer-books/).
 
 ### About the author
 
@@ -3070,7 +3070,7 @@ Go deeper
 
 ### The book
 
-[Forward Deployed AI Engineering: A Working Guide to the Hottest Job in Software](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/) covers the full path in depth, including a part on becoming an FDE, plus a workbook. It is written from inside the work.
+[Forward Deployed AI Engineering: The Forward Deployed Engineer (FDE) Guide to Shipping Enterprise AI from Pilot to Production](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/) covers the full path in depth, including a part on becoming an FDE, plus a workbook. It is written from inside the work.
 
 ### Related
 

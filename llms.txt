@@ -10,7 +10,7 @@ He is the author of three books: Daily Wisdom (366 one-page meditations on menta
 
 ## The books
 
-Forward Deployed AI Engineering: A Working Guide to the Hottest Job in Software, by Nasser Ghanemzadeh. Independently published. First edition May 2026; current version 1.5, August 2026. 304 pages, 5 parts, 20 chapters, plus a workbook and annotated references. ISBN 979-8199517683.
+Forward Deployed AI Engineering: The Forward Deployed Engineer (FDE) Guide to Shipping Enterprise AI from Pilot to Production, by Nasser Ghanemzadeh. Independently published. First edition May 2026; current version 1.5, August 2026. 304 pages, 5 parts, 20 chapters, plus a workbook and annotated references. ISBN 979-8199517683.
 
 - Paperback: $19.99 at https://www.amazon.com/Forward-Deployed-AI-Engineering-Software/dp/B0H3VKKG38/
 - Kindle: $9.99 (also on Kindle Unlimited) at https://www.amazon.com/dp/B0H3KP9CVH/
