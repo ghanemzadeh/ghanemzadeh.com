@@ -640,31 +640,70 @@ URL: https://ghanemzadeh.com/best-forward-deployed-engineer-books/
 
 ## The best Forward Deployed Engineer books & resources (2026)
 
-There is exactly one book written specifically about the Forward Deployed Engineer role, so a useful FDE reading list pairs it with the best books on the skills the role is made of: AI engineering, data systems, product discovery, and the customer room. These five books, plus five free essays and talks, cover the territory.
+The Forward Deployed Engineer role now has a shelf of its own: six books written about it, all from 2026, from a free 93-page PDF to a 746-page practitioner manual. A useful reading list pairs one of them with the best books on the skills the role is made of: AI engineering, data systems, product discovery, and the customer room. One of the six is mine, so it is listed first and disclosed; the comparison below says when another one is the better pick.
 
 By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated October 2026.
 
-### The five books
+### Books written about the FDE role
 
 #### 1. Forward Deployed AI Engineering, by Nasser Ghanemzadeh
 
-The working guide to the role itself: what an FDE is, where the model came from, how the work is practiced phase by phase, and how to break in. 304 pages across five parts and 20 chapters, with a workbook and annotated references at the back. It is the only book on this list written specifically about the Forward Deployed Engineer job. Full disclosure: I wrote this one.
+The working guide to the role itself: what an FDE is, where the model came from, how the work is practiced phase by phase, and how to break in. 304 pages across five parts and 20 chapters, with a workbook and annotated references at the back; first edition May 2026, updated August 2026, in paperback and on Kindle. It is strongest on the whole arc of an engagement and on the path into the job. Full disclosure: I wrote this one.
 
 [Read about the book](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/), including the full structure and sample chapters.
 
-#### 2. AI Engineering, by Chip Huyen
+#### 2. The Forward Deployed Engineer, by Paden Gayle (O'Reilly)
 
-The technical complement. Huyen covers building applications with foundation models: evaluation, prompt engineering, retrieval, finetuning decisions, and inference. If the FDE book is about the job, this is the deepest treatment of the engineering underneath it. For readers who want the model-layer fundamentals before their first engagement.
+The O'Reilly entry, still in early release: the table of contents is marked not yet final, and O'Reilly lists the finished book for December 2027 at 350 pages. Gayle works as a forward deployed AI engineer at Notion, after engineering roles at Google and Bloomberg, and the book reads from inside the enterprise engagement, opening with "The Founder Inside Someone Else's Company." Pick it if you have O'Reilly access and want the view of someone doing the job now. [O'Reilly](https://www.oreilly.com/library/view/the-forward-deployed/0642572416485/).
 
-#### 3. Designing Data-Intensive Applications, 2nd edition, by Martin Kleppmann and Chris Riccomini
+#### 3. FDE: Forward Deployed Engineer, by Srinivas Bommena
+
+The largest book on the shelf: *The Practitioner Playbook for Shipping Enterprise AI*, 746 pages on Kindle in its third edition, also sold as *Shipping Enterprise AI: The Forward Deployed Engineer's Playbook*. The third edition goes deepest of the six into agent engineering: bounded coding-agent delegation, sub-agent and skill boundaries, retries and recovery, and tool and API integration. Pick it if you already do the work and want an engineering reference rather than an introduction. [Amazon](https://www.amazon.com/dp/B0H2D6RV8L).
+
+#### 4. The Field Deployed Engineer's Handbook, by Daniel Vaughan (Leanpub)
+
+*Production AI in the Real World*, written in public on Leanpub and 90% complete as of October 2026. Vaughan, a UK-based software architect specialising in agentic AI, follows the full engagement from the first customer conversation to production, adoption, and handover, and keeps the advice independent of any one vendor or platform. It assumes professional engineering experience. Pick it if you want a platform-neutral handbook and don't mind reading a book before it is finished. [Leanpub](https://leanpub.com/fde-handbook).
+
+#### 5. How to Be a Forward Deployed Engineer, by Jason Mann
+
+*The Complete Playbook for Enterprise Deployments, Customer Success, and Technical Excellence*: an independently published paperback from June 2026, 230 pages. It is pitched at engineers moving into the role, with breaking in, scoping, debugging in production, talking to executives, and measuring business value. Pick it for a compact career field guide. [Books-A-Million](https://www.booksamillion.com/p/How-Be-Forward-Deployed-Engineer/Jason-Mann/9798181160132).
+
+#### 6. The Forward-Deployed Engineer, by Gennaro Cuofano
+
+*A Playbook for the AI Era's Field Role*, a free 93-page book with 35 plates from The Business Engineer, first edition August 2026, delivered as a PDF in exchange for an email address. It is more business analysis than engineering: the "last mile" between what a model can do and what an enterprise will let it do, a four-gate test for picking the first problem, and a handover run as an acceptance test. Pick it if you are deciding whether to use FDEs, not how to be one. [The Business Engineer](https://fourweekmba.com/fde-playbook-book/).
+
+In Chinese, the writer Fan Bing (范冰), author of *Growth Hacker*, published *前线部署工程师* free on GitHub in July 2026; it documents 165 cases from Palantir, OpenAI, and Anthropic to China's first FDE teams, and has about 5,000 stars. [GitHub](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer).
+
+### The six, side by side
+
+| Book | Format and status | Length | Best for |
+| --- | --- | --- | --- |
+| Forward Deployed AI Engineering (Ghanemzadeh) | Paperback and Kindle, updated August 2026 | 304 pages | The whole engagement arc and the path into the role |
+| The Forward Deployed Engineer (Gayle) | O'Reilly early release; final edition listed for December 2027 | 350 pages (listed) | The enterprise view from a practising FDE |
+| FDE: Forward Deployed Engineer (Bommena) | Kindle, third edition | 746 pages | Agent engineering in depth, for people already in the job |
+| The Field Deployed Engineer's Handbook (Vaughan) | Leanpub, 90% complete | In progress | A platform-neutral handbook from discovery to handover |
+| How to Be a Forward Deployed Engineer (Mann) | Paperback, June 2026 | 230 pages | A compact career field guide |
+| The Forward-Deployed Engineer (Cuofano) | Free PDF for an email, August 2026 | 93 pages | Buyers and leaders deciding whether to use FDEs |
+
+Details as listed by each publisher or store on October 12, 2026.
+
+### Books on the skills the role is made of
+
+No FDE book replaces the fundamentals. These four are the ones I would pair with whichever of the six you choose.
+
+#### 1. AI Engineering, by Chip Huyen
+
+The technical complement. Huyen covers building applications with foundation models: evaluation, prompt engineering, retrieval, finetuning decisions, and inference. If the FDE books are about the job, this is the deepest treatment of the engineering underneath it. For readers who want the model-layer fundamentals before their first engagement.
+
+#### 2. Designing Data-Intensive Applications, 2nd edition, by Martin Kleppmann and Chris Riccomini
 
 The systems substrate of enterprise integration work. Most FDE engagements are won or lost on data plumbing, and this is the standard text on the storage, replication, and pipeline machinery inside every enterprise stack you will integrate with. Read it slowly. It pays off for years.
 
-#### 4. Inspired, 2nd edition, by Marty Cagan
+#### 3. Inspired, 2nd edition, by Marty Cagan
 
 The product-discovery half of the craft. An FDE decides what to build under pressure, in front of the customer, and Cagan's book is the standard text on discovering what is worth building before you build it. Written for product teams, but the discovery discipline maps directly onto scoping an engagement.
 
-#### 5. Impro, by Keith Johnstone
+#### 4. Impro, by Keith Johnstone
 
 The odd one out, deliberately. Johnstone's book on improvisational theatre appears on Palantir's FDE onboarding reading list because customer-room work is improvisation: status, listening, and responding honestly to what is actually happening. It teaches the temperament of the work rather than the technique.
 
@@ -686,7 +725,7 @@ Running a B2B SaaS company? The method in this book is also a service, the FDE S
 
 ### Where to start
 
-If you are deciding whether the role is for you, start with the [explainer on what a Forward Deployed Engineer is](https://ghanemzadeh.com/forward-deployed-ai-engineer/), then the Qureshi and McGrew conversations. If you have decided and want the map, start with [the Forward Deployed Engineer book](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/) and follow the path in [how to become an FDE](https://ghanemzadeh.com/how-to-become-a-forward-deployed-ai-engineer/).
+If you are deciding whether the role is for you, start with the [explainer on what a Forward Deployed Engineer is](https://ghanemzadeh.com/forward-deployed-ai-engineer/), then the Qureshi and McGrew conversations. If you have decided and want the map, start with [Forward Deployed AI Engineering](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/) and follow the path in [how to become an FDE](https://ghanemzadeh.com/how-to-become-a-forward-deployed-ai-engineer/). If you are already in the role, Bommena's third edition and Vaughan's handbook go deeper on the engineering. If you are buying FDE work rather than doing it, start with Cuofano's free book, then [the three ways a startup can get one](https://ghanemzadeh.com/forward-deployed-engineer-for-startups/).
 
 ---
 
