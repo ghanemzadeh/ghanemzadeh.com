@@ -220,7 +220,7 @@ Independent forward deployed engineer for founder-led B2B SaaS
 
 ## Your first working AI workflow, in your product, in ten business days.
 
-OpenAI and Anthropic launched deployment arms this year to embed engineers inside enterprises. I do the same work as an independent forward deployed engineer, sized for a founder-led team: one narrow workflow, scoped on Day 1, running on your data by Day 5, in your repo by Day 10. I pick the model that fits the job, not the one I'm paid to resell.
+OpenAI and Anthropic each launched a new company this year to put engineers inside their customers. I do the same work as an independent forward deployed engineer, sized for a founder-led team: one narrow workflow, scoped on Day 1, running on your data by Day 5, in your repo by Day 10. I pick the model that fits the job, not the one I'm paid to resell.
 
 Built by **Nasser Ghanemzadeh**, ex-CEO/CPO of Nivo (acquired, 200K+ users) · building Vectig in public · featured in Forbes, TechCrunch, Al Jazeera
 
@@ -239,7 +239,7 @@ The FDE Sprint is a fixed-scope engagement in which an independent forward deplo
 
 ### What is a forward deployed AI engineer?
 
-A forward deployed AI engineer works inside the customer's codebase and ships AI features into their product, instead of advising from outside. The term comes from Palantir. In 2026, OpenAI and Anthropic adopted it for the teams that deploy their models inside enterprises. The FDE Sprint is the founder-tier version of that work.
+A forward deployed AI engineer works inside the customer's codebase and ships AI features into their product, instead of advising from outside. The term comes from Palantir. In 2026, OpenAI and Anthropic both built teams around it to deploy their models inside customers. The FDE Sprint is the founder-tier version of that work.
 
 Weighing a hire? [Does a startup need a forward deployed engineer?](https://ghanemzadeh.com/forward-deployed-engineer-for-startups/) compares a full-time hire, a contractor, and a Sprint.
 
@@ -259,7 +259,7 @@ That's what the Sprint produces: one managed AI workflow with a clear use case, 
 
 ### What is Forward Deployed AI Engineering?
 
-Forward Deployed AI Engineering is a delivery model where an engineer embeds inside a customer's team and ships AI capabilities directly into the customer's product and codebase. The deliverable is working code in the customer's repo, not a deck about it. The term comes from Palantir, where it has been the dominant model for two decades. In May 2026, OpenAI launched a $10 billion deployment subsidiary using exactly this title, and Anthropic launched a $1.5 billion deployment subsidiary the same day. Both are aimed at the Fortune 500. The **FDE Sprint is the same playbook, sized for founder-led B2B SaaS teams of 5 to 50 people** who can't run a quarter-million-dollar procurement process.
+Forward Deployed AI Engineering is a delivery model where an engineer embeds inside a customer's team and ships AI capabilities directly into the customer's product and codebase. The deliverable is working code in the customer's repo, not a deck about it. The term comes from Palantir, where it has been the dominant model for two decades. In May 2026, Anthropic announced a new AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs, in which its Applied AI engineers build Claude systems for mid-sized companies. Days later, OpenAI launched the OpenAI Deployment Company, with more than $4 billion of investment, to place Forward Deployed Engineers inside customer organizations. The **FDE Sprint is the same playbook, sized for founder-led B2B SaaS teams of 5 to 50 people** who can't run a quarter-million-dollar procurement process.
 
 More on the role: [what a Forward Deployed AI Engineer is](https://ghanemzadeh.com/forward-deployed-ai-engineer/), and the full guide in the book, [Forward Deployed AI Engineering: The Forward Deployed Engineer (FDE) Guide to Shipping Enterprise AI from Pilot to Production](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/).
 
@@ -585,7 +585,7 @@ Most AI features stall in the same three places: a demo that worked on five exam
 
 #### How is this different from an AI consulting firm?
 
-This Sprint ships a working AI workflow into your codebase by Day 10, where AI consulting firms deliver decks and roadmaps. The category is "Forward Deployed AI Engineering": the same shape of work OpenAI's Deployment Company and Anthropic's deployment arm sell to Fortune 500 customers, at a different price point.
+This Sprint ships a working AI workflow into your codebase by Day 10, where AI consulting firms deliver decks and roadmaps. The category is "Forward Deployed AI Engineering": the same shape of work OpenAI's Deployment Company sells to large organizations and Anthropic's new services company to mid-sized ones, at a different price point.
 
 #### Why hire an independent FDE instead of a model vendor's deployment team?
 
@@ -647,7 +647,7 @@ Opens your assistant with the question ready. It reads this page and answers for
 
 **Forward Deployed Engineer**
 
-An engineer who embeds inside a customer's team and ships inside their codebase, rather than delivering an external dashboard or report. Originally Palantir's model; adopted by OpenAI and Anthropic in May 2026.
+An engineer who embeds inside a customer's team and ships inside their codebase, rather than delivering an external dashboard or report. Originally Palantir's model; OpenAI and Anthropic both built deployment teams around it in 2026.
 
 **FDE Sprint**
 
@@ -1131,7 +1131,7 @@ Different topics, same operating lens. Daily Wisdom is a year of one-page medita
 
 [2026 · Out now ### Daily Wisdom 366 Meditations on Mental Models, Misjudgment, and Money 366 meditations. 399 pages in print. Kindle, paperback, and hardcover. One bad hire costs a year. One bad acquisition costs a decade. One bad partner can cost you the company. A year-long course in not fooling yourself, for founders, investors, and managers: a verified quotation, a short essay, and one question for every day of the year. Read a month free →](https://ghanemzadeh.com/books/daily-wisdom/)
 
-[2026 ### Forward Deployed AI Engineering The Forward Deployed Engineer (FDE) Guide to Shipping Enterprise AI from Pilot to Production 304 pages. First edition, May 2026. Version 1.5, August 2026. On May 4, 2026, OpenAI and Anthropic each launched deployment subsidiaries on the same day, both built around the title Forward Deployed Engineer. This book is for the person who wants to do that work. Five parts: the landscape, the mindset and the method, the craft, becoming an FDE, and the economy and future. Read the first chapters →](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/)
+[2026 ### Forward Deployed AI Engineering The Forward Deployed Engineer (FDE) Guide to Shipping Enterprise AI from Pilot to Production 304 pages. First edition, May 2026. Version 1.5, August 2026. In May 2026, within a week of each other, Anthropic and OpenAI each launched a new company to put engineers inside their customers and ship working AI. This book is for the person who wants to do that work. Five parts: the landscape, the mindset and the method, the craft, becoming an FDE, and the economy and future. Read the first chapters →](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/)
 
 [2026 ### Founder Mode How the Great Companies Are Actually Built 254 pages. First edition. In 2024, Paul Graham named "Founder Mode" after Brian Chesky's talk at a YC alumni dinner. The practice is older than the name. HP, Disney, Apple, Pixar, Amazon, NVIDIA, and Costco built their best work this way. This book traces how, and is honest about the costs. Read the first two chapters →](https://ghanemzadeh.com/book/)
 
@@ -2175,7 +2175,7 @@ Independent publication. This book is for general education and entertainment. I
 
 URL: https://ghanemzadeh.com/books/forward-deployed-ai-engineering/
 
-**May 4, 2026: OpenAI and Anthropic each launched deployment subsidiaries on the same day, both using the title Forward Deployed Engineer.** This book is for the person who wants to do that work.
+**May 2026: within a week, Anthropic and OpenAI each launched a new company to put engineers inside their customers and ship working AI.** This book is for the person who wants to do that work.
 
 The Forward Deployed Engineer book: a working guide to the role OpenAI and Anthropic just put on the map.
 
@@ -2187,7 +2187,7 @@ First edition, May 2026 · Version 1.5, August 2026 · 304 pages · ISBN 979-819
 
 What's new in Version 1.5: coverage updated through August 2026, including the AWS $1 billion FDE program and Microsoft's $2.5 billion Frontier initiative.
 
-For eighteen months before May 4, 2026, the Forward Deployed Engineer was already the most-discussed engineering role in the industry. Then the two most valuable private AI companies announced, on the same day, that they were creating new entities to put their engineers inside their customers' offices and ship working AI systems. OpenAI capitalized its vehicle at $10 billion. Anthropic at $1.5 billion. Same title. Same playbook. This book is for the person who wants to do that work.
+For eighteen months before May 2026, the Forward Deployed Engineer was already the most-discussed engineering role in the industry. Then, within a week of each other, the two most valuable private AI companies announced new entities to put engineers inside their customers and ship working AI systems. Anthropic formed a new AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs. OpenAI launched the OpenAI Deployment Company with more than $4 billion of investment, built around Forward Deployed Engineers. Same playbook. This book is for the person who wants to do that work.
 
 [Order on Kindle](https://www.amazon.com/dp/B0H3KP9CVH/)
 [Order Paperback](https://www.amazon.com/Forward-Deployed-AI-Engineering-Software/dp/B0H3VKKG38/)
@@ -2903,7 +2903,7 @@ The phrase is military language. Forward deployed units are stationed at the edg
 
 Palantir made the term a job. It built its business on engineers who deploy into a customer's organization and deliver outcomes inside that customer's systems. The model spread because it solved a specific failure: software that works in a demo and dies in the customer's real environment.
 
-In May 2026 the term went mainstream. OpenAI and Anthropic each launched a deployment subsidiary within a day of each other, both using the title Forward Deployed Engineer, both aimed at getting frontier models into enterprise products rather than selling API access and hoping. The AI in some job titles marks the shift: the capability being deployed is no longer just software, it is an AI workflow.
+In May 2026 the term went mainstream. Within a week, Anthropic and OpenAI each launched a new company to put engineers inside their customers: Anthropic's with Blackstone, Hellman & Friedman, and Goldman Sachs for mid-sized companies, and the OpenAI Deployment Company, built around Forward Deployed Engineers. Both aim to get frontier models working inside customers' products and operations rather than selling API access and hoping. The AI in some job titles marks the shift: the capability being deployed is no longer just software, it is an AI workflow.
 
 ### What does a Forward Deployed Engineer earn?
 
@@ -2953,7 +2953,7 @@ For a side-by-side that goes deeper on the closest comparison, see [Forward Depl
 
 Because enterprises learned that buying AI is not the same as deploying it. An MIT study cited in the book found that 95% of enterprise AI pilots produce no measurable return. The FDE is the industry's answer to that gap, and in 2026 the money followed.
 
-- **May 4, 2026.** OpenAI launched a $10 billion deployment subsidiary and Anthropic a $1.5 billion one, on the same day, both hiring under the title Forward Deployed Engineer.
+- **May 2026.** On May 4, Anthropic announced a new AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs. Days later, OpenAI launched the OpenAI Deployment Company, with more than $4 billion of investment at a $10 billion valuation, built around Forward Deployed Engineers.
 
 - **May 16, 2026.** Business Insider reported that Indeed postings for the role grew from 643 in April 2025 to 5,330 in April 2026, more than 700% in a year. The same month, the title returned 55,000+ LinkedIn results in the US and over 100 postings on the YC job board.
 
@@ -3369,7 +3369,7 @@ By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated October 2026.
 
 **Forward Deployed AI Engineer (FDE)**
 
-An engineer who embeds inside a customer's team and ships AI capabilities directly into the customer's product and codebase, rather than delivering a deck, a dashboard, or a demo. The delivery model comes from Palantir. OpenAI and Anthropic both launched deployment subsidiaries using it in May 2026. See the full explainer: [what is a Forward Deployed Engineer?](https://ghanemzadeh.com/forward-deployed-ai-engineer/)
+An engineer who embeds inside a customer's team and ships AI capabilities directly into the customer's product and codebase, rather than delivering a deck, a dashboard, or a demo. The delivery model comes from Palantir. In May 2026, OpenAI and Anthropic each launched a new company to do this work for their customers. See the full explainer: [what is a Forward Deployed Engineer?](https://ghanemzadeh.com/forward-deployed-ai-engineer/)
 
 **FDE as a service**
 
