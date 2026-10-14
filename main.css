@@ -628,6 +628,19 @@ img {
   color: var(--text-strong);
 }
 
+/* Risk, data, and fit line under a card in the AI workflow library */
+.afs-example-card__meta {
+  display: block;
+  margin-top: 10px;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--text-soft);
+}
+
+.afs-example-card__risk--low  { color: #34d399; }
+.afs-example-card__risk--med  { color: #fbbf24; }
+.afs-example-card__risk--high { color: #f87171; }
+
 .afs-price {
   font-size: 22px;
   font-weight: 600;

@@ -24,7 +24,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@400;500;700&family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="/main.css?v=20261012">
+  <link rel="stylesheet" href="/main.css?v=20261014">
   <link rel="stylesheet" href="/assets/sprint/sprint.css?v=20260923">
 
   <!-- Open Graph -->
@@ -76,6 +76,8 @@
           "AI product development",
           "B2B SaaS",
           "Product management",
+          "AI implementation",
+          "AI agents",
           "Claude Code",
           "Model Context Protocol (MCP)",
           "Founder-led product development"
@@ -95,7 +97,7 @@
         "url": "https://ghanemzadeh.com/ai-feature-sprint/",
         "name": "Hire an Independent Forward Deployed Engineer: FDE Sprint",
         "datePublished": "2026-06-01T00:00:00+00:00",
-        "dateModified": "2026-10-01T00:00:00+00:00",
+        "dateModified": "2026-10-14T00:00:00+00:00",
         "isPartOf": { "@id": "https://ghanemzadeh.com/#website" },
         "about": { "@id": "https://ghanemzadeh.com/ai-feature-sprint/#service" },
         "author": { "@id": "https://ghanemzadeh.com/#person" }
@@ -201,6 +203,14 @@
           },
           {
             "@type": "Question",
+            "name": "How do I justify the cost to my co-founder or board?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "With your own numbers. For an internal workflow: the hours a week the work takes today, times the loaded hourly cost, times 52. Divide the Sprint price by the weekly saving and you have the payback period. In the worked example, a support summarizer that saves 20 hours a week pays back in under ten weeks. For a customer-facing feature, use the deal or retention metric it moves. Either way, the number goes into the value line of the Brief draft you get after the Scoping Call, so the case is written down before you pay anything."
+            }
+          },
+          {
+            "@type": "Question",
             "name": "Why is the Scoping Call free?",
             "acceptedAnswer": {
               "@type": "Answer",
@@ -233,6 +243,14 @@
           },
           {
             "@type": "Question",
+            "name": "We tried building an AI feature and it stalled. Why would this be different?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Most AI features stall in the same three places: a demo that worked on five examples, no agreement on what good output looks like, and nobody owning the last stretch to production. The Sprint is built against all three. Day 1 ends with a signed Brief that names one user, one input, one output, and the acceptance criteria. Day 5 is a working prototype on your real data, or you stop and get your money back. Days 6 to 9 are the edge cases, error states, and prompt tuning that demos skip, scored against the output rubric."
+            }
+          },
+          {
+            "@type": "Question",
             "name": "How is this different from an AI consulting firm?",
             "acceptedAnswer": {
               "@type": "Answer",
@@ -252,7 +270,15 @@
             "name": "What kinds of AI workflows do you build?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Narrow workflows with one input, one output, and one user: investor update assistants, runway scenario explainers, customer summary generators, support ticket summarizers, report generators, and onboarding assistants. The common shape: narrow input, narrow output, single user, measurable improvement, human-in-the-loop review."
+              "text": "Narrow workflows with one input, one output, and one user: investor update assistants, runway scenario explainers, customer summary generators, support ticket summarizers, report generators, and onboarding assistants. The common shape: narrow input, narrow output, single user, measurable improvement, human-in-the-loop review. Thirty more examples, by team, are in AI use cases for B2B SaaS."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Do you build AI agents?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, when the workflow needs one: when the model has to call tools, look things up in your systems, or take several steps to produce its output. Many Sprint workflows reach your systems through MCP servers for exactly that. What I don't build in a first Sprint is an agent that acts on customers without a person approving it. Every v1 keeps a human in the loop, and autonomy comes later, when your team decides it's earned."
             }
           },
           {
@@ -300,7 +326,7 @@
             "name": "What happens after Day 10?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Your team runs the workflow, and there are three paths from there. Most teams take the workflow and run with it. The rubric and playbook are designed for self-service maintenance. Some come back for a second Sprint with a different workflow. Some sign an ongoing engagement for governance and iteration. All three are explicit options at handoff."
+              "text": "Your team runs the workflow. The rubric and playbook are built so they can maintain it without me, and most teams do. If you want a second workflow, book another Sprint within 6 months of handoff and it runs at the price you paid for the first. There's no retainer to keep the first one running."
             }
           }
         ]
@@ -341,7 +367,7 @@
           <a class="afs-cta afs-cta-primary" href="/scorecard/">Score your workflow (2 min)</a>
           <a class="afs-cta afs-cta-secondary" href="/call/">Book a 15-minute Scoping Call</a>
         </div>
-        <p class="page-meta">By <a href="/">Nasser Ghanemzadeh</a>. Last updated <time data-sprint-updated datetime="2026-10-01">Thursday October 1</time>.</p>
+        <p class="page-meta">By <a href="/">Nasser Ghanemzadeh</a>. Last updated <time data-sprint-updated datetime="2026-10-14">Wednesday October 14</time>.</p>
       </div>
     </header>
 
@@ -385,13 +411,14 @@
         <p class="eyebrow-num">04 · Example workflows</p>
         <h2>Examples of narrow AI workflows</h2>
         <ul class="afs-examples-grid">
-          <li class="afs-example-card"><strong>Investor update assistant.</strong> Turn monthly metrics, asks, risks, and progress into a clear investor update draft.</li>
-          <li class="afs-example-card"><strong>Finance/runway scenario explainer.</strong> Help founders understand how burn, hiring, churn, or revenue changes affect runway.</li>
-          <li class="afs-example-card"><strong>Customer summary generator.</strong> Turn scattered account notes, usage data, and history into a concise customer summary.</li>
-          <li class="afs-example-card"><strong>Support ticket summarizer.</strong> Summarize long support threads and surface the issue, urgency, and suggested next step.</li>
-          <li class="afs-example-card"><strong>Report generator.</strong> Turn structured data or notes into a useful weekly, customer, or internal report.</li>
-          <li class="afs-example-card"><strong>Onboarding assistant.</strong> Guide new users or customers through the first important workflow in your product.</li>
+          <li class="afs-example-card"><strong>Investor update assistant.</strong> Reads the month's metrics from Stripe or your finance sheet, plus a few sentences from the founder, and drafts the update in your usual format. The founder edits and sends.</li>
+          <li class="afs-example-card"><strong>Runway scenario explainer.</strong> Takes a proposed change (a hire, a price change, a churn assumption), runs it against current burn and revenue, and writes a plain-language note on what it does to runway. Someone checks the numbers before anyone acts on them.</li>
+          <li class="afs-example-card"><strong>Customer summary generator.</strong> Pulls an account's CRM notes, usage events, and open tickets, and writes a one-page summary into the CRM record before a renewal call. The account owner reads it before the call.</li>
+          <li class="afs-example-card"><strong>Support ticket summarizer.</strong> Reads a long Zendesk or Intercom thread and writes the issue, urgency, what has been tried, and a suggested next step into the ticket sidebar. The agent accepts it, edits it, or ignores it.</li>
+          <li class="afs-example-card"><strong>Report generator.</strong> Turns a week of product data or notes into your weekly customer or internal report, in your template, as a draft. Whoever sends it reviews it first.</li>
+          <li class="afs-example-card"><strong>Onboarding assistant.</strong> Uses a new account's setup data to suggest the next step in your product's first key workflow, inside the app. It suggests; the user clicks.</li>
         </ul>
+        <p class="afs-aside">Thirty more, grouped by team, with the data each one needs and whether it fits a first Sprint: <a href="/ai-workflows-for-saas/">AI use cases for B2B SaaS</a>.</p>
       </section>
 
       <section class="section">
@@ -500,6 +527,14 @@
         <p class="diag-caption">Output simulated for a typical founder-led team.</p>
       </section>
 
+      <section class="section" id="what-the-workflow-is-worth">
+        <h2>What the workflow is worth to you</h2>
+        <p>The Sprint has a fixed price. What the workflow is worth depends on your numbers, so we work them out on the Scoping Call and write them into the Brief.</p>
+        <p>For an internal workflow the math is short: the hours a week the work takes today, times the loaded hourly cost of the people doing it, times 52. That's what the work costs you in a year. Divide the Sprint price by what the workflow saves each week, and you have the payback period.</p>
+        <p><strong>Worked example, with example inputs.</strong> Four support agents each spend ten hours a week reading long ticket threads before they can reply. A summarizer that halves that saves 20 hours a week. At a loaded cost of $40 an hour, that's $800 a week, or $41,600 a year. The Sprint pays for itself in under ten weeks at either published price.</p>
+        <p>For a customer-facing feature, hours saved is the wrong measure. The value is in the deals the feature helps close or the accounts it helps keep, and the Brief names that metric instead. If neither number is bigger than the Sprint price, I'll say so on the call.</p>
+      </section>
+
       <section class="section afs-offers" id="sprint">
         <p class="eyebrow-num">07 · The offer</p>
         <h2>One workflow, ten business days, one fixed price</h2>
@@ -533,6 +568,10 @@
             <div>
               <dt>Price</dt>
               <dd><span data-sprint="price">$5,000</span> for Sprints kicking off through <span data-sprint="priceThrough">Tuesday November 17</span>. From the <span data-sprint="nextFrom">Tuesday December 1</span> kickoff, <span data-sprint="nextPrice">$7,500</span>. Half on signing, half on Day 10. <span data-sprint-unless="deposit">The deposit is invoiced on signing.</span><a data-sprint-needs="deposit" data-sprint-href="deposit" hidden>Pay the deposit.</a></dd>
+            </div>
+            <div>
+              <dt>Next workflow</dt>
+              <dd>Book a second Sprint within <span data-sprint="returningLockMonths">6</span> months of your handoff and it runs at the price you paid for the first, whatever the published price is by then.</dd>
             </div>
           </dl>
           <p class="afs-offer__aside">Prefer a full two-hour scoping session before committing? The <a href="/discovery-day/">Discovery Day</a> is <span data-sprint="discoveryDayPrice">$500</span>, credited to the Sprint.</p>
@@ -578,6 +617,8 @@
           <p><em>For <span class="afs-slot">[user]</span>, when <span class="afs-slot">[trigger or input]</span> happens, the workflow will <span class="afs-slot">[process or action]</span> and produce <span class="afs-slot">[output]</span>, so that <span class="afs-slot">[business value]</span>.</em></p>
         </blockquote>
         <p><strong>Worked example.</strong> "For the founder, when monthly metrics and 3 to 5 sentences of context are added, the workflow will draft a clean investor update covering metrics, risks, and asks, so that the founder can send consistent updates in 8 minutes instead of 90."</p>
+        <p>Under the sentence goes one value line: the hours a week the work takes today, times the loaded hourly cost, times 52. For a customer-facing feature, it's the deal or retention metric the workflow moves.</p>
+        <p><strong>Value line for the example.</strong> 82 minutes saved a month is not where the money is. The value is an update that goes out every month, on time, which keeps investors close before the next round.</p>
         <p>If we can't agree on the words that fill those five brackets on Day 1, the Sprint isn't ready to start.</p>
       </section>
 
@@ -689,6 +730,10 @@
           <p><span data-sprint="price">$5,000</span> for Sprints kicking off through <span data-sprint="priceThrough">Tuesday November 17</span>, and <span data-sprint="nextPrice">$7,500</span> from the <span data-sprint="nextFrom">Tuesday December 1</span> kickoff. Half on signing, half on Day 10. The optional Discovery Day is <span data-sprint="discoveryDayPrice">$500</span>, credited to the Sprint.</p>
         </details>
         <details>
+          <summary>How do I justify the cost to my co-founder or board?</summary>
+          <p>With your own numbers. For an internal workflow: the hours a week the work takes today, times the loaded hourly cost, times 52. Divide the Sprint price by the weekly saving and you have the payback period. In the <a href="#what-the-workflow-is-worth">worked example</a>, a support summarizer that saves 20 hours a week pays back in under ten weeks. For a customer-facing feature, use the deal or retention metric it moves. Either way, the number goes into the value line of the Brief draft you get after the Scoping Call, so the case is written down before you pay anything.</p>
+        </details>
+        <details>
           <summary>Why is the Scoping Call free?</summary>
           <p>Some founders who take it ask me to run the Sprint. That's how I earn. The rest keep the scope.</p>
         </details>
@@ -705,6 +750,10 @@
           <p>Speed, mostly: 10 days instead of six weeks of internal roadmap displacement, when pulling two engineers off the roadmap costs roughly $30K in salary before the opportunity cost. The rest is judgment. Knowing which workflow to ship first is harder than building it, and a fixed price on a fixed timeline keeps the scope honest.</p>
         </details>
         <details>
+          <summary>We tried building an AI feature and it stalled. Why would this be different?</summary>
+          <p>Most AI features stall in the same three places: a demo that worked on five examples, no agreement on what good output looks like, and nobody owning the last stretch to production. The Sprint is built against all three. Day 1 ends with a signed Brief that names one user, one input, one output, and the acceptance criteria. Day 5 is a working prototype on your real data, or you stop and get your money back. Days 6 to 9 are the edge cases, error states, and prompt tuning that demos skip, scored against the output rubric.</p>
+        </details>
+        <details>
           <summary>How is this different from an AI consulting firm?</summary>
           <p>This Sprint ships a working AI workflow into your codebase by Day 10, where AI consulting firms deliver decks and roadmaps. The category is "Forward Deployed AI Engineering": the same shape of work OpenAI's Deployment Company and Anthropic's deployment arm sell to Fortune 500 customers, at a different price point.</p>
         </details>
@@ -714,7 +763,11 @@
         </details>
         <details>
           <summary>What kinds of AI workflows do you build?</summary>
-          <p>Narrow workflows with one input, one output, and one user: investor update assistants, runway scenario explainers, customer summary generators, support ticket summarizers, report generators, and onboarding assistants. The common shape: narrow input, narrow output, single user, measurable improvement, human-in-the-loop review.</p>
+          <p>Narrow workflows with one input, one output, and one user: investor update assistants, runway scenario explainers, customer summary generators, support ticket summarizers, report generators, and onboarding assistants. The common shape: narrow input, narrow output, single user, measurable improvement, human-in-the-loop review. Thirty more examples, by team, are in <a href="/ai-workflows-for-saas/">AI use cases for B2B SaaS</a>.</p>
+        </details>
+        <details>
+          <summary>Do you build AI agents?</summary>
+          <p>Yes, when the workflow needs one: when the model has to call tools, look things up in your systems, or take several steps to produce its output. Many Sprint workflows reach your systems through MCP servers for exactly that. What I don't build in a first Sprint is an agent that acts on customers without a person approving it. Every v1 keeps a human in the loop, and autonomy comes later, when your team decides it's earned.</p>
         </details>
         <details>
           <summary>What if our data isn't ready?</summary>
@@ -738,7 +791,7 @@
         </details>
         <details>
           <summary>What happens after Day 10?</summary>
-          <p>Your team runs the workflow, and there are three paths from there. Most teams take the workflow and run with it. The rubric and playbook are designed for self-service maintenance. Some come back for a second Sprint with a different workflow. Some sign an ongoing engagement for governance and iteration. All three are explicit options at handoff.</p>
+          <p>Your team runs the workflow. The rubric and playbook are built so they can maintain it without me, and most teams do. If you want a second workflow, book another Sprint within <span data-sprint="returningLockMonths">6</span> months of handoff and it runs at the price you paid for the first. There's no retainer to keep the first one running.</p>
         </details>
       </section>
 
@@ -762,7 +815,7 @@
           <dt>Workflow</dt>
           <dd>A specific process a user runs with clear inputs and outputs, producing a measurable improvement. The unit of work shipped in a Sprint. Not a "feature."</dd>
           <dt>Sprint Brief</dt>
-          <dd>The one-to-two-page document written on Day 1 of a Sprint that defines scope, success criteria, deliverables, and explicit out-of-scope items. Part of the contract.</dd>
+          <dd>The one-to-two-page document written on Day 1 of a Sprint that defines scope, success criteria, the value line, deliverables, and explicit out-of-scope items. Part of the contract.</dd>
           <dt>Output Quality Rubric</dt>
           <dd>A 1 to 5 scoring checklist tuned to a specific workflow, used to evaluate generated outputs consistently after handoff.</dd>
           <dt>MCP</dt>
@@ -824,7 +877,7 @@
     </footer>
   </div>
   <script src="/assets/subscribe.js" defer></script>
-  <script src="/assets/sprint/sprint.js?v=20260923" defer></script>
+  <script src="/assets/sprint/sprint.js?v=20261014" defer></script>
   <!-- Cloudflare Web Analytics (cookie-free; no consent banner needed) -->
   <script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "d6d2370914094673b44c7d91dc968702"}'></script>
 </body>

@@ -14,6 +14,7 @@
     "discoveryDay": 500
   },
   "supportDays": 30,
+  "returningLockMonths": 6,
   "urls": {
     "scorecard": "/scorecard/",
     "call": "/call/",

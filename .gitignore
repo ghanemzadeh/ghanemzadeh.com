@@ -6,6 +6,7 @@ FDE-Cover-*.png
 Forward-Deployed-AI-Engineering-digital.pdf
 Forward_Deployed_AI_Onboarding_Booklet.docx
 mockuphone/
+AIAgencyPlaybook/
 
 # Private working docs (strategy, not for the public site)
 GEO-OFFSITE-PLAYBOOK.md
@@ -15,6 +16,7 @@ GEO-BASELINE-*.md
 ai-feature-sprint-prd-final.md
 claude-code-ai-feature-sprint-page-improvements.md
 sprint_page_polish_prompt.md
+SPRINT-SALES-PLAYBOOK.md
 CHANGES.md
 
 # Last commit pinged by scripts/indexnow.mjs --changed (local state)

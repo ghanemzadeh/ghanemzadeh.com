@@ -98,6 +98,7 @@
       depositPercent: p.depositPercent + '%',
       discoveryDayPrice: formatMoney(p.discoveryDay, p.currency),
       supportDays: String(cfg.supportDays),
+      returningLockMonths: String(cfg.returningLockMonths),
       deposit: cfg.urls.deposit || '',
       booking: cfg.urls.booking,
       proofVideo: cfg.urls.proofVideo || '',
