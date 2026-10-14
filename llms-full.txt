@@ -285,18 +285,18 @@ Thirty more, grouped by team, with the data each one needs and whether it fits a
 
 ### A concrete example: Investor Update Assistant
 
-Here's a workflow I've built into Vectig, the AI-native startup finance product I'm developing in parallel. The Investor Update Assistant pulls structured monthly metrics (MRR, burn, runway, hires, churn, key wins), takes 3–5 sentences of founder-written context, and generates a clean investor update draft. The founder edits, approves, and sends. Average time from open to send: 8 minutes vs. the typical 90+ minutes of blank-page writing.
+Here's a workflow I've built into Vectig, the AI-native startup finance product I'm developing in parallel. The Investor Update Assistant pulls structured monthly metrics (MRR, burn, runway, hires, churn, key wins), takes 3–5 sentences of founder-written context, and generates a clean investor update draft. The founder edits, approves, and sends. In my own test runs, open to send took about 8 minutes, against the 90+ minutes a blank-page update usually takes.
 
 What you'd get in a Sprint: the workflow scoped to your data sources (Stripe, your spreadsheet, your CRM, whatever you use), a working prompt with output quality rubric, integration into your existing product or admin tool, and the handoff document so your team can maintain and iterate. Two weeks. Live by Day 10.
 
 ### The numbers I can show you today
 
-Every Sprint workflow ships with an output quality rubric, so each engagement produces its own before-and-after numbers. No Sprint has closed yet, so the two rows below come from the one live implementation that exists: the Investor Update Assistant running in Vectig, my own product.
+Every Sprint workflow ships with an output quality rubric, so each engagement produces its own before-and-after numbers. No Sprint has closed yet, and Vectig is still early, so the two rows below come from my own test runs of the Investor Update Assistant during development, not from customer usage.
 
 | Metric | Before | After | Sample |
 | --- | --- | --- | --- |
-| Investor update draft time, open to send | 90+ minutes of blank-page writing | 8 minutes | Live Vectig implementation |
-| Output quality rubric score | Not measured | 4-of-5 average across accuracy, clarity, honesty, and ask-coverage | First 30 sample runs |
+| Investor update draft time, open to send | 90+ minutes of blank-page writing | 8 minutes | My test runs during development |
+| Output quality rubric score | Not measured | 4-of-5 average across accuracy, clarity, honesty, and ask-coverage | 30 test runs during development |
 
 The draft-time number measures the founder's full loop: open the workflow, review the generated draft, edit, and send. The rubric score is the average across the four dimensions the workflow is graded on, scored run by run.
 
@@ -443,6 +443,12 @@ Refine the workflow, handle edge cases, add error states, improve prompts, prepa
 
 Staging deployment, production-ready pull request, or implementation handoff, depending on your infrastructure and access.
 
+### Why Day 1 decides the Sprint
+
+I learned this on my own product first. The first AI features I built for Vectig were based on the wrong hypothesis: they solved a problem founders didn't actually have. It took conversations with founders, more research, and several pivots before the workflow pointed at something they really need.
+
+Most stalled AI features go wrong the same way, before any code is written. So the Sprint starts by pinning the workflow down in one signed sentence, with the person who'll use it, and nothing gets built until that sentence holds.
+
 ### How a Sprint gets scoped on Day 1
 
 Every Sprint Brief is written around a single sentence:
@@ -567,7 +573,7 @@ A full refund, at either of two checkpoints. No working prototype on your data b
 
 #### Do you have case studies?
 
-Not yet. This is a new offer. What you can see is my own product running in production and the walkthrough video. That's why the price is $5,000 through November and why the guarantee is a full refund.
+Not yet. This is a new offer. What you can see is the same kind of workflow built into Vectig, my own product, with numbers from my own test runs. That's why the price is $5,000 through November and why the guarantee is a full refund.
 
 #### Why pay you instead of using your own engineers?
 
