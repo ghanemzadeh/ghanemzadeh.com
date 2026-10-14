@@ -76,7 +76,7 @@ One is about judgment, one about the role, one about the operating practice unde
 
 - 02 **Pangouan.** Founding Head of Product until 2026. Joined before there was a product, a team, or a user, and built all three.
 
-- 03 **Finnova.** Co-founder. A coworking space and accelerator backing early-stage startups. Seeing the ecosystem from the investor side changes how you think about everything.
+- 03 **Finnova.** Founder and first managing director. A coworking space and accelerator backing early-stage startups. Seeing the ecosystem from the investor side changes how you think about everything.
 
 - 04 **Iran Startups.** Co-founder of a founder community. Earlier, ran [Techly](https://techly.me/), an English-language publication covering the Iranian startup ecosystem from 2014 to 2016, and wrote about The Lean Startup in Persian on the [Business of Software](https://businessofsoftware.ir/) blog when almost no one in Iran was talking about it.
 
@@ -529,7 +529,7 @@ I'm Nasser Ghanemzadeh, a former CEO/CPO and product leader with 17+ years build
 
 - Exited Nivo (200K+ users, 450% revenue growth, acquired). Press coverage in Forbes, TechCrunch, Al Jazeera, HuffPost.
 
-- Founding Head of Product at Pangouan. Co-founder of Iran Startups. Former accelerator lead at Finnova.
+- Founding Head of Product at Pangouan. Co-founder of Iran Startups. Founder and first managing director of Finnova.
 
 - Currently building Vectig (AI-native startup finance), shipped daily with Claude Code and MCP.
 
@@ -1145,7 +1145,7 @@ The three books are about the same thing seen from different angles. Daily Wisdo
 
 ### About the author
 
-I'm Nasser Ghanemzadeh, a [Forward Deployed AI Engineer](https://ghanemzadeh.com/forward-deployed-ai-engineer/) for founder-led B2B SaaS. 17+ years building products and companies across AI, SaaS, and fintech. Former CEO and CPO at Nivo (acquired, 200K+ users, 450% revenue growth), Founding Head of Product at Pangouan, and co-founder of Finnova and the Iran Startups community. My work has been covered in Forbes, TechCrunch, Al Jazeera, and HuffPost.
+I'm Nasser Ghanemzadeh, a [Forward Deployed AI Engineer](https://ghanemzadeh.com/forward-deployed-ai-engineer/) for founder-led B2B SaaS. 17+ years building products and companies across AI, SaaS, and fintech. Former CEO and CPO at Nivo (acquired, 200K+ users, 450% revenue growth), Founding Head of Product at Pangouan, founder and first managing director of Finnova, and co-founder of the Iran Startups community. My work has been covered in Forbes, TechCrunch, Al Jazeera, and HuffPost.
 
 Today I run the [FDE Sprint](https://ghanemzadeh.com/ai-feature-sprint/) and build [Vectig](https://vectig.com) in public with Claude Code. More on the [home page](https://ghanemzadeh.com/).
 
@@ -2091,7 +2091,7 @@ Three promises. Every quotation was verified against a primary source before it 
 
 ### About the author
 
-I'm Nasser Ghanemzadeh. 17+ years building products and companies across AI, SaaS, and fintech. Former CEO and CPO at Nivo (acquired, 200K+ users), Founding Head of Product at Pangouan, and co-founder of Finnova and the Iran Startups community. Currently building [Vectig](https://vectig.com) solo with Claude Code and running the [FDE Sprint](https://ghanemzadeh.com/ai-feature-sprint/) for founder-led B2B SaaS teams.
+I'm Nasser Ghanemzadeh. 17+ years building products and companies across AI, SaaS, and fintech. Former CEO and CPO at Nivo (acquired, 200K+ users), Founding Head of Product at Pangouan, founder and first managing director of Finnova, and co-founder of the Iran Startups community. Currently building [Vectig](https://vectig.com) solo with Claude Code and running the [FDE Sprint](https://ghanemzadeh.com/ai-feature-sprint/) for founder-led B2B SaaS teams.
 
 I have been the founder watching runway and the manager building the machine. Finnova, a coworking space and accelerator, showed me the ecosystem from the investor side. The three readers in this book are three jobs I have held or sat across the table from.
 
@@ -2464,7 +2464,7 @@ That's it. No data dumps, no NDAs to sign before the call. We sign a mutual NDA 
 
 ### Why work with me
 
-I'm Nasser Ghanemzadeh. I've spent 17+ years on the customer side of software, as CEO, CPO, and product lead. I built and exited Nivo (200K+ users, 450% revenue growth, acquired), led product at Pangouan, co-founded Iran Startups, and ran the Finnova accelerator. These days I build Vectig, an AI-native startup finance product, shipped daily with Claude Code and MCP.
+I'm Nasser Ghanemzadeh. I've spent 17+ years on the customer side of software, as CEO, CPO, and product lead. I built and exited Nivo (200K+ users, 450% revenue growth, acquired), led product at Pangouan, co-founded Iran Startups, and founded Finnova, where I was the first managing director. These days I build Vectig, an AI-native startup finance product, shipped daily with Claude Code and MCP.
 
 **Speaking on AI-native product development:** OMR Festival, re:publica, GITEX EUROPE.
 
