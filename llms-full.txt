@@ -1038,11 +1038,11 @@ URL: https://ghanemzadeh.com/books-like-the-daily-stoic/
 
 ## Books like The Daily Stoic for founders, investors, and managers
 
-The Daily Stoic made the one-page-a-day book popular again. If you decide for a living, five more in the same format are worth a year: The Daily Laws for power and people, The Daily Drucker for management, Limitless Daily for focus and learning, Tolstoy's A Calendar of Wisdom for the oldest version of the form, and Daily Wisdom for mental models, misjudgment, and money.
+The Daily Stoic made the one-page-a-day book popular again. If you decide for a living, six more in the same format are worth a year: The Daily Laws for power and people, The Daily Drucker for management, The Daily Pressfield for doing the work, Limitless Daily for focus and learning, Tolstoy's A Calendar of Wisdom for the oldest version of the form, and Daily Wisdom for mental models, misjudgment, and money.
 
 By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated October 2026.
 
-### The six books
+### The seven books
 
 #### 1. The Daily Stoic, by Ryan Holiday and Stephen Hanselman (2016)
 
@@ -1060,11 +1060,15 @@ Greene distilled his books on power, seduction, mastery, strategy, and human nat
 
 The oldest book here. Tolstoy spent his last years collecting thoughts from philosophers, prophets, and writers, grouped by a topic for each day, with his own reflections added. Peter Sekirin's English translation appeared in 1997. It is a book about how to live rather than how to decide, and it is the reminder that the daily form is a practice, not a modern productivity trick.
 
-#### 5. Limitless Daily, by Jim Kwik (2026)
+#### 5. The Daily Pressfield, by Steven Pressfield (2023)
+
+365 days, plus a bonus week, from the author of *The War of Art*. Each day opens with a passage from Pressfield's work, among them *The War of Art*, *Gates of Fire*, and his Writing Wednesdays blog, followed by his commentary on it. Victor Juhasz drew one illustration for each week. The book follows a project rather than the calendar: you open to page one when you start a book, an album, or a company, and it walks with you to the finish. The subject is Resistance, Pressfield's name for the force that keeps you from starting the work that matters, and the professional habits that beat it. It is written for writers and artists first, but anyone building a company from nothing will recognize the enemy. It is better on showing up to do the work than on judging which work to do.
+
+#### 6. Limitless Daily, by Jim Kwik (2026)
 
 From the author of *Limitless*, published in September 2026. Kwik turns his brain training into 366 short morning pages on the instrument you decide with, across five areas: mindset, focus, flow, learning, and habits. Each page is one small idea, built to be read in a few minutes before the day starts. It is the most practical book on this list about attention and learning, and the least about money, markets, or managing people.
 
-#### 6. Daily Wisdom, by Nasser Ghanemzadeh (2026)
+#### 7. Daily Wisdom, by Nasser Ghanemzadeh (2026)
 
 366 one-page meditations for founders, investors, and managers, in the mental-model tradition of Charlie Munger and Peter Bevelin. Each page has three parts: a quotation checked against its primary source, an essay of about 250 words, and one question or action to carry into the day. The year is a course: the latticework of mental models in January, the psychology of misjudgment in February and March, then the mathematics of wisdom, money, the investor's temperament, the manager's craft, the founder's path, and a not-to-do list built from history's disasters. It is the one on this list written for decisions with money, runway, and other people's trust at stake. Full disclosure: I wrote this one.
 
@@ -1078,6 +1082,7 @@ From the author of *Limitless*, published in September 2026. Kwik turns his brai
 | The Daily Laws | Power, strategy, and human nature | A page distilled from Greene's books, under a monthly theme | Reading people and organizations |
 | The Daily Drucker | Management and effectiveness | A Drucker reading and an action point | Managers and executives |
 | A Calendar of Wisdom | How to live | Collected thoughts on one topic, with Tolstoy's reflections | Life questions, not business ones |
+| The Daily Pressfield | Resistance, creative work, and turning pro | A passage from Pressfield's work and his commentary on it, from a project's first day to its last | Founders and creators who keep putting off the real work |
 | Limitless Daily | The brain: mindset, focus, learning, and habits | One short idea for the morning, from Kwik's brain training | Anyone who wants sharper focus and faster learning |
 | Daily Wisdom | Mental models, misjudgment, and money | A verified quotation, a short essay, and one question or action | Founders, investors, and managers making costly decisions |
 
@@ -1088,6 +1093,8 @@ From the author of *Limitless*, published in September 2026. Kwik turns his brai
 - **You keep misreading people.** The Daily Laws.
 
 - **You run a team and want to run it better.** The Daily Drucker.
+
+- **You know what to do and keep not doing it.** The Daily Pressfield.
 
 - **Your bottleneck is focus or learning speed.** Limitless Daily.
 
@@ -1113,7 +1120,7 @@ Yes. Daily Wisdom for Founders, Investors, and Managers is 366 one-page meditati
 
 #### Do you have to start a daily book on January 1?
 
-No. Each book on this list is organized by date, so you can start on today's page and go round the year from there. A second year through the same book reads differently from the first, because you are making different decisions.
+No. Most books on this list are organized by date, so you can start on today's page and go round the year from there. The Daily Pressfield is the exception: it follows a project from start to finish rather than the calendar, so you open to page one when you begin something new. A second year through the same book reads differently from the first, because you are making different decisions.
 
 Want to try a month first? [Daily Wisdom](https://ghanemzadeh.com/books/daily-wisdom/) is out on Kindle, in paperback, and in hardcover, and the November sampler, all thirty days of The Not-To-Do List with the decision journal, goes free to anyone who joins [the newsletter](https://ghanemzadeh.com/newsletter/).
 
@@ -2163,7 +2170,7 @@ No. The book is for general education. It is not investment, legal, tax, or medi
 
 - [Founder Mode](https://ghanemzadeh.com/book/). How the great companies are actually built.
 
-- [Books like The Daily Stoic](https://ghanemzadeh.com/books-like-the-daily-stoic/). Six one-page-a-day books for people who decide for a living, compared.
+- [Books like The Daily Stoic](https://ghanemzadeh.com/books-like-the-daily-stoic/). Seven one-page-a-day books for people who decide for a living, compared.
 
 - [The newsletter](https://ghanemzadeh.com/newsletter/). One email a week from the same desk.
 
