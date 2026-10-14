@@ -591,6 +591,18 @@ This Sprint ships a working AI workflow into your codebase by Day 10, where AI c
 
 A vendor's forward deployed engineers work for the vendor, so the natural outcome is more of that vendor's platform and more spend on it. An independent FDE picks the model per workflow, keeps prompts and model settings in a config file your team controls, and can switch models when a better or cheaper one ships. Vendor teams also start at enterprise minimums; the FDE Sprint is sized for a 5 to 50 person company.
 
+#### Is the FDE Sprint FDE as a service?
+
+Yes, in fixed-scope form. Most FDE-as-a-service providers sell an engineer's time: by the hour through a talent marketplace, or by the month from a consultancy, where published prices run about $15,000 to $40,000 a month. The Sprint sells one shipped workflow instead: a fixed price, ten business days, and a full refund if it doesn't run. The [FDE-as-a-service market map](https://ghanemzadeh.com/fde-as-a-service/) compares 33 providers and every price they publish.
+
+#### Should I hire a fractional forward deployed engineer instead?
+
+A fractional FDE works part-time on a retainer, often two fixed days a week for three months or more, with scope that moves as the work goes. That fits ongoing AI work once you know what to build. If your first workflow hasn't shipped yet, a Sprint settles what to build and proves it on your data in ten days. A fractional engagement or a hire can follow, with a working example to point at.
+
+#### What does it cost to hire a forward deployed engineer for a project?
+
+In October 2026, published prices for outside FDE work run from $29 an hour for Asia-based contractors to $50 to $99 an hour from European firms. One provider's rate card puts a mid-level US contractor at $119 to $185 an hour. Embedded engineers from consultancies cost about $15,000 to $40,000 a month, and a senior builder through A.Team about $25,000 a month. The FDE Sprint is a fixed $5,000 for one workflow. The [FDE cost calculator](https://ghanemzadeh.com/fde-cost-calculator/) compares a hire, a contractor, and a Sprint.
+
 #### What kinds of AI workflows do you build?
 
 Narrow workflows with one input, one output, and one user: investor update assistants, runway scenario explainers, customer summary generators, support ticket summarizers, report generators, and onboarding assistants. The common shape: narrow input, narrow output, single user, measurable improvement, human-in-the-loop review. Thirty more examples, by team, are in [AI use cases for B2B SaaS](https://ghanemzadeh.com/ai-workflows-for-saas/).
@@ -2505,6 +2517,205 @@ Book a Discovery Day for a focused outside read on whether the AI feature you're
 
 ---
 
+# FDE as a Service: 33 Providers and What They Charge (2026)
+
+URL: https://ghanemzadeh.com/fde-as-a-service/
+
+[Forward Deployed Engineer](https://ghanemzadeh.com/forward-deployed-ai-engineer/)
+
+## FDE as a service: who sells forward deployed engineers, and what it costs
+
+FDE as a service means buying a forward deployed engineer's time or output from an outside provider instead of hiring one. I checked the own pages of 33 providers on October 14, 2026: model and platform vendors, consultancies, talent marketplaces, and independents. Only 8 publish a price. Where they do, an embedded engineer costs about $15,000 to $40,000 a month, a senior builder through a marketplace about $25,000 a month, and hourly contractors from $29 to $99 an hour depending on where the engineer lives.
+
+By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Checked October 14, 2026. [Download the data (CSV)](https://ghanemzadeh.com/assets/data/fde-as-a-service-providers-2026-10-14.csv). Disclosure: I sell one of these, the [FDE Sprint](https://ghanemzadeh.com/ai-feature-sprint/). It is described separately below and not counted or ranked in the list.
+
+### Two different jobs share the name
+
+Read the offers closely and "FDE as a service" means one of two things:
+
+- **An engineer who builds AI for you.** The FDE embeds in your team and ships AI into your product or operations. The vendor arms, most consultancies, and the independents sell this.
+
+- **An engineer who staffs your customer deployments.** Software companies that need FDEs at their own customers rent them under their brand. A.Team Deployed, Appsierra, Brilliantech, and several marketplaces sell this.
+
+Check which one a provider means before comparing prices.
+
+### What the market looks like
+
+- **Most sell time, not outcomes.** The common unit is an embedded engineer by the month or the hour. Fixed-scope offers are rare: Orq.ai's four-week, one-agent engagement on its own platform, Dinacode's fixed cost per sprint, and pilots from CHI Software, Brilliantech, and Phos AI Labs.
+
+- **Prices are mostly hidden.** 25 of 33 providers publish no price, including every large vendor. Several sell through AWS Marketplace private offers.
+
+- **Guarantees are about people, not results.** Replacement guarantees are common (Uvik Software, AY Automate, Uplers), and Terminal and Index.dev offer risk-free trial periods. Only Adaptive ML mentions a money-back guarantee tied to delivery.
+
+- **Vendor arms come with a platform.** OpenAI, AWS, Microsoft, Anthropic's services company, Vercel, Adaptive ML, and Orq.ai build on their own models or platforms.
+
+### Every published price
+
+The 8 providers that show a price on their own page, quoted as published.
+
+| Provider | Type | Price as published | How you pay |
+| --- | --- | --- | --- |
+| Brilliantech | Consultancy | POCs from $8,000; embedded $15,000 to $40,000 a month; multi-site pods from $50,000 | Pilot, monthly embed, or pod |
+| Phos AI Labs | Consultancy | Audit from $10,000; embedded delivery from $15,000 a month (its homepage says from $10,000 a month) | Audit, then monthly embed |
+| AY Automate | Consultancy | Single embedded FDE from $60,000 a year | Full-time embedded engineer |
+| Uvik Software | Consultancy | $50 to $99 an hour by role; engagements start at $25,000 (the page shows slightly different bands in places) | Hourly, monthly statement of work |
+| Beetroot | Consultancy | $65 to $95 an hour on sample FDE profile cards | Time-boxed mission |
+| A.Team | Marketplace | About $25,000 a month for a senior builder, fully loaded | Monthly, per engagement |
+| Second Talent | Marketplace | From $29 an hour, payroll and equipment included | Hourly |
+| Uplers | Marketplace | "Starts at $2500" (the page doesn't say per what) | Contract or full-time |
+
+### Model and platform vendors (7)
+
+AI labs and platform companies selling their own engineers to their customers. None publishes a price, and the work runs on their own models or platform. OpenAI and Microsoft aim at enterprises; Anthropic's services company at mid-sized companies.
+
+- **[OpenAI Deployment Company](https://openai.com/index/openai-launches-the-deployment-company/)**A majority-owned OpenAI business that places forward deployed engineers inside customer organizations. It is acquiring Tomoro for about 150 FDEs, subject to regulatory approval. How you pay: Engagement, enterprise · Price: Not published · Terms: Starts with a diagnostic, then a few priority workflows
+
+- **[AWS Forward Deployed Engineering](https://www.aboutamazon.com/news/aws/aws-1-billion-forward-deployed-ai-engineers)**A $1 billion AWS unit that embeds AWS engineers with customers to build agentic AI systems in the customer's AWS account. How you pay: Engagement · Price: Not published · Terms: "Structured around shared goals and business results, not billable hours"
+
+- **[Microsoft Frontier Company](https://www.microsoft.com/en-us/frontier-company)**A Microsoft business built on the FDE model that embeds Microsoft engineering, industry, and AI staff inside customer organizations. How you pay: Engagement, enterprise · Price: Not published · Terms: Tied to business outcomes
+
+- **[Anthropic's enterprise AI services company](https://www.anthropic.com/news/enterprise-ai-services-company)**A services firm backed by Anthropic with Blackstone, Hellman & Friedman, and Goldman Sachs, in which Anthropic's Applied AI engineers and the firm's own engineers build Claude systems. Anthropic's page does not use the term forward deployed. How you pay: Engagement, mid-sized companies · Price: Not published · Terms: Not stated
+
+- **[Vercel](https://aws.amazon.com/marketplace/pp/prodview-d2r2q5noszttm)**Vercel's own forward deployed engineers, embedded for Vercel and Next.js migrations, performance work, and AI builds on its platform. How you pay: Private offer on AWS Marketplace · Price: Not published · Terms: Not stated
+
+- **[Adaptive ML](https://aws.amazon.com/marketplace/pp/prodview-tt2xc7rn4pkfe)**Forward deployed ML engineers who fine-tune and deploy models and agents on Adaptive ML's platform inside the customer's cloud. How you pay: Private offer on AWS Marketplace · Price: Not published · Terms: "Outcome-backed delivery with a money-back guarantee"
+
+- **[Orq.ai](https://orq.ai/solutions/forward-deployed-engineering)**Orq.ai's engineers work inside the customer's team for four weeks to ship one AI agent on the customer's stack, using Orq.ai's LLM platform. How you pay: Fixed four-week engagement · Price: Not published · Terms: One AI agent shipped to production in four weeks
+
+### Consultancies and services firms (18)
+
+The largest group. Most sell an embedded senior engineer or a small pod by the month or under a statement of work, and most quote prices after a call.
+
+- **[Brilliantech](https://brilliantechsoft.com/staff-augmentation-services/hire-forward-deployed-engineer)**An India-based staff augmentation firm that embeds FDEs, including in a software company's customer environments. How you pay: Pilot, monthly embed, or pod · Price: POCs from $8,000; embedded $15,000 to $40,000 a month; multi-site pods from $50,000 · Terms: Proposal within 24 hours of a free consultation
+
+- **[Phos AI Labs](https://phosailabs.com/blog/best-forward-deployed-ai-engineers)**A US AI consulting firm describing its work as FDE-caliber embedded delivery. The prices come from a ranking post in which it lists itself first. How you pay: Audit, then monthly embed · Price: Audit from $10,000; embedded delivery from $15,000 a month (its homepage says from $10,000 a month) · Terms: Aimed at US mid-market companies with $5M+ revenue
+
+- **[AY Automate](https://www.ayautomate.com/services/forward-deployed-engineers)**An AI automation firm that places a full-time, nearshore embedded FDE and quotes narrower engagements after a call. How you pay: Full-time embedded engineer · Price: Single embedded FDE from $60,000 a year · Terms: Placement in 2 to 4 weeks; 90-day replacement guarantee
+
+- **[Uvik Software](https://uvik.net/technologies/hire-forward-deployed-engineers/)**A Tallinn-headquartered software company that places its in-house senior engineers as embedded FDEs. How you pay: Hourly, monthly statement of work · Price: $50 to $99 an hour by role; engagements start at $25,000 (the page shows slightly different bands in places) · Terms: 30 days notice, no auto-renew; 30-day free replacement; profiles within 48 hours
+
+- **[Beetroot](https://beetroot.co/services/forward-deployed-engineering/)**A software services company with engineers in Ukraine, Poland, Bulgaria, and Vietnam, building LLM workflows, RAG, and agentic systems. How you pay: Time-boxed mission · Price: $65 to $95 an hour on sample FDE profile cards · Terms: 1 to 2 week assessment, 1 to 3 month embed, then handoff
+
+- **[Entrans](https://www.entrans.ai/solutions/fde-as-a-service)**Sells "FDE as a Service" for AI agent deployment, legacy modernization, and systems integration. Its cost guide puts the market at $15,000 to $40,000 a month. How you pay: PoC sprint or long-term embed · Price: Not published · Terms: Aimed at enterprises
+
+- **[CHI Software](https://chisw.com/ai/forward-deployed-engineering-services/)**A software development company selling phased FDE engagements with senior engineers on-site or remote, aimed at regulated enterprises. How you pay: Fixed-scope pilot, then phased · Price: Not published · Terms: Pilot with fixed scope and a written risk assessment
+
+- **[ClearScale](https://aws.amazon.com/marketplace/pp/prodview-3zfqx7y7cew2w)**An AWS Premier partner selling one dedicated lead FDE as a fixed monthly commitment. How you pay: Monthly subscription on AWS Marketplace · Price: Flat monthly fee for one lead FDE; amount not public · Terms: Private offers for multi-FDE pods
+
+- **[Jefferson Frank](https://aws.amazon.com/marketplace/pp/prodview-ccwm56w43gwpy)**Sells one dedicated AWS-certified FDE embedded in the buyer's team, backed by AWS architects. How you pay: Monthly subscription on AWS Marketplace · Price: "Predictable monthly pricing"; amount not public · Terms: Not stated
+
+- **[The Cloud Catalysts](https://aws.amazon.com/marketplace/pp/prodview-5l5gdtn27ipa4)**Embeds an FDE from its delivery network for AI and AWS builds. How you pay: Statement of work on AWS Marketplace · Price: Not published · Terms: Free discovery assessment
+
+- **[Sia Partners](https://www.sia-partners.com/en/our-capabilities/forward-deployed-engineering-a-service)**A management consultancy selling FDE as a service in three formats for enterprises. How you pay: Single FDE, squad, or platform rollout · Price: Not published · Terms: Scoped within two weeks to a build path with a first milestone
+
+- **[IBM Consulting](https://newsroom.ibm.com/2026-05-14-A-New-Way-to-Make-AI-Actually-Work-in-the-Real-World)**Small senior pods of specialists working with AI agents, embedded with client teams on IBM's delivery platform. How you pay: Forward Deployed Units · Price: Not published · Terms: Not stated
+
+- **[HatchWorks AI](https://hatchworks.com/forward-deployed-engineers/)**An AI services firm embedding a senior AI FDE or a small delivery team, plus a fractional Chief AI Officer offer. How you pay: Single FDE or team · Price: Not published · Terms: Not stated
+
+- **[&above](https://www.andabove.com/services/forward-deployed-engineers)**A London AI build partner that hires and manages senior AI engineers and embeds them in UK client teams. How you pay: Embedded engineers against a scoped workflow · Price: Not published · Terms: "In weeks"
+
+- **[Nextbrick](https://nextbrick.com/services/forward-deployed-engineers)**An enterprise search and AI company selling its senior engineers as embedded FDEs. How you pay: Outcome-scoped engagement · Price: Not published · Terms: Scoped around results, not hours
+
+- **[Dinacode](https://www.dinacode.com/en/forward-deployed-engineer)**A Valencia software studio whose embedded engineers audit a workflow, then build AI agents for it. How you pay: Fixed cost per sprint · Price: Fixed per sprint; amount not published · Terms: Two-week audit, first agent in production in 4 to 8 weeks
+
+- **[Appsierra](https://www.appsierra.com/hire/hire-forward-deployed-engineers)**An India-based firm selling an embedded engineer or pod to work inside a software company's customer accounts. How you pay: Engineer or pod · Price: Quoted after a call · Terms: Paid pilot; "cancel anytime"
+
+- **[ILMTEC](https://ilmtec.ai/blog/forward-deployed-engineering-as-a-service-cost/)**An AI firm with offices in Pune, Dubai, and Berlin offering embedded engineers. The $8,000 to $30,000 a month on its page is described as the market rate, not its own price. How you pay: Monthly retainer or fixed 6-week cycle · Price: Not published · Terms: "Built in 6 weeks"
+
+### Talent marketplaces (7)
+
+Platforms that match you with a contract, fractional, or full-time FDE. Several are built for software companies that need FDEs at their own customers, not for teams that want AI built for themselves.
+
+- **[A.Team](https://www.a.team/hire-forward-deployed-engineers)**A talent network supplying senior engineers or pods that embed at a software company's own customers, under that company's brand. How you pay: Monthly, per engagement · Price: About $25,000 a month for a senior builder, fully loaded · Terms: Named, priced profiles in 3 to 5 business days
+
+- **[Second Talent](https://www.secondtalent.com/hire-developers/forward-deployed-engineer/)**An Asia-focused hiring and employer-of-record platform placing remote FDEs from Vietnam, the Philippines, India, and elsewhere with US startups. How you pay: Hourly · Price: From $29 an hour, payroll and equipment included · Terms: Shortlist in 24 hours
+
+- **[Uplers](https://www.uplers.com/hire-forward-deployed-engineers/)**An India-focused hiring platform that shortlists FDEs and handles payroll and legal work for India hires. How you pay: Contract or full-time · Price: "Starts at $2500" (the page doesn't say per what) · Terms: 30 days cancellation; replacement guarantees; 3 to 5 candidates in 48 hours
+
+- **[Index.dev](https://www.index.dev/hire/forward-deployed-engineer)**Matches vetted FDEs from Latin America and Central and Eastern Europe, pitched at SaaS companies scaling AI adoption. How you pay: Month-to-month contract, direct hire, or pod · Price: Not published · Terms: 30-day risk-free trial; "in 48 hours"
+
+- **[Terminal](https://www.terminal.io/hire-developers/forward-deployed-engineers)**A nearshore hiring platform offering vetted FDEs from Latin America and Canada. How you pay: Contract, contract-to-hire, or full-time · Price: Not published · Terms: 14-day risk-free guarantee on contracts
+
+- **[Go Fractional](https://www.gofractional.com/hire/forward-deployed-engineer)**A fractional-talent network matching companies with part-time FDEs, with contract-to-hire and interim options. How you pay: Monthly retainer · Price: Not published · Terms: Matches in as little as 3 days; no recruiting fees
+
+- **[South](https://www.hireinsouth.com/roles/forward-deployed-engineer)**A Latin America hiring service that sources and pays remote FDEs for US companies. How you pay: Full-time placement · Price: Not published · Terms: Pay only if you hire; shortlist in 7 to 10 days
+
+### Independents (1)
+
+One-person practices selling their own time. Few show up in search yet; the ones that do sell retainers or fixed-scope pilots.
+
+- **[Rohit Raj](https://rohitraj.tech/services/fractional-forward-deployed-engineer)**A solo AI engineer in Bengaluru selling a fractional FDE retainer, with a fixed-scope pilot as a way in. How you pay: Fractional retainer or fixed-scope pilot · Price: Not published · Terms: Two fixed days a week, minimum 3 months
+
+### Rate cards from the market
+
+Four published estimates of what FDE time costs in general. Each publisher sells FDE services or training, so read them as their view of the market, not a neutral survey.
+
+- [Second Talent, cost to hire](https://www.secondtalent.com/cost-to-hire/forward-deployed-engineer/): US freelance or contract FDE: $95 to $142 an hour junior, $119 to $185 mid-level, $155 to $235 senior.
+
+- [Entrans, FDE cost guide](https://www.entrans.ai/blog/forward-deployed-engineer-cost): FDE as a service $15,000 to $40,000 a month; offshore $5,000 to $15,000 a month; contractors $60 to $250 an hour.
+
+- [ILMTEC, FDE-as-a-service cost guide](https://ilmtec.ai/blog/forward-deployed-engineering-as-a-service-cost/): $8,000 to $30,000 per engineer per month.
+
+- [fde.academy, fractional FDE guide](https://fde.academy/blog/fractional-forward-deployed-engineer-for-startups): Fractional FDEs at $250 to $400+ an hour (guidance for engineers setting rates, not a survey).
+
+For a full-time hire, job postings in October 2026 put the median US posted base range at $180,000 to $250,208 ([260 roles analyzed](https://ghanemzadeh.com/forward-deployed-engineer-job-market/)). The [FDE cost calculator](https://ghanemzadeh.com/fde-cost-calculator/) turns that into a first-year cost per shipped workflow.
+
+### How to choose
+
+- **You're an enterprise committed to one AI platform:** that vendor's deployment arm.
+
+- **You need an engineer embedded for months and have $15,000+ a month:** a consultancy or a marketplace contractor.
+
+- **You need ongoing help a few days a week:** a fractional FDE on a retainer.
+
+- **You need FDEs at your own customers:** a marketplace built for that, such as A.Team Deployed.
+
+- **You haven't shipped your first AI workflow yet:** a fixed-scope engagement first, so you learn what the role would do before paying for it every month.
+
+### Where my offer fits
+
+The [FDE Sprint](https://ghanemzadeh.com/ai-feature-sprint/) is the fixed-scope model, sized for founder-led B2B SaaS teams of 5 to 50: one AI workflow shipped into your product in ten business days, at a fixed $5,000, with a full refund if there's no working prototype on your data by Day 5 or the workflow isn't running to its acceptance criteria by Day 10. It is independent of any model vendor. It is not a monthly embed, and it doesn't staff your customer deployments.
+
+### How this list was made
+
+On October 14, 2026, I searched for providers selling forward deployed engineers to other companies and read each provider's own page. A provider is listed only if that page offers FDE work to buyers; prices are quoted only as they appear there. Excluded: Palantir (FDEs come bundled with its platform deals), Google Cloud and Anthropic's direct FDE team (careers pages only), Toptal and Upwork (no FDE hire page found), and firms whose only mention of FDE work is a blog post. Where a page contradicts itself, the listing says so. Providers change pages often; corrections are welcome by [email](mailto:ghanemzadeh@gmail.com).
+
+[Download the data (CSV, 33 providers)](https://ghanemzadeh.com/assets/data/fde-as-a-service-providers-2026-10-14.csv). Free to reuse with credit under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+### Frequently asked questions
+
+#### What is FDE as a service?
+
+FDE as a service means buying a forward deployed engineer's time or output from an outside provider instead of hiring one. The engineer embeds in your team, works in your codebase and data, and ships working software. In October 2026 it is sold by model and platform vendors' deployment arms, consultancies, talent marketplaces, and independent engineers.
+
+#### How much does FDE as a service cost?
+
+Of the 33 providers checked on October 14, 2026, 8 publish a price. Embedded engineers from consultancies run about $15,000 to $40,000 a month (Brilliantech, Phos AI Labs), a senior builder through A.Team is about $25,000 a month, and hourly rates run from $29 for Asia-based engineers (Second Talent) to $50 to $99 (Uvik Software). Pilots start around $8,000 to $10,000. The large vendors publish no prices.
+
+#### What is the difference between FDE as a service and a fractional FDE?
+
+FDE as a service usually means a full-time embedded engineer billed by the month. A fractional FDE works part-time on a retainer, for example two fixed days a week for at least three months, with scope that moves as the work goes.
+
+#### Should a startup buy FDE as a service or hire a forward deployed engineer?
+
+Hire when you'll need the role for years and can wait months to fill it. Buy outside FDE time when the need is a project, or you need it now. If the first AI workflow hasn't shipped yet, start with a fixed-scope engagement so you learn what the role would do before paying for it every month. The FDE cost calculator compares a hire, a contractor, and a fixed-price Sprint.
+
+#### Which FDE providers work with startups?
+
+Mostly the marketplaces. A.Team, Index.dev, Uplers, and Second Talent all pitch startups or SaaS companies, though A.Team Deployed is built for software companies staffing their own customer deployments. The vendor arms and most consultancies aim at enterprises or the mid-market.
+
+Ask your AI about this page
+
+Opens your assistant with the question ready. It reads this page and answers for your situation.
+
+[ChatGPT](https://chatgpt.com/?q=Read%20https%3A%2F%2Fghanemzadeh.com%2Ffde-as-a-service%2F%20and%20help%20me%20decide%20how%20to%20get%20forward%20deployed%20engineering%20for%20my%20company%3A%20a%20vendor%2C%20a%20consultancy%2C%20a%20marketplace%20contractor%2C%20a%20fractional%20FDE%2C%20or%20a%20fixed-scope%20engagement.%20Ask%20me%20about%20my%20product%2C%20team%2C%20budget%2C%20and%20timeline%2C%20then%20recommend%20one%20model%20and%20say%20why.)
+[Claude](https://claude.ai/new?q=Read%20https%3A%2F%2Fghanemzadeh.com%2Ffde-as-a-service%2F%20and%20help%20me%20decide%20how%20to%20get%20forward%20deployed%20engineering%20for%20my%20company%3A%20a%20vendor%2C%20a%20consultancy%2C%20a%20marketplace%20contractor%2C%20a%20fractional%20FDE%2C%20or%20a%20fixed-scope%20engagement.%20Ask%20me%20about%20my%20product%2C%20team%2C%20budget%2C%20and%20timeline%2C%20then%20recommend%20one%20model%20and%20say%20why.)
+[Perplexity](https://www.perplexity.ai/search?q=Read%20https%3A%2F%2Fghanemzadeh.com%2Ffde-as-a-service%2F%20and%20help%20me%20decide%20how%20to%20get%20forward%20deployed%20engineering%20for%20my%20company%3A%20a%20vendor%2C%20a%20consultancy%2C%20a%20marketplace%20contractor%2C%20a%20fractional%20FDE%2C%20or%20a%20fixed-scope%20engagement.%20Ask%20me%20about%20my%20product%2C%20team%2C%20budget%2C%20and%20timeline%2C%20then%20recommend%20one%20model%20and%20say%20why.)
+
+Not sure which model fits? [Score your workflow](https://ghanemzadeh.com/scorecard/) in two minutes, then [book a 15-minute Scoping Call](https://ghanemzadeh.com/call/).
+
+---
+
 # FDE Cost Calculator: Hire vs Contractor vs Sprint
 
 URL: https://ghanemzadeh.com/fde-cost-calculator/
@@ -2548,6 +2759,8 @@ Median US total compensation for the role is about $206,000 ([Levels.fyi](https:
 Cost per workflow is the fair way to compare the first few workflows, and an unfair way to compare everything after that. A full-time engineer also maintains what shipped, iterates on it when the model or your data changes, and starts the next workflow without a new contract. A contractor's cost goes up if the scope drifts, and down if the scope is already tight. A Sprint ships one narrow workflow and hands it to your team with a rubric, a playbook, and a recorded walkthrough, so it only works if someone on your team will own the result.
 
 So read the break-even line, not just the cheapest column. If you need more workflows a year than the break-even, and AI is a standing part of the roadmap, hire. If you need one or two, or you want to learn what an AI workflow takes before you write a job description, start with a Sprint. [The three options, compared in full](https://ghanemzadeh.com/forward-deployed-engineer-for-startups/).
+
+The calculator also leaves out buying an embedded FDE by the month. Where consultancies publish a price, it runs about $15,000 to $40,000 a month; the [FDE-as-a-service market map](https://ghanemzadeh.com/fde-as-a-service/) lists 33 providers and their terms.
 
 ### Frequently asked questions
 
@@ -2706,7 +2919,7 @@ Job postings in 2026 put a forward deployed engineer's base salary typically bet
 
 Posted ranges run higher than surveys of what people are paid, because a range runs to the top of the band. My [October 2026 count of 260 live forward deployed roles at 44 companies](https://ghanemzadeh.com/forward-deployed-engineer-job-market/) has the full pay, travel, location, and skills data, with the dataset to download.
 
-Base salary figures are from Recruiting from Scratch's analysis of 2026 job postings; total compensation is from Levels.fyi's US data. Individual offers vary with seniority, location, and equity. For how that lands on a small team's budget, see [what a forward deployed engineer costs a startup](https://ghanemzadeh.com/forward-deployed-engineer-for-startups/).
+Base salary figures are from Recruiting from Scratch's analysis of 2026 job postings; total compensation is from Levels.fyi's US data. Individual offers vary with seniority, location, and equity. For how that lands on a small team's budget, see [what a forward deployed engineer costs a startup](https://ghanemzadeh.com/forward-deployed-engineer-for-startups/). To buy FDE time instead of hiring, the [FDE-as-a-service market map](https://ghanemzadeh.com/fde-as-a-service/) lists 33 providers and every price they publish.
 
 ### FDE titles by company
 
@@ -2887,7 +3100,7 @@ Where it usually breaks:
 
 - **Evaluation.** Few contracts define what good output looks like. Without a rubric and test cases, nobody can tell whether a prompt change made the workflow better or worse.
 
-Contract when the scope is already tight, someone on your team will own the result, and the contract names acceptance criteria and a handoff. Weighing an agency specifically? See [AI agency vs forward deployed engineer](https://ghanemzadeh.com/ai-agency-vs-forward-deployed-engineer/).
+Contract when the scope is already tight, someone on your team will own the result, and the contract names acceptance criteria and a handoff. Weighing an agency specifically? See [AI agency vs forward deployed engineer](https://ghanemzadeh.com/ai-agency-vs-forward-deployed-engineer/). To compare the firms and platforms that rent out FDEs specifically, see the [FDE-as-a-service market map](https://ghanemzadeh.com/fde-as-a-service/).
 
 ### Option 3: a fixed-scope FDE Sprint
 
@@ -3157,6 +3370,10 @@ By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated October 2026.
 **Forward Deployed AI Engineer (FDE)**
 
 An engineer who embeds inside a customer's team and ships AI capabilities directly into the customer's product and codebase, rather than delivering a deck, a dashboard, or a demo. The delivery model comes from Palantir. OpenAI and Anthropic both launched deployment subsidiaries using it in May 2026. See the full explainer: [what is a Forward Deployed Engineer?](https://ghanemzadeh.com/forward-deployed-ai-engineer/)
+
+**FDE as a service**
+
+Buying a forward deployed engineer's time or output from an outside provider instead of hiring one. Sold by model and platform vendors' deployment arms, consultancies, talent marketplaces, and independent engineers, usually by the hour or the month. See the [FDE-as-a-service market map](https://ghanemzadeh.com/fde-as-a-service/) for 33 providers and their published prices.
 
 **Echo (Palantir)**
 
