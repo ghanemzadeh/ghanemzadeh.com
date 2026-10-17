@@ -224,12 +224,12 @@ OpenAI and Anthropic each launched a new company this year to put engineers insi
 
 Built by **Nasser Ghanemzadeh**, ex-CEO/CPO of Nivo (acquired, 200K+ users) · building Vectig in public · featured in Forbes, TechCrunch, Al Jazeera
 
-Next kickoff s: Tuesday October 20 (deposit by Thursday October 15 ) · Tuesday November 3 (deposit by Thursday October 29 ) · One Sprint at a time · $5,000 through the Tuesday November 17 kickoff, $7,500 from Tuesday December 1
+Next kickoff s: Tuesday November 3 (deposit by Thursday October 29 ) · Tuesday November 17 (deposit by Thursday November 12 ) · One Sprint at a time · $5,000 through the Tuesday November 17 kickoff, $7,500 from Tuesday December 1
 
 [Score your workflow (2 min)](https://ghanemzadeh.com/scorecard/)
 [Book a 15-minute Scoping Call](https://ghanemzadeh.com/call/)
 
-By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated Wednesday October 14.
+By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated Saturday October 17.
 
 An AI workflow running in my own product, end to end, and how one gets built into yours. 16 minutes.
 
@@ -3566,6 +3566,12 @@ Get the free chapters
 
 [All posts on Substack →](https://ghanemzadeh.substack.com/archive?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
+- [October 13, 2026 #### Kill criteria The rules you write while sane, and a co-founder dispute that cost $157.5 million because nobody wrote them.](https://ghanemzadeh.substack.com/p/kill-criteria?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
+
+- [October 6, 2026 #### The book is out today The book is out today Preview text: Today's page, reproduced in full, and how to read the other 365.](https://ghanemzadeh.substack.com/p/the-book-is-out-today?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
+
+- [September 29, 2026 #### What a round costs The bill for a financing round arrives on delay. WeWork's S-1 itemized it](https://ghanemzadeh.substack.com/p/what-a-round-costs?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
+
 - [September 22, 2026 #### First, don't die What $1.75 billion could not buy, and six questions to ask before you wire money](https://ghanemzadeh.substack.com/p/first-dont-die?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
 - [September 15, 2026 #### The book I wished someone else had written Three books in last several years, and why the first one I started is the last one out.](https://ghanemzadeh.substack.com/p/the-book-i-wished-someone-else-had?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
@@ -3583,12 +3589,6 @@ Get the free chapters
 - [August 6, 2026 #### I Fact-Checked My Own Book. It Did Not Go Perfectly. What re-verifying every number in FDE revealed, what the $9 billion summer of forward deployment means, and what version 1.5 adds.](https://ghanemzadeh.substack.com/p/i-fact-checked-my-own-book-it-did?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
 - [August 5, 2026 #### Echo and Delta: The Two Modes of One Craft Palantir split the role in two for a reason. Most AI startups compress it into one person, and the discipline is knowing which mode you're in at any given moment.](https://ghanemzadeh.substack.com/p/echo-and-delta-the-two-modes-of-one?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
-
-- [July 31, 2026 #### The $29 question Pieter Levels, Fireship, and the end of the micro-SaaS playbook.](https://ghanemzadeh.substack.com/p/the-29-question?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
-
-- [July 29, 2026 #### The FDE Arbitrage: Why Failed Founders Are the Most Undervalued Talent in AI The labor market discounts failed founders heavily. FDE hiring managers who know better are quietly capturing the spread.](https://ghanemzadeh.substack.com/p/the-fde-arbitrage-why-failed-founders?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
-
-- [July 23, 2026 #### Gravel Roads and Paved Highways: The Palantir Pattern That Runs the AI Industry For twenty years the industry dismissed Palantir's operating model as a curiosity. Then it became the consensus in about eighteen months.](https://ghanemzadeh.substack.com/p/gravel-roads-and-paved-highways-the?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
 05 · Who's writing this
 
