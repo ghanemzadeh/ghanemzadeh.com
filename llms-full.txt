@@ -1,6 +1,6 @@
 # Nasser Ghanemzadeh
 
-> Independent forward deployed AI engineer for founder-led B2B SaaS. Sells the FDE Sprint: one working AI workflow shipped into your product in ten business days, fixed price, full refund if it doesn't ship. Building Vectig in public with Claude Code. Former CEO/CPO at Nivo (acquired, 200K+ users).
+> Forward deployed AI engineer and founder of Eupraxic (https://eupraxic.com/), the firm that delivers the FDE Sprint: one working AI workflow shipped into your product in ten business days, fixed price, full refund if it doesn't ship. Building Vectig in public with Claude Code. Former CEO/CPO at Nivo (acquired, 200K+ users).
 
 Nasser Ghanemzadeh has spent 17+ years building products and companies across AI, SaaS, and fintech. As CEO and CPO of Nivo, holding both roles at once, he built the product organization and shipped AI-powered applications that grew to 200K+ users and 450% revenue growth before the company was acquired. His current commercial focus is the FDE Sprint: a 10-business-day engagement for founder-led B2B SaaS teams of 5 to 50 that ships one narrow AI workflow into their product, with fixed scope, fixed price, and a full refund if there is no working prototype by Day 5 or no working workflow by Day 10. Founders start with the free two-minute AI Workflow Scorecard and a free 15-minute Scoping Call.
 
@@ -35,7 +35,7 @@ Independent forward deployed AI engineer for founder-led B2B SaaS
 
 ## Nasser Ghanemzadeh
 
-I embed for 10 business days and ship the AI feature your roadmap keeps deferring.
+I'm a forward deployed AI engineer. Through my firm, Eupraxic, I embed for ten business days and ship one AI workflow into your product.
 
 [Book a Sprint →](https://ghanemzadeh.com/ai-feature-sprint/)
 [Get the free chapters](https://ghanemzadeh.com/newsletter/)
@@ -48,7 +48,7 @@ Built Nivo to 200K users and an acquisition as CEO and CPO. Covered in Forbes, T
 
 Everything I do feeds the same operation. Here it is, in priority order.
 
-- 01 **[The FDE Sprint.](https://ghanemzadeh.com/ai-feature-sprint/)** Ten business days embedded with a founder-led B2B SaaS team, shipping one narrow AI workflow into the product. Fixed scope, fixed price, a working prototype by Day 5.
+- 01 **[The FDE Sprint](https://ghanemzadeh.com/ai-feature-sprint/)**, delivered through [Eupraxic](https://eupraxic.com/), my forward deployed AI engineering firm for founder-led B2B SaaS.
 
 - 02 **[Vectig.](https://vectig.com)** AI-native cash flow forecasting for early-stage founders, built solo with Claude Code, in public. It's also my test bench: most Sprint patterns run here before a client sees them.
 
@@ -92,7 +92,7 @@ Featured in [Forbes](https://www.forbes.com/sites/elizabethmacbride/2016/04/30/s
 
 #### What is Nasser Ghanemzadeh working on?
 
-The FDE Sprint takes most of my week: a 10-business-day engagement that ships one narrow AI workflow into a founder-led B2B SaaS product. The rest goes to [Vectig](https://vectig.com), an AI-native cash flow forecasting tool I build solo with Claude Code, and to the books and the newsletter. Before this I ran Nivo as CEO and CPO at the same time; it grew to 200K+ users and was acquired.
+The FDE Sprint takes most of my week: a 10-business-day engagement that ships one narrow AI workflow into a founder-led B2B SaaS product. The engagement runs under [Eupraxic](https://eupraxic.com/), the firm I founded for this work. The rest goes to [Vectig](https://vectig.com), an AI-native cash flow forecasting tool I build solo with Claude Code, and to the books and the newsletter. Before this I ran Nivo as CEO and CPO at the same time; it grew to 200K+ users and was acquired.
 
 #### How do I work with you?
 
@@ -102,7 +102,7 @@ Through the [FDE Sprint](https://ghanemzadeh.com/ai-feature-sprint/) if you have
 
 ### Email works best.
 
-[ghanemzadeh@gmail.com](mailto:ghanemzadeh@gmail.com). For a Sprint, start on [the FDE Sprint page](https://ghanemzadeh.com/ai-feature-sprint/): score your workflow, then book a 15-minute Scoping Call.
+[ghanemzadeh@gmail.com](mailto:ghanemzadeh@gmail.com). For a Sprint, start on [the FDE Sprint page](https://ghanemzadeh.com/ai-feature-sprint/): score your workflow, then [book a 15-minute Scoping Call](https://eupraxic.com/call/).
 
 I'm also on
 [GitHub](https://github.com/ghanemzadeh),
@@ -219,6 +219,8 @@ URL: https://ghanemzadeh.com/ai-feature-sprint/
 Independent forward deployed engineer for founder-led B2B SaaS
 
 ## Your first working AI workflow, in your product, in ten business days.
+
+Delivered by [Eupraxic](https://eupraxic.com/fde-sprint/), the forward deployed AI engineering firm founded by Nasser Ghanemzadeh.
 
 OpenAI and Anthropic each launched a new company this year to put engineers inside their customers. I do the same work as an independent forward deployed engineer, sized for a founder-led team: one narrow workflow, scoped on Day 1, running on your data by Day 5, in your repo by Day 10. I pick the model that fits the job, not the one I'm paid to resell.
 
@@ -533,7 +535,7 @@ I'm Nasser Ghanemzadeh, a former CEO/CPO and product leader with 17+ years build
 
 - Currently building Vectig (AI-native startup finance), shipped daily with Claude Code and MCP.
 
-The Sprint method comes out of shipping these workflows in my own products first. Based in Turkey, available across European, Middle Eastern, and North American business hours.
+The Sprint method comes out of shipping these workflows in my own products first. Eupraxic is remote-first, based in Turkey (UTC+3), and works across North American, UK and European business hours.
 
 [LinkedIn](https://www.linkedin.com/in/ghanemzadeh/) · [Email](mailto:ghanemzadeh@gmail.com) · [Vectig](https://vectig.com)
 
@@ -593,7 +595,7 @@ A vendor's forward deployed engineers work for the vendor, so the natural outcom
 
 #### Is the FDE Sprint FDE as a service?
 
-Yes, in fixed-scope form. Most FDE-as-a-service providers sell an engineer's time: by the hour through a talent marketplace, or by the month from a consultancy, where published prices run about $15,000 to $40,000 a month. The Sprint sells one shipped workflow instead: a fixed price, ten business days, and a full refund if it doesn't run. The [FDE-as-a-service market map](https://ghanemzadeh.com/fde-as-a-service/) compares 33 providers and every price they publish.
+Yes, in fixed-scope form. Most FDE-as-a-service providers sell an engineer's time: by the hour through a talent marketplace, or by the month from a consultancy, where published prices run about $15,000 to $40,000 a month. The Sprint sells one shipped workflow instead: a fixed price, ten business days, and a full refund if it doesn't run. The [FDE-as-a-service market map](https://ghanemzadeh.com/fde-as-a-service/) compares 34 providers and every price they publish.
 
 #### Should I hire a fractional forward deployed engineer instead?
 
@@ -2524,7 +2526,7 @@ Book a Discovery Day for a focused outside read on whether the AI feature you're
 
 ---
 
-# FDE as a Service: 33 Providers and What They Charge (2026)
+# FDE as a Service: 34 Providers and What They Charge (2026)
 
 URL: https://ghanemzadeh.com/fde-as-a-service/
 
@@ -2532,9 +2534,9 @@ URL: https://ghanemzadeh.com/fde-as-a-service/
 
 ## FDE as a service: who sells forward deployed engineers, and what it costs
 
-FDE as a service means buying a forward deployed engineer's time or output from an outside provider instead of hiring one. I checked the own pages of 33 providers on October 14, 2026: model and platform vendors, consultancies, talent marketplaces, and independents. Only 8 publish a price. Where they do, an embedded engineer costs about $15,000 to $40,000 a month, a senior builder through a marketplace about $25,000 a month, and hourly contractors from $29 to $99 an hour depending on where the engineer lives.
+FDE as a service means buying a forward deployed engineer's time or output from an outside provider instead of hiring one. I checked the own pages of 34 providers in October 2026: model and platform vendors, consultancies, talent marketplaces, and independents. Only 9 publish a price. Where they do, an embedded engineer costs about $15,000 to $40,000 a month, a senior builder through a marketplace about $25,000 a month, and hourly contractors from $29 to $99 an hour depending on where the engineer lives.
 
-By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Checked October 14, 2026. [Download the data (CSV)](https://ghanemzadeh.com/assets/data/fde-as-a-service-providers-2026-10-14.csv). Disclosure: I sell one of these, the [FDE Sprint](https://ghanemzadeh.com/ai-feature-sprint/). It is described separately below and not counted or ranked in the list.
+By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Checked October 14, 2026; Eupraxic added October 18. [Download the data (CSV)](https://ghanemzadeh.com/assets/data/fde-as-a-service-providers-2026-10-14.csv). Disclosure: one of these providers is my own firm, [Eupraxic](https://eupraxic.com/), which delivers the [FDE Sprint](https://ghanemzadeh.com/ai-feature-sprint/). It is listed for completeness, last in its group, and described in more detail below.
 
 ### Two different jobs share the name
 
@@ -2548,17 +2550,17 @@ Check which one a provider means before comparing prices.
 
 ### What the market looks like
 
-- **Most sell time, not outcomes.** The common unit is an embedded engineer by the month or the hour. Fixed-scope offers are rare: Orq.ai's four-week, one-agent engagement on its own platform, Dinacode's fixed cost per sprint, and pilots from CHI Software, Brilliantech, and Phos AI Labs.
+- **Most sell time, not outcomes.** The common unit is an embedded engineer by the month or the hour. Fixed-scope offers are rare: Orq.ai's four-week, one-agent engagement on its own platform, Dinacode's fixed cost per sprint, Eupraxic's ten-day Sprint (my firm), and pilots from CHI Software, Brilliantech, and Phos AI Labs.
 
-- **Prices are mostly hidden.** 25 of 33 providers publish no price, including every large vendor. Several sell through AWS Marketplace private offers.
+- **Prices are mostly hidden.** 25 of 34 providers publish no price, including every large vendor. Several sell through AWS Marketplace private offers.
 
-- **Guarantees are about people, not results.** Replacement guarantees are common (Uvik Software, AY Automate, Uplers), and Terminal and Index.dev offer risk-free trial periods. Only Adaptive ML mentions a money-back guarantee tied to delivery.
+- **Guarantees are about people, not results.** Replacement guarantees are common (Uvik Software, AY Automate, Uplers), and Terminal and Index.dev offer risk-free trial periods. Only Adaptive ML and Eupraxic (my firm) mention a money-back guarantee tied to delivery.
 
 - **Vendor arms come with a platform.** OpenAI, AWS, Microsoft, Anthropic's services company, Vercel, Adaptive ML, and Orq.ai build on their own models or platforms.
 
 ### Every published price
 
-The 8 providers that show a price on their own page, quoted as published.
+The 9 providers that show a price on their own page, quoted as published.
 
 | Provider | Type | Price as published | How you pay |
 | --- | --- | --- | --- |
@@ -2570,6 +2572,7 @@ The 8 providers that show a price on their own page, quoted as published.
 | A.Team | Marketplace | About $25,000 a month for a senior builder, fully loaded | Monthly, per engagement |
 | Second Talent | Marketplace | From $29 an hour, payroll and equipment included | Hourly |
 | Uplers | Marketplace | "Starts at $2500" (the page doesn't say per what) | Contract or full-time |
+| Eupraxic | Consultancy | $5,000 fixed for one workflow, ten business days (through the November 17, 2026 kickoff; $7,500 after) | Fixed-scope sprint |
 
 ### Model and platform vendors (7)
 
@@ -2589,7 +2592,7 @@ AI labs and platform companies selling their own engineers to their customers. N
 
 - **[Orq.ai](https://orq.ai/solutions/forward-deployed-engineering)**Orq.ai's engineers work inside the customer's team for four weeks to ship one AI agent on the customer's stack, using Orq.ai's LLM platform. How you pay: Fixed four-week engagement · Price: Not published · Terms: One AI agent shipped to production in four weeks
 
-### Consultancies and services firms (18)
+### Consultancies and services firms (19)
 
 The largest group. Most sell an embedded senior engineer or a small pod by the month or under a statement of work, and most quote prices after a call.
 
@@ -2628,6 +2631,8 @@ The largest group. Most sell an embedded senior engineer or a small pod by the m
 - **[Appsierra](https://www.appsierra.com/hire/hire-forward-deployed-engineers)**An India-based firm selling an embedded engineer or pod to work inside a software company's customer accounts. How you pay: Engineer or pod · Price: Quoted after a call · Terms: Paid pilot; "cancel anytime"
 
 - **[ILMTEC](https://ilmtec.ai/blog/forward-deployed-engineering-as-a-service-cost/)**An AI firm with offices in Pune, Dubai, and Berlin offering embedded engineers. The $8,000 to $30,000 a month on its page is described as the market rate, not its own price. How you pay: Monthly retainer or fixed 6-week cycle · Price: Not published · Terms: "Built in 6 weeks"
+
+- **[Eupraxic](https://eupraxic.com/fde-sprint/)**The author's own firm; included for completeness. Remote, for teams in the US, Canada, the UK, and the EU. How you pay: Fixed-scope sprint · Price: $5,000 fixed for one workflow, ten business days (through the November 17, 2026 kickoff; $7,500 after) · Terms: Half on signing, half on Day 10; full refund if there's no prototype on your data by Day 5 or the workflow isn't running by Day 10
 
 ### Talent marketplaces (7)
 
@@ -2685,9 +2690,9 @@ The [FDE Sprint](https://ghanemzadeh.com/ai-feature-sprint/) is the fixed-scope 
 
 ### How this list was made
 
-On October 14, 2026, I searched for providers selling forward deployed engineers to other companies and read each provider's own page. A provider is listed only if that page offers FDE work to buyers; prices are quoted only as they appear there. Excluded: Palantir (FDEs come bundled with its platform deals), Google Cloud and Anthropic's direct FDE team (careers pages only), Toptal and Upwork (no FDE hire page found), and firms whose only mention of FDE work is a blog post. Where a page contradicts itself, the listing says so. Providers change pages often; corrections are welcome by [email](mailto:ghanemzadeh@gmail.com).
+On October 14, 2026, I searched for providers selling forward deployed engineers to other companies and read each provider's own page. A provider is listed only if that page offers FDE work to buyers; prices are quoted only as they appear there. Eupraxic, my own firm, was added on October 18, 2026, from its own page. Excluded: Palantir (FDEs come bundled with its platform deals), Google Cloud and Anthropic's direct FDE team (careers pages only), Toptal and Upwork (no FDE hire page found), and firms whose only mention of FDE work is a blog post. Where a page contradicts itself, the listing says so. Providers change pages often; corrections are welcome by [email](mailto:ghanemzadeh@gmail.com).
 
-[Download the data (CSV, 33 providers)](https://ghanemzadeh.com/assets/data/fde-as-a-service-providers-2026-10-14.csv). Free to reuse with credit under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+[Download the data (CSV, 34 providers)](https://ghanemzadeh.com/assets/data/fde-as-a-service-providers-2026-10-14.csv). Free to reuse with credit under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ### Frequently asked questions
 
@@ -2697,7 +2702,7 @@ FDE as a service means buying a forward deployed engineer's time or output from 
 
 #### How much does FDE as a service cost?
 
-Of the 33 providers checked on October 14, 2026, 8 publish a price. Embedded engineers from consultancies run about $15,000 to $40,000 a month (Brilliantech, Phos AI Labs), a senior builder through A.Team is about $25,000 a month, and hourly rates run from $29 for Asia-based engineers (Second Talent) to $50 to $99 (Uvik Software). Pilots start around $8,000 to $10,000. The large vendors publish no prices.
+Of the 34 providers checked in October 2026, 9 publish a price. Embedded engineers from consultancies run about $15,000 to $40,000 a month (Brilliantech, Phos AI Labs), a senior builder through A.Team is about $25,000 a month, and hourly rates run from $29 for Asia-based engineers (Second Talent) to $50 to $99 (Uvik Software). Pilots start around $8,000 to $10,000. The large vendors publish no prices.
 
 #### What is the difference between FDE as a service and a fractional FDE?
 
