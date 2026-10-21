@@ -23,7 +23,7 @@ Daily Wisdom for Founders, Investors, and Managers: 366 Meditations on Mental Mo
 
 ## The service
 
-The FDE Sprint is a 10-business-day engagement in which an independent forward deployed engineer ships one narrow AI workflow into a founder-led B2B SaaS product. Fixed scope, fixed price; the current price and the next kickoff dates are on the one-page offer at https://ghanemzadeh.com/offer/. Full refund if there is no working prototype on your data by Day 5, or if the workflow in the signed Sprint Brief isn't running to its acceptance criteria by Day 10. Start with the two-minute Workflow Scorecard (https://ghanemzadeh.com/scorecard/) and a free 15-minute Scoping Call (https://ghanemzadeh.com/call/). An optional paid Discovery Day offers a full two-hour scoping session, credited to the Sprint. A second Sprint booked within six months of handoff runs at the price paid for the first; there is no retainer.
+The FDE Sprint is Eupraxic's 10-business-day engagement in which a forward deployed engineer, independent of any model vendor, ships one narrow AI workflow into a founder-led B2B SaaS product. Fixed scope, fixed price; the current price and the next kickoff dates are on the one-page offer at https://ghanemzadeh.com/offer/. Full refund if there is no working prototype on your data by Day 5, or if the workflow in the signed Sprint Brief isn't running to its acceptance criteria by Day 10. Start with the two-minute Workflow Scorecard (https://ghanemzadeh.com/scorecard/) and a free 15-minute Scoping Call (https://ghanemzadeh.com/call/). An optional paid Discovery Day offers a full two-hour scoping session, credited to the Sprint. A second Sprint booked within six months of handoff runs at the price paid for the first; there is no retainer.
 
 ---
 
@@ -31,7 +31,7 @@ The FDE Sprint is a 10-business-day engagement in which an independent forward d
 
 URL: https://ghanemzadeh.com/
 
-Independent forward deployed AI engineer for founder-led B2B SaaS
+Forward deployed AI engineer for founder-led B2B SaaS
 
 ## Nasser Ghanemzadeh
 
@@ -237,7 +237,7 @@ An AI workflow running in my own product, end to end, and how one gets built int
 
 ### What is the FDE Sprint?
 
-The FDE Sprint is a fixed-scope engagement in which an independent forward deployed engineer ships one AI workflow into your product in ten business days. It's built for founder-led B2B SaaS teams of 5 to 50 people, and the workflow runs on your data. It's a fixed price, $5,000, refunded in full if there's no working prototype by Day 5 or no working workflow by Day 10.
+The FDE Sprint is Eupraxic's fixed-scope engagement in which a forward deployed engineer ships one AI workflow into your product in ten business days. It's built for founder-led B2B SaaS teams of 5 to 50 people, and the workflow runs on your data. It's a fixed price, $5,000, refunded in full if there's no working prototype by Day 5 or no working workflow by Day 10.
 
 ### What is a forward deployed AI engineer?
 
@@ -3385,7 +3385,7 @@ An engineer who embeds inside a customer's team and ships AI capabilities direct
 
 **FDE as a service**
 
-Buying a forward deployed engineer's time or output from an outside provider instead of hiring one. Sold by model and platform vendors' deployment arms, consultancies, talent marketplaces, and independent engineers, usually by the hour or the month. See the [FDE-as-a-service market map](https://ghanemzadeh.com/fde-as-a-service/) for 33 providers and their published prices.
+Buying a forward deployed engineer's time or output from an outside provider instead of hiring one. Sold by model and platform vendors' deployment arms, consultancies, talent marketplaces, and independent engineers, usually by the hour or the month. See the [FDE-as-a-service market map](https://ghanemzadeh.com/fde-as-a-service/) for 34 providers and their published prices.
 
 **Echo (Palantir)**
 
@@ -3397,7 +3397,7 @@ At Palantir, the deployed engineer who ships code inside the customer's environm
 
 **FDE Sprint**
 
-A ten-business-day engagement in which an independent forward deployed engineer (FDE) ships one narrow AI workflow into a customer's product. Fixed scope, fixed price, end-to-end delivery and handoff. See the [FDE Sprint](https://ghanemzadeh.com/ai-feature-sprint/).
+Eupraxic's ten-business-day engagement in which a forward deployed engineer (FDE) ships one narrow AI workflow into a customer's product. Fixed scope, fixed price, end-to-end delivery and handoff. See the [FDE Sprint](https://ghanemzadeh.com/ai-feature-sprint/).
 
 **Discovery Day**
 
