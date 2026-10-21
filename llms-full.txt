@@ -216,7 +216,7 @@ Not sure your workflow is narrow enough? Compare it with the [30 narrow AI workf
 
 URL: https://ghanemzadeh.com/ai-feature-sprint/
 
-Independent forward deployed engineer for founder-led B2B SaaS
+Forward deployed engineer for founder-led B2B SaaS
 
 ## Your first working AI workflow, in your product, in ten business days.
 
