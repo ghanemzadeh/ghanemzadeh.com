@@ -212,7 +212,7 @@ Not sure your workflow is narrow enough? Compare it with the [30 narrow AI workf
 
 ---
 
-# Hire an Independent Forward Deployed Engineer: FDE Sprint
+# Hire a Forward Deployed Engineer: the FDE Sprint by Eupraxic
 
 URL: https://ghanemzadeh.com/ai-feature-sprint/
 
