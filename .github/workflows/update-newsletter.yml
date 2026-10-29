@@ -20,6 +20,10 @@ jobs:
           node-version: '22'
 
       - name: Regenerate article rows
+        id: newsletter
+        # A Substack outage must not hold back the Sprint, sitemap and llms
+        # steps below. The last step still fails the run so it shows.
+        continue-on-error: true
         run: node scripts/update-newsletter.mjs
         env:
           # Cloudflare Worker proxy used when Substack blocks the runner's
@@ -47,3 +51,9 @@ jobs:
           git add -- '*.html' sitemap.xml llms-full.txt
           git commit -m "chore: refresh newsletter + sitemap [skip ci]"
           git push
+
+      - name: Fail if the newsletter step failed
+        if: steps.newsletter.outcome == 'failure'
+        run: |
+          echo "::error::Newsletter sync failed. See the 'Regenerate article rows' step log."
+          exit 1

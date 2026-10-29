@@ -2,5 +2,15 @@ name = "substack-feed-proxy"
 main = "worker.js"
 compatibility_date = "2026-05-27"
 
-# Free Workers plan covers this comfortably: one daily cron call (plus a few
-# manual runs) is far under the 100k requests/day free tier.
+# Free Workers plan covers this comfortably: one daily call from the workflow
+# (plus a few manual runs) and 24 cron runs a day are far under the 100k
+# requests/day free tier, and about 50 KV writes a day are under its 1,000.
+
+# Last good copy of each proxied path, served when Substack refuses a request.
+[[kv_namespaces]]
+binding = "FEED_CACHE"
+id = "1a24be8dfa8c4c38b8ff80a9d8d66555"
+
+# Hourly refresh of the stored copies, from wherever Cloudflare runs the cron.
+[triggers]
+crons = ["23 * * * *"]
