@@ -5,6 +5,7 @@
 //
 // Run locally: node scripts/update-newsletter.mjs
 // Run in CI:   .github/workflows/update-newsletter.yml (daily cron)
+// Run on the Mac, twice a day: scripts/newsletter-local-sync.sh (launchd)
 //
 // Editorial categories are looked up by post slug in scripts/categories.json.
 // Posts without a mapping render with date + title + dek only (no category).
