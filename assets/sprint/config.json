@@ -2,7 +2,8 @@
   "kickoffs": [
     { "date": "2026-10-20", "callsCloseBy": "2026-10-14", "depositBy": "2026-10-15" },
     { "date": "2026-11-03", "callsCloseBy": "2026-10-28", "depositBy": "2026-10-29" },
-    { "date": "2026-11-17", "callsCloseBy": "2026-11-11", "depositBy": "2026-11-12" }
+    { "date": "2026-11-17", "callsCloseBy": "2026-11-11", "depositBy": "2026-11-12" },
+    { "date": "2026-12-01", "callsCloseBy": "2026-11-25", "depositBy": "2026-11-26" }
   ],
   "price": {
     "current": 5000,
