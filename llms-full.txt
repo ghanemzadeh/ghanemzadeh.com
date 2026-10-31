@@ -1,10 +1,10 @@
 # Nasser Ghanemzadeh
 
-> Forward deployed AI engineer and founder of Eupraxic (https://eupraxic.com/), the firm that delivers the FDE Sprint: one working AI workflow shipped into your product in ten business days, fixed price, full refund if it doesn't ship. Building Vectig in public with Claude Code. Former CEO/CPO at Nivo (acquired, 200K+ users).
+> Forward deployed AI engineer and founder of Eupraxic (https://eupraxic.com/), the firm that delivers the FDE Sprint: a team's first autopilot, one workflow in their product that does the work instead of helping a user do it, shipped in ten business days at a fixed price, with a full refund if it doesn't run. Building Vectig in public with Claude Code. Former CEO/CPO at Nivo (acquired, 200K+ users).
 
-Nasser Ghanemzadeh has spent 17+ years building products and companies across AI, SaaS, and fintech. As CEO and CPO of Nivo, holding both roles at once, he built the product organization and shipped AI-powered applications that grew to 200K+ users and 450% revenue growth before the company was acquired. His current commercial focus is the FDE Sprint: a 10-business-day engagement for founder-led B2B SaaS teams of 5 to 50 that ships one narrow AI workflow into their product, with fixed scope, fixed price, and a full refund if there is no working prototype by Day 5 or no working workflow by Day 10. Founders start with the free two-minute AI Workflow Scorecard and a free 15-minute Scoping Call.
+Nasser Ghanemzadeh has spent 17+ years building products and companies across AI, SaaS, and fintech. As CEO and CPO of Nivo, holding both roles at once, he built the product organization and shipped AI-powered applications that grew to 200K+ users and 450% revenue growth before the company was acquired. His current commercial focus is the FDE Sprint: a 10-business-day engagement for founder-led B2B SaaS teams of 5 to 50 that ships their first autopilot, one workflow that does the work instead of helping a user do it, into their product with fixed scope, fixed price, and a full refund if there is no working prototype by Day 5 or no working workflow by Day 10. Founders start with the free two-minute AI Workflow Scorecard and a free 15-minute Scoping Call.
 
-His live R&D lab is Vectig, an AI-native cash flow forecasting product for pre-seed-to-Series-A founders, built solo with Claude Code, in public. Most workflow patterns he ships into a client codebase have already run in Vectig first.
+His live R&D lab is Vectig, investor updates and runway forecasting for early-stage founders, built solo with Claude Code, in public. Most workflow patterns he ships into a client codebase have already run in Vectig first.
 
 He is the author of three books: Daily Wisdom (366 one-page meditations on mental models, misjudgment, and money for founders, investors, and managers; out October 6, 2026 on Kindle, in paperback, and in hardcover), Forward Deployed AI Engineering (a working guide to the Forward Deployed AI Engineer role: what it is, where it came from, how it is practiced, and how to do it well; 304 pages, first edition May 2026, Version 1.5 August 2026) and Founder Mode (how great founders stay close to product, people, judgment, and execution as companies scale). He writes a weekly newsletter, Nasser Ghanemzadeh’s Newsletter, which runs one real decision through one mental model for founders who invest and investors who build, and his work has been covered in Forbes, TechCrunch, Al Jazeera, and HuffPost.
 
@@ -23,7 +23,13 @@ Daily Wisdom for Founders, Investors, and Managers: 366 Meditations on Mental Mo
 
 ## The service
 
-The FDE Sprint is Eupraxic's 10-business-day engagement in which a forward deployed engineer, independent of any model vendor, ships one narrow AI workflow into a founder-led B2B SaaS product. Fixed scope, fixed price; the current price and the next kickoff dates are on the one-page offer at https://ghanemzadeh.com/offer/. Full refund if there is no working prototype on your data by Day 5, or if the workflow in the signed Sprint Brief isn't running to its acceptance criteria by Day 10. Start with the two-minute Workflow Scorecard (https://ghanemzadeh.com/scorecard/) and a free 15-minute Scoping Call (https://ghanemzadeh.com/call/). An optional paid Discovery Day offers a full two-hour scoping session, credited to the Sprint. A second Sprint booked within six months of handoff runs at the price paid for the first; there is no retainer.
+The FDE Sprint is Eupraxic's 10-business-day engagement in which a forward deployed engineer, independent of any model vendor, ships a team's first autopilot into a founder-led B2B SaaS product: the autopilot version of one workflow the team already touches, which does the work instead of helping a user do it. Fixed scope, fixed price; the current price and the next kickoff dates are on the one-page offer at https://ghanemzadeh.com/offer/. The price is set against what the workflow replaces: a contractor month, an engineer role you haven't filled, or six weeks of two engineers. Full refund if there is no working prototype on your data by Day 5, or if the workflow in the signed Sprint Brief isn't running to its acceptance criteria by Day 10.
+
+The terms come from Sequoia's essay "Services: The New Software" by Julien Bek (March 2026, https://sequoiacap.com/article/services-the-new-software). A copilot is a tool that helps a professional do the work faster; the professional stays responsible for the result, and the customer pays for it per seat. An autopilot does the work itself and hands back a finished result with a score; a person approves that result instead of producing it, and the buyer pays for the work. In a first Sprint, a person still approves anything that leaves the company. Autonomy comes later, once the rubric scores hold.
+
+It fits teams that posted an AI engineer or forward deployed engineer role that has been open for more than a month, or paid a contractor or agency for an AI build that never reached production. Start with the two-minute Workflow Scorecard (https://ghanemzadeh.com/scorecard/) and a free 15-minute Scoping Call (https://ghanemzadeh.com/call/).
+
+An optional paid Discovery Day (https://ghanemzadeh.com/discovery-day/) is two hours with the founder and the person who does the workflow today. Nasser writes the workflow out step by step and marks each step as rule-following or judgement, drafts the one-sentence Brief and a first rubric, notes what the workflow replaces and what that costs now, and gives a go or no-go in a one-page memo. Its price is credited to the Sprint. After Day 10 the team owns the pull request, the config, the rubric, and the playbook. A second Sprint booked within six months of handoff runs at the price paid for the first; there is no retainer.
 
 ---
 
@@ -35,7 +41,7 @@ Forward deployed AI engineer for founder-led B2B SaaS
 
 ## Nasser Ghanemzadeh
 
-I'm a forward deployed AI engineer. Through my firm, Eupraxic, I embed for ten business days and ship one AI workflow into your product.
+I'm a forward deployed AI engineer. Through my firm, Eupraxic, I embed for ten business days and ship your first autopilot: one workflow that does the work instead of helping a user do it.
 
 [Book a Sprint →](https://ghanemzadeh.com/ai-feature-sprint/)
 [Get the free chapters](https://ghanemzadeh.com/newsletter/)
@@ -48,9 +54,9 @@ Built Nivo to 200K users and an acquisition as CEO and CPO. Covered in Forbes, T
 
 Everything I do feeds the same operation. Here it is, in priority order.
 
-- 01 **[The FDE Sprint](https://ghanemzadeh.com/ai-feature-sprint/)**, delivered through [Eupraxic](https://eupraxic.com/), my forward deployed AI engineering firm for founder-led B2B SaaS.
+- 01 **[The FDE Sprint](https://ghanemzadeh.com/ai-feature-sprint/)**, delivered through [Eupraxic](https://eupraxic.com/), my forward deployed AI engineering firm: I ship a founder-led B2B SaaS team its first autopilot in ten business days.
 
-- 02 **[Vectig.](https://vectig.com)** AI-native cash flow forecasting for early-stage founders, built solo with Claude Code, in public. It's also my test bench: most Sprint patterns run here before a client sees them.
+- 02 **[Vectig.](https://vectig.com)** Investor updates and runway forecasting for early-stage founders, built solo in public, and the test bench for Sprint patterns.
 
 - 03 **The books.** [Daily Wisdom](https://ghanemzadeh.com/books/daily-wisdom/) is a year of one-page meditations on judgment and money, out now on Kindle, in paperback, and in hardcover. [Forward Deployed AI Engineering](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/) explains the role. [Founder Mode](https://ghanemzadeh.com/book/) explains the operating practice underneath it. For the quick version of the FDE book, read [what a Forward Deployed AI Engineer is](https://ghanemzadeh.com/forward-deployed-ai-engineer/), or browse [the best FDE books](https://ghanemzadeh.com/best-forward-deployed-engineer-books/).
 
@@ -80,7 +86,7 @@ One is about judgment, one about the role, one about the operating practice unde
 
 - 04 **Iran Startups.** Co-founder of a founder community. Earlier, ran [Techly](https://techly.me/), an English-language publication covering the Iranian startup ecosystem from 2014 to 2016, and wrote about The Lean Startup in Persian on the [Business of Software](https://businessofsoftware.ir/) blog when almost no one in Iran was talking about it.
 
-05 · Speaking & media
+05 · Media & podcast
 
 ### Coverage and the podcast
 
@@ -92,7 +98,7 @@ Featured in [Forbes](https://www.forbes.com/sites/elizabethmacbride/2016/04/30/s
 
 #### What is Nasser Ghanemzadeh working on?
 
-The FDE Sprint takes most of my week: a 10-business-day engagement that ships one narrow AI workflow into a founder-led B2B SaaS product. The engagement runs under [Eupraxic](https://eupraxic.com/), the firm I founded for this work. The rest goes to [Vectig](https://vectig.com), an AI-native cash flow forecasting tool I build solo with Claude Code, and to the books and the newsletter. Before this I ran Nivo as CEO and CPO at the same time; it grew to 200K+ users and was acquired.
+The FDE Sprint takes most of my week: a 10-business-day engagement that ships one narrow AI workflow into a founder-led B2B SaaS product. The engagement runs under [Eupraxic](https://eupraxic.com/), the firm I founded for this work. The rest goes to [Vectig](https://vectig.com), investor updates and runway forecasting for early-stage founders, which I build solo in public, and to the books and the newsletter. Before this I ran Nivo as CEO and CPO at the same time; it grew to 200K+ users and was acquired.
 
 #### How do I work with you?
 
@@ -218,20 +224,20 @@ URL: https://ghanemzadeh.com/ai-feature-sprint/
 
 Forward deployed engineer for founder-led B2B SaaS
 
-## Your first working AI workflow, in your product, in ten business days.
+## Your first autopilot, in your product, in ten business days.
 
 Delivered by [Eupraxic](https://eupraxic.com/fde-sprint/), the forward deployed AI engineering firm founded by Nasser Ghanemzadeh.
 
-OpenAI and Anthropic each launched a new company this year to put engineers inside their customers. I do the same work as an independent forward deployed engineer, sized for a founder-led team: one narrow workflow, scoped on Day 1, running on your data by Day 5, in your repo by Day 10. I pick the model that fits the job, not the one I'm paid to resell.
+I ship one workflow into your product that does the work instead of helping a user do it: scoped on Day 1, running on your data by Day 5, in your repo by Day 10. Fixed scope, $5,000, full refund if it doesn't run. As an independent forward deployed engineer, I pick the model that fits the job, not the one I'm paid to resell.
 
 Built by **Nasser Ghanemzadeh**, ex-CEO/CPO of Nivo (acquired, 200K+ users) · building Vectig in public · featured in Forbes, TechCrunch, Al Jazeera
 
-Next kickoff s: Tuesday November 17 (deposit by Thursday November 12 ) · (deposit by ) · One Sprint at a time · $5,000 through the Tuesday November 17 kickoff, $7,500 from Tuesday December 1
+Next kickoff s: Tuesday November 17 (deposit by Thursday November 12 ) · Tuesday December 1 (deposit by Thursday November 26 ) · One Sprint at a time · $5,000 through the Tuesday November 17 kickoff, $7,500 from Tuesday December 1
 
 [Score your workflow (2 min)](https://ghanemzadeh.com/scorecard/)
 [Book a 15-minute Scoping Call](https://ghanemzadeh.com/call/)
 
-By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated Thursday October 29.
+By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated Saturday October 31.
 
 An AI workflow running in my own product, end to end, and how one gets built into yours. 16 minutes.
 
@@ -239,9 +245,17 @@ An AI workflow running in my own product, end to end, and how one gets built int
 
 The FDE Sprint is Eupraxic's fixed-scope engagement in which a forward deployed engineer ships one AI workflow into your product in ten business days. It's built for founder-led B2B SaaS teams of 5 to 50 people, and the workflow runs on your data. It's a fixed price, $5,000, refunded in full if there's no working prototype by Day 5 or no working workflow by Day 10.
 
+### Copilot or autopilot
+
+A copilot is a tool that helps a professional do the work faster. The professional stays responsible for the result, and your customer pays for it per seat. An autopilot does the work itself and hands back a finished result with a score. A person approves that result instead of producing it, and the buyer pays for the work.
+
+I take the terms from Sequoia's essay "[Services: The New Software](https://sequoiacap.com/article/services-the-new-software)" by Julien Bek (March 2026). In a Sprint I ship the autopilot version of one workflow your team already touches, running next to the product your users keep. I scope it on Day 1, prove it on your data by Day 5, and put it in your repo on Day 10.
+
+In a first Sprint, a person still approves anything that leaves your company. Autonomy comes later, once the rubric scores hold.
+
 ### What is a forward deployed AI engineer?
 
-A forward deployed AI engineer works inside the customer's codebase and ships AI features into their product, instead of advising from outside. The term comes from Palantir. In 2026, OpenAI and Anthropic both built teams around it to deploy their models inside customers. The FDE Sprint is the founder-tier version of that work.
+A forward deployed AI engineer works inside the customer's codebase and ships AI workflows into their product, instead of advising from outside. The term comes from Palantir. In 2026, OpenAI and Anthropic both built teams around it to deploy their models inside customers. The FDE Sprint is the founder-tier version of that work.
 
 Weighing a hire? [Does a startup need a forward deployed engineer?](https://ghanemzadeh.com/forward-deployed-engineer-for-startups/) compares a full-time hire, a contractor, and a Sprint.
 
@@ -253,7 +267,7 @@ Forbes · TechCrunch · Al Jazeera · HuffPost
 
 ### Your team knows AI matters. The hard part is shipping the right thing.
 
-Most SaaS teams are already experimenting: someone has tried Claude Code, built a prototype, or floated a chatbot. The experiments stall because a useful AI feature needs more than a demo. It needs a clear workflow, the right data, a narrow scope, and an implementation path the team can actually ship.
+Most SaaS teams are already experimenting: someone has tried Claude Code, built a prototype, or floated a chatbot. The experiments stall because putting AI to work in a product takes more than a demo. It takes a clear workflow, the right data, a narrow scope, and an implementation path the team can actually ship.
 
 That's what the Sprint produces: one managed AI workflow with a clear use case, a review process, and a handoff your team can run with.
 
@@ -372,7 +386,7 @@ For an internal workflow the math is short: the hours a week the work takes toda
 
 **Worked example, with example inputs.** Four support agents each spend ten hours a week reading long ticket threads before they can reply. A summarizer that halves that saves 20 hours a week. At a loaded cost of $40 an hour, that's $800 a week, or $41,600 a year. The Sprint pays for itself in under ten weeks at either published price.
 
-For a customer-facing feature, hours saved is the wrong measure. The value is in the deals the feature helps close or the accounts it helps keep, and the Brief names that metric instead. If neither number is bigger than the Sprint price, I'll say so on the call.
+For a customer-facing workflow, hours saved is the wrong measure. The value is in the deals the workflow helps close or the accounts it helps keep, and the Brief names that metric instead. If neither number is bigger than the Sprint price, I'll say so on the call.
 
 07 · The offer
 
@@ -388,7 +402,7 @@ $5,000 fixed price
 
 **Scope and design**
 
-AI use-case selection, feature scope, UX flow, product and technical architecture, prompt and data design.
+AI use-case selection, workflow scope, UX flow, product and technical architecture, prompt and data design.
 
 **Build**
 
@@ -408,13 +422,13 @@ No working prototype on your data by Day 5? Stop the Sprint, full refund. The wo
 
 **Price**
 
-$5,000 for Sprints kicking off through Tuesday November 17. From the Tuesday December 1 kickoff, $7,500. Half on signing, half on Day 10. The deposit is invoiced on signing. Pay the deposit.
+$5,000 for Sprints kicking off through Tuesday November 17. From the Tuesday December 1 kickoff, $7,500. Half on signing, half on Day 10. The price is set against what the workflow replaces: a contractor month, an engineer role you haven't filled, or six weeks of two engineers. The deposit is invoiced on signing. Pay the deposit.
 
 **Next workflow**
 
 Book a second Sprint within 6 months of your handoff and it runs at the price you paid for the first, whatever the published price is by then.
 
-Prefer a full two-hour scoping session before committing? The [Discovery Day](https://ghanemzadeh.com/discovery-day/) is $500, credited to the Sprint.
+Prefer to start smaller? The [Discovery Day](https://ghanemzadeh.com/discovery-day/) ( $500 ) is two hours with you and the person who does the workflow today. I write the workflow out step by step and mark each step as rule-following or judgement, draft the one-sentence Brief and a first rubric, note what the workflow replaces and what that costs you now, and give a go or no-go. You keep the one-page memo. The $500 is credited to the Sprint.
 
 [Score your workflow (2 min)](https://ghanemzadeh.com/scorecard/)
 [Book a 15-minute Scoping Call](https://ghanemzadeh.com/call/)
@@ -447,9 +461,9 @@ Staging deployment, production-ready pull request, or implementation handoff, de
 
 ### Why Day 1 decides the Sprint
 
-I learned this on my own product first. The first AI features I built for Vectig were based on the wrong hypothesis: they solved a problem founders didn't actually have. It took conversations with founders, more research, and several pivots before the workflow pointed at something they really need.
+I learned this on my own product first. The first AI workflows I built for Vectig were based on the wrong hypothesis: they solved a problem founders didn't actually have. It took conversations with founders, more research, and several pivots before the workflow pointed at something they really need.
 
-Most stalled AI features go wrong the same way, before any code is written. So the Sprint starts by pinning the workflow down in one signed sentence, with the person who'll use it, and nothing gets built until that sentence holds.
+Most stalled AI projects go wrong the same way, before any code is written. So the Sprint starts by pinning the workflow down in one signed sentence, with the person who'll use it, and nothing gets built until that sentence holds.
 
 ### How a Sprint gets scoped on Day 1
 
@@ -459,7 +473,7 @@ Every Sprint Brief is written around a single sentence:
 
 **Worked example.** "For the founder, when monthly metrics and 3 to 5 sentences of context are added, the workflow will draft a clean investor update covering metrics, risks, and asks, so that the founder can send consistent updates in 8 minutes instead of 90."
 
-Under the sentence goes one value line: the hours a week the work takes today, times the loaded hourly cost, times 52. For a customer-facing feature, it's the deal or retention metric the workflow moves.
+Under the sentence goes one value line: the hours a week the work takes today, times the loaded hourly cost, times 52. For a customer-facing workflow, it's the deal or retention metric it moves.
 
 **Value line for the example.** 82 minutes saved a month is not where the money is. The value is an update that goes out every month, on time, which keeps investors close before the next round.
 
@@ -496,6 +510,10 @@ I take one active sprint at a time. Kickoffs run on the fixed dates listed at th
 Client access, decision-maker availability, and timely feedback are required for the 10-business-day timeline.
 
 ### This is for you if…
+
+- You posted an AI engineer or forward deployed engineer role and it has been open for more than a month
+
+- You paid a contractor or agency for an AI build and it never reached production
 
 - You run or lead product at a B2B SaaS company
 
@@ -547,23 +565,43 @@ A 10-business-day engagement to ship one narrow AI workflow into a B2B SaaS prod
 
 #### How long does it take to ship an AI feature in a SaaS product?
 
-Ten business days for one narrow workflow, if codebase access and sample data are ready on Day 1. Day 1 scopes it, Days 2 and 3 design it, a working prototype runs on your data by Day 5, and Day 10 is handoff. A broader AI feature takes longer; the Sprint ships its first narrow slice.
+Ten business days for one narrow workflow, if codebase access and sample data are ready on Day 1. What most teams call an AI feature, I scope as a workflow: one trigger in, one scored output out. Day 1 scopes it, Days 2 and 3 design it, a working prototype runs on your data by Day 5, and Day 10 is handoff. A broader project takes longer; the Sprint ships its first narrow slice.
 
 #### How do I know if my AI feature idea is feasible?
 
-It's feasible in ten days if one person runs it, its data sits in one system you can export, it fits your existing APIs, and a person reviews the output before anything leaves. The [Workflow Scorecard](https://ghanemzadeh.com/scorecard/) checks this in two minutes across eight dimensions and four readiness checks.
+Treat the idea as a workflow rather than an AI feature, and it's feasible in ten days if one person runs it, its data sits in one system you can export, it fits your existing APIs, and a person reviews the output before anything leaves. The [Workflow Scorecard](https://ghanemzadeh.com/scorecard/) checks this in two minutes across eight dimensions and four readiness checks.
 
 #### Who is this for?
 
-Founder-led B2B SaaS companies with 5 to 50 employees, post-product-market-fit, with paying customers, real data inside their product, and pressure to ship AI features. Not for indie hackers, solopreneurs, or enterprises with formal procurement.
+Founder-led B2B SaaS companies with 5 to 50 employees, post-product-market-fit, with paying customers, real data inside their product, and pressure to put AI to work in their product. Not for indie hackers, solopreneurs, or enterprises with formal procurement.
+
+#### What is the difference between a copilot tool and an autopilot workflow?
+
+A copilot helps one of your users do the work and leaves them responsible for the result. An autopilot does the work and hands back a finished result with a score, which a person approves instead of producing. I ship the second kind, for one workflow, next to the product your users keep using.
+
+#### My team could build this with Claude Code. Why pay?
+
+They probably could build the demo. What I sell is the part after the demo: the rubric written before the code, the prototype scored on your real data by Day 5, the edge cases and error states, and a pull request your engineers review and own. If the workflow doesn't run to the Brief's acceptance criteria by Day 10, you get a full refund.
+
+#### Who is responsible when the output is wrong?
+
+"Wrong" is defined on Day 1 by the rubric and the acceptance criteria, so it is measured rather than argued about. Through Day 10, meeting them is my job, and the refund covers the case where I don't. From Day 10 the code, prompts, and settings are in your repo, with the rubric and a playbook, so your team can keep scoring it.
+
+#### What happens after Day 10?
+
+You own the pull request, the config, the rubric, and the playbook. I suggest running the workflow for one account first and widening from there. If you want a second workflow, book another Sprint within 6 months of handoff and it runs at the price you paid for the first. Help with the rollout is scoped separately and is never a condition of the Sprint; there's no retainer to keep the first one running.
 
 #### What does it cost?
 
-$5,000 for Sprints kicking off through Tuesday November 17, and $7,500 from the Tuesday December 1 kickoff. Half on signing, half on Day 10. The optional Discovery Day is $500, credited to the Sprint.
+$5,000 for Sprints kicking off through Tuesday November 17, and $7,500 from the Tuesday December 1 kickoff. Half on signing, half on Day 10. The price is set against what the workflow replaces: a contractor month, an engineer role you haven't filled, or six weeks of two engineers. The optional Discovery Day is $500, credited to the Sprint.
+
+#### What does the Discovery Day produce?
+
+Two hours with you and the person who does the workflow today. I write the workflow out step by step and mark each step as rule-following or judgement, draft the one-sentence Brief and a first rubric, note what the workflow replaces and what that costs you now, and give a go or no-go. You keep the one-page memo. The $500 is credited to the Sprint.
 
 #### How do I justify the cost to my co-founder or board?
 
-With your own numbers. For an internal workflow: the hours a week the work takes today, times the loaded hourly cost, times 52. Divide the Sprint price by the weekly saving and you have the payback period. In the worked example, a support summarizer that saves 20 hours a week pays back in under ten weeks. For a customer-facing feature, use the deal or retention metric it moves. Either way, the number goes into the value line of the Brief draft you get after the Scoping Call, so the case is written down before you pay anything.
+With your own numbers. For an internal workflow: the hours a week the work takes today, times the loaded hourly cost, times 52. Divide the Sprint price by the weekly saving and you have the payback period. In the worked example, a support summarizer that saves 20 hours a week pays back in under ten weeks. For a customer-facing workflow, use the deal or retention metric it moves. Either way, the number goes into the value line of the Brief draft you get after the Scoping Call, so the case is written down before you pay anything.
 
 #### Why is the Scoping Call free?
 
@@ -583,7 +621,7 @@ Speed, mostly: 10 days instead of six weeks of internal roadmap displacement, wh
 
 #### We tried building an AI feature and it stalled. Why would this be different?
 
-Most AI features stall in the same three places: a demo that worked on five examples, no agreement on what good output looks like, and nobody owning the last stretch to production. The Sprint is built against all three. Day 1 ends with a signed Brief that names one user, one input, one output, and the acceptance criteria. Day 5 is a working prototype on your real data, or you stop and get your money back. Days 6 to 9 are the edge cases, error states, and prompt tuning that demos skip, scored against the output rubric.
+What gets built as an AI feature usually stalls because nobody scoped it as a workflow, and it stalls in the same three places: a demo that worked on five examples, no agreement on what good output looks like, and nobody owning the last stretch to production. The Sprint is built against all three. Day 1 ends with a signed Brief that names one user, one input, one output, and the acceptance criteria. Day 5 is a working prototype on your real data, or you stop and get your money back. Days 6 to 9 are the edge cases, error states, and prompt tuning that demos skip, scored against the output rubric.
 
 #### How is this different from an AI consulting firm?
 
@@ -633,10 +671,6 @@ Read-only codebase access, sample data, and one decision-maker who answers withi
 
 No. Production deployment depends on access, infrastructure, and third-party dependencies that aren't fully under our control. If production release is blocked, the deliverable is a staging deployment or a production-ready pull request your team can merge.
 
-#### What happens after Day 10?
-
-Your team runs the workflow. The rubric and playbook are built so they can maintain it without me, and most teams do. If you want a second workflow, book another Sprint within 6 months of handoff and it runs at the price you paid for the first. There's no retainer to keep the first one running.
-
 Ask your AI about this page
 
 Opens your assistant with the question ready. It reads this page and answers for your situation.
@@ -675,7 +709,7 @@ Full definitions for these and more terms are in the [Forward Deployed AI Engine
 
 10 · Get started
 
-### Want to ship one useful AI feature?
+### Want your first autopilot running in ten days?
 
 Score your workflow in two minutes, then book a 15-minute Scoping Call. If it fits, you get the Brief draft and your kickoff date.
 
@@ -2375,9 +2409,9 @@ Discovery Day
 
 ## Before we scope a Sprint, we scope the problem.
 
-A 2-hour working session with Nasser Ghanemzadeh. We look at your use case, your data, your codebase, and your team. By the end you have either a clean Sprint Brief or an honest "this isn't a Sprint yet, here's what to do first" memo.
+Two hours with you and the person who does the workflow today, to find out whether it can be your first autopilot: a workflow that does the work instead of helping a user do it. By the end you have either a one-sentence Sprint Brief or an honest "this isn't a Sprint yet, here's what to do first" memo.
 
-$500. Credited toward your Sprint if you continue within 14 days.
+$500, credited to the Sprint.
 
 [Book a Discovery Day →](https://cal.com/ghanemzadeh/discovery)
 
@@ -2391,19 +2425,19 @@ Forbes · TechCrunch · Al Jazeera · HuffPost
 
 ### What you walk away with
 
-By the end of the 2 hours you have a working document with all of the following, written on the call and ready to forward to your team.
+By the end of the 2 hours you have a one-page memo, written on the call and ready to forward to your team. It holds:
 
-- Use-case clarification, written in a single sentence using the Sprint Brief template.
+- The workflow written out step by step, with each step marked as rule-following or judgement.
 
-- Data and API readiness assessment for the candidate workflow.
+- A one-sentence Sprint Brief, written with the Brief template.
 
-- Recommended workflow scope (or a recommended deferment, with reasoning).
+- A first rubric for scoring the workflow's output.
 
-- A value estimate: what the workflow is worth a year in your numbers, and how long the Sprint takes to pay back.
+- What the workflow replaces and what that costs you now.
 
-- A go / no-go memo on whether a Sprint is the right next step.
+- Whether your data and APIs can carry it in a Sprint.
 
-- A Sprint Brief draft if there's a strong fit, including success criteria and out-of-scope items.
+- A go or no-go on whether a Sprint is the right next step, and if it isn't, what to do first.
 
 - Honest answers about what fits in 10 business days and what doesn't.
 
@@ -2411,9 +2445,11 @@ By the end of the 2 hours you have a working document with all of the following,
 
 ### Who this is for
 
-- B2B SaaS founders or product leaders considering shipping an AI feature.
+- B2B SaaS founders or product leaders with one workflow in mind for their first autopilot.
 
-- Teams that have tried building AI features and gotten stuck somewhere between prototype and production.
+- Teams with an AI engineer or forward deployed engineer role that has been open for more than a month.
+
+- Teams that tried building an AI workflow, in house or through a contractor or agency, and got stuck between prototype and production.
 
 - Teams that know AI should be part of their product but want a second opinion before committing engineering time.
 
@@ -2437,23 +2473,23 @@ The 2 hours are structured but not rigid. Rough shape:
 
 **Minutes 0–30: Your context.** Current product, team, AI experiments to date, what's worked and what hasn't, what's pulling the AI conversation forward inside your company.
 
-**Minutes 30–75: The candidate workflow.** Inputs, outputs, users, data sources, current manual process, what good output looks like, who reviews it before it ships.
+**Minutes 30–75: The workflow, step by step.** With the person who does it today, I write the workflow out step by step and mark each step as rule-following or judgement: inputs, outputs, data sources, what good output looks like, who reviews it before it ships.
 
-**Minutes 75–105: Feasibility.** What fits in a 10-day Sprint and what doesn't. Risk classification (low / medium / high). Integration complexity. Where the Day-5 prototype likely lands.
+**Minutes 75–105: Feasibility.** What fits in a 10-day Sprint and what doesn't. Risk classification (low / medium / high). What the workflow replaces and what that costs you now. Where the Day-5 prototype likely lands.
 
-**Minutes 105–120: The memo.** Go / no-go recommendation, Sprint Brief draft (if applicable), scoping language, next-step recommendation. Shared as a Google Doc you keep.
+**Minutes 105–120: The memo.** Go or no-go, the one-sentence Brief, a first rubric, and the next step. One page, shared as a Google Doc you keep.
 
-About half of Discovery Days end with a Sprint recommendation. The other half end with "here's what to do first, come back when X is in place." Both are valid outcomes. The point of a Discovery Day is to find out which one you are, not to convince you to buy a Sprint.
+A Discovery Day can end with a Sprint recommendation or with "here's what to do first, come back when X is in place." Both are valid outcomes. The point of a Discovery Day is to find out which one you are, not to convince you to buy a Sprint.
 
 05 · The credit
 
 ### The credit toward Sprint
 
-If you continue to a full Sprint within 14 days of your Discovery Day, the $500 is credited against the Sprint price.
+If you continue to a full Sprint, the $500 is credited to the Sprint.
 
 So a Discovery Day followed by a Sprint costs the Sprint price, not the Sprint price plus $500.
 
-If we agree the Sprint isn't the right next step, the $500 covers the working document and the 2 hours. No upsell, no follow-up sequence, no retainer pitch.
+If we agree the Sprint isn't the right next step, the $500 covers the memo and the 2 hours. No upsell, no follow-up sequence, no retainer pitch.
 
 06 · Before the call
 
@@ -2461,7 +2497,7 @@ If we agree the Sprint isn't the right next step, the $500 covers the working do
 
 A short pre-call form, sent after booking. Three things:
 
-- **The workflow you're considering.** One paragraph is enough. Examples I've worked through with other founders: investor update assistant, runway scenario explainer, customer summary generator, support ticket triage, onboarding assistant.
+- **The workflow you're considering.** One paragraph is enough. Examples of the workflows a Discovery Day scopes: investor update assistant, runway scenario explainer, customer summary generator, support ticket triage, onboarding assistant.
 
 - **Your stack and data access.** What's your product built in, where does the relevant data live (Stripe, your DB, HubSpot, Linear, Notion, your CRM, your admin), and what AI provider you already use (Anthropic, OpenAI, Bedrock, Vertex) if any.
 
@@ -2475,8 +2511,6 @@ That's it. No data dumps, no NDAs to sign before the call. We sign a mutual NDA 
 
 I'm Nasser Ghanemzadeh. I've spent 17+ years on the customer side of software, as CEO, CPO, and product lead. I built and exited Nivo (200K+ users, 450% revenue growth, acquired), led product at Pangouan, co-founded Iran Startups, and founded Finnova, where I was the first managing director. These days I build Vectig, an AI-native startup finance product, shipped daily with Claude Code and MCP.
 
-**Speaking on AI-native product development:** OMR Festival, re:publica, GITEX EUROPE.
-
 A Discovery Day points that experience at your roadmap for two hours. Based in Turkey, available across European, Middle Eastern, and North American business hours.
 
 [LinkedIn](https://www.linkedin.com/in/ghanemzadeh/) · [Email](mailto:ghanemzadeh@gmail.com) · [Vectig](https://vectig.com)
@@ -2485,7 +2519,7 @@ A Discovery Day points that experience at your roadmap for two hours. Based in T
 
 #### What if we decide not to do a Sprint after the Discovery Day?
 
-Then you walk away with the working document, the go / no-go memo, and 2 hours of focused outside-perspective on your AI roadmap. No follow-up sales sequence. You're free to take the memo to another vendor, to your internal team, or to nobody at all.
+Then you walk away with the one-page memo and its go or no-go, plus 2 hours of focused outside perspective on your AI roadmap. No follow-up sales sequence. You're free to take the memo to another vendor, to your internal team, or to nobody at all.
 
 #### Do you sign an NDA?
 
@@ -2493,15 +2527,15 @@ If either side wants a mutual NDA, we sign one on the call itself before getting
 
 #### What if our data isn't ready?
 
-That's one of the most common Discovery Day outcomes: "the workflow makes sense, but the data foundation isn't there yet." The memo will say exactly what to do first, usually a 2 to 4 week data-readiness project that you can run internally, and we revisit Sprint readiness when it's done.
+Then the memo says so plainly: "the workflow makes sense, but the data foundation isn't there yet." The memo will say exactly what to do first, usually a 2 to 4 week data-readiness project that you can run internally, and we revisit Sprint readiness when it's done.
 
 #### How is this different from the free Scoping Call?
 
-The Scoping Call is free and takes 15 minutes: we pick the workflow and check whether your data can carry it in ten days. The Discovery Day is a paid two-hour working session that ends with a written document you keep: the scope, a go/no-go memo, and a Sprint Brief draft if there is a fit. Most founders start with the call.
+The Scoping Call is free and takes 15 minutes: we pick the workflow and check whether your data can carry it in ten days. The Discovery Day is a paid two-hour working session that ends with a one-page memo you keep: the workflow written out step by step, the one-sentence Brief, a first rubric, and a go or no-go. Most founders start with the call.
 
 #### What if I'm not sure I want a Sprint yet?
 
-Then a Discovery Day is exactly the right starting point. About half of them end with a deferment recommendation. That's a feature, not a failure mode.
+Then a Discovery Day is exactly the right starting point. A no-go is a useful result too: the memo says why, and what to do first.
 
 #### Can a co-founder or technical lead join?
 
@@ -2519,7 +2553,7 @@ Mostly no. The methodology, examples, and Sprint structure are built around foun
 
 ### Two hours, one document, a clear next step.
 
-Book a Discovery Day for a focused outside read on whether the AI feature you're considering is ready to ship in 10 business days. Or start with the full breakdown of the [10-day FDE Sprint](https://ghanemzadeh.com/ai-feature-sprint/).
+Book a Discovery Day for a focused outside read on whether the workflow you have in mind is ready to ship as an autopilot in 10 business days. Or start with the full breakdown of the [10-day FDE Sprint](https://ghanemzadeh.com/ai-feature-sprint/).
 
 [Book a Discovery Day →](https://cal.com/ghanemzadeh/discovery)
 [Read the Sprint details](https://ghanemzadeh.com/ai-feature-sprint/)
