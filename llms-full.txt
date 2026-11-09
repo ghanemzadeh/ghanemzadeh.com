@@ -878,17 +878,17 @@ Score it in two minutes, then book a 15-minute Scoping Call. If it fits, the [FD
 
 ---
 
-# The Best Forward Deployed Engineer Books & Resources (2026)
+# The Best Forward Deployed Engineer Books (2026): All 7 Compared
 
 URL: https://ghanemzadeh.com/best-forward-deployed-engineer-books/
 
 [Forward Deployed Engineer](https://ghanemzadeh.com/forward-deployed-ai-engineer/)
 
-## The best Forward Deployed Engineer books & resources (2026)
+## The best Forward Deployed Engineer books (2026): all seven, compared
 
-The Forward Deployed Engineer role now has a shelf of its own: six books written about it, all from 2026, from a free 93-page PDF to a 746-page practitioner manual. A useful reading list pairs one of them with the best books on the skills the role is made of: AI engineering, data systems, product discovery, and the customer room. One of the six is mine, so it is listed first and disclosed; the comparison below says when another one is the better pick.
+The Forward Deployed Engineer role now has a shelf of its own: seven books written about it, all published or revised in 2026, from a free 93-page PDF to a 746-page practitioner manual. A useful reading list pairs one of them with the best books on the skills the role is made of: AI engineering, data systems, product discovery, and the customer room. One of the seven is mine, so it is listed first and disclosed; the comparison below says when another one is the better pick.
 
-By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated October 2026.
+By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated November 2026.
 
 ### Books written about the FDE role
 
@@ -918,9 +918,13 @@ The largest book on the shelf: *The Practitioner Playbook for Shipping Enterpris
 
 *A Playbook for the AI Era's Field Role*, a free 93-page book with 35 plates from The Business Engineer, first edition August 2026, delivered as a PDF in exchange for an email address. It is more business analysis than engineering: the "last mile" between what a model can do and what an enterprise will let it do, a four-gate test for picking the first problem, and a handover run as an acceptance test. Pick it if you are deciding whether to use FDEs, not how to be one. [The Business Engineer](https://fourweekmba.com/fde-playbook-book/).
 
+#### 7. Forward Deployed, by Riste Gramatikov
+
+*Inside the Palantir Framework That Solved Enterprise AI*, on Kindle in a second edition from August 2026, 281 pages. Of the seven it is the one most about the company rather than the job: an independent analysis, not affiliated with Palantir, of the strategy, culture, organizational design, talent management, and system architecture behind Palantir's forward deployed model, pitched at leaders whose AI pilots have stalled. Pick it if you are designing an FDE organization rather than joining one. [Amazon](https://www.amazon.com/dp/B0HCPMC5MR).
+
 In Chinese, the writer Fan Bing (范冰), author of *Growth Hacker*, published *前线部署工程师* free on GitHub in July 2026; it documents 165 cases from Palantir, OpenAI, and Anthropic to China's first FDE teams, and has about 5,000 stars. [GitHub](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer).
 
-### The six, side by side
+### The seven, side by side
 
 | Book | Format and status | Length | Best for |
 | --- | --- | --- | --- |
@@ -930,12 +934,13 @@ In Chinese, the writer Fan Bing (范冰), author of *Growth Hacker*, published *
 | The Field Deployed Engineer's Handbook (Vaughan) | Leanpub, 90% complete | In progress | A platform-neutral handbook from discovery to handover |
 | How to Be a Forward Deployed Engineer (Mann) | Paperback, June 2026 | 230 pages | A compact career field guide |
 | The Forward-Deployed Engineer (Cuofano) | Free PDF for an email, August 2026 | 93 pages | Buyers and leaders deciding whether to use FDEs |
+| Forward Deployed (Gramatikov) | Kindle, second edition, August 2026 | 281 pages | Leaders designing an FDE organization on the Palantir model |
 
-Details as listed by each publisher or store on October 12, 2026.
+Details as listed by each publisher or store on October 12, 2026, and for Gramatikov on November 9, 2026.
 
 ### Books on the skills the role is made of
 
-No FDE book replaces the fundamentals. These four are the ones I would pair with whichever of the six you choose.
+No FDE book replaces the fundamentals. These four are the ones I would pair with whichever of the seven you choose.
 
 #### 1. AI Engineering, by Chip Huyen
 
@@ -971,7 +976,7 @@ Running a B2B SaaS company? The method in this book is also a service, the FDE S
 
 ### Where to start
 
-If you are deciding whether the role is for you, start with the [explainer on what a Forward Deployed Engineer is](https://ghanemzadeh.com/forward-deployed-ai-engineer/), then the Qureshi and McGrew conversations. If you have decided and want the map, start with [Forward Deployed AI Engineering](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/) and follow the path in [how to become an FDE](https://ghanemzadeh.com/how-to-become-a-forward-deployed-ai-engineer/). If you are already in the role, Bommena's third edition and Vaughan's handbook go deeper on the engineering. If you are buying FDE work rather than doing it, start with Cuofano's free book, then [the three ways a startup can get one](https://ghanemzadeh.com/forward-deployed-engineer-for-startups/).
+If you are deciding whether the role is for you, start with the [explainer on what a Forward Deployed Engineer is](https://ghanemzadeh.com/forward-deployed-ai-engineer/), then the Qureshi and McGrew conversations. If you have decided and want the map, start with [Forward Deployed AI Engineering](https://ghanemzadeh.com/books/forward-deployed-ai-engineering/) and follow the path in [how to become an FDE](https://ghanemzadeh.com/how-to-become-a-forward-deployed-ai-engineer/). If you are already in the role, Bommena's third edition and Vaughan's handbook go deeper on the engineering. If you lead the company and want to build the model inside it, Gramatikov's book is the organizational view. If you are buying FDE work rather than doing it, start with Cuofano's free book, then [the three ways a startup can get one](https://ghanemzadeh.com/forward-deployed-engineer-for-startups/).
 
 ---
 
@@ -2771,13 +2776,13 @@ URL: https://ghanemzadeh.com/fde-cost-calculator/
 
 ## What does a forward deployed engineer cost?
 
-In year one, less than the salary suggests and more than a contract looks. Put in how many AI workflows you need shipped this year, and the calculator compares a full-time hire, a contractor, and a fixed-price FDE Sprint on three numbers: first-year cost, cost per workflow, and time to the first workflow in production.
+A full-time forward deployed engineer costs about $190,000 a year in base salary in 2026, the median in job postings, where the typical range is $160,000 to $220,000. Median US total compensation is about $206,000, and in [the 260 live roles I analyzed in October 2026](https://ghanemzadeh.com/forward-deployed-engineer-job-market/), the median posted US base range was $180,000 to $250,000. With benefits and payroll taxes at 1.25 times salary, a full year costs the company about $237,500. Consultancies that embed an FDE charge about $15,000 to $40,000 a month, and a fixed-price FDE Sprint is $5,000 for one workflow.
 
-By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated October 2026.
+By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated November 2026.
 
 ### Your numbers
 
-Every field is editable. It runs in your browser; nothing you type leaves this page.
+In year one, a hire costs less than the salary suggests and a contractor more than the quote looks. Put in how many AI workflows you need shipped this year, and the calculator compares a full-time hire, a contractor, and a fixed-price FDE Sprint on three numbers: first-year cost, cost per workflow, and time to the first workflow in production. Every field is editable. It runs in your browser; nothing you type leaves this page.
 
 ### The comparison
 
