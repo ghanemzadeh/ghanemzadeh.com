@@ -3611,6 +3611,8 @@ Get the free chapters
 
 [All posts on Substack →](https://ghanemzadeh.substack.com/archive?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
+- [November 10, 2026 #### The first small lie Every large fraud began as a rounding. Theranos, the nine-figure checks, and the one rung of the ladder that was cheap to inspect.](https://ghanemzadeh.substack.com/p/the-first-small-lie?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
+
 - [November 3, 2026 #### Lie down with dogs Leverage and company are the two exposures that look like advantages right up to the month they end you. The smartest fund ever assembled carried both.](https://ghanemzadeh.substack.com/p/lie-down-with-dogs?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
 - [October 27, 2026 #### Consistently not stupid Consistently not stupid Preview text: Where Berkshire's returns actually came from, and the $3.5 billion mistake Buffett keeps confessing.](https://ghanemzadeh.substack.com/p/consistently-not-stupid?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
@@ -3632,8 +3634,6 @@ Get the free chapters
 - [September 2, 2026 #### Breaking Into the Hottest Job in Software Four paths in, a three-project portfolio, and the interview stage everyone underestimates.](https://ghanemzadeh.substack.com/p/breaking-into-the-hottest-job-in?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
 - [August 26, 2026 #### Ship the First Slice The smallest end-to-end system, on real data, with the customer holding the keyboard. And why your first version should be three Python files, not an agent framework.](https://ghanemzadeh.substack.com/p/ship-the-first-slice?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
-
-- [August 19, 2026 #### Evals Are the New Spec In AI engineering, the evaluation set is the specification, and building the right one is the highest-leverage activity in any engagement.](https://ghanemzadeh.substack.com/p/evals-are-the-new-spec?utm_source=ghanemzadeh.com&utm_medium=newsletter_page)
 
 05 · Who's writing this
 
