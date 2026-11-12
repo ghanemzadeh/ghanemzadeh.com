@@ -233,12 +233,12 @@ I ship one workflow into your product that does the work instead of helping a us
 
 Built by **Nasser Ghanemzadeh**, ex-CEO/CPO of Nivo (acquired, 200K+ users) · building Vectig in public · featured in Forbes, TechCrunch, Al Jazeera
 
-Next kickoff s: Tuesday November 17 (deposit by Thursday November 12 ) · Tuesday December 1 (deposit by Thursday November 26 ) · One Sprint at a time · $5,000 through the Tuesday November 17 kickoff, $7,500 from Tuesday December 1
+Next kickoff s: Tuesday December 1 (deposit by Thursday November 26 ) · (deposit by ) · One Sprint at a time · $5,000 through the Tuesday November 17 kickoff, $7,500 from Tuesday December 1
 
 [Score your workflow (2 min)](https://ghanemzadeh.com/scorecard/)
 [Book a 15-minute Scoping Call](https://ghanemzadeh.com/call/)
 
-By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated Saturday October 31.
+By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated Thursday November 12.
 
 An AI workflow running in my own product, end to end, and how one gets built into yours. 16 minutes.
 
