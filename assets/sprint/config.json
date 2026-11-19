@@ -11,10 +11,7 @@
     { "date": "2027-01-12", "callsCloseBy": "2027-01-07", "depositBy": "2027-01-08" }
   ],
   "price": {
-    "current": 5000,
-    "currentThroughKickoff": "2026-11-17",
-    "next": 7500,
-    "nextFrom": "2026-12-08",
+    "current": 7500,
     "currency": "USD",
     "depositPercent": 50,
     "discoveryDay": 500

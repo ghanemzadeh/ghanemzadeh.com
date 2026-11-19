@@ -12,7 +12,7 @@
 import { readFileSync, writeFileSync, readdirSync } from "node:fs";
 import { createRequire } from "node:module";
 import { join, relative } from "node:path";
-import { stripSprintHidden } from "./strip-sprint-hidden.mjs";
+import { stripSprintHidden, hiddenSprintText } from "./strip-sprint-hidden.mjs";
 
 const require = createRequire(import.meta.url);
 const Sprint = require("../assets/sprint/sprint.js");
@@ -55,7 +55,7 @@ function render(html) {
     const href = attrs.match(/\sdata-sprint-href="(\w+)"/);
     let a = attrs;
     if (needs || unless) {
-      const hide = needs ? !f[needs[1]] : !!f[unless[1]];
+      const hide = Sprint.hides(f, needs ? needs[1] : null, unless ? unless[1] : null);
       a = a.replace(/\shidden(?=[\s>]|$)/, "");
       if (hide) a += " hidden";
     }
@@ -65,22 +65,20 @@ function render(html) {
     }
     return `<${tag}${a}>`;
   });
+  // data-sprint-text="template": the filled template while the element is
+  // shown, nothing while it is hidden (runs after the hidden pass above).
+  html = html.replace(
+    /(<([a-z0-9]+)\b([^>]*\sdata-sprint-text="([^"]*)"[^>]*)>)([^<]*)(<\/\2>)/g,
+    (m, open, tag, attrs, tpl, inner, close) => {
+      const hidden = /\shidden(?=[\s>]|$)/.test(attrs.replace(/\sdata-sprint-text="[^"]*"/, ""));
+      return open + (hidden ? "" : esc(Sprint.fill(unesc(tpl), f))) + close;
+    },
+  );
   return html;
 }
 
 const unesc = (s) =>
   s.replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&amp;/g, "&");
-
-// {key} is a field. [[segment]] drops out when a field in it is empty;
-// [[segment||fallback]] uses the fallback instead.
-function fillTemplate(tpl) {
-  return tpl
-    .replace(/\[\[([\s\S]*?)\]\]/g, (m, inner) => {
-      const [main, fallback = ""] = inner.split("||");
-      return [...main.matchAll(/\{(\w+)\}/g)].every(([, k]) => f[k]) ? main : fallback;
-    })
-    .replace(/\{(\w+)\}/g, (m, k) => (k in f ? f[k] : m));
-}
 
 // Index of the bracket that closes the one at `open`, skipping JSON strings.
 function closingBracket(text, open) {
@@ -106,17 +104,15 @@ const indentJson = (value, pad) => JSON.stringify(value, null, 2).split("\n").jo
 // JSON-LD Offer nodes, keyed by the fragment of their @id. Offers stay flat
 // (no nested objects) so each one can be rewritten in place.
 const p = config.price;
-// The price bookable today, valid through the last configured kickoff sold
-// at that price, so the Offer moves forward as kickoffs are added.
-const sprintPrice = Sprint.currentPrice(config, today);
-const sprintPriceValidUntil =
-  config.kickoffs
-    .filter((k) => Sprint.priceFor(config, k.date) === sprintPrice)
-    .map((k) => k.date)
-    .sort()
-    .pop() || p.currentThroughKickoff;
+// One price for every scheduled kickoff, so the Offer is valid until the last
+// kickoff in the config and moves forward as kickoffs are added.
+const lastKickoff = config.kickoffs.map((k) => k.date).sort().pop();
 const OFFER_FIELDS = {
-  "offer-sprint": { price: String(sprintPrice), priceCurrency: p.currency, priceValidUntil: sprintPriceValidUntil },
+  "offer-sprint": {
+    price: String(p.current),
+    priceCurrency: p.currency,
+    ...(lastKickoff && { priceValidUntil: lastKickoff }),
+  },
   "offer-discovery-day": { price: String(p.discoveryDay), priceCurrency: p.currency },
 };
 
@@ -146,7 +142,7 @@ function videoNode(html, key) {
 function renderStructured(html) {
   // <meta data-sprint-content="template">
   html = html.replace(/<meta\b([^>]*\sdata-sprint-content="([^"]*)"[^>]*)>/g, (m, attrs, tpl) =>
-    `<meta${attrs.replace(/\scontent="[^"]*"/, ` content="${esc(fillTemplate(unesc(tpl)))}"`)}>`);
+    `<meta${attrs.replace(/\scontent="[^"]*"/, ` content="${esc(Sprint.fill(unesc(tpl), f))}"`)}>`);
 
   html = html.replace(/("@id": "[^"]*#(offer-[\w-]+)"[^{}]*)\}/g, (m, body, id) => {
     const set = OFFER_FIELDS[id];
@@ -208,10 +204,13 @@ function stampUpdated(html) {
 let changed = 0;
 for (const file of walk(ROOT)) {
   const before = readFileSync(file, "utf8");
-  if (!/\sdata-sprint(?:-needs|-unless|-href|-content)?="/.test(before)) continue;
+  if (!/\sdata-sprint(?:-needs|-unless|-href|-content|-text)?="/.test(before)) continue;
   let after = renderStructured(render(before));
   if (after !== before) after = stampUpdated(after);
   const rel = relative(ROOT, file);
+  for (const text of hiddenSprintText(after)) {
+    console.warn(`warn  ${rel}: hidden Sprint copy in the static HTML (move it into data-sprint-text): "${text.slice(0, 80)}"`);
+  }
   if (after === before) {
     console.log(`  ${rel}: up to date`);
     continue;

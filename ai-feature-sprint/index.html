@@ -432,7 +432,7 @@
         <p class="afs-hero-cred">Built by <strong>Nasser Ghanemzadeh</strong>, ex-CEO/CPO of Nivo (acquired, 200K+ users) &middot; building Vectig in public &middot; featured in Forbes, TechCrunch, Al Jazeera</p>
         <!-- Status line: dates and prices are data-sprint hooks from assets/sprint/config.json
              (scripts/render-sprint.mjs + sprint.js). A kickoff drops off once its call window closes. -->
-        <p class="afs-status-bar"><span data-sprint-needs="kickoff1">Next kickoff<span data-sprint-needs="kickoff2">s</span>: <span data-sprint="kickoff1">Tuesday December 8</span> (deposit by <span data-sprint="deposit1">Friday December 4</span>)<span data-sprint-needs="kickoffNote1"> · <span data-sprint="kickoffNote1">Last kickoff that finishes before Christmas. One slot.</span></span><span data-sprint-needs="kickoff2"> · <span data-sprint="kickoff2">Tuesday January 12</span> (deposit by <span data-sprint="deposit2">Friday January 8</span>)</span> · </span>One Sprint at a time · <span data-sprint="price">$7,500</span><span data-sprint-needs="priceThrough" hidden> through the <span data-sprint="priceThrough"></span> kickoff, <span data-sprint="nextPrice"></span> from <span data-sprint="nextFrom"></span></span></p>
+        <p class="afs-status-bar"><span data-sprint-needs="kickoff1" data-sprint-text="Next kickoff{kickoffPlural}: {kickoff1} (deposit by {deposit1})[[ · {kickoffNote1}]][[ · {kickoff2} (deposit by {deposit2})]] · ">Next kickoffs: Tuesday December 8 (deposit by Friday December 4) · Last kickoff that finishes before Christmas. One slot. · Tuesday January 12 (deposit by Friday January 8) · </span>One Sprint at a time · <span data-sprint="price">$7,500</span></p>
         <div class="afs-cta-row">
           <a class="afs-cta afs-cta-primary" href="/scorecard/">Score your workflow (2 min)</a>
           <a class="afs-cta afs-cta-secondary" href="/call/">Book a 15-minute Scoping Call</a>
@@ -444,7 +444,7 @@
     <main class="container afs-page">
       <figure class="section sp-proof" data-sprint-needs="proofVideo" hidden>
         <div class="sp-video" data-sprint-video="proofVideo" data-video-facade data-video-title="An AI workflow running in production, end to end"></div>
-        <figcaption>An AI workflow running in my own product, end to end, and how one gets built into yours. 16 minutes.</figcaption>
+        <figcaption data-sprint-needs="proofVideo" data-sprint-text="An AI workflow running in my own product, end to end, and how one gets built into yours. 16 minutes." hidden></figcaption>
       </figure>
 
       <section class="section afs-answer" id="what-is-an-ai-feature-sprint">
@@ -644,7 +644,7 @@
             </div>
             <div>
               <dt>Price</dt>
-              <dd><span data-sprint="price">$7,500</span><span data-sprint-needs="priceThrough" hidden> for Sprints kicking off through <span data-sprint="priceThrough"></span>. From the <span data-sprint="nextFrom"></span> kickoff, <span data-sprint="nextPrice"></span></span>. Half on signing, half on Day 10. The price is set against what the workflow replaces: a contractor month, an engineer role you haven't filled, or six weeks of two engineers. <span data-sprint-unless="deposit">The deposit is invoiced on signing.</span><a data-sprint-needs="deposit" data-sprint-href="deposit" hidden>Pay the deposit.</a></dd>
+              <dd><span data-sprint="price">$7,500</span>. Half on signing, half on Day 10. The price is set against what the workflow replaces: a contractor month, an engineer role you haven't filled, or six weeks of two engineers. <span data-sprint-unless="deposit" data-sprint-text="The deposit is invoiced on signing.">The deposit is invoiced on signing.</span><a data-sprint-needs="deposit" data-sprint-href="deposit" data-sprint-text="Pay the deposit." hidden></a></dd>
             </div>
             <div>
               <dt>Next workflow</dt>
@@ -828,7 +828,7 @@
         </details>
         <details>
           <summary>What does it cost?</summary>
-          <p><span data-sprint="price">$7,500</span><span data-sprint-needs="priceThrough" hidden> for Sprints kicking off through <span data-sprint="priceThrough"></span>, and <span data-sprint="nextPrice"></span> from the <span data-sprint="nextFrom"></span> kickoff</span>. Half on signing, half on Day 10. The price is set against what the workflow replaces: a contractor month, an engineer role you haven't filled, or six weeks of two engineers. The optional Discovery Day is <span data-sprint="discoveryDayPrice">$500</span>, credited to the Sprint.</p>
+          <p><span data-sprint="price">$7,500</span>. Half on signing, half on Day 10. The price is set against what the workflow replaces: a contractor month, an engineer role you haven't filled, or six weeks of two engineers. The optional Discovery Day is <span data-sprint="discoveryDayPrice">$500</span>, credited to the Sprint.</p>
         </details>
         <details>
           <summary>What does the Discovery Day produce?</summary>
@@ -848,7 +848,7 @@
         </details>
         <details>
           <summary>Do you have case studies?</summary>
-          <p>Not yet. This is a new offer. What you can see is the same kind of workflow built into Vectig, my own product, with numbers from my own test runs. That's why the price is <span data-sprint="price">$7,500</span><span data-sprint-needs="priceThroughMonth" hidden> through <span data-sprint="priceThroughMonth"></span></span> and why the guarantee is a full refund.</p>
+          <p>Not yet. This is a new offer. What you can see is the same kind of workflow built into Vectig, my own product, with numbers from my own test runs. That's why the price is <span data-sprint="price">$7,500</span> and why the guarantee is a full refund.</p>
         </details>
         <details>
           <summary>Why pay you instead of using your own engineers?</summary>
@@ -991,7 +991,7 @@
     </footer>
   </div>
   <script src="/assets/subscribe.js" defer></script>
-  <script src="/assets/sprint/sprint.js?v=20261119" defer></script>
+  <script src="/assets/sprint/sprint.js?v=20261119b" defer></script>
   <!-- Cloudflare Web Analytics (cookie-free; no consent banner needed) -->
   <script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "d6d2370914094673b44c7d91dc968702"}'></script>
 </body>

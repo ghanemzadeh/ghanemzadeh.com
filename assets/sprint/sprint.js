@@ -9,7 +9,13 @@
    scripts/render-sprint.mjs:
      data-sprint="key"         text content becomes fields()[key]
      data-sprint-needs="key"   hidden when fields()[key] is empty
-     data-sprint-unless="key"  hidden when fields()[key] is set
+     data-sprint-unless="key"  hidden when fields()[key] is set (an element
+                               can carry both; either one hides it)
+     data-sprint-text="tpl"    text content becomes the filled template while
+                               the element is shown, and is empty while it is
+                               hidden, so hidden copy never sits in the static
+                               HTML. Same template syntax as below. Use it for
+                               any text inside a needs/unless element.
      data-sprint-href="key"    href becomes fields()[key], removed when empty
      data-sprint-video="key"   renders config.urls[key] as a video, if set;
                                with data-video-facade and a thumbnail in
@@ -48,11 +54,6 @@
     return DAYS[d.getDay()] + ' ' + MONTHS[d.getMonth()] + ' ' + d.getDate();
   }
 
-  // "October"
-  function formatMonth(iso) {
-    return MONTHS[parseDate(iso).getMonth()];
-  }
-
   // "$5,000"
   function formatMoney(amount, currency) {
     return new Intl.NumberFormat('en-US', {
@@ -72,44 +73,25 @@
       .slice(0, n || 2);
   }
 
-  function priceFor(cfg, kickoffDate) {
-    return kickoffDate <= cfg.price.currentThroughKickoff ? cfg.price.current : cfg.price.next;
-  }
-
-  // The price a visitor can book today: the price of the next kickoff still
-  // open. With none open, today's date decides which side of the step it is.
-  function currentPrice(cfg, today) {
-    var t = today || todayISO();
-    var k = nextKickoffs(cfg, 1, t)[0];
-    return priceFor(cfg, k ? k.date : t);
-  }
-
   // Display strings for the {placeholders} used in page copy. A missing
   // kickoff comes back as '' so callers can fall back to evergreen copy.
-  // kickoffNote1 is the optional "note" on the next kickoff in config.json.
-  // The price-step fields (nextPrice, priceThrough, priceThroughMonth,
-  // nextFrom) come back as '' once the step has passed, so copy that
-  // describes the step can hide itself with data-sprint-needs="priceThrough".
+  // kickoffNote1 is the optional "note" on the next kickoff in config.json;
+  // kickoffPlural is "s" when a second kickoff is open.
   function fields(cfg, today) {
     var next = nextKickoffs(cfg, 2, today);
     var k1 = next[0];
     var k2 = next[1];
     var p = cfg.price;
-    var price = currentPrice(cfg, today);
-    var stepAhead = price === p.current && p.next !== p.current;
     return {
       kickoff1: k1 ? formatDate(k1.date) : '',
       kickoff2: k2 ? formatDate(k2.date) : '',
+      kickoffPlural: k2 ? 's' : '',
       kickoffNote1: k1 && k1.note ? k1.note : '',
       deposit1: k1 ? formatDate(k1.depositBy) : '',
       deposit2: k2 ? formatDate(k2.depositBy) : '',
       callsClose1: k1 ? formatDate(k1.callsCloseBy) : '',
       callsClose2: k2 ? formatDate(k2.callsCloseBy) : '',
-      price: formatMoney(price, p.currency),
-      nextPrice: stepAhead ? formatMoney(p.next, p.currency) : '',
-      priceThrough: stepAhead ? formatDate(p.currentThroughKickoff) : '',
-      priceThroughMonth: stepAhead ? formatMonth(p.currentThroughKickoff) : '',
-      nextFrom: stepAhead ? formatDate(p.nextFrom) : '',
+      price: formatMoney(p.current, p.currency),
       depositPercent: p.depositPercent + '%',
       discoveryDayPrice: formatMoney(p.discoveryDay, p.currency),
       supportDays: String(cfg.supportDays),
@@ -120,6 +102,24 @@
       callVideo: cfg.urls.callVideo || '',
       thanksVideo: cfg.urls.thanksVideo || ''
     };
+  }
+
+  // Fill a template with fields(): {key} is a field. [[segment]] drops out
+  // when a field in it is empty; [[segment||fallback]] uses the fallback.
+  function fill(tpl, f) {
+    return tpl
+      .replace(/\[\[([\s\S]*?)\]\]/g, function (m, inner) {
+        var parts = inner.split('||');
+        var keys = parts[0].match(/\{\w+\}/g) || [];
+        var complete = keys.every(function (k) { return f[k.slice(1, -1)]; });
+        return complete ? parts[0] : (parts[1] || '');
+      })
+      .replace(/\{(\w+)\}/g, function (m, k) { return k in f ? f[k] : m; });
+  }
+
+  // True when a needs/unless hook hides the element.
+  function hides(f, needs, unless) {
+    return (needs !== null && !f[needs]) || (unless !== null && !!f[unless]);
   }
 
   function load() {
@@ -215,11 +215,11 @@
       var k = el.getAttribute('data-sprint');
       if (k in f) el.textContent = f[k];
     });
-    each('[data-sprint-needs]', function (el) {
-      el.hidden = !f[el.getAttribute('data-sprint-needs')];
+    each('[data-sprint-needs],[data-sprint-unless]', function (el) {
+      el.hidden = hides(f, el.getAttribute('data-sprint-needs'), el.getAttribute('data-sprint-unless'));
     });
-    each('[data-sprint-unless]', function (el) {
-      el.hidden = !!f[el.getAttribute('data-sprint-unless')];
+    each('[data-sprint-text]', function (el) {
+      el.textContent = el.hidden ? '' : fill(el.getAttribute('data-sprint-text'), f);
     });
     each('[data-sprint-href]', function (el) {
       var v = f[el.getAttribute('data-sprint-href')];
@@ -236,12 +236,11 @@
     load: load,
     todayISO: todayISO,
     formatDate: formatDate,
-    formatMonth: formatMonth,
     formatMoney: formatMoney,
     nextKickoffs: nextKickoffs,
-    priceFor: priceFor,
-    currentPrice: currentPrice,
     fields: fields,
+    fill: fill,
+    hides: hides,
     videoEmbed: videoEmbed,
     apply: apply
   };
@@ -253,7 +252,7 @@
   root.Sprint = api;
 
   // Pages with config hooks fill themselves; the scorecard has none.
-  var HOOKS = '[data-sprint],[data-sprint-needs],[data-sprint-unless],[data-sprint-href],[data-sprint-video]';
+  var HOOKS = '[data-sprint],[data-sprint-needs],[data-sprint-unless],[data-sprint-text],[data-sprint-href],[data-sprint-video]';
   if (document.querySelector(HOOKS)) {
     load().then(function (cfg) { apply(document, cfg); }, function () { /* keep the static values */ });
   }

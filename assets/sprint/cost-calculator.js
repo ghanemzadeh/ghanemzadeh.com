@@ -100,7 +100,7 @@
 
   if (window.Sprint) {
     window.Sprint.load().then(function (cfg) {
-      price = cfg && cfg.price ? window.Sprint.currentPrice(cfg) : null;
+      price = cfg && cfg.price ? cfg.price.current : null;
       render();
     }, render);
   } else {

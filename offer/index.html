@@ -146,8 +146,8 @@
     <main class="container sp-doc">
       <article>
         <h1>
-          <span data-sprint-needs="kickoff1">FDE Sprint: <span data-sprint="kickoff1">Tuesday December 8</span><span data-sprint-needs="kickoff2"> and <span data-sprint="kickoff2">Tuesday January 12</span></span> kickoff<span data-sprint-needs="kickoff2">s</span></span>
-          <span data-sprint-unless="kickoff1" hidden>FDE Sprint</span>
+          <span data-sprint-needs="kickoff1" data-sprint-text="FDE Sprint: {kickoff1}[[ and {kickoff2}]] kickoff{kickoffPlural}">FDE Sprint: Tuesday December 8 and Tuesday January 12 kickoffs</span>
+          <span data-sprint-unless="kickoff1" data-sprint-text="FDE Sprint" hidden></span>
         </h1>
         <p class="sp-doc__meta">Last updated <time data-sprint-updated datetime="2026-11-19">Thursday November 19</time></p>
 
@@ -176,7 +176,7 @@
         <p>Anyone who wants to "add AI" without a specific workflow, needs a full AI transformation, has data that isn't accessible, wants a general chatbot, or needs guaranteed production deployment regardless of their infrastructure.</p>
 
         <h2>Price</h2>
-        <p><span data-sprint="price">$7,500</span><span data-sprint-needs="priceThrough" hidden> for Sprints kicking off through <span data-sprint="priceThrough"></span>. From the <span data-sprint="nextFrom"></span> kickoff, <span data-sprint="nextPrice"></span></span>. Half on signing, half on Day 10. The price is set against what the workflow replaces: a contractor month, an engineer role you haven't filled, or six weeks of two engineers. <span data-sprint-unless="deposit">The deposit is invoiced on signing.</span><a data-sprint-needs="deposit" data-sprint-href="deposit" hidden>Pay the deposit.</a></p>
+        <p><span data-sprint="price">$7,500</span>. Half on signing, half on Day 10. The price is set against what the workflow replaces: a contractor month, an engineer role you haven't filled, or six weeks of two engineers. <span data-sprint-unless="deposit" data-sprint-text="The deposit is invoiced on signing.">The deposit is invoiced on signing.</span><a data-sprint-needs="deposit" data-sprint-href="deposit" data-sprint-text="Pay the deposit." hidden></a></p>
 
         <h2>Guarantee</h2>
         <p>No working prototype on your data by Day 5? Stop the Sprint and get a full refund. The workflow in your signed Brief isn't running to its acceptance criteria by Day 10? Full refund. The Brief is the contract, which is why Day 1 is the most important day of the ten.</p>
@@ -184,8 +184,9 @@
         <h2>Quick facts</h2>
         <ul>
           <li>One Sprint at a time.</li>
-          <li data-sprint-needs="kickoff1">Next kickoff<span data-sprint-needs="kickoff2">s</span>: <span data-sprint="kickoff1">Tuesday December 8</span> (deposit by <span data-sprint="deposit1">Friday December 4</span>)<span data-sprint-needs="kickoffNote1">. <span data-sprint="kickoffNote1">Last kickoff that finishes before Christmas. One slot.</span></span><span data-sprint-needs="kickoff2"><span data-sprint-unless="kickoffNote1" hidden> and</span><span data-sprint-needs="kickoffNote1"> Then</span> <span data-sprint="kickoff2">Tuesday January 12</span> (deposit by <span data-sprint="deposit2">Friday January 8</span>)<span data-sprint-needs="kickoffNote1">.</span></span><span data-sprint-unless="kickoffNote1" hidden>.</span></li>
-          <li data-sprint-unless="kickoff1" hidden>Next kickoffs: new dates are being set. Ask on the Scoping Call.</li>
+          <li data-sprint-needs="kickoff1" data-sprint-unless="kickoffNote1" data-sprint-text="Next kickoff{kickoffPlural}: {kickoff1} (deposit by {deposit1})[[ and {kickoff2} (deposit by {deposit2})]]." hidden></li>
+          <li data-sprint-needs="kickoffNote1" data-sprint-text="Next kickoff{kickoffPlural}: {kickoff1} (deposit by {deposit1}). {kickoffNote1}[[ Then {kickoff2} (deposit by {deposit2}).]]">Next kickoffs: Tuesday December 8 (deposit by Friday December 4). Last kickoff that finishes before Christmas. One slot. Then Tuesday January 12 (deposit by Friday January 8).</li>
+          <li data-sprint-unless="kickoff1" data-sprint-text="Next kickoffs: new dates are being set. Ask on the Scoping Call." hidden></li>
           <li>Needed before Day 1: read-only codebase access, sample data, and a data processing agreement with your model provider.</li>
           <li>In a first Sprint, a person still approves anything that leaves your company. Autonomy comes later, once the rubric scores hold.</li>
           <li>Not included: a second workflow, refactoring outside the workflow, new infrastructure, compliance review, model fine-tuning.</li>
@@ -195,12 +196,12 @@
         </ul>
 
         <h2>Who I am</h2>
-        <p>I ran Nivo as CEO and CPO to 200,000 users and an acquisition, and I ship AI workflows every week in Vectig, my own product. The investor update assistant on the Sprint page is built into Vectig; in my own test runs it took about 8 minutes from open to send instead of 90. I wrote a book on this work, <em>Forward Deployed AI Engineering</em>. There are no Sprint case studies yet, which is why the price is <span data-sprint="price">$7,500</span><span data-sprint-needs="priceThroughMonth" hidden> through <span data-sprint="priceThroughMonth"></span></span> and why the guarantee is full.</p>
+        <p>I ran Nivo as CEO and CPO to 200,000 users and an acquisition, and I ship AI workflows every week in Vectig, my own product. The investor update assistant on the Sprint page is built into Vectig; in my own test runs it took about 8 minutes from open to send instead of 90. I wrote a book on this work, <em>Forward Deployed AI Engineering</em>. There are no Sprint case studies yet, which is why the price is <span data-sprint="price">$7,500</span> and why the guarantee is full.</p>
 
         <h2>How to start</h2>
         <p><a href="/scorecard/">Score your workflow</a> (two minutes), then <a href="/call/">book a 15-minute Scoping Call</a>. On the call we pick the workflow, check your data can carry it in ten days, and put a rough number on what it's worth to you. If it fits, you get the Brief draft and the deposit invoice, and your date is locked once it's paid. If it doesn't fit, I'll say so and tell you what to do instead.</p>
 
-        <p class="sp-doc__ps" data-sprint-needs="kickoff1">P.S. One slot on <span data-sprint="kickoff1">Tuesday December 8</span><span data-sprint-needs="kickoff2">, one on <span data-sprint="kickoff2">Tuesday January 12</span></span>. The paid deposit locks the date. The Brief locks the scope.</p>
+        <p class="sp-doc__ps" data-sprint-needs="kickoff1" data-sprint-text="P.S. One slot on {kickoff1}[[, one on {kickoff2}]]. The paid deposit locks the date. The Brief locks the scope.">P.S. One slot on Tuesday December 8, one on Tuesday January 12. The paid deposit locks the date. The Brief locks the scope.</p>
       </article>
 
       <aside class="section ask-ai" aria-label="Ask an AI assistant about this page">
@@ -255,7 +256,7 @@
     </footer>
   </div>
   <script src="/assets/subscribe.js" defer></script>
-  <script src="/assets/sprint/sprint.js?v=20261119" defer></script>
+  <script src="/assets/sprint/sprint.js?v=20261119b" defer></script>
   <!-- Cloudflare Web Analytics (cookie-free; no consent banner needed) -->
   <script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "d6d2370914094673b44c7d91dc968702"}'></script>
 </body>
