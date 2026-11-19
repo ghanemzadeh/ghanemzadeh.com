@@ -14,6 +14,7 @@
 //   actually says.
 import { readFileSync, writeFileSync, readdirSync } from "node:fs";
 import { join, relative, sep } from "node:path";
+import { stripSprintHidden } from "./strip-sprint-hidden.mjs";
 
 const ROOT = process.cwd();
 const ORIGIN = "https://ghanemzadeh.com";
@@ -98,6 +99,9 @@ function htmlToMarkdown(html) {
     /<footer class="site-footer">[\s\S]*?<\/footer>/gi,
     /<div class="social-links">[\s\S]*?<\/div>/gi,
   ]) body = body.replace(re, " ");
+
+  // Sprint copy hidden by a data-sprint hook is not on the page.
+  body = stripSprintHidden(body);
 
   // Tables first (their inner tags must survive until here).
   body = body.replace(/<table[\s\S]*?<\/table>/gi, (t) => tableToMarkdown(t));

@@ -229,22 +229,20 @@ Forward deployed engineer for founder-led B2B SaaS
 
 Delivered by [Eupraxic](https://eupraxic.com/fde-sprint/), the forward deployed AI engineering firm founded by Nasser Ghanemzadeh.
 
-I ship one workflow into your product that does the work instead of helping a user do it: scoped on Day 1, running on your data by Day 5, in your repo by Day 10. Fixed scope, $5,000, full refund if it doesn't run. As an independent forward deployed engineer, I pick the model that fits the job, not the one I'm paid to resell.
+I ship one workflow into your product that does the work instead of helping a user do it: scoped on Day 1, running on your data by Day 5, in your repo by Day 10. Fixed scope, $7,500, full refund if it doesn't run. As an independent forward deployed engineer, I pick the model that fits the job, not the one I'm paid to resell.
 
 Built by **Nasser Ghanemzadeh**, ex-CEO/CPO of Nivo (acquired, 200K+ users) · building Vectig in public · featured in Forbes, TechCrunch, Al Jazeera
 
-Next kickoff s: Tuesday December 1 (deposit by Thursday November 26 ) · (deposit by ) · One Sprint at a time · $5,000 through the Tuesday November 17 kickoff, $7,500 from Tuesday December 1
+Next kickoff s: Tuesday December 8 (deposit by Friday December 4 ) · Last kickoff that finishes before Christmas. One slot. · Tuesday January 12 (deposit by Friday January 8 ) · One Sprint at a time · $7,500
 
 [Score your workflow (2 min)](https://ghanemzadeh.com/scorecard/)
 [Book a 15-minute Scoping Call](https://ghanemzadeh.com/call/)
 
-By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated Thursday November 12.
-
-An AI workflow running in my own product, end to end, and how one gets built into yours. 16 minutes.
+By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated Thursday November 19.
 
 ### What is the FDE Sprint?
 
-The FDE Sprint is Eupraxic's fixed-scope engagement in which a forward deployed engineer ships one AI workflow into your product in ten business days. It's built for founder-led B2B SaaS teams of 5 to 50 people, and the workflow runs on your data. It's a fixed price, $5,000, refunded in full if there's no working prototype by Day 5 or no working workflow by Day 10.
+The FDE Sprint is Eupraxic's fixed-scope engagement in which a forward deployed engineer ships one AI workflow into your product in ten business days. It's built for founder-led B2B SaaS teams of 5 to 50 people, and the workflow runs on your data. It's a fixed price, $7,500, refunded in full if there's no working prototype by Day 5 or no working workflow by Day 10.
 
 ### Copilot or autopilot
 
@@ -397,7 +395,7 @@ Days 1 to 10
 
 #### FDE Sprint
 
-$5,000 fixed price
+$7,500 fixed price
 
 10 business days. One narrow AI workflow shipped into staging, production, or a production-ready pull request.
 
@@ -423,7 +421,7 @@ No working prototype on your data by Day 5? Stop the Sprint, full refund. The wo
 
 **Price**
 
-$5,000 for Sprints kicking off through Tuesday November 17. From the Tuesday December 1 kickoff, $7,500. Half on signing, half on Day 10. The price is set against what the workflow replaces: a contractor month, an engineer role you haven't filled, or six weeks of two engineers. The deposit is invoiced on signing. Pay the deposit.
+$7,500. Half on signing, half on Day 10. The price is set against what the workflow replaces: a contractor month, an engineer role you haven't filled, or six weeks of two engineers. The deposit is invoiced on signing.
 
 **Next workflow**
 
@@ -594,7 +592,7 @@ You own the pull request, the config, the rubric, and the playbook. I suggest ru
 
 #### What does it cost?
 
-$5,000 for Sprints kicking off through Tuesday November 17, and $7,500 from the Tuesday December 1 kickoff. Half on signing, half on Day 10. The price is set against what the workflow replaces: a contractor month, an engineer role you haven't filled, or six weeks of two engineers. The optional Discovery Day is $500, credited to the Sprint.
+$7,500. Half on signing, half on Day 10. The price is set against what the workflow replaces: a contractor month, an engineer role you haven't filled, or six weeks of two engineers. The optional Discovery Day is $500, credited to the Sprint.
 
 #### What does the Discovery Day produce?
 
@@ -614,7 +612,7 @@ A full refund, at either of two checkpoints. No working prototype on your data b
 
 #### Do you have case studies?
 
-Not yet. This is a new offer. What you can see is the same kind of workflow built into Vectig, my own product, with numbers from my own test runs. That's why the price is $5,000 through November and why the guarantee is a full refund.
+Not yet. This is a new offer. What you can see is the same kind of workflow built into Vectig, my own product, with numbers from my own test runs. That's why the price is $7,500 and why the guarantee is a full refund.
 
 #### Why pay you instead of using your own engineers?
 
@@ -642,7 +640,7 @@ A fractional FDE works part-time on a retainer, often two fixed days a week for 
 
 #### What does it cost to hire a forward deployed engineer for a project?
 
-In October 2026, published prices for outside FDE work run from $23 an hour for Asia-based contractors to $50 to $99 an hour from European firms. One provider's rate card puts a mid-level US contractor at $119 to $185 an hour. Embedded engineers from consultancies cost about $15,000 to $40,000 a month, and a senior builder through A.Team about $25,000 a month. The FDE Sprint is a fixed $5,000 for one workflow. The [FDE cost calculator](https://ghanemzadeh.com/fde-cost-calculator/) compares a hire, a contractor, and a Sprint.
+In October 2026, published prices for outside FDE work run from $23 an hour for Asia-based contractors to $50 to $99 an hour from European firms. One provider's rate card puts a mid-level US contractor at $119 to $185 an hour. Embedded engineers from consultancies cost about $15,000 to $40,000 a month, and a senior builder through A.Team about $25,000 a month. The FDE Sprint is a fixed $7,500 for one workflow. The [FDE cost calculator](https://ghanemzadeh.com/fde-cost-calculator/) compares a hire, a contractor, and a Sprint.
 
 #### What kinds of AI workflows do you build?
 
@@ -2726,7 +2724,7 @@ For a full-time hire, job postings in October 2026 put the median US posted base
 
 ### Where my offer fits
 
-The [FDE Sprint](https://ghanemzadeh.com/ai-feature-sprint/) is the fixed-scope model, sized for founder-led B2B SaaS teams of 5 to 50: one AI workflow shipped into your product in ten business days, at a fixed $5,000, with a full refund if there's no working prototype on your data by Day 5 or the workflow isn't running to its acceptance criteria by Day 10. It is independent of any model vendor. It is not a monthly embed, and it doesn't staff your customer deployments.
+The [FDE Sprint](https://ghanemzadeh.com/ai-feature-sprint/) is the fixed-scope model, sized for founder-led B2B SaaS teams of 5 to 50: one AI workflow shipped into your product in ten business days, at a fixed $7,500, with a full refund if there's no working prototype on your data by Day 5 or the workflow isn't running to its acceptance criteria by Day 10. It is independent of any model vendor. It is not a monthly embed, and it doesn't staff your customer deployments.
 
 ### How this list was made
 
@@ -2776,7 +2774,7 @@ URL: https://ghanemzadeh.com/fde-cost-calculator/
 
 ## What does a forward deployed engineer cost?
 
-A full-time forward deployed engineer costs about $190,000 a year in base salary in 2026, the median in job postings, where the typical range is $160,000 to $220,000. Median US total compensation is about $206,000, and in [the 260 live roles I analyzed in October 2026](https://ghanemzadeh.com/forward-deployed-engineer-job-market/), the median posted US base range was $180,000 to $250,000. With benefits and payroll taxes at 1.25 times salary, a full year costs the company about $237,500. Consultancies that embed an FDE charge about $15,000 to $40,000 a month, and a fixed-price FDE Sprint is $5,000 for one workflow.
+A full-time forward deployed engineer costs about $190,000 a year in base salary in 2026, the median in job postings, where the typical range is $160,000 to $220,000. Median US total compensation is about $206,000, and in [the 260 live roles I analyzed in October 2026](https://ghanemzadeh.com/forward-deployed-engineer-job-market/), the median posted US base range was $180,000 to $250,000. With benefits and payroll taxes at 1.25 times salary, a full year costs the company about $237,500. Consultancies that embed an FDE charge about $15,000 to $40,000 a month, and a fixed-price FDE Sprint is $7,500 for one workflow.
 
 By [Nasser Ghanemzadeh](https://ghanemzadeh.com/). Last updated November 2026.
 
@@ -2790,7 +2788,7 @@ In year one, a hire costs less than the salary suggests and a contractor more th
 | --- | --- | --- | --- |
 | Hire full-time | $158,333 | $79,167 | 4 months to hire, then the build |
 | Contractor | $48,000 | $24,000 | About 4 weeks of build, once you have found one |
-| FDE Sprint | Two Sprints at $5,000 each | $5,000 | Ten business days |
+| FDE Sprint | Two Sprints at $7,500 each | $7,500 | Ten business days |
 
 The figures above are the worked example below, with the default inputs. Change any input to recalculate.
 
@@ -2802,7 +2800,7 @@ The figures above are the worked example below, with the default inputs. Change 
 
 - **FDE Sprint.** The fixed Sprint price, once per workflow. Each Sprint ships one workflow into your repo in ten business days, with a full refund if there is no working prototype by Day 5 or the workflow isn't running to its acceptance criteria by Day 10.
 
-**Worked example, with the defaults.** Two workflows. A hire at $190,000 base and a 1.25 overhead multiple, who joins after four months, costs $190,000 × 1.25 × 8/12 = $158,333 in the first year, or $79,167 per workflow. A contractor at $150 an hour for 160 hours a workflow costs $24,000 per workflow, $48,000 for both. Two Sprints cost twice the Sprint price, $5,000 each.
+**Worked example, with the defaults.** Two workflows. A hire at $190,000 base and a 1.25 overhead multiple, who joins after four months, costs $190,000 × 1.25 × 8/12 = $158,333 in the first year, or $79,167 per workflow. A contractor at $150 an hour for 160 hours a workflow costs $24,000 per workflow, $48,000 for both. Two Sprints cost twice the Sprint price, $7,500 each.
 
 Median US total compensation for the role is about $206,000 ([Levels.fyi](https://www.levels.fyi/t/software-engineer/title/forward-deployed-engineer)), so if you plan to match the market on total pay rather than base, raise the salary field. Posted ranges run higher still: in [260 live roles in October 2026](https://ghanemzadeh.com/forward-deployed-engineer-job-market/), the median US posted base range was $180,000 to $250,208.
 
@@ -3166,7 +3164,7 @@ The deciding question is how much AI work you have, and who will own it once it 
 | --- | --- | --- | --- | --- |
 | Hire full-time | Highest: a senior engineering salary plus equity, every month | Months: the search, then onboarding | Your team, through the new hire | AI is a year-round roadmap, not one feature |
 | Contract a freelancer or agency | Variable: hourly or monthly, open-ended unless scoped | Weeks to months, depending on scope | Often the contractor, unless the contract includes a handoff | The scope is tight and someone in-house will own the result |
-| Fixed-scope Sprint | Fixed: $5,000, half on signing | Ten business days | Your team, with a rubric, playbook, and walkthrough | You want one workflow live fast and your team to run it |
+| Fixed-scope Sprint | Fixed: $7,500, half on signing | Ten business days | Your team, with a rubric, playbook, and walkthrough | You want one workflow live fast and your team to run it |
 
 ### What to have ready before any of them
 

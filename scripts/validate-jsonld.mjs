@@ -18,6 +18,7 @@
 
 import { readdirSync, readFileSync, statSync, existsSync } from 'node:fs';
 import { join, relative } from 'node:path';
+import { stripSprintHidden } from './strip-sprint-hidden.mjs';
 
 const ROOT = process.cwd();
 const IGNORE_DIRS = new Set(['.git', 'node_modules', 'assets', 'scripts', 'workers', '.github', 'mockuphone', '.claude']);
@@ -70,7 +71,7 @@ for (const f of allFiles) {
 for (const file of pages) {
   const rel = relative(ROOT, file);
   const html = readFileSync(file, 'utf8');
-  const visibleText = stripTags(html);
+  const visibleText = stripTags(stripSprintHidden(html));
 
   // 1. JSON-LD parses; collect nodes.
   const nodes = [];

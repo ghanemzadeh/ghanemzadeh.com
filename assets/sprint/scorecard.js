@@ -156,6 +156,14 @@
     return '';
   }
 
+  // Optional "scorecardNote" on the next open kickoff in config.json, shown
+  // to Green results only, directly above the call button.
+  function slotNote() {
+    if (!config) return '';
+    var k = window.Sprint.nextKickoffs(config, 1)[0];
+    return k && k.scorecardNote ? k.scorecardNote : '';
+  }
+
   function bookHref(s, j) {
     var base = (config && config.urls.call) || '/call/';
     return base +
@@ -172,6 +180,8 @@
       out.push({ lead: 'Sprint-ready.' });
       var line = kickoffLine();
       out.push({ text: (line ? line + ' ' : '') + 'Book a 15-minute Scoping Call and bring this result.' });
+      var note = slotNote();
+      if (note) out.push({ text: note });
     } else if (j.verdict === 'yellow') {
       out.push({ lead: 'Fixable.' });
       var items = [];

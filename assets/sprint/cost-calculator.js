@@ -4,12 +4,15 @@
    cost, cost per workflow, and time to the first shipped workflow. Runs
    entirely in the browser. The Sprint price comes from
    /assets/sprint/config.json through sprint.js, so it is never hard-coded
-   here; until the config loads, the static worked example in the HTML stands. */
+   here; until the config loads, the price rendered into the static HTML
+   (scripts/render-sprint.mjs) stands. */
 (function () {
   var form = document.getElementById('fde-calc');
   if (!form) return;
 
-  var FALLBACK_PRICE = 5000;
+  // Read before render() replaces the result cells that also carry the hook.
+  var priceHook = document.querySelector('[data-sprint="price"]');
+  var FALLBACK_PRICE = priceHook ? parseInt(priceHook.textContent.replace(/[^0-9]/g, ''), 10) || null : null;
   var price = null;
   var tracked = false;
 
@@ -97,7 +100,7 @@
 
   if (window.Sprint) {
     window.Sprint.load().then(function (cfg) {
-      price = cfg && cfg.price ? cfg.price.current : null;
+      price = cfg && cfg.price ? window.Sprint.currentPrice(cfg) : null;
       render();
     }, render);
   } else {

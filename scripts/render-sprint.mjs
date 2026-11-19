@@ -12,6 +12,7 @@
 import { readFileSync, writeFileSync, readdirSync } from "node:fs";
 import { createRequire } from "node:module";
 import { join, relative } from "node:path";
+import { stripSprintHidden } from "./strip-sprint-hidden.mjs";
 
 const require = createRequire(import.meta.url);
 const Sprint = require("../assets/sprint/sprint.js");
@@ -105,8 +106,17 @@ const indentJson = (value, pad) => JSON.stringify(value, null, 2).split("\n").jo
 // JSON-LD Offer nodes, keyed by the fragment of their @id. Offers stay flat
 // (no nested objects) so each one can be rewritten in place.
 const p = config.price;
+// The price bookable today, valid through the last configured kickoff sold
+// at that price, so the Offer moves forward as kickoffs are added.
+const sprintPrice = Sprint.currentPrice(config, today);
+const sprintPriceValidUntil =
+  config.kickoffs
+    .filter((k) => Sprint.priceFor(config, k.date) === sprintPrice)
+    .map((k) => k.date)
+    .sort()
+    .pop() || p.currentThroughKickoff;
 const OFFER_FIELDS = {
-  "offer-sprint": { price: String(p.current), priceCurrency: p.currency, priceValidUntil: p.currentThroughKickoff },
+  "offer-sprint": { price: String(sprintPrice), priceCurrency: p.currency, priceValidUntil: sprintPriceValidUntil },
   "offer-discovery-day": { price: String(p.discoveryDay), priceCurrency: p.currency },
 };
 
@@ -155,7 +165,7 @@ function renderStructured(html) {
     const open = html.indexOf("[", html.indexOf('"mainEntity":', faqAt));
     const close = closingBracket(html, open);
     const pad = html.slice(html.lastIndexOf("\n", open) + 1).match(/^\s*/)[0];
-    const text = (h) => unesc(h.replace(/<[^>]+>/g, "")).replace(/\s+/g, " ").trim();
+    const text = (h) => unesc(stripSprintHidden(h).replace(/<[^>]+>/g, "")).replace(/\s+/g, " ").trim();
     const entities = visible.map(([, q, a]) => ({
       "@type": "Question",
       name: text(q),
